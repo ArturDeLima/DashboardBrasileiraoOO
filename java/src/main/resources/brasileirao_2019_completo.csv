@@ -1,0 +1,381 @@
+﻿rodada;data;hora;time_casa;time_fora;gols_casa;gols_fora;tecnico_casa;tecnico_fora;estadio;stat_chutes_casa;stat_chutes_fora;stat_chutes_a_gol_casa;stat_chutes_a_gol_fora;stat_posse_de_bola_casa;stat_posse_de_bola_fora;stat_passes_casa;stat_passes_fora;stat_precisão_de_passe_casa;stat_precisão_de_passe_fora;stat_faltas_casa;stat_faltas_fora;stat_cartões_amarelos_casa;stat_cartões_amarelos_fora;stat_cartões_vermelhos_casa;stat_cartões_vermelhos_fora;stat_impedimentos_casa;stat_impedimentos_fora;stat_escanteios_casa;stat_escanteios_fora
+1;27/04/2019;16:02;São Paulo;Botafogo;2;0;A. Stival;E. de Souza Barroca;Morumbi;7;11;4;2;28%;72%;269;702;75%;89%;23;7;0;4;0;0;2;1;3;2
+1;27/04/2019;19:00;Atlético-MG;Avaí;2;1;R. Marques Santana;E. Machado Souto;Estádio Raimundo Sampaio;11;6;3;1;60%;40%;549;362;86%;79%;12;18;0;1;0;0;0;1;4;4
+1;27/04/2019;19:01;Chapecoense;Internacional;2;0;N. da Silveira Júnior;O. Hellmann;Arena Condá;12;20;7;7;43%;57%;392;511;77%;81%;15;11;1;1;0;0;0;2;3;5
+1;27/04/2019;21:00;Flamengo;Cruzeiro;3;1;A. da Silva Braga;L. Venker de Menezes;Maracanã;17;2;5;1;58%;42%;526;396;85%;79%;13;17;4;4;0;1;0;1;6;2
+1;28/04/2019;11:03;Grêmio;Santos;1;2;Renato Gaúcho;J. Sampaoli Moya;Arena do Grêmio;26;8;11;5;65%;35%;607;335;82%;71%;12;18;3;4;0;1;2;1;12;2
+1;28/04/2019;16:01;Bahia;Corinthians;3;2;R. Machado Marques;F. Carille;Itaipava Arena Fonte Nova;15;9;6;3;43%;57%;351;474;75%;78%;17;5;1;4;0;0;1;0;4;4
+1;28/04/2019;16:03;Athletico-PR;Vasco da Gama;4;1;T. Retzalff Nunes;M. Gomes Valadares;Estádio Joaquim Américo Guimarães;20;14;11;5;57%;43%;510;389;87%;85%;15;19;1;1;0;0;2;1;4;0
+1;28/04/2019;16:00;Ceará SC;CSA;4;0;E. Alves Moreira;M. Ribeiro Cabo;Arena Castelão;16;6;8;1;55%;45%;497;416;87%;81%;15;4;0;0;0;1;2;1;3;6
+1;28/04/2019;19:00;Palmeiras;Fortaleza;4;0;L. Scolari;R. Ceni;Allianz Parque;18;8;9;5;53%;47%;379;349;79%;79%;12;16;1;2;0;0;3;1;6;1
+1;28/04/2019;19:27;Fluminense;Goiás;0;1;F. Diniz Silva;C. dos Santos Oliveira;Maracanã;15;8;3;2;72%;28%;598;235;90%;70%;14;9;4;1;0;0;1;0;5;5
+2;01/05/2019;16:01;Internacional;Flamengo;2;1;O. Hellmann;A. da Silva Braga;Estádio José Pinheiro Borda;17;11;7;5;45%;55%;431;513;81%;81%;8;9;3;2;0;0;1;3;4;5
+2;01/05/2019;16:00;CSA;Palmeiras;1;1;M. Ribeiro Cabo;L. Scolari;Estádio Rei Pelé;;;;;;;;;;;;;;;;;;;;
+2;01/05/2019;16:01;Corinthians;Chapecoense;1;0;F. Carille;N. da Silveira Júnior;Neo Química Arena;12;10;4;1;52%;48%;424;403;81%;78%;14;10;2;1;0;0;1;1;7;2
+2;01/05/2019;19:15;Cruzeiro;Ceará SC;1;0;L. Venker de Menezes;E. Alves Moreira;Mineirão;11;14;4;4;59%;41%;614;426;88%;81%;10;12;1;0;0;0;1;2;2;3
+2;01/05/2019;19:17;Avaí;Grêmio;1;1;E. Machado Souto;Renato Gaúcho;Ressacada;13;4;3;2;43%;57%;375;504;73%;79%;15;17;4;3;0;0;0;0;11;4
+2;01/05/2019;21:31;Goiás;São Paulo;1;2;C. dos Santos Oliveira;A. Stival;Estádio do Governo do Estado de Goiás (Serra Dourada);13;14;2;5;47%;53%;380;433;82%;86%;15;12;3;2;0;1;0;1;5;10
+2;01/05/2019;21:31;Vasco da Gama;Atlético-MG;1;2;M. Gomes Valadares;R. Marques Santana;Estádio Vasco da Gama;21;14;4;4;51%;49%;461;466;83%;82%;12;9;0;0;0;0;0;1;8;4
+2;01/05/2019;21:31;Fortaleza;Athletico-PR;2;1;R. Ceni;T. Retzalff Nunes;Arena Castelão;18;10;5;4;36%;64%;291;507;80%;89%;12;19;3;3;0;0;1;0;2;7
+2;02/05/2019;19:15;Santos;Fluminense;2;1;J. Sampaoli Moya;F. Diniz Silva;Estádio Urbano Caldeira;22;10;10;4;42%;58%;377;517;81%;85%;25;14;3;2;0;0;1;3;6;1
+2;02/05/2019;20:01;Botafogo;Bahia;3;2;E. de Souza Barroca;R. Machado Marques;Estádio Nilton Santos;9;19;5;4;53%;47%;482;421;80%;79%;11;15;3;0;0;0;0;4;3;6
+3;04/05/2019;19:01;Vasco da Gama;Corinthians;1;1;M. Gomes Valadares;F. Carille;Arena da Amazônia;13;11;4;2;46%;54%;342;411;80%;84%;21;8;2;1;0;0;0;0;8;2
+3;04/05/2019;19:00;Palmeiras;Internacional;1;0;L. Scolari;O. Hellmann;Allianz Parque;13;10;5;2;34%;66%;255;477;72%;82%;15;18;2;5;0;0;0;0;4;5
+3;04/05/2019;21:01;Ceará SC;Atlético-MG;1;2;E. Alves Moreira;R. Marques Santana;Arena Castelão;9;15;3;6;46%;54%;450;531;84%;87%;12;7;0;1;0;0;1;1;6;4
+3;05/05/2019;12:03;Chapecoense;Athletico-PR;1;1;N. da Silveira Júnior;T. Retzalff Nunes;Arena Condá;16;17;5;6;51%;49%;384;399;85%;85%;16;17;1;3;0;0;1;2;8;3
+3;05/05/2019;16:01;São Paulo;Flamengo;1;1;A. Stival;A. da Silva Braga;Morumbi;22;9;11;1;65%;35%;456;259;87%;71%;16;15;1;7;0;0;0;2;6;2
+3;05/05/2019;16:00;Botafogo;Fortaleza;1;0;E. de Souza Barroca;R. Ceni;Estádio Nilton Santos;9;14;4;3;57%;43%;539;406;89%;87%;10;16;0;2;0;0;0;1;7;4
+3;05/05/2019;16:00;CSA;Santos;0;0;M. Ribeiro Cabo;J. Sampaoli Moya;Estádio Rei Pelé;10;17;3;7;28%;72%;250;632;66%;85%;11;13;1;4;0;0;1;1;2;12
+3;05/05/2019;16:00;Cruzeiro;Goiás;2;1;L. Venker de Menezes;C. dos Santos Oliveira;Mineirão;20;13;6;4;61%;39%;519;333;87%;80%;14;10;1;1;0;1;1;1;5;4
+3;05/05/2019;19:00;Grêmio;Fluminense;4;5;Renato Gaúcho;F. Diniz Silva;Arena do Grêmio;13;17;7;12;52%;48%;544;490;86%;83%;8;10;2;1;0;0;0;0;8;8
+3;05/05/2019;19:00;Bahia;Avaí;1;0;R. Machado Marques;E. Machado Souto;Itaipava Arena Fonte Nova;20;9;11;1;53%;47%;394;367;74%;76%;27;15;1;2;0;0;0;1;9;1
+4;11/05/2019;16:01;Fluminense;Botafogo;0;1;F. Diniz Silva;E. de Souza Barroca;Maracanã;23;9;6;3;64%;36%;504;305;91%;81%;16;12;3;5;0;0;4;4;8;3
+4;11/05/2019;19:01;Corinthians;Grêmio;0;0;F. Carille;Renato Gaúcho;Neo Química Arena;11;8;4;2;48%;52%;474;513;81%;83%;13;19;2;4;0;0;0;1;3;2
+4;11/05/2019;21:01;Goiás;Ceará SC;2;1;C. dos Santos Oliveira;E. Alves Moreira;Estádio do Governo do Estado de Goiás (Serra Dourada);12;13;6;3;37%;63%;295;487;79%;82%;20;12;2;2;0;0;2;2;2;7
+4;12/05/2019;11:00;Flamengo;Chapecoense;2;1;A. da Silva Braga;N. da Silveira Júnior;Maracanã;19;20;7;7;57%;43%;464;362;85%;89%;18;9;2;3;0;0;1;1;7;4
+4;12/05/2019;16:02;Santos;Vasco da Gama;3;0;J. Sampaoli Moya;M. Gomes Valadares;Estádio Municipal Paulo Machado de Carvalho;23;15;8;5;56%;44%;435;346;79%;75%;18;11;2;3;0;1;1;5;8;5
+4;12/05/2019;10:53;Atlético-MG;Palmeiras;0;2;R. Marques Santana;L. Scolari;Mineirão;;;;;;;;;;;;;;;;;;;;
+4;12/05/2019;16:01;Internacional;Cruzeiro;3;1;O. Hellmann;L. Venker de Menezes;Estádio José Pinheiro Borda;16;14;5;6;54%;46%;505;442;84%;82%;10;14;0;0;0;1;0;0;4;3
+4;12/05/2019;19:01;Avaí;CSA;0;0;E. Machado Souto;M. Ribeiro Cabo;Ressacada;21;4;4;1;61%;39%;544;376;86%;73%;14;18;1;2;0;0;4;0;6;0
+4;12/05/2019;19:00;Athletico-PR;Bahia;1;0;T. Retzalff Nunes;R. Machado Marques;Estádio Joaquim Américo Guimarães;18;13;9;4;63%;37%;539;309;87%;79%;13;14;2;3;0;0;3;2;8;6
+4;12/05/2019;19:00;Fortaleza;São Paulo;0;1;R. Ceni;A. Stival;Arena Castelão;12;8;3;2;53%;47%;478;430;87%;87%;12;14;2;2;0;0;2;0;6;4
+5;18/05/2019;18:00;Fluminense;Cruzeiro;4;1;F. Diniz Silva;L. Venker de Menezes;Maracanã;24;4;11;3;54%;46%;501;442;87%;80%;20;12;3;2;0;0;0;1;10;2
+5;18/05/2019;19:01;Palmeiras;Santos;4;0;L. Scolari;J. Sampaoli Moya;Estádio Municipal Paulo Machado de Carvalho;17;13;8;4;33%;67%;245;479;68%;83%;23;19;2;4;0;0;0;1;5;5
+5;18/05/2019;19:00;Atlético-MG;Flamengo;2;1;R. Marques Santana;A. da Silva Braga;Estádio Raimundo Sampaio;11;24;5;10;33%;67%;255;488;73%;84%;11;8;3;1;1;0;0;0;2;18
+5;19/05/2019;11:02;São Paulo;Bahia;0;0;A. Stival;R. Machado Marques;Morumbi;11;17;3;2;58%;42%;512;371;86%;77%;9;19;1;3;1;0;3;1;4;6
+5;19/05/2019;16:01;Internacional;CSA;2;0;O. Hellmann;M. Ribeiro Cabo;Estádio José Pinheiro Borda;14;12;7;5;63%;37%;601;342;86%;77%;11;9;2;3;0;0;4;2;4;3
+5;19/05/2019;16:00;Athletico-PR;Corinthians;0;2;T. Retzalff Nunes;F. Carille;Estádio Joaquim Américo Guimarães;23;4;5;2;63%;37%;583;362;88%;81%;16;12;1;4;0;0;3;1;11;3
+5;19/05/2019;16:01;Goiás;Botafogo;1;0;C. dos Santos Oliveira;E. de Souza Barroca;Estádio do Governo do Estado de Goiás (Serra Dourada);19;6;6;2;31%;69%;238;571;78%;87%;18;14;1;3;0;0;7;0;9;3
+5;19/05/2019;16:00;Chapecoense;Fortaleza;1;3;N. da Silveira Júnior;R. Ceni;Arena Condá;19;12;4;8;53%;47%;419;395;83%;77%;16;12;1;1;0;0;0;2;9;4
+5;19/05/2019;18:59;Vasco da Gama;Avaí;1;1;V. Luxemburgo da Silva;E. Machado Souto;Estádio Vasco da Gama;11;18;2;6;51%;49%;368;348;75%;75%;16;14;1;2;0;0;3;3;5;10
+5;19/05/2019;19:00;Ceará SC;Grêmio;2;1;E. Alves Moreira;Renato Gaúcho;Arena Castelão;6;17;1;4;36%;64%;281;493;69%;85%;14;16;3;6;0;0;2;1;2;7
+6;25/05/2019;16:00;Botafogo;Palmeiras;0;1;E. de Souza Barroca;L. Scolari;Estádio Nacional de Brasília;8;17;2;2;63%;37%;444;254;84%;70%;13;19;10;0;0;0;0;6;0;8
+6;25/05/2019;19:00;Grêmio;Atlético-MG;1;0;Renato Gaúcho;R. Marques Santana;Arena do Grêmio;24;9;8;5;57%;43%;570;437;88%;81%;10;14;1;4;0;0;0;0;13;4
+6;26/05/2019;16:02;Flamengo;Athletico-PR;3;2;A. da Silva Braga;T. Retzalff Nunes;Maracanã;11;12;4;5;49%;51%;392;412;76%;79%;16;21;4;3;0;0;2;0;9;2
+6;26/05/2019;16:01;Santos;Internacional;0;0;J. Sampaoli Moya;O. Hellmann;Estádio Urbano Caldeira;11;15;4;1;63%;37%;517;316;82%;74%;19;19;5;5;0;0;0;3;7;4
+6;26/05/2019;19:00;Fortaleza;Vasco da Gama;1;1;R. Ceni;V. Luxemburgo da Silva;Arena Castelão;12;14;3;2;62%;38%;539;337;88%;83%;9;12;1;2;0;0;0;0;2;5
+6;26/05/2019;19:00;Cruzeiro;Chapecoense;1;2;L. Venker de Menezes;N. da Silveira Júnior;Estádio Raimundo Sampaio;18;10;3;5;65%;35%;559;313;84%;71%;13;11;1;3;0;0;1;0;8;2
+6;26/05/2019;19:01;Bahia;Fluminense;3;2;R. Machado Marques;F. Diniz Silva;Itaipava Arena Fonte Nova;10;11;5;4;33%;67%;303;603;75%;90%;9;10;2;2;0;1;0;2;3;3
+6;26/05/2019;19:01;Corinthians;São Paulo;1;0;F. Carille;A. Stival;Neo Química Arena;13;9;5;1;40%;60%;296;438;75%;78%;16;14;3;4;0;0;1;3;3;4
+6;27/05/2019;20:01;CSA;Goiás;1;0;M. Ribeiro Cabo;C. dos Santos Oliveira;Estádio Rei Pelé;16;15;4;5;44%;56%;334;412;76%;79%;19;10;3;1;0;0;1;0;3;9
+6;27/05/2019;20:00;Avaí;Ceará SC;1;2;E. Machado Souto;E. Alves Moreira;Ressacada;13;9;3;4;52%;48%;417;399;70%;72%;21;15;4;3;0;0;2;1;3;0
+7;01/06/2019;16:01;Flamengo;Fortaleza;2;0;M. Salles;R. Ceni;Estádio Nilton Santos;21;10;8;4;65%;35%;652;343;92%;86%;16;6;1;0;0;0;2;1;8;2
+7;01/06/2019;19:01;Bahia;Grêmio;1;0;R. Machado Marques;Renato Gaúcho;Estádio de Pituaçu;14;7;4;2;42%;58%;394;537;83%;87%;8;10;1;2;0;0;0;5;10;4
+7;02/06/2019;11:01;Botafogo;Vasco da Gama;1;0;E. de Souza Barroca;V. Luxemburgo da Silva;Estádio Nilton Santos;8;18;1;2;56%;44%;469;362;84%;81%;15;16;2;3;0;0;1;1;4;9
+7;02/06/2019;16:03;Ceará SC;Santos;0;1;E. Alves Moreira;J. Sampaoli Moya;Arena Castelão;13;12;3;3;39%;61%;301;470;72%;82%;14;22;2;1;0;0;0;2;2;0
+7;02/06/2019;16:40;Athletico-PR;Fluminense;3;0;T. Retzalff Nunes;F. Diniz Silva;Estádio Joaquim Américo Guimarães;16;9;6;2;56%;44%;457;372;87%;79%;20;17;1;3;0;1;1;0;6;4
+7;02/06/2019;16:00;São Paulo;Cruzeiro;1;1;A. Stival;L. Venker de Menezes;Estádio Municipal Paulo Machado de Carvalho;13;14;4;4;40%;60%;369;567;76%;84%;15;12;2;3;1;0;0;4;5;9
+7;02/06/2019;19:00;Atlético-MG;CSA;4;0;R. Marques Santana;M. Ribeiro Cabo;Estádio Raimundo Sampaio;27;12;7;0;72%;28%;771;304;90%;79%;2;11;0;3;0;0;2;0;11;2
+7;02/06/2019;19:00;Chapecoense;Palmeiras;1;2;N. da Silveira Júnior;L. Scolari;Arena Condá;18;14;4;6;55%;45%;410;356;81%;77%;14;21;2;5;0;0;1;0;3;5
+7;02/06/2019;19:00;Internacional;Avaí;2;0;O. Hellmann;E. Machado Souto;Estádio José Pinheiro Borda;11;14;7;1;64%;36%;682;382;87%;78%;11;12;0;0;0;0;3;1;5;7
+7;07/08/2019;19:15;Corinthians;Goiás;2;0;F. Carille;R. L. Martins Gomes;Neo Química Arena;19;11;6;3;64%;36%;575;318;89%;79%;13;11;1;2;0;1;0;4;6;5
+8;07/06/2019;20:30;Vasco da Gama;Internacional;2;1;V. Luxemburgo da Silva;O. Hellmann;Estádio Vasco da Gama;10;19;3;4;31%;69%;288;635;73%;88%;13;16;0;2;0;0;0;5;0;10
+8;08/06/2019;16:30;Palmeiras;Athletico-PR;1;0;L. Scolari;T. Retzalff Nunes;Allianz Parque;21;7;3;3;43%;57%;304;406;77%;82%;16;29;2;4;0;0;1;1;7;7
+8;08/06/2019;19:00;Grêmio;Fortaleza;1;0;Renato Gaúcho;R. Ceni;Estádio Francisco Stédile (Centenário);12;5;4;2;66%;34%;630;343;89%;78%;7;7;1;4;0;1;3;0;10;1
+8;08/06/2019;19:00;Cruzeiro;Corinthians;0;0;L. Venker de Menezes;F. Carille;Mineirão;25;5;7;1;45%;55%;448;538;83%;86%;12;13;1;1;0;0;2;1;11;5
+8;08/06/2019;19:31;Ceará SC;Bahia;0;0;E. Alves Moreira;R. Machado Marques;Arena Castelão;22;9;5;1;63%;37%;477;296;81%;65%;12;10;2;2;0;0;1;3;9;1
+8;08/06/2019;21:00;Avaí;São Paulo;0;0;E. Machado Souto;A. Stival;Ressacada;11;12;1;3;37%;63%;302;513;65%;80%;17;17;5;2;0;0;1;1;4;10
+8;09/06/2019;19:01;CSA;Botafogo;1;2;M. Ribeiro Cabo;E. de Souza Barroca;Estádio Rei Pelé;21;13;5;7;39%;61%;328;520;84%;89%;20;10;2;1;0;0;3;0;8;2
+8;09/06/2019;19:00;Fluminense;Flamengo;0;0;F. Diniz Silva;M. Salles;Maracanã;18;11;6;2;64%;36%;607;339;88%;79%;14;17;2;3;0;0;1;0;5;2
+8;09/06/2019;19:00;Santos;Atlético-MG;3;1;J. Sampaoli Moya;R. Marques Santana;Estádio Urbano Caldeira;24;12;5;4;59%;41%;532;383;87%;75%;12;14;1;2;0;0;0;1;4;5
+8;10/06/2019;20:01;Goiás;Chapecoense;3;1;C. dos Santos Oliveira;N. da Silveira Júnior;Estádio do Governo do Estado de Goiás (Serra Dourada);17;12;7;2;51%;49%;353;350;80%;81%;14;17;2;0;0;1;0;0;6;6
+9;12/06/2019;19:17;Botafogo;Grêmio;0;1;E. de Souza Barroca;Renato Gaúcho;Estádio Nilton Santos;7;14;3;5;47%;53%;463;515;87%;87%;9;11;1;2;0;0;1;4;4;7
+9;12/06/2019;21:01;Fortaleza;Cruzeiro;2;1;R. Ceni;L. Venker de Menezes;Arena Castelão;11;12;4;4;46%;54%;354;426;81%;86%;10;15;0;6;1;0;1;2;6;5
+9;12/06/2019;21:30;Internacional;Bahia;3;1;O. Hellmann;R. Machado Marques;Estádio José Pinheiro Borda;14;19;7;2;45%;55%;506;593;83%;86%;11;7;1;1;0;0;0;0;3;3
+9;12/06/2019;21:30;CSA;Flamengo;0;2;M. Ribeiro Cabo;M. Salles;Estádio Nacional de Brasília;10;24;2;11;34%;66%;276;515;69%;85%;13;10;3;1;0;0;1;2;3;12
+9;12/06/2019;21:31;Santos;Corinthians;1;0;J. Sampaoli Moya;F. Carille;Estádio Urbano Caldeira;19;2;4;0;53%;47%;461;413;80%;76%;16;13;4;4;0;0;2;1;2;3
+9;13/06/2019;19:16;Vasco da Gama;Ceará SC;1;0;V. Luxemburgo da Silva;E. Alves Moreira;Estádio Vasco da Gama;18;8;11;1;53%;47%;484;426;82%;80%;14;15;0;2;0;0;2;3;5;1
+9;13/06/2019;20:00;Chapecoense;Fluminense;1;1;N. da Silveira Júnior;F. Diniz Silva;Arena Condá;15;10;4;3;35%;65%;296;549;78%;89%;12;21;2;5;0;1;1;1;5;3
+9;13/06/2019;20:00;Palmeiras;Avaí;2;0;L. Scolari;E. Machado Souto;Allianz Parque;14;8;6;2;53%;47%;421;379;78%;81%;13;18;1;1;0;0;1;1;9;1
+9;13/06/2019;20:00;Atlético-MG;São Paulo;1;1;R. Marques Santana;A. Stival;Estádio Raimundo Sampaio;20;9;8;3;69%;31%;721;318;87%;75%;13;17;2;4;0;0;0;0;12;5
+9;13/06/2019;14:08;Goiás;Athletico-PR;2;1;C. dos Santos Oliveira;T. Retzalff Nunes;Estádio do Governo do Estado de Goiás (Serra Dourada);;;;;;;;;;;;;;;;;;;;
+10;13/07/2019;17:00;Grêmio;Vasco da Gama;2;1;Renato Gaúcho;V. Luxemburgo da Silva;Arena do Grêmio;11;10;6;5;71%;29%;622;255;88%;71%;18;12;2;4;0;0;2;1;4;6
+10;13/07/2019;16:59;Fortaleza;Avaí;2;0;R. Ceni;A. Valentim do Carmo Neto;Arena Castelão;14;15;6;5;40%;60%;361;513;83%;86%;15;12;2;2;0;0;0;1;5;13
+10;13/07/2019;19:01;Bahia;Santos;0;1;R. Machado Marques;J. Sampaoli Moya;Estádio de Pituaçu;12;17;2;6;38%;62%;330;527;74%;84%;13;11;2;3;0;0;0;1;5;7
+10;13/07/2019;19:01;São Paulo;Palmeiras;1;1;A. Stival;L. Scolari;Morumbi;14;15;10;5;45%;55%;333;406;77%;80%;19;18;3;3;0;0;0;4;8;5
+10;14/07/2019;11:00;Flamengo;Goiás;6;1;J. Pinheiro de Jesus;C. dos Santos Oliveira;Maracanã;30;7;16;2;74%;26%;561;202;89%;70%;8;9;1;2;0;0;0;3;11;0
+10;14/07/2019;16:03;Corinthians;CSA;1;0;F. Carille;A. Fucks;Neo Química Arena;27;4;8;1;67%;33%;549;296;88%;75%;2;18;2;6;0;0;1;0;16;1
+10;14/07/2019;16:00;Athletico-PR;Internacional;1;0;T. Retzalff Nunes;O. Hellmann;Estádio Joaquim Américo Guimarães;17;12;6;4;61%;39%;460;303;85%;78%;15;16;3;3;0;0;2;3;6;2
+10;14/07/2019;16:00;Cruzeiro;Botafogo;0;0;L. Venker de Menezes;E. de Souza Barroca;Mineirão;7;8;1;1;42%;58%;454;640;87%;88%;11;8;0;0;0;0;3;0;5;3
+10;14/07/2019;19:00;Chapecoense;Atlético-MG;1;2;N. da Silveira Júnior;R. Marques Santana;Arena Condá;15;21;3;7;38%;62%;264;439;70%;80%;20;16;3;5;0;0;2;2;5;10
+10;15/07/2019;20:01;Fluminense;Ceará SC;1;1;F. Diniz Silva;E. Alves Moreira;Maracanã;23;9;7;5;71%;29%;628;265;87%;72%;11;15;2;2;0;0;1;2;14;5
+11;20/07/2019;11:02;Vasco da Gama;Fluminense;2;1;V. Luxemburgo da Silva;F. Diniz Silva;Estádio Vasco da Gama;16;5;5;2;44%;56%;391;499;83%;85%;25;22;4;2;0;2;4;1;3;2
+11;20/07/2019;17:00;Bahia;Cruzeiro;0;0;R. Machado Marques;L. Venker de Menezes;Itaipava Arena Fonte Nova;12;12;1;5;58%;42%;517;384;87%;79%;17;8;1;1;1;0;1;2;5;5
+11;20/07/2019;19:01;Ceará SC;Palmeiras;2;0;E. Alves Moreira;L. Scolari;Arena Castelão;9;21;4;6;42%;58%;286;374;77%;83%;26;13;3;2;0;0;1;1;3;9
+11;20/07/2019;16:10;CSA;Athletico-PR;0;4;A. Fucks;T. Retzalff Nunes;Estádio Rei Pelé;;;;;;;;;;;;;;;;;;;;
+11;20/07/2019;19:00;Internacional;Grêmio;1;1;O. Hellmann;Renato Gaúcho;Estádio José Pinheiro Borda;11;10;4;3;42%;58%;415;570;79%;82%;13;14;3;2;0;0;0;0;1;2
+11;21/07/2019;11:01;Botafogo;Santos;0;1;E. de Souza Barroca;J. Sampaoli Moya;Estádio Nilton Santos;9;13;1;4;51%;49%;441;445;85%;84%;12;14;1;2;1;1;1;1;9;2
+11;21/07/2019;16:02;Atlético-MG;Fortaleza;2;2;R. Marques Santana;R. Ceni;Estádio Raimundo Sampaio;19;10;7;4;52%;48%;409;385;84%;80%;15;12;1;4;0;0;0;0;3;2
+11;21/07/2019;16:01;Corinthians;Flamengo;1;1;F. Carille;J. Pinheiro de Jesus;Neo Química Arena;14;6;3;3;44%;56%;318;410;79%;80%;20;17;1;3;0;1;2;0;4;5
+11;21/07/2019;19:00;Avaí;Goiás;0;0;A. Valentim do Carmo Neto;C. dos Santos Oliveira;Ressacada;15;11;3;3;62%;38%;490;304;81%;69%;16;19;4;2;0;0;1;0;5;3
+11;22/07/2019;20:02;São Paulo;Chapecoense;4;0;A. Stival;N. da Silveira Júnior;Morumbi;19;8;6;2;49%;51%;400;405;79%;82%;29;19;1;3;0;0;0;3;5;3
+12;27/07/2019;17:00;Palmeiras;Vasco da Gama;1;1;L. Scolari;V. Luxemburgo da Silva;Allianz Parque;15;6;4;1;55%;45%;386;321;85%;77%;22;22;1;4;0;0;1;0;3;4
+12;27/07/2019;13:58;Cruzeiro;Athletico-PR;0;2;L. Venker de Menezes;T. Retzalff Nunes;Mineirão;;;;;;;;;;;;;;;;;;;;
+12;27/07/2019;19:01;Fluminense;São Paulo;1;2;F. Diniz Silva;A. Stival;Maracanã;14;13;4;5;72%;28%;660;264;89%;78%;20;14;1;3;0;0;0;0;4;2
+12;27/07/2019;19:00;Internacional;Ceará SC;1;0;O. Hellmann;E. Alves Moreira;Estádio José Pinheiro Borda;11;9;5;2;55%;45%;490;408;82%;75%;11;12;3;3;0;0;1;0;6;6
+12;28/07/2019;11:00;Chapecoense;Bahia;0;0;E. Hartkopp;R. Machado Marques;Arena Condá;16;16;4;7;47%;53%;360;411;76%;74%;16;15;1;1;0;0;0;1;10;5
+12;28/07/2019;15:59;Flamengo;Botafogo;3;2;J. Pinheiro de Jesus;E. de Souza Barroca;Maracanã;15;12;5;3;63%;37%;488;290;86%;76%;23;16;5;2;0;0;0;3;5;4
+12;28/07/2019;16:01;Santos;Avaí;3;1;J. Sampaoli Moya;A. Valentim do Carmo Neto;Estádio Urbano Caldeira;18;11;10;4;60%;40%;435;308;81%;73%;9;13;2;2;0;0;4;0;15;4
+12;28/07/2019;19:03;Goiás;Atlético-MG;0;0;C. dos Santos Oliveira;R. Marques Santana;Estádio do Governo do Estado de Goiás (Serra Dourada);16;11;2;0;45%;55%;397;486;85%;87%;14;9;1;0;0;0;1;3;7;4
+12;28/07/2019;19:00;Fortaleza;Corinthians;1;3;R. Ceni;F. Carille;Arena Castelão;14;14;3;5;48%;52%;408;450;87%;87%;18;16;2;1;0;0;2;1;1;1
+12;29/07/2019;20:02;CSA;Grêmio;0;0;A. Fucks;Renato Gaúcho;Estádio Rei Pelé;10;15;2;0;40%;60%;350;526;82%;85%;13;13;4;2;0;0;0;2;2;6
+13;03/08/2019;19:01;Ceará SC;Fortaleza;2;1;E. Alves Moreira;R. Ceni;Arena Castelão;11;11;4;4;35%;65%;229;427;62%;81%;14;16;3;0;0;1;4;2;8;4
+13;03/08/2019;19:00;Fluminense;Internacional;2;1;F. Diniz Silva;O. Hellmann;Maracanã;22;15;6;4;61%;39%;640;412;88%;83%;8;12;1;2;0;0;0;0;8;5
+13;04/08/2019;11:01;Santos;Goiás;6;1;J. Sampaoli Moya;C. dos Santos Oliveira;Estádio Urbano Caldeira;19;20;10;2;62%;38%;500;311;84%;79%;15;8;3;4;0;0;4;1;6;6
+13;04/08/2019;16:00;Avaí;Botafogo;0;2;A. Valentim do Carmo Neto;E. de Souza Barroca;Ressacada;30;9;4;5;60%;40%;507;368;85%;78%;12;11;2;1;1;0;3;0;16;1
+13;04/08/2019;16:01;Bahia;Flamengo;3;0;R. Machado Marques;J. Pinheiro de Jesus;Itaipava Arena Fonte Nova;10;13;7;1;31%;69%;273;582;65%;82%;18;14;1;1;1;0;4;2;4;7
+13;04/08/2019;19:00;Corinthians;Palmeiras;1;1;F. Carille;L. Scolari;Neo Química Arena;9;8;7;6;50%;50%;371;373;79%;77%;11;24;1;3;0;0;1;3;3;5
+13;04/08/2019;19:00;Vasco da Gama;CSA;0;0;V. Luxemburgo da Silva;A. Fucks;Kléber Andrade;18;12;2;2;57%;43%;511;395;83%;72%;13;14;4;1;0;0;0;1;8;5
+13;04/08/2019;19:00;Atlético-MG;Cruzeiro;2;0;R. Marques Santana;L. Venker de Menezes;Estádio Raimundo Sampaio;15;14;6;4;38%;62%;359;595;82%;88%;19;13;2;3;0;0;0;2;6;6
+13;05/08/2019;20:00;Grêmio;Chapecoense;3;3;Renato Gaúcho;E. Hartkopp;Arena do Grêmio;23;9;9;4;69%;31%;583;268;88%;71%;17;16;4;3;0;0;3;0;11;3
+13;21/08/2019;11:58;Athletico-PR;São Paulo;0;1;T. Retzalff Nunes;A. Stival;Estádio Joaquim Américo Guimarães;;;;;;;;;;;;;;;;;;;;
+14;10/08/2019;17:01;Ceará SC;Chapecoense;4;1;E. Alves Moreira;E. Hartkopp;Arena Castelão;8;14;5;3;39%;61%;292;459;79%;83%;20;11;3;2;0;0;4;1;2;4
+14;10/08/2019;17:03;São Paulo;Santos;3;2;A. Stival;J. Sampaoli Moya;Morumbi;20;14;7;3;42%;58%;263;367;71%;76%;21;15;6;1;0;0;1;1;5;2
+14;10/08/2019;18:59;Flamengo;Grêmio;3;1;J. Pinheiro de Jesus;Renato Gaúcho;Maracanã;18;7;5;2;58%;42%;506;380;86%;82%;14;15;4;2;0;0;0;1;4;3
+14;10/08/2019;21:00;Atlético-MG;Fluminense;2;1;R. Marques Santana;F. Diniz Silva;Estádio Raimundo Sampaio;19;21;9;7;41%;59%;373;527;80%;87%;14;13;4;2;0;1;4;2;3;5
+14;11/08/2019;11:00;Internacional;Corinthians;0;0;O. Hellmann;F. Carille;Estádio José Pinheiro Borda;7;8;1;1;56%;44%;551;447;84%;78%;16;8;3;2;0;0;3;0;9;3
+14;11/08/2019;16:00;Palmeiras;Bahia;2;2;L. Scolari;R. Machado Marques;Allianz Parque;17;7;9;4;41%;59%;287;428;78%;84%;15;19;6;3;1;1;1;1;8;3
+14;11/08/2019;16:01;Avaí;Cruzeiro;2;2;A. Valentim do Carmo Neto;R. Alves Resende;Ressacada;13;14;3;6;49%;51%;360;386;75%;77%;15;15;4;1;1;1;3;2;5;1
+14;11/08/2019;16:01;Botafogo;Athletico-PR;2;1;E. de Souza Barroca;T. Retzalff Nunes;Estádio Nilton Santos;13;17;6;8;46%;54%;367;426;78%;80%;11;12;3;1;0;0;1;0;7;7
+14;11/08/2019;19:00;Goiás;Vasco da Gama;0;1;N. da Silveira Júnior;V. Luxemburgo da Silva;Estádio do Governo do Estado de Goiás (Serra Dourada);19;12;5;5;55%;45%;420;350;83%;74%;14;22;4;3;0;1;2;1;3;4
+14;12/08/2019;20:01;CSA;Fortaleza;0;2;A. Fucks;M. Montenegro;Estádio Rei Pelé;16;6;5;3;52%;48%;470;450;87%;85%;19;13;3;1;0;0;3;4;2;3
+15;17/08/2019;17:00;Corinthians;Botafogo;2;0;F. Carille;E. de Souza Barroca;Neo Química Arena;18;8;9;3;43%;57%;393;545;87%;89%;17;13;2;3;0;0;2;2;7;2
+15;17/08/2019;17:19;Fortaleza;Internacional;0;1;J. Mannarino;O. Hellmann;Arena Castelão;15;7;4;2;55%;45%;485;413;87%;84%;14;14;1;2;1;0;0;4;7;0
+15;17/08/2019;19:00;Vasco da Gama;Flamengo;1;4;V. Luxemburgo da Silva;J. Pinheiro de Jesus;Estádio Nacional de Brasília;11;17;6;10;42%;58%;347;491;82%;87%;12;18;0;3;0;0;0;0;7;7
+15;17/08/2019;11:04;Athletico-PR;Atlético-MG;1;0;T. Retzalff Nunes;R. Marques Santana;Estádio Joaquim Américo Guimarães;;;;;;;;;;;;;;;;;;;;
+15;17/08/2019;21:00;Grêmio;Palmeiras;1;1;Renato Gaúcho;L. Scolari;Arena do Grêmio;14;15;3;7;68%;32%;634;304;89%;79%;13;14;0;0;0;0;0;1;3;2
+15;18/08/2019;16:00;Fluminense;CSA;0;1;F. Diniz Silva;A. Fucks;Maracanã;33;5;12;3;68%;32%;686;344;91%;72%;7;16;1;2;0;0;1;1;7;1
+15;18/08/2019;16:02;São Paulo;Ceará SC;1;0;A. Stival;E. Alves Moreira;Morumbi;12;10;6;5;59%;41%;463;316;82%;72%;12;16;3;2;0;0;4;0;5;11
+15;18/08/2019;16:01;Bahia;Goiás;1;1;R. Machado Marques;N. da Silveira Júnior;Itaipava Arena Fonte Nova;14;11;3;4;47%;53%;436;471;81%;81%;7;13;2;3;1;0;1;1;6;6
+15;18/08/2019;16:00;Cruzeiro;Santos;2;0;R. Ceni;J. Sampaoli Moya;Mineirão;21;4;10;2;66%;34%;576;297;92%;83%;16;7;2;0;0;1;1;1;8;4
+15;18/08/2019;19:00;Chapecoense;Avaí;1;0;E. Hartkopp;A. Valentim do Carmo Neto;Arena Condá;12;5;1;0;41%;59%;317;449;68%;77%;25;15;1;0;0;0;2;2;5;3
+16;24/08/2019;11:00;Atlético-MG;Bahia;0;1;R. Marques Santana;R. Machado Marques;Estádio Raimundo Sampaio;21;6;7;5;57%;43%;501;391;82%;75%;17;16;0;2;0;0;1;0;6;3
+16;24/08/2019;17:00;Grêmio;Athletico-PR;2;1;Renato Gaúcho;T. Retzalff Nunes;Arena do Grêmio;;;;;;;;;;;;;;;;;;;;
+16;25/08/2019;16:00;Goiás;Internacional;2;1;N. da Silveira Júnior;O. Hellmann;Estádio do Governo do Estado de Goiás (Serra Dourada);7;11;4;5;26%;74%;203;611;68%;88%;9;14;2;2;1;0;0;3;5;5
+16;25/08/2019;16:00;Vasco da Gama;São Paulo;2;0;V. Luxemburgo da Silva;A. Stival;Estádio Vasco da Gama;18;3;7;1;52%;48%;473;449;85%;83%;19;16;4;3;0;1;0;2;2;1
+16;25/08/2019;16:00;Santos;Fortaleza;3;3;J. Sampaoli Moya;J. Mannarino;Estádio Urbano Caldeira;17;9;10;5;61%;39%;486;312;86%;77%;14;22;3;3;0;0;1;0;3;5
+16;25/08/2019;19:01;Ceará SC;Flamengo;0;3;E. Alves Moreira;J. Pinheiro de Jesus;Arena Castelão;16;10;4;5;52%;48%;412;404;82%;80%;11;14;3;0;0;0;4;3;9;2
+16;25/08/2019;19:01;Avaí;Corinthians;1;1;A. Valentim do Carmo Neto;F. Carille;Ressacada;12;8;2;4;48%;52%;399;420;78%;78%;19;15;0;1;1;1;2;2;4;2
+16;25/08/2019;19:00;CSA;Cruzeiro;1;1;A. Fucks;R. Ceni;Estádio Rei Pelé;18;13;3;6;47%;53%;441;497;86%;86%;17;14;3;3;0;0;3;1;6;4
+16;26/08/2019;20:00;Botafogo;Chapecoense;0;0;E. de Souza Barroca;E. Hartkopp;Estádio Nilton Santos;15;15;2;5;61%;39%;450;285;84%;69%;13;16;2;1;0;0;0;2;5;4
+16;10/09/2019;21:00;Palmeiras;Fluminense;3;0;L. Venker de Menezes;O. de Oliveira Filho;Allianz Parque;15;12;8;1;46%;54%;406;463;83%;87%;12;11;0;2;0;0;0;2;3;7
+17;31/08/2019;11:02;São Paulo;Grêmio;0;0;A. Stival;Renato Gaúcho;Morumbi;19;7;4;3;55%;45%;496;426;81%;79%;10;9;0;1;1;0;0;0;5;5
+17;31/08/2019;17:01;Bahia;CSA;1;0;R. Machado Marques;A. Fucks;Itaipava Arena Fonte Nova;15;8;7;2;67%;33%;538;285;84%;69%;15;17;1;1;0;0;0;3;8;2
+17;31/08/2019;19:02;Chapecoense;Santos;0;1;E. Hartkopp;J. Sampaoli Moya;Arena Condá;8;12;5;4;52%;48%;399;386;82%;80%;17;19;2;4;0;0;1;3;5;5
+17;31/08/2019;19:01;Athletico-PR;Ceará SC;1;0;T. Retzalff Nunes;E. Alves Moreira;Estádio Joaquim Américo Guimarães;11;9;4;5;69%;31%;534;247;82%;61%;14;15;1;3;0;0;0;2;10;4
+17;31/08/2019;21:00;Internacional;Botafogo;3;2;O. Hellmann;E. de Souza Barroca;Estádio José Pinheiro Borda;16;17;9;7;49%;51%;485;496;83%;85%;10;6;4;4;0;0;0;1;8;1
+17;01/09/2019;16:00;Flamengo;Palmeiras;3;0;J. Pinheiro de Jesus;L. Scolari;Maracanã;12;2;4;0;66%;34%;658;341;90%;79%;15;16;2;2;0;1;0;3;1;1
+17;01/09/2019;16:02;Fortaleza;Goiás;2;0;J. Mannarino;N. da Silveira Júnior;Arena Castelão;11;7;3;2;52%;48%;389;365;82%;81%;21;14;3;1;0;1;0;4;5;3
+17;01/09/2019;19:00;Cruzeiro;Vasco da Gama;1;0;R. Ceni;V. Luxemburgo da Silva;Mineirão;11;12;3;2;57%;43%;501;364;89%;83%;14;15;3;4;0;0;2;1;3;11
+17;01/09/2019;19:01;Corinthians;Atlético-MG;1;0;F. Carille;R. Marques Santana;Neo Química Arena;14;11;5;5;45%;55%;484;607;86%;86%;9;14;0;1;0;0;0;1;10;4
+17;02/09/2019;20:00;Fluminense;Avaí;0;1;O. de Oliveira Filho;A. Valentim do Carmo Neto;Maracanã;26;7;10;2;61%;39%;509;344;88%;78%;14;15;3;1;0;0;0;0;12;2
+18;07/09/2019;11:02;Vasco da Gama;Bahia;0;2;V. Luxemburgo da Silva;R. Machado Marques;Estádio Vasco da Gama;21;9;4;3;57%;43%;453;354;82%;71%;15;19;3;1;0;0;2;1;4;3
+18;07/09/2019;11:01;Corinthians;Ceará SC;2;2;F. Carille;E. Alves Moreira;Neo Química Arena;13;12;2;6;61%;39%;508;320;86%;81%;9;10;1;1;0;0;2;2;5;8
+18;07/09/2019;17:01;Avaí;Flamengo;0;3;A. Valentim do Carmo Neto;J. Pinheiro de Jesus;Estádio Nacional de Brasília;8;9;2;5;41%;59%;378;540;81%;86%;15;9;1;2;1;0;1;1;4;8
+18;07/09/2019;17:01;Fortaleza;Fluminense;0;1;J. Mannarino;O. de Oliveira Filho;Arena Castelão;18;9;8;4;46%;54%;413;472;86%;86%;13;15;1;2;0;0;2;4;5;4
+18;07/09/2019;19:00;Internacional;São Paulo;1;0;O. Hellmann;A. Stival;Estádio José Pinheiro Borda;13;9;4;4;51%;49%;445;442;81%;77%;14;16;1;5;0;0;3;1;9;2
+18;07/09/2019;21:00;Goiás;Palmeiras;1;2;N. da Silveira Júnior;L. Venker de Menezes;Estádio do Governo do Estado de Goiás (Serra Dourada);9;18;2;9;34%;66%;276;516;74%;83%;11;21;5;0;0;1;1;2;3;7
+18;08/09/2019;11:00;Cruzeiro;Grêmio;1;4;R. Ceni;Renato Gaúcho;Estádio Raimundo Sampaio;19;12;8;4;52%;48%;571;533;91%;91%;11;10;2;1;0;0;0;0;7;2
+18;08/09/2019;16:00;Santos;Athletico-PR;1;1;J. Sampaoli Moya;T. Retzalff Nunes;Estádio Urbano Caldeira;22;9;11;4;62%;38%;437;289;77%;68%;8;15;3;6;0;0;1;1;11;3
+18;08/09/2019;16:00;Botafogo;Atlético-MG;2;1;E. de Souza Barroca;R. Marques Santana;Estádio Nilton Santos;11;18;6;6;47%;53%;435;482;84%;88%;14;14;4;2;0;1;2;4;2;8
+18;08/09/2019;19:00;CSA;Chapecoense;2;0;A. Fucks;E. Hartkopp;Estádio Rei Pelé;10;15;4;3;48%;52%;312;320;76%;72%;22;14;3;1;0;2;3;0;3;7
+19;14/09/2019;17:01;Flamengo;Santos;1;0;J. Pinheiro de Jesus;J. Sampaoli Moya;Maracanã;12;6;2;0;52%;48%;379;349;70%;74%;20;24;2;5;0;0;1;3;3;1
+19;14/09/2019;19:00;Chapecoense;Vasco da Gama;1;2;E. Hartkopp;V. Luxemburgo da Silva;Arena Condá;19;15;7;8;56%;44%;400;334;81%;77%;14;22;2;5;0;0;0;1;7;5
+19;14/09/2019;19:00;Palmeiras;Cruzeiro;1;0;L. Venker de Menezes;R. Ceni;Allianz Parque;13;7;3;3;58%;42%;461;351;86%;77%;20;19;2;3;0;0;1;0;4;4
+19;14/09/2019;21:00;Ceará SC;Botafogo;0;0;E. Alves Moreira;E. de Souza Barroca;Arena Castelão;23;3;6;0;39%;61%;347;570;78%;87%;11;5;1;1;0;0;5;0;18;0
+19;15/09/2019;11:21;Athletico-PR;Avaí;0;1;T. Retzalff Nunes;A. Valentim do Carmo Neto;Estádio Joaquim Américo Guimarães;;;;;;;;;;;;;;;;;;;;
+19;15/09/2019;11:02;Atlético-MG;Internacional;1;3;R. Marques Santana;O. Hellmann;Estádio Raimundo Sampaio;25;15;11;9;61%;39%;659;435;88%;83%;6;14;0;1;0;0;0;1;10;0
+19;15/09/2019;16:02;Bahia;Fortaleza;1;1;R. Machado Marques;J. Mannarino;Itaipava Arena Fonte Nova;11;9;3;1;54%;46%;383;336;81%;77%;16;11;1;1;0;0;5;0;5;7
+19;15/09/2019;16:00;Grêmio;Goiás;3;0;Renato Gaúcho;N. da Silveira Júnior;Arena do Grêmio;22;12;10;4;64%;36%;628;365;88%;84%;10;10;0;1;0;0;1;0;15;4
+19;15/09/2019;16:00;Fluminense;Corinthians;1;0;O. de Oliveira Filho;F. Carille;Estádio Nacional de Brasília;12;13;2;3;49%;51%;429;439;84%;88%;19;12;4;1;0;0;2;1;3;6
+19;15/09/2019;19:01;São Paulo;CSA;1;1;A. Stival;A. Fucks;Morumbi;33;7;6;2;72%;28%;523;206;86%;57%;14;16;1;3;0;0;3;1;11;3
+20;21/09/2019;11:01;Botafogo;São Paulo;1;2;E. de Souza Barroca;A. Stival;Estádio Nilton Santos;14;17;5;7;54%;46%;442;383;82%;76%;14;23;3;1;0;0;2;2;1;11
+20;21/09/2019;17:00;Cruzeiro;Flamengo;1;2;R. Ceni;J. Pinheiro de Jesus;Mineirão;9;13;3;5;41%;59%;351;487;80%;85%;9;14;2;2;0;0;3;0;1;4
+20;21/09/2019;19:03;Corinthians;Bahia;2;1;F. Carille;R. Machado Marques;Neo Química Arena;15;9;3;3;49%;51%;396;419;83%;84%;12;15;2;4;0;0;2;1;4;3
+20;21/09/2019;21:00;Santos;Grêmio;0;3;J. Sampaoli Moya;Renato Gaúcho;Estádio Urbano Caldeira;18;12;5;6;58%;42%;468;346;82%;74%;13;15;1;4;0;0;0;0;9;2
+20;22/09/2019;11:00;Internacional;Chapecoense;1;0;O. Hellmann;M. dos Santos Gonçalves;Estádio José Pinheiro Borda;14;8;3;2;64%;36%;527;303;84%;71%;12;19;0;4;0;0;3;0;8;3
+20;22/09/2019;16:00;Fortaleza;Palmeiras;0;1;J. Mannarino;L. Venker de Menezes;Arena Castelão;12;14;1;3;43%;57%;346;459;78%;83%;16;11;4;1;0;0;1;4;5;5
+20;22/09/2019;16:01;CSA;Ceará SC;1;0;A. Fucks;E. Alves Moreira;Estádio Rei Pelé;12;23;5;9;45%;55%;322;399;75%;79%;20;9;1;2;0;0;4;1;6;11
+20;22/09/2019;14:14;Vasco da Gama;Athletico-PR;1;1;V. Luxemburgo da Silva;T. Retzalff Nunes;Estádio Vasco da Gama;;;;;;;;;;;;;;;;;;;;
+20;22/09/2019;19:00;Goiás;Fluminense;3;0;N. da Silveira Júnior;O. de Oliveira Filho;Estádio do Governo do Estado de Goiás (Serra Dourada);11;8;5;2;28%;72%;231;572;77%;87%;16;10;4;0;1;0;1;1;4;8
+20;23/09/2019;20:00;Avaí;Atlético-MG;1;0;A. Valentim do Carmo Neto;R. Marques Santana;Ressacada;11;14;7;4;36%;64%;318;558;72%;82%;11;14;3;1;0;0;2;1;4;10
+21;25/09/2019;19:30;Ceará SC;Cruzeiro;0;0;E. Alves Moreira;R. Ceni;Arena Castelão;19;14;8;3;46%;54%;402;461;75%;78%;18;17;2;3;0;0;1;2;8;3
+21;25/09/2019;21:30;Bahia;Botafogo;2;0;R. Machado Marques;E. de Souza Barroca;Itaipava Arena Fonte Nova;19;3;3;1;58%;42%;509;377;86%;80%;17;9;1;0;0;1;0;1;5;1
+21;25/09/2019;21:30;Flamengo;Internacional;3;1;J. Pinheiro de Jesus;O. Hellmann;Maracanã;21;3;7;2;73%;27%;594;232;88%;72%;16;6;1;1;0;2;1;3;6;1
+21;25/09/2019;21:31;São Paulo;Goiás;0;1;A. Stival;N. da Silveira Júnior;Morumbi;13;3;4;3;73%;27%;543;212;83%;60%;21;24;2;4;0;0;4;0;10;0
+21;26/09/2019;19:15;Palmeiras;CSA;6;2;L. Venker de Menezes;A. Fucks;Estádio Municipal Paulo Machado de Carvalho;17;11;11;4;70%;30%;694;295;91%;82%;13;13;0;1;0;0;0;0;5;2
+21;26/09/2019;20:00;Fluminense;Santos;1;1;O. de Oliveira Filho;J. Sampaoli Moya;Maracanã;13;19;3;7;47%;53%;418;467;80%;83%;12;15;2;2;2;1;2;1;1;5
+21;26/09/2019;20:00;Grêmio;Avaí;6;1;Renato Gaúcho;A. Valentim do Carmo Neto;Arena do Grêmio;11;11;8;4;52%;48%;585;538;89%;89%;18;9;1;1;0;0;0;0;6;2
+21;26/09/2019;21:31;Athletico-PR;Fortaleza;4;1;T. Retzalff Nunes;J. Mannarino;Estádio Joaquim Américo Guimarães;20;11;9;3;66%;34%;607;321;89%;79%;11;8;3;0;0;0;0;1;11;7
+21;02/10/2019;19:15;Atlético-MG;Vasco da Gama;1;2;R. Marques Santana;V. Luxemburgo da Silva;Estádio Raimundo Sampaio;14;16;3;5;55%;45%;404;338;80%;78%;18;22;3;2;0;0;1;2;5;7
+21;02/10/2019;19:16;Chapecoense;Corinthians;0;1;M. dos Santos Gonçalves;F. Carille;Arena Condá;14;12;4;2;55%;45%;397;336;79%;75%;19;15;3;2;0;0;1;2;9;7
+22;28/09/2019;19:00;Flamengo;São Paulo;0;0;J. Pinheiro de Jesus;F. Diniz Silva;Maracanã;17;8;8;1;62%;38%;531;334;84%;73%;20;27;3;4;0;0;2;3;9;2
+22;29/09/2019;11:03;Corinthians;Vasco da Gama;1;0;F. Carille;V. Luxemburgo da Silva;Neo Química Arena;10;15;7;2;55%;45%;455;382;81%;78%;16;23;3;5;0;0;2;4;5;2
+22;29/09/2019;16:00;Santos;CSA;2;0;J. Sampaoli Moya;A. Fucks;Estádio Urbano Caldeira;12;9;5;2;63%;37%;572;338;87%;76%;13;12;0;2;1;0;1;2;10;4
+22;29/09/2019;16:00;Internacional;Palmeiras;1;1;O. Hellmann;L. Venker de Menezes;Estádio José Pinheiro Borda;18;12;6;5;54%;46%;455;403;85%;82%;28;17;3;2;0;0;0;1;3;3
+22;29/09/2019;16:00;Fluminense;Grêmio;2;1;M. de Oliveira;Renato Gaúcho;Maracanã;12;15;5;4;47%;53%;481;531;85%;87%;17;9;1;4;0;0;0;1;2;6
+22;29/09/2019;15:11;Athletico-PR;Chapecoense;1;1;T. Retzalff Nunes;M. dos Santos Gonçalves;Estádio Joaquim Américo Guimarães;;;;;;;;;;;;;;;;;;;;
+22;29/09/2019;19:01;Atlético-MG;Ceará SC;2;1;R. Marques Santana;E. Alves Moreira;Estádio Raimundo Sampaio;25;8;6;1;62%;38%;515;315;85%;73%;13;12;0;2;0;0;0;1;5;8
+22;30/09/2019;20:00;Avaí;Bahia;0;2;A. Valentim do Carmo Neto;R. Machado Marques;Ressacada;14;6;4;2;56%;44%;481;393;82%;76%;16;16;1;2;0;0;4;1;7;5
+22;30/09/2019;20:00;Fortaleza;Botafogo;1;0;R. Ceni;E. de Souza Barroca;Arena Castelão;16;6;3;2;45%;55%;410;502;85%;84%;15;12;3;2;0;0;1;1;5;1
+22;30/09/2019;20:01;Goiás;Cruzeiro;1;0;N. da Silveira Júnior;A. da Silva Braga;Estádio do Governo do Estado de Goiás (Serra Dourada);8;11;2;1;33%;67%;252;505;66%;83%;20;19;0;3;0;0;0;2;0;9
+23;05/10/2019;17:00;Vasco da Gama;Santos;0;1;V. Luxemburgo da Silva;J. Sampaoli Moya;Estádio Vasco da Gama;16;8;2;4;42%;58%;285;423;73%;81%;15;17;4;2;0;1;1;1;8;2
+23;05/10/2019;17:02;São Paulo;Fortaleza;2;1;F. Diniz Silva;R. Ceni;Estádio Municipal Paulo Machado de Carvalho;19;7;8;2;62%;38%;478;300;89%;80%;15;14;3;2;0;0;0;0;9;3
+23;05/10/2019;19:00;Grêmio;Corinthians;0;0;Renato Gaúcho;F. Carille;Arena do Grêmio;18;13;4;2;65%;35%;609;338;88%;81%;12;12;3;2;0;0;3;0;10;5
+23;05/10/2019;19:02;Bahia;Athletico-PR;1;2;R. Machado Marques;T. Retzalff Nunes;Itaipava Arena Fonte Nova;14;13;4;5;46%;54%;413;491;83%;83%;9;14;2;3;0;0;1;1;4;4
+23;05/10/2019;21:00;Cruzeiro;Internacional;1;1;A. da Silva Braga;O. Hellmann;Mineirão;16;12;5;2;53%;47%;470;440;81%;82%;18;14;5;3;0;0;0;1;3;3
+23;06/10/2019;11:01;Chapecoense;Flamengo;0;1;M. dos Santos Gonçalves;J. Pinheiro de Jesus;Arena Condá;5;24;1;5;36%;64%;298;520;65%;82%;16;20;1;0;0;0;3;2;1;8
+23;06/10/2019;16:01;Ceará SC;Goiás;0;1;A. Batista;N. da Silveira Júnior;Arena Castelão;23;9;5;3;58%;42%;411;314;85%;72%;7;12;1;0;0;0;2;1;15;9
+23;06/10/2019;16:00;Palmeiras;Atlético-MG;1;1;L. Venker de Menezes;R. Marques Santana;Allianz Parque;19;11;7;5;67%;33%;506;254;88%;72%;12;20;3;4;0;0;2;1;17;2
+23;06/10/2019;16:00;Botafogo;Fluminense;0;1;E. de Souza Barroca;M. de Oliveira;Estádio Nilton Santos;11;12;5;5;46%;54%;410;481;79%;86%;20;20;4;1;0;0;3;3;5;2
+23;06/10/2019;19:00;CSA;Avaí;3;1;A. Fucks;A. Valentim do Carmo Neto;Estádio Rei Pelé;15;17;6;1;29%;71%;242;593;72%;88%;10;11;3;3;0;0;1;1;4;8
+24;09/10/2019;19:16;CSA;Internacional;1;0;A. Fucks;O. Hellmann;Estádio Rei Pelé;14;14;4;2;30%;70%;259;593;71%;88%;16;9;2;2;0;0;0;4;3;11
+24;09/10/2019;19:15;Botafogo;Goiás;3;1;B. Lazaroni;N. da Silveira Júnior;Estádio Nilton Santos;12;18;7;4;43%;57%;348;446;76%;83%;29;18;4;2;0;0;2;1;5;5
+24;09/10/2019;20:31;Fortaleza;Chapecoense;2;0;R. Ceni;M. dos Santos Gonçalves;Arena Castelão;10;16;5;5;53%;47%;446;397;84%;83%;18;17;4;2;0;0;4;1;2;6
+24;09/10/2019;21:01;Bahia;São Paulo;0;0;R. Machado Marques;F. Diniz Silva;Itaipava Arena Fonte Nova;14;8;6;2;40%;60%;378;565;82%;86%;10;15;2;1;0;0;3;2;3;5
+24;09/10/2019;21:00;Grêmio;Ceará SC;2;1;Renato Gaúcho;A. Batista;Estádio Francisco Stédile (Centenário);11;10;4;5;69%;31%;641;293;90%;76%;11;19;0;3;0;0;1;1;4;4
+24;09/10/2019;21:30;Cruzeiro;Fluminense;0;0;A. da Silva Braga;M. de Oliveira;Mineirão;17;9;8;0;51%;49%;459;460;77%;80%;17;18;4;3;0;0;3;0;2;5
+24;09/10/2019;21:30;Santos;Palmeiras;2;0;J. Sampaoli Moya;L. Venker de Menezes;Estádio Urbano Caldeira;15;13;6;3;57%;43%;474;364;88%;84%;16;13;1;2;0;1;3;0;2;3
+24;10/10/2019;15:24;Corinthians;Athletico-PR;2;2;F. Carille;T. Retzalff Nunes;Neo Química Arena;;;;;;;;;;;;;;;;;;;;
+24;10/10/2019;19:19;Avaí;Vasco da Gama;0;0;A. Valentim do Carmo Neto;V. Luxemburgo da Silva;Ressacada;16;12;2;4;56%;44%;505;419;83%;78%;18;11;1;1;0;0;0;1;7;6
+24;10/10/2019;20:00;Flamengo;Atlético-MG;3;1;J. Pinheiro de Jesus;R. Marques Santana;Maracanã;19;5;6;2;67%;33%;630;318;89%;72%;10;9;0;3;0;0;0;1;9;2
+25;12/10/2019;17:01;Goiás;CSA;1;0;N. da Silveira Júnior;A. Fucks;Estádio do Governo do Estado de Goiás (Serra Dourada);14;8;3;2;49%;51%;365;376;77%;78%;17;21;2;3;0;0;2;1;4;2
+25;12/10/2019;19:00;Fluminense;Bahia;2;0;M. de Oliveira;R. Machado Marques;Maracanã;13;17;3;6;49%;51%;434;447;82%;84%;11;15;0;1;0;0;1;0;4;7
+25;12/10/2019;21:00;Palmeiras;Botafogo;1;0;L. Venker de Menezes;B. Lazaroni;Estádio Municipal Paulo Machado de Carvalho;18;6;7;0;49%;51%;413;422;80%;82%;22;13;2;2;0;0;2;0;7;2
+25;13/10/2019;16:00;Internacional;Santos;0;0;R. Colbachini;J. Sampaoli Moya;Estádio José Pinheiro Borda;13;11;1;3;46%;54%;420;492;81%;81%;16;18;2;3;0;0;8;2;9;3
+25;13/10/2019;13:22;Athletico-PR;Flamengo;0;2;T. Retzalff Nunes;J. Pinheiro de Jesus;Estádio Joaquim Américo Guimarães;;;;;;;;;;;;;;;;;;;;
+25;13/10/2019;16:01;Ceará SC;Avaí;1;0;A. Batista;E. Spinassé Camillato;Arena Castelão;25;13;6;5;57%;43%;449;368;82%;76%;16;16;1;3;0;0;2;3;11;0
+25;13/10/2019;16:00;Vasco da Gama;Fortaleza;1;0;V. Luxemburgo da Silva;R. Ceni;Estádio Vasco da Gama;16;7;5;2;59%;41%;406;301;80%;78%;14;19;2;3;0;1;1;1;10;3
+25;13/10/2019;18:02;São Paulo;Corinthians;1;0;F. Diniz Silva;F. Carille;Morumbi;17;3;3;2;55%;45%;568;467;88%;85%;9;10;0;1;0;0;2;0;2;1
+25;13/10/2019;19:00;Atlético-MG;Grêmio;1;4;R. Marques Santana;Renato Gaúcho;Estádio Raimundo Sampaio;22;14;4;6;43%;57%;394;526;78%;85%;17;8;4;1;1;0;0;2;4;4
+25;13/10/2019;19:01;Chapecoense;Cruzeiro;1;1;M. dos Santos Gonçalves;A. da Silva Braga;Arena Condá;22;18;8;6;61%;39%;484;331;83%;78%;12;13;1;1;0;0;0;0;9;7
+26;16/10/2019;19:16;CSA;Atlético-MG;2;2;A. Fucks;V. Carmo Mancini;Estádio Rei Pelé;10;21;5;7;42%;58%;358;498;82%;84%;18;13;3;2;0;1;2;0;1;7
+26;16/10/2019;19:16;Grêmio;Bahia;0;1;Renato Gaúcho;R. Machado Marques;Arena do Grêmio;18;13;6;6;63%;37%;554;337;90%;81%;13;15;3;2;0;0;1;0;10;6
+26;16/10/2019;20:00;Fortaleza;Flamengo;1;2;C. A. P. F. Hembert;J. Pinheiro de Jesus;Arena Castelão;6;11;3;4;30%;70%;203;462;69%;87%;8;16;1;3;0;0;2;2;4;12
+26;16/10/2019;21:00;Cruzeiro;São Paulo;1;0;A. da Silva Braga;F. Diniz Silva;Mineirão;11;8;2;2;40%;60%;363;558;80%;84%;18;16;2;2;0;0;3;1;4;2
+26;16/10/2019;21:00;Palmeiras;Chapecoense;1;0;L. Venker de Menezes;M. dos Santos Gonçalves;Allianz Parque;30;7;8;2;72%;28%;547;222;86%;59%;15;14;1;3;0;1;5;0;12;4
+26;16/10/2019;21:31;Goiás;Corinthians;2;2;N. da Silveira Júnior;F. Carille;Estádio do Governo do Estado de Goiás (Serra Dourada);20;17;4;5;44%;56%;305;411;76%;84%;10;16;2;4;2;0;2;0;5;5
+26;16/10/2019;21:30;Vasco da Gama;Botafogo;2;1;V. Luxemburgo da Silva;A. Valentim do Carmo Neto;Estádio Vasco da Gama;16;10;8;3;36%;64%;275;485;74%;83%;15;11;1;0;0;0;1;2;3;7
+26;17/10/2019;19:16;Avaí;Internacional;0;2;E. Spinassé Camillato;R. Colbachini;Ressacada;17;26;6;10;29%;71%;273;675;75%;89%;7;16;1;3;1;0;0;2;6;8
+26;17/10/2019;19:15;Santos;Ceará SC;2;1;J. Sampaoli Moya;A. Batista;Estádio Urbano Caldeira;16;11;4;3;68%;32%;493;228;84%;69%;15;11;3;4;0;0;3;2;5;7
+26;17/10/2019;11:11;Fluminense;Athletico-PR;1;2;M. de Oliveira;T. Retzalff Nunes;Maracanã;;;;;;;;;;;;;;;;;;;;
+27;19/10/2019;17:00;Fortaleza;Grêmio;2;1;R. Ceni;Renato Gaúcho;Arena Castelão;10;13;5;4;40%;60%;341;504;80%;88%;13;17;4;1;0;1;1;0;1;8
+27;19/10/2019;19:01;Corinthians;Cruzeiro;1;2;F. Carille;A. da Silva Braga;Neo Química Arena;13;14;4;5;55%;45%;463;394;85%;75%;15;18;3;1;0;0;0;0;4;4
+27;20/10/2019;16:00;Internacional;Vasco da Gama;0;1;R. Colbachini;V. Luxemburgo da Silva;Estádio José Pinheiro Borda;19;9;7;3;71%;29%;605;250;88%;73%;14;12;3;1;0;0;2;0;12;3
+27;20/10/2019;16:00;São Paulo;Avaí;1;0;F. Diniz Silva;E. Spinassé Camillato;Morumbi;22;6;7;1;78%;22%;682;206;89%;62%;23;11;4;1;0;1;2;1;12;0
+27;20/10/2019;16:00;Atlético-MG;Santos;2;0;V. Carmo Mancini;J. Sampaoli Moya;Estádio Raimundo Sampaio;9;11;4;1;30%;70%;224;504;68%;83%;24;14;3;4;0;0;1;1;3;7
+27;20/10/2019;18:00;Flamengo;Fluminense;2;0;J. Pinheiro de Jesus;M. de Oliveira;Maracanã;16;10;7;4;47%;53%;364;408;81%;86%;23;13;3;5;0;0;0;1;10;7
+27;20/10/2019;19:00;Chapecoense;Goiás;2;2;M. dos Santos Gonçalves;N. da Silveira Júnior;Arena Condá;12;21;4;8;49%;51%;311;314;81%;82%;23;14;2;5;0;0;1;2;6;9
+27;20/10/2019;19:00;Athletico-PR;Palmeiras;1;1;T. Retzalff Nunes;L. Venker de Menezes;Estádio Joaquim Américo Guimarães;14;8;6;2;53%;47%;432;407;79%;80%;23;11;1;2;0;0;0;4;2;1
+27;21/10/2019;19:31;Bahia;Ceará SC;1;2;R. Machado Marques;A. Batista;Estádio de Pituaçu;12;13;4;6;48%;52%;384;405;77%;77%;14;11;2;3;0;0;4;1;6;17
+27;21/10/2019;20:00;Botafogo;CSA;2;1;A. Valentim do Carmo Neto;A. Fucks;Estádio Nilton Santos;17;8;5;3;43%;57%;389;511;88%;87%;18;16;2;1;0;1;2;2;4;3
+28;26/10/2019;17:01;Corinthians;Santos;0;0;F. Carille;J. Sampaoli Moya;Neo Química Arena;14;19;5;3;36%;64%;285;502;72%;82%;20;12;3;1;0;0;0;5;4;3
+28;26/10/2019;17:03;Ceará SC;Vasco da Gama;1;1;A. Batista;V. Luxemburgo da Silva;Arena Castelão;17;8;4;3;64%;36%;544;321;84%;75%;11;14;3;3;0;0;3;0;11;3
+28;26/10/2019;19:02;Bahia;Internacional;2;3;R. Machado Marques;J. Mannarino;Itaipava Arena Fonte Nova;13;17;5;6;56%;44%;470;388;78%;79%;16;11;1;5;0;0;1;2;6;4
+28;26/10/2019;19:30;Fluminense;Chapecoense;1;1;M. de Oliveira;M. dos Santos Gonçalves;Maracanã;26;13;8;5;68%;32%;563;258;86%;70%;11;14;1;4;0;0;0;0;5;5
+28;26/10/2019;11:04;Cruzeiro;Fortaleza;1;1;A. da Silva Braga;R. Ceni;Mineirão;;;;;;;;;;;;;;;;;;;;
+28;27/10/2019;11:06;Athletico-PR;Goiás;4;1;T. Retzalff Nunes;N. da Silveira Júnior;Estádio Joaquim Américo Guimarães;;;;;;;;;;;;;;;;;;;;
+28;27/10/2019;16:00;Grêmio;Botafogo;3;0;Renato Gaúcho;A. Valentim do Carmo Neto;Arena do Grêmio;21;9;10;2;53%;47%;497;441;86%;86%;13;9;3;2;0;0;1;0;5;7
+28;27/10/2019;16:01;São Paulo;Atlético-MG;2;0;F. Diniz Silva;V. Carmo Mancini;Morumbi;16;9;6;3;61%;39%;543;353;85%;79%;9;11;0;0;0;0;3;4;6;6
+28;27/10/2019;18:00;Avaí;Palmeiras;1;2;E. Spinassé Camillato;L. Venker de Menezes;Ressacada;11;16;6;4;37%;63%;266;463;65%;82%;18;17;3;2;0;0;0;2;6;5
+28;27/10/2019;19:00;Flamengo;CSA;1;0;J. Pinheiro de Jesus;A. Fucks;Maracanã;18;7;7;4;64%;36%;605;351;90%;82%;20;13;1;2;0;0;1;5;6;2
+29;30/10/2019;19:30;Palmeiras;São Paulo;3;0;L. Venker de Menezes;F. Diniz Silva;Allianz Parque;19;14;8;4;31%;69%;267;581;75%;87%;12;14;0;0;0;0;1;0;6;3
+29;30/10/2019;19:31;Avaí;Fortaleza;1;3;E. Spinassé Camillato;R. Ceni;Ressacada;11;11;3;6;51%;49%;431;448;83%;81%;20;10;4;1;1;0;0;0;3;4
+29;30/10/2019;19:30;Atlético-MG;Chapecoense;0;2;V. Carmo Mancini;M. dos Santos Gonçalves;Estádio Raimundo Sampaio;20;10;1;3;71%;29%;475;207;81%;62%;15;10;3;3;0;0;2;0;18;2
+29;30/10/2019;21:31;Ceará SC;Fluminense;2;0;A. Batista;M. de Oliveira;Arena Castelão;10;21;5;4;28%;72%;275;686;78%;87%;12;8;1;1;0;0;1;2;4;10
+29;30/10/2019;21:30;Vasco da Gama;Grêmio;1;3;V. Luxemburgo da Silva;Renato Gaúcho;Estádio Vasco da Gama;16;9;1;4;43%;57%;363;496;80%;83%;9;13;2;2;0;0;0;0;10;4
+29;30/10/2019;21:32;CSA;Corinthians;2;1;A. Fucks;F. Carille;Estádio Rei Pelé;10;12;5;2;44%;56%;371;469;81%;85%;17;10;6;2;0;0;1;2;5;3
+29;31/10/2019;19:15;Santos;Bahia;1;0;J. Sampaoli Moya;R. Machado Marques;Estádio Urbano Caldeira;19;3;5;1;62%;38%;450;290;84%;70%;17;26;5;3;0;0;3;1;4;0
+29;31/10/2019;20:03;Goiás;Flamengo;2;2;N. da Silveira Júnior;J. Pinheiro de Jesus;Estádio do Governo do Estado de Goiás (Serra Dourada);18;12;4;6;37%;63%;227;386;70%;80%;18;15;5;3;0;1;4;0;3;9
+29;31/10/2019;21:30;Internacional;Athletico-PR;1;1;J. Mannarino;T. Retzalff Nunes;Estádio José Pinheiro Borda;14;10;4;3;55%;45%;484;405;81%;78%;14;22;3;2;0;0;1;0;3;5
+29;31/10/2019;21:30;Botafogo;Cruzeiro;0;2;A. Valentim do Carmo Neto;A. da Silva Braga;Estádio Nilton Santos;20;6;4;3;57%;43%;406;328;80%;69%;15;15;1;3;0;0;1;1;12;4
+30;02/11/2019;17:01;Fortaleza;Atlético-MG;2;2;R. Ceni;V. Carmo Mancini;Arena Castelão;18;16;6;6;59%;41%;433;290;85%;78%;18;19;3;2;0;1;1;2;7;7
+30;02/11/2019;19:01;Fluminense;Vasco da Gama;0;0;M. de Oliveira;V. Luxemburgo da Silva;Maracanã;20;12;4;1;67%;33%;610;308;87%;76%;7;12;2;3;0;0;2;1;8;3
+30;02/11/2019;19:00;Palmeiras;Ceará SC;1;0;L. Venker de Menezes;A. Batista;Allianz Parque;9;13;2;5;56%;44%;493;395;88%;86%;14;19;2;2;0;0;2;2;7;5
+30;02/11/2019;21:01;Chapecoense;São Paulo;0;3;M. dos Santos Gonçalves;F. Diniz Silva;Arena Condá;27;12;8;6;38%;62%;313;528;85%;89%;19;11;2;2;0;0;0;2;6;2
+30;03/11/2019;16:00;Flamengo;Corinthians;4;1;J. Pinheiro de Jesus;F. Carille;Maracanã;16;7;5;4;69%;31%;636;293;88%;72%;12;10;0;1;0;0;1;2;8;2
+30;03/11/2019;13:25;Athletico-PR;CSA;1;0;T. Retzalff Nunes;A. Fucks;Estádio Joaquim Américo Guimarães;;;;;;;;;;;;;;;;;;;;
+30;03/11/2019;18:00;Grêmio;Internacional;2;0;Renato Gaúcho;J. Mannarino;Arena do Grêmio;21;5;9;0;59%;41%;518;359;87%;81%;16;16;2;2;0;1;1;0;5;3
+30;03/11/2019;19:00;Santos;Botafogo;4;1;J. Sampaoli Moya;A. Valentim do Carmo Neto;Estádio Urbano Caldeira;23;13;12;6;63%;37%;480;278;83%;70%;16;8;1;0;0;0;1;0;9;8
+30;03/11/2019;19:00;Cruzeiro;Bahia;1;1;A. da Silva Braga;R. Machado Marques;Mineirão;17;13;5;3;64%;36%;489;270;89%;77%;16;11;2;0;1;0;4;3;3;5
+30;03/11/2019;19:31;Goiás;Avaí;2;0;N. da Silveira Júnior;E. Spinassé Camillato;Estádio do Governo do Estado de Goiás (Serra Dourada);23;12;6;4;48%;52%;354;401;80%;81%;19;19;1;3;0;0;0;0;4;3
+31;06/11/2019;19:30;Corinthians;Fortaleza;3;2;Coelho;R. Ceni;Neo Química Arena;15;15;6;8;59%;41%;559;388;88%;85%;18;9;2;3;0;0;1;1;2;6
+31;06/11/2019;20:00;Atlético-MG;Goiás;2;0;V. Carmo Mancini;N. da Silveira Júnior;Mineirão;26;7;11;3;53%;47%;380;350;80%;77%;15;16;0;2;0;0;4;1;10;8
+31;06/11/2019;21:00;Avaí;Santos;1;2;E. Spinassé Camillato;J. Sampaoli Moya;Ressacada;13;9;4;3;47%;53%;359;412;76%;78%;19;11;4;2;1;1;0;2;8;6
+31;06/11/2019;13:23;Athletico-PR;Cruzeiro;0;0;E. de Barros;A. da Silva Braga;Estádio Joaquim Américo Guimarães;;;;;;;;;;;;;;;;;;;;
+31;06/11/2019;21:30;Vasco da Gama;Palmeiras;1;2;V. Luxemburgo da Silva;L. Venker de Menezes;Estádio Vasco da Gama;8;20;3;6;45%;55%;309;374;72%;78%;17;27;7;4;1;0;1;1;3;6
+31;06/11/2019;21:30;Bahia;Chapecoense;1;1;R. Machado Marques;M. dos Santos Gonçalves;Itaipava Arena Fonte Nova;23;7;7;2;67%;33%;483;247;84%;68%;20;16;1;3;0;0;3;1;6;4
+31;07/11/2019;19:30;Ceará SC;Internacional;2;0;A. Batista;J. Mannarino;Arena Castelão;9;16;4;3;40%;60%;413;593;80%;87%;8;11;2;2;0;0;3;1;6;4
+31;07/11/2019;19:35;São Paulo;Fluminense;0;2;F. Diniz Silva;M. de Oliveira;Morumbi;21;5;4;4;57%;43%;612;475;89%;86%;6;16;2;1;0;0;0;1;2;2
+31;07/11/2019;20:00;Botafogo;Flamengo;0;1;A. Valentim do Carmo Neto;J. Pinheiro de Jesus;Estádio Nilton Santos;6;18;2;3;29%;71%;207;497;57%;86%;16;14;4;2;1;0;0;0;1;10
+31;07/11/2019;21:00;Grêmio;CSA;2;1;Renato Gaúcho;A. Fucks;Arena do Grêmio;19;9;3;3;65%;35%;646;354;92%;86%;15;16;3;2;0;0;0;1;11;3
+32;09/11/2019;17:02;Goiás;Santos;0;3;N. da Silveira Júnior;J. Sampaoli Moya;Estádio do Governo do Estado de Goiás (Serra Dourada);9;17;2;11;43%;57%;344;444;78%;82%;19;16;4;2;0;0;2;3;5;4
+32;09/11/2019;19:00;Palmeiras;Corinthians;1;1;L. Venker de Menezes;Coelho;Estádio Municipal Paulo Machado de Carvalho;21;7;7;2;46%;54%;323;394;78%;79%;12;18;2;1;0;0;3;0;9;2
+32;10/11/2019;16:00;Internacional;Fluminense;2;1;J. Mannarino;M. de Oliveira;Estádio José Pinheiro Borda;15;14;5;5;39%;61%;408;621;81%;86%;16;9;3;2;0;0;1;0;4;3
+32;10/11/2019;16:00;Cruzeiro;Atlético-MG;0;0;A. da Silva Braga;V. Carmo Mancini;Mineirão;16;17;2;0;59%;41%;426;302;79%;76%;9;12;1;1;0;0;1;0;4;8
+32;10/11/2019;12:01;São Paulo;Athletico-PR;0;1;F. Diniz Silva;E. de Barros;Morumbi;;;;;;;;;;;;;;;;;;;;
+32;10/11/2019;18:00;Flamengo;Bahia;3;1;J. Pires de Deus;R. Machado Marques;Maracanã;21;9;8;2;67%;33%;526;278;85%;68%;10;11;1;0;0;0;3;0;11;2
+32;10/11/2019;19:00;Chapecoense;Grêmio;0;1;M. dos Santos Gonçalves;Renato Gaúcho;Arena Condá;17;7;2;2;48%;52%;425;477;89%;87%;10;13;2;2;0;0;0;0;5;2
+32;10/11/2019;19:01;Fortaleza;Ceará SC;1;0;R. Ceni;A. Batista;Arena Castelão;9;15;2;3;36%;64%;283;483;74%;84%;13;17;4;4;0;0;0;0;3;8
+32;10/11/2019;19:01;CSA;Vasco da Gama;0;3;A. Fucks;V. Luxemburgo da Silva;Estádio Rei Pelé;20;8;5;6;59%;41%;472;337;86%;82%;17;18;1;2;1;0;4;0;5;3
+32;11/11/2019;20:00;Botafogo;Avaí;2;0;A. Valentim do Carmo Neto;E. Spinassé Camillato;Estádio Nilton Santos;17;17;4;5;37%;63%;295;502;78%;85%;19;16;4;2;0;1;1;1;4;4
+34;13/11/2019;21:30;Flamengo;Vasco da Gama;4;4;J. Pinheiro de Jesus;V. Luxemburgo da Silva;Maracanã;11;9;4;6;68%;32%;513;245;84%;71%;23;25;6;5;0;0;0;1;5;4
+34;23/11/2019;21:01;Santos;Cruzeiro;4;1;J. Sampaoli Moya;A. da Silva Braga;Estádio Urbano Caldeira;25;9;11;2;57%;43%;456;356;83%;78%;16;19;2;2;0;0;4;1;10;4
+34;24/11/2019;16:00;Palmeiras;Grêmio;1;2;L. Venker de Menezes;Renato Gaúcho;Allianz Parque;17;7;6;3;39%;61%;376;609;78%;85%;14;14;2;3;0;0;1;1;4;4
+34;24/11/2019;14:12;Atlético-MG;Athletico-PR;0;1;V. Carmo Mancini;E. de Barros;Mineirão;;;;;;;;;;;;;;;;;;;;
+34;24/11/2019;16:02;Goiás;Bahia;4;3;N. da Silveira Júnior;R. Machado Marques;Estádio do Governo do Estado de Goiás (Serra Dourada);13;10;5;3;47%;53%;367;415;82%;78%;14;23;2;2;0;0;2;0;4;5
+34;24/11/2019;18:00;Botafogo;Corinthians;1;0;A. Valentim do Carmo Neto;Coelho;Estádio Nilton Santos;8;25;5;5;28%;72%;239;597;64%;88%;11;19;4;2;0;0;2;2;2;8
+34;24/11/2019;19:02;Ceará SC;São Paulo;1;1;A. Batista;F. Diniz Silva;Arena Castelão;18;6;6;2;49%;51%;434;479;82%;83%;12;16;3;1;0;0;0;0;13;5
+34;24/11/2019;19:00;Internacional;Fortaleza;2;2;J. Mannarino;R. Ceni;Estádio José Pinheiro Borda;23;6;6;3;61%;39%;539;366;86%;79%;16;12;4;2;0;0;0;3;9;3
+34;24/11/2019;19:00;Avaí;Chapecoense;0;1;E. Spinassé Camillato;M. dos Santos Gonçalves;Ressacada;13;15;2;2;58%;42%;490;360;83%;75%;11;15;0;1;1;1;0;0;4;4
+34;25/11/2019;20:00;CSA;Fluminense;0;1;A. Fucks;M. de Oliveira;Estádio Rei Pelé;18;19;4;7;39%;61%;372;604;84%;91%;15;14;2;2;0;0;1;2;5;3
+33;16/11/2019;17:00;Santos;São Paulo;1;1;J. Sampaoli Moya;F. Diniz Silva;Estádio Urbano Caldeira;16;15;3;4;41%;59%;320;463;77%;81%;14;25;0;3;0;0;0;4;3;4
+33;16/11/2019;19:00;Fluminense;Atlético-MG;1;1;M. de Oliveira;V. Carmo Mancini;Maracanã;15;13;4;5;54%;46%;504;423;82%;82%;15;15;2;3;0;0;0;3;1;2
+33;17/11/2019;16:00;Grêmio;Flamengo;0;1;Renato Gaúcho;J. Pinheiro de Jesus;Arena do Grêmio;22;9;6;5;69%;31%;559;270;84%;68%;9;15;1;2;0;1;3;0;10;0
+33;17/11/2019;16:01;Bahia;Palmeiras;1;1;R. Machado Marques;L. Venker de Menezes;Itaipava Arena Fonte Nova;15;22;5;5;45%;55%;404;481;84%;87%;17;16;2;0;0;0;1;0;2;4
+33;17/11/2019;18:00;Chapecoense;Ceará SC;1;0;M. dos Santos Gonçalves;A. Batista;Arena Condá;12;15;5;6;40%;60%;325;508;80%;85%;13;15;2;1;0;0;0;2;6;5
+33;17/11/2019;12:06;Athletico-PR;Botafogo;1;0;E. de Barros;A. Valentim do Carmo Neto;Estádio Joaquim Américo Guimarães;;;;;;;;;;;;;;;;;;;;
+33;17/11/2019;18:00;Corinthians;Internacional;0;0;Coelho;J. Mannarino;Neo Química Arena;14;13;3;2;49%;51%;411;421;77%;75%;9;19;0;2;0;0;2;0;5;3
+33;17/11/2019;19:02;Fortaleza;CSA;3;0;R. Ceni;A. Fucks;Arena Castelão;15;8;6;2;64%;36%;516;294;88%;81%;10;20;0;1;0;0;0;1;4;3
+33;18/11/2019;19:33;Vasco da Gama;Goiás;1;1;V. Luxemburgo da Silva;N. da Silveira Júnior;Estádio Vasco da Gama;9;21;3;6;47%;53%;360;384;78%;78%;22;16;2;2;0;0;3;1;3;16
+33;18/11/2019;20:00;Cruzeiro;Avaí;0;0;A. da Silva Braga;E. Spinassé Camillato;Mineirão;16;10;3;4;73%;27%;573;223;86%;65%;14;20;3;2;0;0;0;0;17;2
+35;27/11/2019;19:30;Internacional;Goiás;1;2;J. Mannarino;N. da Silveira Júnior;Estádio José Pinheiro Borda;24;13;9;7;69%;31%;562;259;83%;61%;22;24;2;4;0;0;3;2;11;3
+35;27/11/2019;19:30;Chapecoense;Botafogo;0;1;M. dos Santos Gonçalves;A. Valentim do Carmo Neto;Arena Condá;25;9;3;2;59%;41%;396;290;85%;74%;12;18;2;3;0;0;0;0;5;2
+35;27/11/2019;21:02;Bahia;Atlético-MG;1;1;R. Machado Marques;V. Carmo Mancini;Itaipava Arena Fonte Nova;16;10;4;3;58%;42%;463;346;82%;77%;12;20;1;1;0;0;0;2;10;4
+35;27/11/2019;19:51;Athletico-PR;Grêmio;2;0;E. de Barros;Renato Gaúcho;Estádio Joaquim Américo Guimarães;;;;;;;;;;;;;;;;;;;;
+35;27/11/2019;21:31;Flamengo;Ceará SC;4;1;J. Pinheiro de Jesus;A. Batista;Maracanã;27;5;7;1;66%;34%;553;287;90%;78%;13;10;2;1;0;1;0;1;13;3
+35;27/11/2019;21:30;Corinthians;Avaí;3;0;Coelho;E. Spinassé Camillato;Neo Química Arena;32;9;9;1;65%;35%;503;277;86%;75%;15;13;0;1;0;0;2;3;7;3
+35;28/11/2019;19:30;Fluminense;Palmeiras;1;0;M. de Oliveira;L. Venker de Menezes;Maracanã;13;10;4;3;45%;55%;468;551;86%;88%;15;20;3;4;0;0;0;2;2;6
+35;28/11/2019;20:01;Fortaleza;Santos;2;1;R. Ceni;J. Sampaoli Moya;Arena Castelão;11;14;3;4;37%;63%;246;419;76%;85%;16;17;2;6;0;2;1;3;5;8
+35;28/11/2019;20:31;São Paulo;Vasco da Gama;1;0;F. Diniz Silva;V. Luxemburgo da Silva;Morumbi;15;10;6;5;56%;44%;486;376;85%;82%;29;16;4;2;0;0;2;0;5;5
+35;28/11/2019;21:30;Cruzeiro;CSA;0;1;A. da Silva Braga;A. Fucks;Mineirão;21;5;9;3;73%;27%;525;215;84%;60%;9;16;0;4;0;0;1;2;9;1
+36;30/11/2019;19:00;Botafogo;Internacional;0;1;A. Valentim do Carmo Neto;J. Mannarino;Estádio Nilton Santos;8;17;1;7;44%;56%;374;475;80%;84%;8;14;2;3;0;0;3;1;5;9
+36;30/11/2019;19:00;Ceará SC;Athletico-PR;1;1;A. Fucks;E. de Barros;Arena Castelão;16;10;8;3;52%;48%;382;373;80%;77%;17;16;7;1;0;1;1;2;6;4
+36;01/12/2019;16:01;Avaí;Fluminense;1;1;E. Spinassé Camillato;M. de Oliveira;Ressacada;5;7;1;2;43%;57%;377;488;78%;84%;26;20;4;5;0;0;0;0;3;4
+36;01/12/2019;15:59;Palmeiras;Flamengo;1;3;L. Venker de Menezes;J. Pinheiro de Jesus;Allianz Parque;14;9;5;8;44%;56%;420;545;86%;87%;18;21;1;2;0;0;4;1;3;6
+36;01/12/2019;16:02;Goiás;Fortaleza;1;2;N. da Silveira Júnior;R. Ceni;Estádio do Governo do Estado de Goiás (Serra Dourada);19;11;4;6;58%;42%;421;334;83%;79%;11;15;1;4;0;0;2;1;14;6
+36;01/12/2019;17:58;CSA;Bahia;1;2;G. Santos Vasconcelo;R. Machado Marques;Estádio Rei Pelé;13;17;4;8;52%;48%;414;372;83%;82%;9;12;3;3;0;1;4;0;6;8
+36;01/12/2019;18:00;Atlético-MG;Corinthians;2;1;V. Carmo Mancini;Coelho;Estádio Raimundo Sampaio;14;13;9;4;41%;59%;273;394;73%;81%;15;8;3;1;0;0;2;3;7;5
+36;01/12/2019;19:00;Santos;Chapecoense;2;0;J. Sampaoli Moya;M. dos Santos Gonçalves;Estádio Urbano Caldeira;11;4;5;0;68%;32%;499;243;88%;78%;18;19;3;4;0;0;2;0;3;2
+36;01/12/2019;19:00;Grêmio;São Paulo;3;0;Renato Gaúcho;F. Diniz Silva;Arena do Grêmio;13;10;4;1;42%;58%;375;521;80%;84%;15;16;0;0;0;0;0;1;1;5
+36;02/12/2019;20:01;Vasco da Gama;Cruzeiro;1;0;V. Luxemburgo da Silva;A. Batista;Estádio Vasco da Gama;6;14;1;1;41%;59%;295;400;71%;80%;16;19;3;3;0;0;1;0;2;17
+37;04/12/2019;19:01;Athletico-PR;Santos;1;0;E. de Barros;J. Sampaoli Moya;Estádio Joaquim Américo Guimarães;9;9;3;3;51%;49%;366;364;79%;83%;16;9;2;3;0;1;3;5;6;3
+37;04/12/2019;19:31;Ceará SC;Corinthians;0;1;A. Fucks;Coelho;Arena Castelão;9;19;2;3;36%;64%;261;479;74%;86%;15;14;2;4;1;0;2;0;9;6
+37;04/12/2019;19:30;Atlético-MG;Botafogo;2;0;V. Carmo Mancini;A. Valentim do Carmo Neto;Mineirão;27;13;8;6;48%;52%;419;446;81%;83%;11;10;1;3;0;0;2;1;11;8
+37;04/12/2019;21:00;Chapecoense;CSA;3;0;M. dos Santos Gonçalves;G. Santos Vasconcelo;Arena Condá;19;10;6;3;56%;44%;468;369;87%;84%;21;13;1;1;0;1;1;1;2;5
+37;04/12/2019;21:30;Fluminense;Fortaleza;0;0;M. de Oliveira;R. Ceni;Maracanã;13;13;3;4;59%;41%;560;411;87%;87%;16;9;1;0;1;1;0;1;6;1
+37;04/12/2019;21:30;São Paulo;Internacional;2;1;M. Longo de Araújo;J. Mannarino;Morumbi;19;11;8;3;42%;58%;368;515;79%;83%;20;19;3;4;0;0;3;1;8;2
+37;05/12/2019;19:15;Grêmio;Cruzeiro;2;0;Renato Gaúcho;A. Batista;Arena do Grêmio;14;13;7;2;63%;37%;580;342;86%;79%;11;21;0;3;0;1;1;1;5;6
+37;05/12/2019;19:17;Palmeiras;Goiás;5;1;A. Lopes dos Santos;N. da Silveira Júnior;Estádio Brinco de Ouro;10;10;6;3;44%;56%;382;475;85%;87%;21;13;5;1;0;0;1;1;1;3
+37;05/12/2019;19:19;Bahia;Vasco da Gama;1;1;R. Machado Marques;V. Luxemburgo da Silva;Itaipava Arena Fonte Nova;15;10;4;4;46%;54%;436;510;86%;89%;21;11;2;2;1;1;1;2;2;6
+37;05/12/2019;20:03;Flamengo;Avaí;6;1;J. Pinheiro de Jesus;E. Spinassé Camillato;Maracanã;21;8;13;3;68%;32%;608;283;88%;71%;18;13;0;1;0;0;0;2;8;3
+38;08/12/2019;16:00;Corinthians;Fluminense;1;2;Coelho;M. de Oliveira;Neo Química Arena;16;10;3;3;60%;40%;538;360;83%;76%;21;14;1;3;0;0;0;2;3;5
+38;08/12/2019;16:02;Santos;Flamengo;4;0;J. Sampaoli Moya;J. Pinheiro de Jesus;Estádio Urbano Caldeira;21;5;8;1;51%;49%;391;386;82%;81%;12;15;2;3;0;0;4;0;3;5
+38;08/12/2019;16:00;Botafogo;Ceará SC;1;1;A. Valentim do Carmo Neto;A. Fucks;Estádio Nilton Santos;15;14;2;2;51%;49%;394;382;84%;78%;12;19;0;2;0;0;0;2;3;6
+38;08/12/2019;16:01;CSA;São Paulo;1;2;G. Santos Vasconcelo;F. Diniz Silva;Estádio Rei Pelé;24;13;6;4;42%;58%;349;493;88%;89%;17;24;1;2;0;1;1;1;6;4
+38;08/12/2019;16:00;Internacional;Atlético-MG;2;1;J. Mannarino;V. Carmo Mancini;Estádio José Pinheiro Borda;20;10;7;4;65%;35%;470;272;83%;71%;11;16;4;1;0;0;2;1;18;3
+38;08/12/2019;16:01;Cruzeiro;Palmeiras;0;2;A. Batista;A. Lopes dos Santos;Mineirão;9;8;3;5;57%;43%;505;384;86%;81%;11;11;0;1;0;0;1;2;4;3
+38;08/12/2019;16:01;Goiás;Grêmio;3;2;N. da Silveira Júnior;Renato Gaúcho;Estádio do Governo do Estado de Goiás (Serra Dourada);18;15;6;6;45%;55%;309;392;79%;80%;21;8;1;1;0;0;1;2;7;4
+38;08/12/2019;16:01;Vasco da Gama;Chapecoense;1;1;V. Luxemburgo da Silva;M. dos Santos Gonçalves;Maracanã;24;9;7;2;52%;48%;378;363;83%;84%;18;16;2;3;0;0;1;0;7;2
+38;08/12/2019;16:08;Avaí;Athletico-PR;0;0;E. Spinassé Camillato;E. de Barros;Ressacada;;;;;;;;;;;;;;;;;;;;
+38;08/12/2019;16:01;Fortaleza;Bahia;2;1;R. Ceni;R. Machado Marques;Arena Castelão;8;11;4;4;57%;43%;417;308;84%;75%;9;15;2;1;0;0;4;3;2;3

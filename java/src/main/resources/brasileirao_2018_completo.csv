@@ -1,0 +1,381 @@
+﻿rodada;data;hora;time_casa;time_fora;gols_casa;gols_fora;tecnico_casa;tecnico_fora;estadio;stat_chutes_casa;stat_chutes_fora;stat_chutes_a_gol_casa;stat_chutes_a_gol_fora;stat_posse_de_bola_casa;stat_posse_de_bola_fora;stat_passes_casa;stat_passes_fora;stat_precisão_de_passe_casa;stat_precisão_de_passe_fora;stat_faltas_casa;stat_faltas_fora;stat_cartões_amarelos_casa;stat_cartões_amarelos_fora;stat_cartões_vermelhos_casa;stat_cartões_vermelhos_fora;stat_impedimentos_casa;stat_impedimentos_fora;stat_escanteios_casa;stat_escanteios_fora
+1;14/04/2018;16:00;Cruzeiro;Grêmio;0;1;L. Venker de Menezes;Renato Gaúcho;Mineirão;12;6;2;2;40%;60%;425;649;81%;86%;20;15;3;1;0;1;0;3;7;4
+1;14/04/2018;19:02;EC Vitória;Flamengo;2;2;V. Carmo Mancini;M. Nogueira Barbieri;Barradão;21;10;6;5;66%;34%;545;286;88%;72%;24;10;3;2;0;1;2;2;4;5
+1;14/04/2018;21:03;Santos;Ceará SC;2;0;J. Ribeiro Ventura;M. Oliveira Chamusca;Estádio Municipal Paulo Machado de Carvalho;22;10;3;2;54%;46%;532;472;90%;85%;7;5;0;1;0;0;1;0;4;2
+1;15/04/2018;11:00;América-MG;Sport Recife;3;0;E. Alves Moreira;N. Baptista Júnior;Estádio Raimundo Sampaio;14;15;4;5;38%;62%;363;580;76%;85%;11;12;1;3;0;0;4;3;2;6
+1;15/04/2018;16:01;Vasco da Gama;Atlético-MG;2;1;J. Mannarino;T. Mendes Larghi;Estádio Vasco da Gama;19;11;7;6;67%;33%;596;321;88%;78%;11;18;4;3;0;0;3;3;9;3
+1;15/04/2018;16:02;Internacional;Bahia;2;0;O. Hellmann;A. Ferreira;Estádio José Pinheiro Borda;13;12;4;2;45%;55%;412;491;75%;82%;16;18;2;0;0;0;1;1;4;3
+1;15/04/2018;16:02;Corinthians;Fluminense;2;1;F. Carille;A. da Silva Braga;Neo Química Arena;11;13;2;3;65%;35%;515;293;84%;73%;14;15;0;0;0;0;0;0;6;2
+1;15/04/2018;19:01;Athletico-PR;Chapecoense;5;1;F. Diniz Silva;G. Kleina;Estádio Joaquim Américo Guimarães;18;14;8;1;70%;30%;646;271;92%;77%;10;16;1;3;0;0;3;1;3;9
+1;16/04/2018;19:59;São Paulo;Paraná;1;0;D. Aguirre Camblor;Ademir Fesan;Morumbi;10;7;5;1;52%;48%;480;446;86%;84%;20;15;4;2;0;0;3;2;7;7
+1;16/04/2018;20:00;Botafogo;Palmeiras;1;1;A. Valentim do Carmo Neto;R. Machado Marques;Estádio Nilton Santos;13;7;3;4;46%;54%;409;498;80%;81%;7;23;1;4;0;0;0;0;8;3
+2;21/04/2018;16:02;Bahia;Santos;1;0;A. Ferreira;J. Ribeiro Ventura;Itaipava Arena Fonte Nova;12;8;5;2;54%;46%;395;352;84%;80%;29;21;4;3;0;0;2;5;7;6
+2;21/04/2018;19:00;Flamengo;América-MG;2;0;M. Nogueira Barbieri;E. Alves Moreira;Maracanã;14;18;5;5;49%;51%;345;345;82%;79%;15;17;1;1;0;0;1;0;6;12
+2;22/04/2018;11:00;Paraná;Corinthians;0;4;Ademir Fesan;F. Carille;Vila Capanema;17;9;6;4;48%;52%;413;467;84%;82%;16;16;1;1;0;0;2;1;5;2
+2;22/04/2018;16:00;Ceará SC;São Paulo;0;0;M. Oliveira Chamusca;D. Aguirre Camblor;Arena Castelão;14;11;3;3;51%;49%;497;476;85%;86%;12;7;1;1;0;0;1;1;7;7
+2;22/04/2018;16:00;Atlético-MG;EC Vitória;2;1;T. Mendes Larghi;V. Carmo Mancini;Estádio Raimundo Sampaio;12;11;5;3;61%;39%;497;321;86%;78%;22;19;2;4;0;0;6;1;6;5
+2;22/04/2018;16:00;Fluminense;Cruzeiro;1;0;A. da Silva Braga;L. Venker de Menezes;Maracanã;3;16;1;6;31%;69%;273;576;69%;85%;13;19;3;2;1;0;0;3;1;7
+2;22/04/2018;16:01;Chapecoense;Vasco da Gama;1;1;G. Kleina;J. Mannarino;Arena Condá;10;17;2;4;36%;64%;306;559;75%;84%;13;8;1;2;0;0;2;2;3;3
+2;22/04/2018;16:01;Palmeiras;Internacional;1;0;R. Machado Marques;O. Hellmann;Estádio Municipal Paulo Machado de Carvalho;13;7;2;2;44%;56%;390;483;79%;81%;14;15;2;2;0;0;0;2;8;9
+2;22/04/2018;19:02;Grêmio;Athletico-PR;0;0;Renato Gaúcho;F. Diniz Silva;Arena do Grêmio;22;7;6;1;49%;51%;587;602;86%;85%;9;15;3;2;0;1;3;1;7;4
+2;23/04/2018;20:00;Sport Recife;Botafogo;1;1;N. Baptista Júnior;A. Valentim do Carmo Neto;Adelmar da Costa Carvalho;20;10;11;1;51%;49%;391;375;77%;77%;14;15;1;3;0;0;2;0;10;7
+3;28/04/2018;16:01;Botafogo;Grêmio;2;1;A. Valentim do Carmo Neto;Renato Gaúcho;Estádio Nilton Santos;19;9;6;1;56%;44%;464;388;85%;79%;14;12;1;1;0;0;0;2;10;4
+3;29/04/2018;16:01;Bahia;Athletico-PR;0;0;A. Ferreira;F. Diniz Silva;Itaipava Arena Fonte Nova;23;9;7;2;34%;66%;334;640;83%;88%;22;12;2;2;0;0;2;1;8;2
+3;29/04/2018;16:01;Ceará SC;Flamengo;0;3;M. Oliveira Chamusca;M. Nogueira Barbieri;Arena Castelão;8;18;1;7;48%;52%;401;431;88%;86%;18;12;1;2;0;0;1;3;2;5
+3;29/04/2018;15:59;Palmeiras;Chapecoense;0;0;R. Machado Marques;G. Kleina;Allianz Parque;16;7;4;0;72%;28%;589;237;85%;71%;17;17;4;6;0;0;2;2;14;1
+3;29/04/2018;16:01;Paraná;Sport Recife;1;2;Ademir Fesan;C. dos Santos Oliveira;Vila Capanema;28;10;12;3;70%;30%;575;261;85%;63%;14;15;1;1;0;0;2;3;8;1
+3;29/04/2018;16:00;Atlético-MG;Corinthians;1;0;T. Mendes Larghi;F. Carille;Estádio Raimundo Sampaio;18;5;5;1;58%;42%;556;413;88%;80%;25;15;4;3;0;0;2;0;10;0
+3;29/04/2018;16:00;Fluminense;São Paulo;1;1;A. da Silva Braga;D. Aguirre Camblor;Maracanã;12;14;2;3;55%;45%;370;316;80%;73%;17;16;3;2;0;0;2;0;7;8
+3;29/04/2018;19:00;Internacional;Cruzeiro;0;0;O. Hellmann;L. Venker de Menezes;Estádio José Pinheiro Borda;22;8;6;0;59%;41%;462;350;83%;77%;15;14;4;3;0;0;5;1;18;4
+3;30/04/2018;20:02;América-MG;EC Vitória;2;1;E. Alves Moreira;V. Carmo Mancini;Estádio Raimundo Sampaio;15;14;8;5;40%;60%;305;445;68%;79%;14;12;1;2;1;0;0;3;8;7
+3;27/09/2018;20:01;Santos;Vasco da Gama;1;1;A. Stival;A. Valentim do Carmo Neto;Estádio Municipal Paulo Machado de Carvalho;13;14;3;3;54%;46%;444;397;84%;82%;11;17;1;2;0;1;3;0;10;6
+4;05/05/2018;19:00;Vasco da Gama;América-MG;4;1;J. Mannarino;E. Alves Moreira;Estádio Vasco da Gama;18;4;7;1;67%;33%;557;282;86%;70%;14;24;4;4;0;0;5;0;3;3
+4;05/05/2018;19:01;São Paulo;Atlético-MG;2;2;D. Aguirre Camblor;T. Mendes Larghi;Morumbi;7;9;2;5;38%;62%;317;535;77%;87%;17;14;4;4;0;0;2;2;6;7
+4;06/05/2018;11:03;Corinthians;Ceará SC;1;1;F. Carille;M. Oliveira Chamusca;Neo Química Arena;14;4;4;3;62%;38%;585;380;89%;82%;12;20;2;4;0;0;2;3;12;2
+4;06/05/2018;16:00;Flamengo;Internacional;2;0;M. Nogueira Barbieri;O. Hellmann;Maracanã;17;11;7;4;58%;42%;470;345;86%;82%;12;15;5;4;0;1;1;0;6;6
+4;06/05/2018;16:00;Cruzeiro;Botafogo;1;0;L. Venker de Menezes;A. Valentim do Carmo Neto;Mineirão;23;7;6;1;52%;48%;417;395;82%;80%;19;12;1;4;0;0;5;1;8;6
+4;06/05/2018;16:00;Athletico-PR;Palmeiras;1;3;F. Diniz Silva;R. Machado Marques;Estádio Joaquim Américo Guimarães;9;15;4;6;62%;38%;619;389;89%;77%;10;15;1;2;0;0;3;1;3;6
+4;06/05/2018;16:01;EC Vitória;Fluminense;1;2;V. Carmo Mancini;A. da Silva Braga;Barradão;7;18;1;4;34%;66%;274;517;72%;84%;18;7;2;1;0;0;3;1;3;9
+4;06/05/2018;19:00;Grêmio;Santos;5;1;Renato Gaúcho;J. Ribeiro Ventura;Arena do Grêmio;18;8;8;2;64%;36%;657;370;90%;83%;15;22;1;3;0;0;0;1;8;1
+4;06/05/2018;19:01;Sport Recife;Bahia;2;0;C. dos Santos Oliveira;A. Ferreira;Adelmar da Costa Carvalho;20;7;9;1;47%;53%;343;393;76%;78%;18;21;1;1;0;1;1;0;9;7
+4;07/05/2018;20:01;Chapecoense;Paraná;1;1;G. Kleina;Ademir Fesan;Arena Condá;13;18;2;3;53%;47%;373;338;73%;71%;10;16;1;2;0;1;0;1;6;4
+5;12/05/2018;16:01;Grêmio;Internacional;0;0;Renato Gaúcho;O. Hellmann;Arena do Grêmio;11;5;1;1;78%;22%;721;212;89%;65%;13;24;3;4;0;0;0;0;11;1
+5;13/05/2018;11:01;Cruzeiro;Sport Recife;2;0;L. Venker de Menezes;C. dos Santos Oliveira;Mineirão;15;10;5;4;56%;44%;481;389;86%;82%;18;16;2;3;0;0;4;2;7;4
+5;13/05/2018;16:03;Athletico-PR;Atlético-MG;1;2;F. Diniz Silva;T. Mendes Larghi;Estádio Joaquim Américo Guimarães;18;23;8;11;63%;37%;607;358;88%;79%;15;16;2;2;0;0;1;0;6;10
+5;13/05/2018;16:00;Vasco da Gama;EC Vitória;2;3;J. Mannarino;V. Carmo Mancini;Estádio Vasco da Gama;20;9;7;3;63%;37%;472;289;80%;69%;16;19;2;3;0;0;1;1;7;2
+5;13/05/2018;16:01;Corinthians;Palmeiras;1;0;F. Carille;R. Machado Marques;Neo Química Arena;11;10;5;4;53%;47%;409;366;79%;74%;15;21;2;3;0;0;0;2;10;3
+5;13/05/2018;16:01;Bahia;São Paulo;2;2;A. Ferreira;D. Aguirre Camblor;Itaipava Arena Fonte Nova;11;10;5;4;48%;52%;378;392;78%;76%;20;14;5;3;0;0;1;1;3;3
+5;13/05/2018;16:01;Chapecoense;Flamengo;3;2;G. Kleina;M. Nogueira Barbieri;Arena Condá;11;14;3;4;42%;58%;327;437;79%;82%;18;17;2;3;0;0;1;3;3;7
+5;13/05/2018;19:00;Santos;Paraná;3;1;J. Ribeiro Ventura;Ademir Fesan;Estádio Urbano Caldeira;10;14;5;4;57%;43%;545;419;87%;86%;12;14;1;2;0;0;4;0;6;5
+5;14/05/2018;20:02;Botafogo;Fluminense;2;1;A. Valentim do Carmo Neto;A. da Silva Braga;Estádio Nilton Santos;8;22;5;9;41%;59%;328;465;77%;84%;12;12;2;2;0;0;2;2;5;9
+5;14/05/2018;20:00;Ceará SC;América-MG;2;2;M. Oliveira Chamusca;E. Alves Moreira;Arena Castelão;24;11;9;4;65%;35%;516;287;84%;68%;16;18;1;3;0;0;2;3;8;2
+6;19/05/2018;16:00;Atlético-MG;Cruzeiro;1;0;T. Mendes Larghi;L. Venker de Menezes;Estádio Raimundo Sampaio;18;11;5;2;69%;31%;588;260;86%;75%;13;15;3;1;0;1;0;1;3;6
+6;19/05/2018;19:01;Flamengo;Vasco da Gama;1;1;M. Nogueira Barbieri;J. Mannarino;Maracanã;11;16;3;7;61%;39%;462;298;82%;76%;16;24;2;3;2;2;3;0;6;11
+6;19/05/2018;21:00;Palmeiras;Bahia;3;0;R. Machado Marques;A. Ferreira;Allianz Parque;14;13;6;4;53%;47%;438;393;80%;80%;17;13;3;2;0;0;4;1;5;4
+6;20/05/2018;11:02;EC Vitória;Ceará SC;2;1;V. Carmo Mancini;M. Oliveira Chamusca;Barradão;14;16;3;6;41%;59%;351;508;77%;84%;11;17;4;0;0;0;0;1;7;4
+6;20/05/2018;16:01;São Paulo;Santos;1;0;D. Aguirre Camblor;J. Ribeiro Ventura;Morumbi;14;7;1;1;39%;61%;341;557;75%;82%;13;6;3;2;1;0;2;1;4;2
+6;20/05/2018;16:00;América-MG;Botafogo;1;0;E. Alves Moreira;A. Valentim do Carmo Neto;Estádio Raimundo Sampaio;14;9;2;1;43%;57%;422;553;81%;85%;20;11;2;4;0;0;1;5;5;2
+6;20/05/2018;16:00;Paraná;Grêmio;0;0;Ademir Fesan;Renato Gaúcho;Vila Capanema;6;8;0;2;25%;75%;246;719;71%;90%;16;18;2;1;0;0;0;1;1;9
+6;20/05/2018;16:00;Sport Recife;Corinthians;1;1;C. dos Santos Oliveira;F. Carille;Arena de Pernambuco;14;5;5;2;44%;56%;436;562;85%;88%;18;17;2;3;0;0;1;2;3;5
+6;20/05/2018;19:00;Fluminense;Athletico-PR;2;0;A. da Silva Braga;F. Diniz Silva;Maracanã;14;18;6;3;32%;68%;294;612;75%;87%;13;18;1;2;0;0;2;1;3;6
+6;21/05/2018;20:00;Internacional;Chapecoense;3;0;O. Hellmann;G. Kleina;Estádio José Pinheiro Borda;13;10;3;2;49%;51%;450;462;82%;81%;14;15;1;2;0;0;2;0;2;2
+7;26/05/2018;16:00;Fluminense;Chapecoense;3;1;A. da Silva Braga;G. Kleina;Maracanã;11;16;5;5;45%;55%;387;445;79%;82%;21;14;1;1;0;0;1;0;1;6
+7;26/05/2018;19:00;Palmeiras;Sport Recife;2;3;R. Machado Marques;C. dos Santos Oliveira;Allianz Parque;16;13;5;6;61%;39%;501;324;79%;70%;17;10;3;2;0;1;4;0;9;3
+7;26/05/2018;21:00;Atlético-MG;Flamengo;0;1;T. Mendes Larghi;M. Nogueira Barbieri;Estádio Raimundo Sampaio;18;7;3;4;68%;32%;599;306;86%;78%;15;13;1;4;0;0;0;4;14;1
+7;27/05/2018;11:00;Paraná;Athletico-PR;0;0;Ademir Fesan;F. Diniz Silva;Vila Capanema;15;6;2;1;31%;69%;296;673;79%;90%;8;14;3;1;0;0;1;1;10;4
+7;27/05/2018;16:00;Internacional;Corinthians;2;1;O. Hellmann;O. Loss;Estádio José Pinheiro Borda;19;4;7;2;55%;45%;500;437;87%;81%;13;10;3;1;0;0;2;0;12;2
+7;27/05/2018;16:00;Bahia;Vasco da Gama;3;0;A. Ferreira;J. Mannarino;Itaipava Arena Fonte Nova;14;6;6;1;52%;48%;460;442;83%;79%;20;16;1;5;0;1;3;2;4;2
+7;27/05/2018;16:03;Santos;Cruzeiro;0;1;J. Ribeiro Ventura;L. Venker de Menezes;Estádio Municipal Paulo Machado de Carvalho;16;17;6;4;55%;45%;496;407;84%;82%;12;12;1;4;0;0;0;0;5;7
+7;27/05/2018;16:01;Botafogo;EC Vitória;1;1;A. Valentim do Carmo Neto;V. Carmo Mancini;Estádio Nilton Santos;8;6;3;1;59%;41%;497;359;80%;72%;10;18;1;4;0;0;6;2;6;1
+7;27/05/2018;18:59;Ceará SC;Grêmio;0;1;J. de Amorim Campos;Renato Gaúcho;Arena Castelão;11;11;1;5;40%;60%;411;638;83%;89%;15;13;4;2;0;0;1;0;6;3
+7;27/05/2018;19:00;América-MG;São Paulo;1;3;E. Alves Moreira;D. Aguirre Camblor;Estádio Raimundo Sampaio;12;12;4;6;56%;44%;427;337;80%;73%;22;19;4;3;0;0;2;5;9;7
+8;30/05/2018;19:29;Vasco da Gama;Paraná;1;0;J. Mannarino;Ademir Fesan;Estádio Vasco da Gama;13;10;4;2;51%;49%;399;392;78%;80%;24;18;3;3;1;1;0;4;4;2
+8;30/05/2018;10:13;EC Vitória;Internacional;2;3;V. Carmo Mancini;O. Hellmann;Barradão;22;11;6;3;45%;55%;333;415;76%;79%;14;12;3;2;0;0;2;2;10;4
+8;30/05/2018;19:30;Sport Recife;Atlético-MG;3;2;C. dos Santos Oliveira;T. Mendes Larghi;Adelmar da Costa Carvalho;15;13;6;7;40%;60%;355;540;81%;86%;14;10;4;2;0;0;3;5;1;3
+8;30/05/2018;21:00;Chapecoense;Ceará SC;2;0;G. Kleina;J. de Amorim Campos;Arena Condá;20;9;5;3;47%;53%;342;414;80%;79%;17;13;2;3;0;0;1;1;9;2
+8;30/05/2018;21:00;São Paulo;Botafogo;3;2;D. Aguirre Camblor;A. Valentim do Carmo Neto;Morumbi;15;11;7;3;40%;60%;326;467;72%;81%;19;16;2;3;0;0;3;1;3;3
+8;30/05/2018;21:45;Grêmio;Fluminense;0;0;Renato Gaúcho;A. da Silva Braga;Arena do Grêmio;20;6;6;3;70%;30%;632;278;88%;68%;19;13;1;5;0;0;2;0;8;0
+8;30/05/2018;21:47;Cruzeiro;Palmeiras;1;0;L. Venker de Menezes;R. Machado Marques;Mineirão;8;6;1;4;51%;49%;439;439;79%;80%;26;18;3;6;0;0;3;1;3;3
+8;31/05/2018;16:00;Flamengo;Bahia;2;0;M. Nogueira Barbieri;A. Ferreira;Maracanã;16;17;6;7;57%;43%;588;440;85%;86%;10;7;0;2;0;0;0;2;4;5
+8;31/05/2018;18:00;Corinthians;América-MG;1;0;O. Loss;E. Alves Moreira;Neo Química Arena;12;13;3;6;60%;40%;619;409;88%;79%;14;13;2;2;0;2;2;1;1;4
+8;31/05/2018;21:00;Athletico-PR;Santos;2;0;F. Diniz Silva;J. Ribeiro Ventura;Estádio Joaquim Américo Guimarães;17;17;9;3;42%;58%;446;610;82%;89%;14;6;1;1;0;0;2;1;4;7
+9;02/06/2018;15:59;Internacional;Sport Recife;0;0;O. Hellmann;C. dos Santos Oliveira;Estádio José Pinheiro Borda;18;11;3;3;56%;44%;457;396;74%;73%;14;14;3;3;0;0;2;2;14;3
+9;02/06/2018;16:00;Atlético-MG;Chapecoense;3;3;T. Mendes Larghi;G. Kleina;Estádio Raimundo Sampaio;22;7;5;3;72%;28%;568;225;87%;72%;15;19;2;3;0;1;0;6;6;3
+9;02/06/2018;18:59;Vasco da Gama;Botafogo;1;2;J. Mannarino;A. Valentim do Carmo Neto;Estádio Vasco da Gama;14;13;4;5;73%;27%;668;238;87%;65%;12;16;2;4;0;0;0;0;4;7
+9;02/06/2018;21:00;Palmeiras;São Paulo;3;1;R. Machado Marques;D. Aguirre Camblor;Allianz Parque;8;8;3;3;48%;52%;303;326;77%;77%;22;23;4;4;0;0;2;0;5;9
+9;03/06/2018;16:00;Flamengo;Corinthians;1;0;M. Nogueira Barbieri;O. Loss;Maracanã;19;15;4;2;53%;47%;462;417;87%;85%;14;18;3;1;0;0;1;0;8;7
+9;03/06/2018;16:01;Bahia;Grêmio;0;2;A. Ferreira;Renato Gaúcho;Itaipava Arena Fonte Nova;15;10;2;4;57%;43%;467;372;81%;80%;18;16;2;5;0;0;0;4;5;1
+9;03/06/2018;16:00;América-MG;Athletico-PR;3;1;E. Alves Moreira;F. Diniz Silva;Estádio Raimundo Sampaio;21;7;7;2;42%;58%;391;548;78%;83%;9;15;1;2;0;0;1;4;9;5
+9;03/06/2018;16:00;Santos;EC Vitória;5;2;J. Ribeiro Ventura;V. Carmo Mancini;Estádio Urbano Caldeira;21;14;10;6;57%;43%;447;329;87%;81%;12;16;0;4;0;0;5;0;8;11
+9;03/06/2018;18:59;Ceará SC;Cruzeiro;0;1;J. de Amorim Campos;L. Venker de Menezes;Arena Castelão;9;13;4;7;42%;58%;405;563;84%;88%;13;15;2;4;0;0;1;4;1;6
+9;04/06/2018;20:01;Paraná;Fluminense;2;1;Ademir Fesan;A. da Silva Braga;Vila Capanema;12;13;5;4;39%;61%;323;487;75%;83%;14;16;6;3;0;0;2;3;4;7
+10;05/06/2018;21:30;São Paulo;Internacional;0;0;D. Aguirre Camblor;O. Hellmann;Morumbi;9;13;3;3;48%;52%;397;449;76%;77%;30;8;4;2;0;0;0;1;6;3
+10;06/06/2018;19:31;EC Vitória;Chapecoense;1;0;V. Carmo Mancini;G. Kleina;Barradão;14;11;6;3;47%;53%;369;403;73%;77%;20;15;3;2;0;0;2;1;3;5
+10;06/06/2018;19:29;Botafogo;Ceará SC;0;0;A. Valentim do Carmo Neto;L. Cirne Lima de Lorenzi;Estádio Nilton Santos;18;7;4;2;57%;43%;463;365;85%;80%;17;17;0;3;0;0;2;2;4;4
+10;06/06/2018;21:01;Corinthians;Santos;1;1;O. Loss;J. Ribeiro Ventura;Neo Química Arena;14;19;4;7;51%;49%;425;421;87%;84%;12;15;3;2;0;0;2;3;8;11
+10;06/06/2018;21:00;Sport Recife;Athletico-PR;1;0;C. dos Santos Oliveira;F. Diniz Silva;Adelmar da Costa Carvalho;10;10;3;3;33%;67%;291;573;77%;87%;13;20;2;4;0;0;0;2;1;6
+10;06/06/2018;21:45;Grêmio;Palmeiras;0;2;Renato Gaúcho;R. Machado Marques;Arena do Grêmio;14;9;5;3;53%;47%;449;414;83%;81%;13;30;2;5;0;0;0;1;5;7
+10;06/06/2018;21:45;Cruzeiro;Vasco da Gama;1;1;L. Venker de Menezes;V. de Morais Filho;Mineirão;18;5;3;3;66%;34%;533;297;85%;66%;8;14;1;1;0;0;1;3;12;1
+10;07/06/2018;20:00;Paraná;Bahia;1;0;Ademir Fesan;C. Prates;Vila Capanema;12;10;2;4;46%;54%;412;457;75%;81%;17;18;4;2;0;0;1;2;3;6
+10;07/06/2018;20:00;Fluminense;Flamengo;0;2;A. da Silva Braga;M. Nogueira Barbieri;Estádio Nacional de Brasília;11;9;3;8;53%;47%;409;383;86%;82%;16;7;5;2;0;0;0;1;10;7
+10;07/06/2018;20:59;América-MG;Atlético-MG;1;3;E. Alves Moreira;T. Mendes Larghi;Estádio Raimundo Sampaio;17;12;3;4;47%;53%;434;504;82%;83%;13;7;2;2;0;0;3;1;11;6
+11;09/06/2018;16:01;Athletico-PR;São Paulo;0;1;F. Diniz Silva;D. Aguirre Camblor;Estádio Joaquim Américo Guimarães;14;9;5;3;62%;38%;509;318;85%;78%;15;18;3;3;0;0;1;3;5;3
+11;09/06/2018;20:18;Chapecoense;Cruzeiro;2;0;G. Kleina;L. Venker de Menezes;Arena Condá;10;8;3;2;44%;56%;338;432;73%;81%;22;17;2;3;0;0;3;4;3;6
+11;09/06/2018;19:00;Vasco da Gama;Sport Recife;3;2;J. de Amorim Campos;C. dos Santos Oliveira;Estádio Vasco da Gama;13;13;7;2;40%;60%;382;546;79%;84%;27;10;4;3;0;0;1;4;1;2
+11;09/06/2018;21:01;Corinthians;EC Vitória;0;0;O. Loss;V. Carmo Mancini;Neo Química Arena;18;13;2;3;64%;36%;499;287;82%;75%;14;19;2;2;0;0;4;0;10;6
+11;10/06/2018;16:00;Atlético-MG;Fluminense;5;2;T. Mendes Larghi;A. da Silva Braga;Estádio Raimundo Sampaio;16;15;9;4;51%;49%;493;479;89%;87%;15;9;2;2;0;0;3;0;4;7
+11;10/06/2018;16:00;Bahia;Botafogo;3;3;C. Prates;A. Valentim do Carmo Neto;Itaipava Arena Fonte Nova;21;12;9;5;60%;40%;463;340;82%;72%;24;9;4;2;0;1;3;0;13;1
+11;10/06/2018;15:59;Grêmio;América-MG;1;0;Renato Gaúcho;E. Alves Moreira;Arena do Grêmio;12;10;4;3;63%;37%;586;357;86%;78%;14;13;2;3;0;0;0;0;7;4
+11;10/06/2018;16:00;Ceará SC;Palmeiras;2;2;L. Cirne Lima de Lorenzi;R. Machado Marques;Arena Castelão;17;9;6;3;42%;58%;358;505;78%;82%;15;12;3;2;0;0;1;2;4;4
+11;10/06/2018;19:00;Flamengo;Paraná;2;0;M. Nogueira Barbieri;Ademir Fesan;Maracanã;11;7;5;0;63%;37%;601;357;91%;85%;11;8;2;0;0;0;1;1;9;5
+11;10/06/2018;18:59;Santos;Internacional;1;2;J. Ribeiro Ventura;O. Hellmann;Estádio Urbano Caldeira;15;14;4;4;61%;39%;535;348;85%;80%;10;20;3;4;1;0;1;1;7;2
+12;12/06/2018;21:31;São Paulo;EC Vitória;3;0;D. Aguirre Camblor;V. Carmo Mancini;Morumbi;14;9;5;5;57%;43%;454;362;83%;81%;24;17;3;3;1;1;5;1;6;1
+12;13/06/2018;16:01;América-MG;Chapecoense;0;0;E. Alves Moreira;G. Kleina;Estádio Raimundo Sampaio;12;10;3;2;49%;51%;413;417;84%;82%;13;15;5;0;0;0;2;1;3;8
+12;13/06/2018;19:00;Fluminense;Santos;0;1;A. da Silva Braga;J. Ribeiro Ventura;Maracanã;13;6;1;2;48%;52%;501;528;88%;88%;16;12;2;3;0;0;1;3;2;7
+12;13/06/2018;19:31;Sport Recife;Grêmio;0;0;C. dos Santos Oliveira;Renato Gaúcho;Adelmar da Costa Carvalho;10;5;1;3;52%;48%;476;455;84%;80%;14;16;3;2;0;0;0;2;4;2
+12;13/06/2018;19:31;Paraná;Cruzeiro;1;1;Ademir Fesan;L. Venker de Menezes;Vila Capanema;7;10;1;4;43%;57%;365;471;80%;82%;23;23;8;2;0;0;1;4;3;4
+12;13/06/2018;20:59;Palmeiras;Flamengo;1;1;R. Machado Marques;M. Nogueira Barbieri;Allianz Parque;15;13;5;8;45%;55%;340;408;79%;84%;21;18;4;6;3;3;0;0;4;6
+12;13/06/2018;21:00;Botafogo;Athletico-PR;2;0;A. Valentim do Carmo Neto;F. Diniz Silva;Estádio Nilton Santos;21;20;7;3;37%;63%;332;554;81%;89%;11;9;0;2;0;0;0;1;8;9
+12;13/06/2018;21:44;Bahia;Corinthians;1;0;C. Prates;O. Loss;Itaipava Arena Fonte Nova;22;11;10;2;40%;60%;333;510;78%;84%;19;11;2;1;0;0;1;2;7;8
+12;13/06/2018;21:44;Internacional;Vasco da Gama;3;1;O. Hellmann;J. de Amorim Campos;Estádio José Pinheiro Borda;14;10;6;6;54%;46%;472;402;83%;76%;13;11;2;0;0;0;3;0;4;7
+12;13/06/2018;21:45;Atlético-MG;Ceará SC;2;1;T. Mendes Larghi;L. Cirne Lima de Lorenzi;Estádio Raimundo Sampaio;22;7;6;1;68%;32%;672;314;88%;82%;10;10;1;0;0;0;2;3;8;5
+13;18/07/2018;19:33;Ceará SC;Sport Recife;1;0;L. Cirne Lima de Lorenzi;C. dos Santos Oliveira;Estádio Presidente Vargas;17;11;3;4;33%;67%;291;575;79%;87%;15;12;0;0;0;0;0;2;6;5
+13;18/07/2018;21:00;EC Vitória;Paraná;1;0;V. Carmo Mancini;Ademir Fesan;Barradão;13;7;4;2;52%;48%;382;368;82%;76%;24;22;2;2;0;0;1;2;5;5
+13;18/07/2018;21:46;Corinthians;Botafogo;2;0;O. Loss;M. Dias de Castro;Neo Química Arena;8;24;3;8;49%;51%;424;421;82%;80%;19;13;2;3;0;0;0;1;3;10
+13;18/07/2018;21:45;Grêmio;Atlético-MG;2;0;Renato Gaúcho;T. Mendes Larghi;Arena do Grêmio;23;4;5;1;61%;39%;648;424;89%;83%;10;19;1;2;0;0;1;1;5;2
+13;18/07/2018;21:46;Flamengo;São Paulo;0;1;M. Nogueira Barbieri;D. Aguirre Camblor;Maracanã;26;16;7;2;71%;29%;552;228;86%;70%;11;17;3;3;0;1;0;3;9;5
+13;19/07/2018;19:30;Chapecoense;Bahia;1;1;G. Kleina;E. Alves Moreira;Arena Condá;5;11;3;5;49%;51%;399;420;80%;85%;12;19;1;2;0;0;1;1;5;3
+13;19/07/2018;19:31;Cruzeiro;América-MG;3;1;L. Venker de Menezes;S. Drubscky de Campos;Mineirão;15;8;6;2;54%;46%;521;453;85%;83%;11;8;3;1;0;0;3;1;3;5
+13;19/07/2018;20:01;Vasco da Gama;Fluminense;1;1;J. de Amorim Campos;M. de Oliveira Santos;Estádio Vasco da Gama;16;14;4;5;54%;46%;425;362;79%;79%;21;21;4;2;0;0;1;1;2;4
+13;19/07/2018;20:01;Santos;Palmeiras;1;1;J. Ribeiro Ventura;R. Machado Marques;Estádio Municipal Paulo Machado de Carvalho;17;13;4;7;49%;51%;410;429;86%;82%;15;16;4;6;0;0;1;0;8;2
+13;19/07/2018;20:59;Athletico-PR;Internacional;2;2;T. Retzalff Nunes;O. Hellmann;Estádio Joaquim Américo Guimarães;20;14;6;3;53%;47%;436;388;85%;82%;11;16;3;5;1;0;2;1;4;6
+14;21/07/2018;19:00;Flamengo;Botafogo;2;0;M. Nogueira Barbieri;M. Dias de Castro;Maracanã;9;17;4;4;57%;43%;497;357;81%;77%;17;15;0;1;0;1;0;2;1;6
+14;21/07/2018;21:02;São Paulo;Corinthians;3;1;D. Aguirre Camblor;O. Loss;Morumbi;18;12;8;3;46%;54%;315;377;80%;84%;9;21;2;7;0;0;2;0;10;7
+14;22/07/2018;16:00;Vasco da Gama;Grêmio;1;0;J. de Amorim Campos;Renato Gaúcho;Estádio Vasco da Gama;9;17;4;5;33%;67%;269;521;69%;85%;12;17;4;6;1;0;0;2;8;10
+14;22/07/2018;16:01;Palmeiras;Atlético-MG;3;2;R. Machado Marques;T. Mendes Larghi;Allianz Parque;10;14;4;7;44%;56%;405;506;80%;82%;20;18;2;2;0;1;4;4;2;7
+14;22/07/2018;16:01;Paraná;América-MG;1;0;Ademir Fesan;S. Drubscky de Campos;Vila Capanema;13;9;6;1;38%;62%;337;543;72%;77%;23;10;3;3;0;0;4;1;3;3
+14;22/07/2018;15:59;Bahia;EC Vitória;4;1;E. Alves Moreira;V. Carmo Mancini;Itaipava Arena Fonte Nova;14;10;7;4;55%;45%;402;330;80%;74%;18;26;3;4;0;1;1;0;5;7
+14;22/07/2018;16:00;Sport Recife;Fluminense;1;2;C. dos Santos Oliveira;M. de Oliveira Santos;Adelmar da Costa Carvalho;17;15;5;5;57%;43%;430;353;80%;75%;14;17;1;5;0;0;0;1;11;4
+14;22/07/2018;18:59;Cruzeiro;Athletico-PR;2;1;L. Venker de Menezes;T. Retzalff Nunes;Mineirão;18;6;8;2;60%;40%;548;377;87%;79%;7;14;1;3;0;1;1;0;9;3
+14;22/07/2018;19:01;Chapecoense;Santos;0;0;G. Kleina;J. Ribeiro Ventura;Arena Condá;11;14;2;1;52%;48%;391;400;83%;83%;10;13;1;4;0;0;1;2;15;3
+14;23/07/2018;20:00;Internacional;Ceará SC;1;0;O. Hellmann;L. Cirne Lima de Lorenzi;Estádio José Pinheiro Borda;10;8;5;4;60%;40%;601;418;87%;77%;12;13;2;3;0;0;1;3;4;0
+15;25/07/2018;19:30;Fluminense;Palmeiras;1;0;M. de Oliveira Santos;R. Machado Marques;Maracanã;10;13;3;3;38%;62%;301;491;70%;82%;18;16;2;2;0;1;1;1;2;3
+15;25/07/2018;21:00;Atlético-MG;Paraná;2;0;T. Mendes Larghi;Ademir Fesan;Estádio Raimundo Sampaio;6;21;4;8;58%;42%;557;392;84%;82%;16;15;1;1;1;0;1;1;5;7
+15;25/07/2018;21:46;Corinthians;Cruzeiro;2;0;O. Loss;L. Venker de Menezes;Neo Química Arena;12;14;4;5;46%;54%;494;570;84%;85%;9;10;0;2;0;0;1;2;3;4
+15;25/07/2018;21:47;Santos;Flamengo;1;1;S. Bernardino;M. Nogueira Barbieri;Estádio Urbano Caldeira;13;13;2;3;44%;56%;391;503;83%;86%;17;14;1;1;0;0;2;1;10;8
+15;26/07/2018;19:30;Botafogo;Chapecoense;1;0;M. Dias de Castro;G. Kleina;Estádio Nilton Santos;11;11;6;1;43%;57%;315;420;81%;81%;20;16;2;3;0;0;1;1;6;8
+15;26/07/2018;19:30;EC Vitória;Sport Recife;1;0;V. Carmo Mancini;C. dos Santos Oliveira;Barradão;15;9;4;3;49%;51%;439;436;80%;76%;17;14;2;2;0;0;1;1;5;7
+15;26/07/2018;19:30;Grêmio;São Paulo;2;1;Renato Gaúcho;D. Aguirre Camblor;Arena do Grêmio;12;9;3;6;65%;35%;566;302;84%;74%;23;19;4;5;0;0;2;0;9;3
+15;26/07/2018;20:00;América-MG;Internacional;2;1;A. Batista;O. Hellmann;Estádio Raimundo Sampaio;6;13;4;5;43%;57%;426;525;77%;85%;12;9;2;2;1;1;0;3;3;11
+15;29/08/2018;19:30;Ceará SC;Bahia;0;2;L. Cirne Lima de Lorenzi;E. Alves Moreira;Estádio Presidente Vargas;22;6;6;3;68%;32%;484;236;82%;67%;16;25;3;4;0;0;0;1;11;2
+15;29/08/2018;19:28;Athletico-PR;Vasco da Gama;1;0;T. Retzalff Nunes;A. Valentim do Carmo Neto;Estádio Joaquim Américo Guimarães;11;16;3;3;55%;45%;475;399;80%;81%;15;14;1;2;0;0;1;1;8;5
+16;28/07/2018;16:01;Ceará SC;Fluminense;1;0;L. Cirne Lima de Lorenzi;M. de Oliveira Santos;Estádio Presidente Vargas;15;11;2;3;36%;64%;262;472;72%;82%;22;13;5;1;0;0;3;0;9;3
+16;29/07/2018;11:00;Palmeiras;Paraná;3;0;L. Scolari;Ademir Fesan;Allianz Parque;24;9;12;2;53%;47%;450;419;86%;79%;20;17;2;2;0;0;2;3;8;4
+16;29/07/2018;11:00;Vasco da Gama;Corinthians;1;4;J. de Amorim Campos;O. Loss;Estádio Nacional de Brasília;12;10;4;5;52%;48%;490;472;82%;83%;17;11;4;0;0;0;0;4;4;2
+16;29/07/2018;16:00;Flamengo;Sport Recife;4;1;M. Nogueira Barbieri;C. dos Santos Oliveira;Maracanã;22;9;9;1;58%;42%;547;420;91%;84%;12;11;1;1;0;0;1;2;8;2
+16;29/07/2018;16:00;Athletico-PR;EC Vitória;4;0;T. Retzalff Nunes;V. Carmo Mancini;Estádio Joaquim Américo Guimarães;12;7;6;3;48%;52%;398;421;82%;85%;20;17;3;5;0;0;1;1;6;1
+16;29/07/2018;16:00;Internacional;Botafogo;3;0;O. Hellmann;M. Dias de Castro;Estádio José Pinheiro Borda;15;9;9;3;54%;46%;442;388;78%;79%;13;14;1;2;0;0;0;0;5;4
+16;29/07/2018;15:59;Cruzeiro;São Paulo;0;2;L. Venker de Menezes;D. Aguirre Camblor;Mineirão;14;9;3;4;58%;42%;509;387;81%;75%;11;11;2;1;0;0;3;2;4;2
+16;29/07/2018;19:00;Santos;América-MG;0;1;S. Bernardino;A. Batista;Estádio Urbano Caldeira;29;2;4;1;74%;26%;614;234;90%;61%;8;13;2;2;0;0;2;1;14;2
+16;29/07/2018;19:00;Chapecoense;Grêmio;1;1;G. Kleina;Renato Gaúcho;Arena Condá;16;8;2;4;58%;42%;443;340;78%;71%;12;15;1;3;0;0;1;1;10;3
+16;30/07/2018;20:00;Bahia;Atlético-MG;2;2;E. Alves Moreira;T. Mendes Larghi;Itaipava Arena Fonte Nova;21;5;6;2;58%;42%;510;405;86%;80%;15;18;4;2;0;0;1;3;6;3
+17;04/08/2018;16:02;Botafogo;Santos;0;0;B. Lazaroni;A. Stival;Estádio Nilton Santos;16;9;2;3;46%;54%;381;460;77%;79%;12;19;1;5;0;0;2;4;5;2
+17;04/08/2018;19:00;Grêmio;Flamengo;2;0;Renato Gaúcho;M. Nogueira Barbieri;Arena do Grêmio;10;9;4;1;34%;66%;311;607;78%;86%;21;17;3;4;0;0;1;2;3;1
+17;04/08/2018;21:00;Corinthians;Athletico-PR;0;0;O. Loss;T. Retzalff Nunes;Neo Química Arena;10;16;4;4;57%;43%;537;387;86%;80%;8;13;2;2;0;0;1;6;2;9
+17;05/08/2018;15:59;EC Vitória;Cruzeiro;1;1;J. Burse;L. Venker de Menezes;Barradão;16;11;5;4;49%;51%;388;407;80%;75%;19;20;3;5;0;0;0;2;8;8
+17;05/08/2018;16:01;Paraná;Ceará SC;0;1;Ademir Fesan;L. Cirne Lima de Lorenzi;Vila Capanema;22;5;7;1;67%;33%;557;284;81%;66%;15;21;4;2;0;0;0;5;13;2
+17;05/08/2018;16:00;América-MG;Palmeiras;0;0;A. Batista;L. Scolari;Estádio Raimundo Sampaio;8;14;4;4;51%;49%;516;489;84%;86%;16;18;1;2;0;0;0;0;2;9
+17;05/08/2018;16:00;São Paulo;Vasco da Gama;2;1;D. Aguirre Camblor;J. de Amorim Campos;Morumbi;11;9;4;3;41%;59%;327;493;70%;81%;27;9;2;2;0;0;1;3;5;2
+17;05/08/2018;19:00;Fluminense;Bahia;1;1;M. de Oliveira Santos;E. Alves Moreira;Maracanã;10;10;2;2;47%;53%;348;392;80%;78%;12;18;4;2;0;0;1;0;6;8
+17;05/08/2018;19:01;Sport Recife;Chapecoense;1;1;C. dos Santos Oliveira;G. Kleina;Adelmar da Costa Carvalho;20;8;4;3;63%;37%;555;341;82%;69%;14;20;1;1;0;0;1;2;8;5
+17;06/08/2018;19:59;Atlético-MG;Internacional;0;1;T. Mendes Larghi;O. Hellmann;Estádio Raimundo Sampaio;12;8;3;4;64%;36%;562;329;82%;75%;13;13;1;1;0;0;1;1;6;2
+20;08/08/2018;19:30;Ceará SC;Santos;1;1;L. Cirne Lima de Lorenzi;A. Stival;Estádio Presidente Vargas;23;8;9;3;51%;49%;373;385;77%;76%;11;13;3;2;0;0;1;3;8;3
+20;22/08/2018;19:29;Bahia;Internacional;0;1;E. Alves Moreira;O. Hellmann;Itaipava Arena Fonte Nova;20;14;2;5;62%;38%;517;343;85%;74%;15;18;1;2;0;0;0;1;3;5
+20;22/08/2018;19:30;Paraná;São Paulo;1;1;Ademir Fesan;D. Aguirre Camblor;Vila Capanema;16;14;2;4;45%;55%;349;413;73%;76%;14;12;3;1;0;0;2;3;4;9
+20;22/08/2018;21:00;Palmeiras;Botafogo;2;0;L. Scolari;J. Mannarino;Allianz Parque;22;10;6;4;69%;31%;506;230;83%;64%;14;17;2;4;0;1;3;0;11;3
+20;22/08/2018;20:59;Sport Recife;América-MG;0;2;E. Baptista;A. Batista;Adelmar da Costa Carvalho;15;6;6;3;54%;46%;459;422;79%;74%;9;21;2;2;0;0;3;2;4;4
+20;22/08/2018;21:44;Fluminense;Corinthians;1;0;M. de Oliveira Santos;O. Loss;Maracanã;15;4;4;1;45%;55%;452;550;84%;82%;12;8;1;2;0;1;5;0;8;3
+20;22/08/2018;21:45;Grêmio;Cruzeiro;1;1;Renato Gaúcho;L. Venker de Menezes;Arena do Grêmio;10;7;6;5;67%;33%;752;378;90%;81%;13;16;2;4;0;0;0;0;6;2
+20;23/08/2018;19:30;Flamengo;EC Vitória;1;0;M. Nogueira Barbieri;P. Carpegiani;Maracanã;15;4;5;1;65%;35%;555;313;88%;77%;18;19;2;2;0;0;1;1;7;4
+20;23/08/2018;19:59;Atlético-MG;Vasco da Gama;0;0;T. Mendes Larghi;V. de Morais Filho;Estádio Raimundo Sampaio;20;11;4;4;74%;26%;718;256;85%;67%;16;15;2;4;0;0;0;0;12;1
+20;13/09/2018;19:59;Chapecoense;Athletico-PR;2;1;A. Ferreira;T. Retzalff Nunes;Arena Condá;16;11;3;5;48%;52%;321;349;75%;77%;19;18;1;3;0;0;2;0;8;4
+18;11/08/2018;16:00;Ceará SC;Athletico-PR;0;0;L. Cirne Lima de Lorenzi;T. Retzalff Nunes;Estádio Presidente Vargas;14;14;4;2;46%;54%;377;443;80%;82%;15;14;3;3;0;0;0;0;3;9
+18;11/08/2018;19:00;Bahia;América-MG;1;0;E. Alves Moreira;A. Batista;Itaipava Arena Fonte Nova;21;6;6;2;48%;52%;438;482;81%;82%;11;13;1;4;0;0;2;1;9;2
+18;12/08/2018;11:00;Paraná;Botafogo;1;1;Ademir Fesan;J. Mannarino;Vila Capanema;14;15;2;4;53%;47%;423;393;83%;82%;11;9;3;4;1;1;2;2;4;4
+18;12/08/2018;11:01;Atlético-MG;Santos;3;1;T. Mendes Larghi;A. Stival;Estádio Raimundo Sampaio;14;9;6;3;47%;53%;375;407;80%;84%;17;8;2;0;0;0;1;1;3;4
+18;12/08/2018;16:01;Sport Recife;São Paulo;1;3;C. dos Santos Oliveira;D. Aguirre Camblor;Adelmar da Costa Carvalho;15;17;7;5;45%;55%;398;491;87%;87%;7;15;1;3;0;0;0;1;2;3
+18;12/08/2018;16:00;Flamengo;Cruzeiro;1;0;M. Nogueira Barbieri;L. Venker de Menezes;Maracanã;9;9;4;3;52%;48%;420;402;83%;82%;28;17;3;3;0;0;3;2;5;2
+18;12/08/2018;16:00;Chapecoense;Corinthians;2;1;A. Ferreira;O. Loss;Arena Condá;13;13;4;5;41%;59%;310;460;75%;82%;18;20;1;2;1;0;1;1;7;5
+18;12/08/2018;19:00;Grêmio;EC Vitória;4;0;Renato Gaúcho;J. Burse;Arena do Grêmio;14;13;8;3;54%;46%;559;481;85%;85%;20;17;1;3;0;0;1;1;1;1
+18;12/08/2018;19:00;Palmeiras;Vasco da Gama;1;0;L. Scolari;J. de Amorim Campos;Allianz Parque;10;7;4;1;56%;44%;453;357;81%;74%;17;16;1;2;0;0;3;2;5;3
+18;13/08/2018;20:00;Fluminense;Internacional;0;3;M. de Oliveira Santos;O. Hellmann;Maracanã;19;13;6;7;60%;40%;545;376;85%;76%;8;17;3;3;0;0;0;0;7;7
+19;18/08/2018;15:59;Santos;Sport Recife;3;0;A. Stival;E. Baptista;Estádio Urbano Caldeira;11;12;6;4;53%;47%;463;409;82%;84%;20;21;3;2;0;1;5;1;4;4
+19;18/08/2018;19:01;Corinthians;Grêmio;0;1;O. Loss;Renato Gaúcho;Neo Química Arena;9;12;3;9;59%;41%;649;466;85%;80%;8;8;1;1;0;0;0;3;5;7
+19;19/08/2018;10:59;Athletico-PR;Flamengo;3;0;T. Retzalff Nunes;M. Nogueira Barbieri;Estádio Joaquim Américo Guimarães;14;15;8;6;32%;68%;263;553;80%;89%;15;10;3;1;0;0;3;1;5;5
+19;19/08/2018;10:59;Internacional;Paraná;1;0;O. Hellmann;Ademir Fesan;Estádio José Pinheiro Borda;17;9;6;2;75%;25%;547;190;86%;59%;16;16;3;5;0;0;1;0;15;3
+19;19/08/2018;15:59;EC Vitória;Palmeiras;0;3;P. Carpegiani;L. Scolari;Barradão;9;26;2;12;54%;46%;471;416;81%;77%;25;18;2;1;0;0;0;0;3;3
+19;19/08/2018;16:01;Botafogo;Atlético-MG;0;3;J. Mannarino;T. Mendes Larghi;Estádio Nilton Santos;13;20;4;8;46%;54%;411;494;80%;80%;13;12;2;4;0;0;2;1;4;3
+19;19/08/2018;16:00;Cruzeiro;Bahia;1;1;L. Venker de Menezes;E. Alves Moreira;Mineirão;12;9;2;1;54%;46%;535;457;83%;82%;14;13;2;2;0;0;3;2;3;5
+19;19/08/2018;19:00;América-MG;Fluminense;0;0;A. Batista;M. de Oliveira Santos;Estádio Raimundo Sampaio;10;11;1;4;53%;47%;517;459;84%;84%;13;8;2;0;1;0;1;0;4;4
+19;19/08/2018;19:00;São Paulo;Chapecoense;2;0;D. Aguirre Camblor;A. Ferreira;Morumbi;6;7;3;2;39%;61%;358;561;75%;84%;17;20;2;1;0;0;1;1;2;6
+19;20/08/2018;20:01;Vasco da Gama;Ceará SC;1;1;V. de Morais Filho;L. Cirne Lima de Lorenzi;Estádio Vasco da Gama;16;12;6;2;58%;42%;464;335;82%;80%;16;21;1;0;0;1;0;1;4;6
+21;25/08/2018;15:59;Santos;Bahia;2;0;A. Stival;E. Alves Moreira;Estádio Urbano Caldeira;5;7;3;0;48%;52%;357;385;78%;78%;25;17;1;2;0;0;3;2;6;4
+21;25/08/2018;19:00;Corinthians;Paraná;1;0;O. Loss;Ademir Fesan;Neo Química Arena;17;13;7;3;62%;38%;458;281;80%;70%;18;20;3;3;0;1;2;0;8;7
+21;25/08/2018;19:00;Athletico-PR;Grêmio;2;1;T. Retzalff Nunes;Renato Gaúcho;Estádio Joaquim Américo Guimarães;16;7;6;2;56%;44%;493;398;82%;82%;18;17;2;2;0;0;1;2;8;1
+21;25/08/2018;21:01;Cruzeiro;Fluminense;2;1;L. Venker de Menezes;M. de Oliveira Santos;Mineirão;12;7;3;3;46%;54%;422;488;83%;85%;17;14;4;3;0;0;1;0;6;5
+21;25/08/2018;21:00;Botafogo;Sport Recife;2;0;J. Mannarino;E. Baptista;Estádio Nilton Santos;17;8;7;1;43%;57%;314;420;75%;75%;21;13;2;2;0;0;4;0;9;2
+21;26/08/2018;11:03;São Paulo;Ceará SC;1;0;D. Aguirre Camblor;L. Cirne Lima de Lorenzi;Morumbi;19;8;4;3;59%;41%;448;325;83%;76%;13;21;3;6;0;1;0;2;8;5
+21;26/08/2018;16:00;América-MG;Flamengo;2;2;A. Batista;M. Nogueira Barbieri;Estádio Raimundo Sampaio;12;11;2;6;51%;49%;469;443;82%;82%;12;9;3;2;0;1;0;0;3;6
+21;26/08/2018;16:01;Internacional;Palmeiras;0;0;O. Hellmann;L. Scolari;Estádio José Pinheiro Borda;14;20;4;3;57%;43%;495;387;81%;72%;14;24;2;3;0;0;1;0;5;4
+21;26/08/2018;16:00;EC Vitória;Atlético-MG;1;0;P. Carpegiani;T. Mendes Larghi;Barradão;19;17;4;4;36%;64%;329;582;78%;87%;17;12;2;3;0;0;4;4;6;4
+21;26/08/2018;18:59;Vasco da Gama;Chapecoense;3;1;V. de Morais Filho;A. Ferreira;Estádio Vasco da Gama;15;8;6;4;49%;51%;428;445;78%;83%;18;20;3;2;0;0;0;1;6;4
+22;01/09/2018;16:01;EC Vitória;América-MG;1;0;P. Carpegiani;A. Batista;Barradão;21;5;9;3;58%;42%;533;394;88%;78%;21;10;5;1;0;1;1;3;5;3
+22;01/09/2018;16:00;Grêmio;Botafogo;4;0;Renato Gaúcho;J. Mannarino;Arena do Grêmio;18;12;8;0;57%;43%;476;352;83%;78%;12;19;2;3;0;0;1;0;5;6
+22;01/09/2018;18:59;Vasco da Gama;Santos;0;3;A. Valentim do Carmo Neto;A. Stival;Maracanã;17;9;1;4;59%;41%;571;412;85%;77%;12;11;1;1;0;0;1;0;8;3
+22;01/09/2018;21:00;Corinthians;Atlético-MG;1;1;O. Loss;T. Mendes Larghi;Neo Química Arena;7;10;1;2;56%;44%;522;416;80%;73%;16;21;1;3;0;0;0;2;6;3
+22;02/09/2018;11:01;Flamengo;Ceará SC;0;1;M. Nogueira Barbieri;L. Cirne Lima de Lorenzi;Maracanã;26;9;9;4;65%;35%;515;285;89%;77%;16;14;2;2;0;0;2;0;12;1
+22;02/09/2018;15:59;Athletico-PR;Bahia;2;0;T. Retzalff Nunes;E. Alves Moreira;Estádio Joaquim Américo Guimarães;24;9;11;3;60%;40%;534;357;89%;77%;14;9;2;2;0;0;3;1;4;2
+22;02/09/2018;16:01;Sport Recife;Paraná;1;0;E. Baptista;Ademir Fesan;Adelmar da Costa Carvalho;16;15;5;3;51%;49%;369;371;74%;73%;19;12;3;2;0;0;1;3;11;3
+22;02/09/2018;16:01;São Paulo;Fluminense;1;1;D. Aguirre Camblor;M. de Oliveira Santos;Morumbi;7;11;4;0;36%;64%;297;540;74%;86%;14;16;2;2;1;0;0;0;5;5
+22;02/09/2018;19:00;Cruzeiro;Internacional;0;0;L. Venker de Menezes;O. Hellmann;Mineirão;19;14;4;4;51%;49%;457;445;84%;83%;16;14;3;2;0;0;3;0;8;5
+22;02/09/2018;19:00;Chapecoense;Palmeiras;1;2;A. Ferreira;L. Scolari;Arena Condá;11;12;2;5;57%;43%;360;297;70%;62%;14;23;4;4;0;0;1;2;3;5
+23;05/09/2018;19:29;Bahia;Sport Recife;2;0;E. Alves Moreira;E. Baptista;Itaipava Arena Fonte Nova;13;10;8;2;48%;52%;409;436;74%;75%;19;19;1;1;0;0;1;2;8;4
+23;05/09/2018;19:31;Botafogo;Cruzeiro;1;1;J. Mannarino;L. Venker de Menezes;Estádio Nilton Santos;15;8;6;2;42%;58%;352;509;72%;79%;13;17;3;3;0;0;0;0;5;2
+23;05/09/2018;20:00;Ceará SC;Corinthians;2;1;L. Cirne Lima de Lorenzi;O. Loss;Arena Castelão;17;11;7;3;31%;69%;263;611;75%;90%;19;19;6;2;0;0;0;1;7;4
+23;05/09/2018;20:59;Palmeiras;Athletico-PR;2;0;L. Scolari;T. Retzalff Nunes;Allianz Parque;10;7;4;1;47%;53%;371;424;77%;79%;16;18;2;3;0;0;1;1;6;6
+23;05/09/2018;21:00;Paraná;Chapecoense;1;1;Ademir Fesan;A. Ferreira;Vila Capanema;16;12;3;6;37%;63%;277;498;66%;83%;24;19;2;2;0;0;2;1;11;3
+23;05/09/2018;21:45;Atlético-MG;São Paulo;1;0;T. Mendes Larghi;D. Aguirre Camblor;Estádio Raimundo Sampaio;10;16;3;5;46%;54%;346;394;75%;77%;17;18;3;1;0;0;0;2;2;9
+23;05/09/2018;21:46;Internacional;Flamengo;2;1;O. Hellmann;M. Nogueira Barbieri;Estádio José Pinheiro Borda;7;11;5;4;38%;62%;371;602;77%;84%;13;13;4;1;0;0;1;2;4;3
+23;06/09/2018;19:00;Santos;Grêmio;0;0;A. Stival;Renato Gaúcho;Estádio Municipal Paulo Machado de Carvalho;7;8;2;3;51%;49%;578;568;84%;85%;14;8;2;1;0;0;0;0;5;1
+23;06/09/2018;18:59;Fluminense;EC Vitória;0;0;M. de Oliveira Santos;P. Carpegiani;Maracanã;17;4;5;1;63%;37%;527;312;84%;67%;11;8;1;1;0;0;1;0;9;5
+23;06/09/2018;20:01;América-MG;Vasco da Gama;2;1;A. Batista;A. Valentim do Carmo Neto;Estádio Raimundo Sampaio;10;7;5;3;44%;56%;450;555;81%;87%;19;12;1;1;0;0;2;0;4;5
+24;08/09/2018;16:00;Sport Recife;Cruzeiro;0;0;E. Baptista;L. Venker de Menezes;Adelmar da Costa Carvalho;11;10;1;2;55%;45%;423;369;75%;69%;22;19;3;1;0;0;3;2;8;4
+24;08/09/2018;19:01;São Paulo;Bahia;1;0;D. Aguirre Camblor;E. Alves Moreira;Morumbi;12;10;2;2;54%;46%;392;353;78%;73%;16;19;3;2;0;0;3;2;11;4
+24;08/09/2018;21:27;Flamengo;Chapecoense;2;0;M. Nogueira Barbieri;A. Ferreira;Maracanã;15;9;6;3;62%;38%;492;304;86%;77%;17;13;2;2;0;0;1;1;8;3
+24;09/09/2018;16:00;América-MG;Ceará SC;0;0;A. Batista;L. Cirne Lima de Lorenzi;Estádio Raimundo Sampaio;7;12;0;3;59%;41%;615;423;85%;81%;16;10;1;1;0;0;2;1;3;4
+24;09/09/2018;16:00;Palmeiras;Corinthians;1;0;L. Scolari;J. Ribeiro Ventura;Allianz Parque;13;4;3;0;55%;45%;397;348;75%;71%;14;16;2;3;0;0;4;0;8;3
+24;09/09/2018;16:00;Fluminense;Botafogo;1;0;M. de Oliveira Santos;J. Mannarino;Maracanã;14;14;4;3;41%;59%;315;457;73%;76%;21;14;3;4;0;0;1;2;6;7
+24;09/09/2018;16:00;Internacional;Grêmio;1;0;O. Hellmann;Renato Gaúcho;Estádio José Pinheiro Borda;11;13;4;2;42%;58%;347;471;71%;81%;17;15;5;5;0;0;2;2;5;4
+24;09/09/2018;19:00;Paraná;Santos;0;2;Ademir Fesan;A. Stival;Vila Capanema;18;5;4;3;37%;63%;296;530;72%;83%;15;18;4;3;0;0;0;0;3;2
+24;09/09/2018;19:01;EC Vitória;Vasco da Gama;1;0;P. Carpegiani;A. Valentim do Carmo Neto;Barradão;7;13;1;4;52%;48%;432;395;84%;80%;19;19;4;1;1;1;0;0;2;5
+24;10/09/2018;20:00;Atlético-MG;Athletico-PR;3;1;T. Mendes Larghi;T. Retzalff Nunes;Estádio Raimundo Sampaio;12;16;5;5;53%;47%;434;385;80%;82%;13;14;4;5;0;1;3;0;6;6
+25;15/09/2018;16:00;Ceará SC;EC Vitória;2;0;L. Cirne Lima de Lorenzi;P. Carpegiani;Arena Castelão;17;8;3;1;42%;58%;404;551;81%;85%;23;21;2;4;0;0;0;1;4;3
+25;15/09/2018;15:58;Grêmio;Paraná;2;0;Renato Gaúcho;Ademir Fesan;Arena do Grêmio;21;8;4;1;62%;38%;553;334;86%;75%;11;13;1;1;0;0;5;0;4;3
+25;15/09/2018;19:00;Vasco da Gama;Flamengo;1;1;A. Valentim do Carmo Neto;M. Nogueira Barbieri;Estádio Nacional de Brasília;17;22;7;5;38%;62%;302;488;82%;86%;19;13;3;2;0;1;0;1;6;13
+25;16/09/2018;11:00;Botafogo;América-MG;1;0;J. Mannarino;A. Batista;Estádio Nilton Santos;14;10;4;1;47%;53%;419;464;77%;78%;13;18;1;1;1;1;1;4;5;1
+25;16/09/2018;16:00;Cruzeiro;Atlético-MG;0;0;L. Venker de Menezes;T. Mendes Larghi;Mineirão;12;8;3;2;40%;60%;362;551;77%;80%;19;16;3;1;0;0;2;2;6;3
+25;16/09/2018;16:01;Bahia;Palmeiras;1;1;E. Alves Moreira;L. Scolari;Itaipava Arena Fonte Nova;9;7;3;1;42%;58%;384;555;76%;81%;14;11;1;2;0;0;0;2;6;3
+25;16/09/2018;16:00;Athletico-PR;Fluminense;3;1;T. Retzalff Nunes;M. de Oliveira Santos;Estádio Joaquim Américo Guimarães;16;11;9;3;49%;51%;456;474;85%;84%;15;14;3;2;0;0;4;0;5;3
+25;16/09/2018;16:03;Santos;São Paulo;0;0;A. Stival;D. Aguirre Camblor;Estádio Urbano Caldeira;14;6;3;2;55%;45%;425;354;80%;72%;15;15;7;4;0;0;5;1;4;4
+25;16/09/2018;19:00;Corinthians;Sport Recife;2;1;J. Ribeiro Ventura;E. Baptista;Neo Química Arena;14;13;5;6;70%;30%;634;273;87%;67%;16;19;2;1;0;0;4;1;5;6
+25;17/09/2018;20:00;Chapecoense;Internacional;2;1;A. Ferreira;O. Hellmann;Arena Condá;19;14;5;5;52%;48%;323;318;75%;79%;14;15;4;2;0;1;0;3;6;4
+26;22/09/2018;16:00;São Paulo;América-MG;1;1;D. Aguirre Camblor;A. Batista;Morumbi;13;7;4;3;49%;51%;452;476;84%;81%;14;12;1;1;0;0;1;0;6;2
+26;23/09/2018;11:00;Grêmio;Ceará SC;3;2;Renato Gaúcho;L. Cirne Lima de Lorenzi;Arena do Grêmio;20;6;8;4;60%;40%;550;380;87%;80%;12;9;3;1;0;0;1;0;17;0
+26;23/09/2018;16:00;Athletico-PR;Paraná;3;0;T. Retzalff Nunes;Ademir Fesan;Estádio Joaquim Américo Guimarães;15;11;9;3;58%;42%;502;374;84%;81%;15;11;0;4;0;0;1;0;6;3
+26;23/09/2018;16:00;Flamengo;Atlético-MG;2;1;M. Nogueira Barbieri;T. Mendes Larghi;Maracanã;7;15;2;4;51%;49%;438;421;80%;80%;26;15;2;2;0;0;2;1;4;6
+26;23/09/2018;16:02;Corinthians;Internacional;1;1;J. Ribeiro Ventura;O. Hellmann;Neo Química Arena;9;8;5;2;55%;45%;580;469;86%;85%;13;11;0;2;0;0;1;1;2;3
+26;23/09/2018;17:59;Sport Recife;Palmeiras;0;1;E. Baptista;L. Scolari;Adelmar da Costa Carvalho;12;9;2;4;52%;48%;396;367;69%;68%;16;16;2;2;0;0;2;0;6;5
+26;23/09/2018;18:01;EC Vitória;Botafogo;3;4;P. Carpegiani;J. Mannarino;Barradão;13;11;3;7;61%;39%;519;352;87%;78%;15;17;1;4;0;0;2;2;3;1
+26;23/09/2018;18:58;Cruzeiro;Santos;2;1;L. Venker de Menezes;A. Stival;Mineirão;6;13;4;7;46%;54%;428;508;83%;81%;17;12;2;2;0;0;1;1;4;6
+26;24/09/2018;20:00;Chapecoense;Fluminense;1;2;A. Ferreira;M. de Oliveira Santos;Arena Condá;11;9;4;5;57%;43%;394;316;80%;73%;19;19;2;3;1;0;1;0;7;2
+26;24/09/2018;20:00;Vasco da Gama;Bahia;2;1;A. Valentim do Carmo Neto;E. Alves Moreira;Estádio Vasco da Gama;10;15;3;6;62%;38%;480;292;82%;72%;12;15;5;2;0;1;6;1;4;8
+27;29/09/2018;16:00;Fluminense;Grêmio;0;1;M. de Oliveira Santos;Renato Gaúcho;Estádio Nilton Santos;14;7;2;6;51%;49%;532;540;87%;86%;10;13;1;2;0;0;0;1;7;2
+27;29/09/2018;19:00;América-MG;Corinthians;0;0;A. Batista;J. Ribeiro Ventura;Estádio Raimundo Sampaio;10;16;2;7;39%;61%;453;707;86%;91%;8;4;0;1;0;0;1;3;1;5
+27;29/09/2018;21:00;Bahia;Flamengo;0;0;E. Alves Moreira;D. Silvestre Júnior;Itaipava Arena Fonte Nova;13;11;3;5;32%;68%;257;562;72%;84%;16;17;2;1;0;0;2;2;4;3
+27;30/09/2018;11:00;Palmeiras;Cruzeiro;3;1;L. Scolari;L. Venker de Menezes;Estádio Municipal Paulo Machado de Carvalho;17;4;4;1;44%;56%;334;433;76%;81%;15;19;5;6;0;0;3;1;7;2
+27;30/09/2018;15:59;Atlético-MG;Sport Recife;5;2;T. Mendes Larghi;M. Mendes;Estádio Raimundo Sampaio;22;6;8;1;63%;37%;563;326;87%;80%;18;16;1;3;0;1;2;0;6;6
+27;30/09/2018;16:01;Santos;Athletico-PR;1;0;A. Stival;T. Retzalff Nunes;Estádio Urbano Caldeira;15;10;5;4;63%;37%;512;317;88%;75%;8;17;2;6;0;0;2;2;12;5
+27;30/09/2018;16:02;Botafogo;São Paulo;2;2;J. Mannarino;D. Aguirre Camblor;Estádio Nilton Santos;9;16;4;7;39%;61%;276;423;72%;81%;20;18;1;2;0;0;2;2;7;7
+27;30/09/2018;16:00;Internacional;EC Vitória;2;1;O. Hellmann;P. Carpegiani;Estádio José Pinheiro Borda;12;7;5;1;61%;39%;483;314;82%;71%;19;18;3;6;0;1;4;1;7;0
+27;30/09/2018;19:00;Ceará SC;Chapecoense;3;1;L. Cirne Lima de Lorenzi;A. Ferreira;Arena Castelão;13;10;6;4;44%;56%;335;421;77%;81%;15;20;4;5;0;0;0;1;5;8
+27;01/10/2018;19:59;Paraná;Vasco da Gama;1;1;C. dos Santos Oliveira;A. Valentim do Carmo Neto;Vila Capanema;20;17;5;4;40%;60%;317;480;76%;82%;15;11;1;0;0;1;2;2;11;5
+28;05/10/2018;19:01;Sport Recife;Internacional;2;1;M. Mendes;O. Hellmann;Adelmar da Costa Carvalho;12;7;3;2;43%;57%;382;534;79%;85%;10;10;4;1;0;0;3;0;8;4
+28;05/10/2018;21:00;Corinthians;Flamengo;0;3;J. Ribeiro Ventura;D. Silvestre Júnior;Neo Química Arena;11;13;3;7;54%;46%;504;432;85%;82%;9;18;2;1;0;0;1;0;4;10
+28;05/10/2018;21:30;EC Vitória;Santos;0;1;P. Carpegiani;A. Stival;Barradão;18;12;2;3;59%;41%;447;327;83%;80%;17;24;3;2;1;0;0;1;8;2
+28;06/10/2018;16:02;Athletico-PR;América-MG;4;0;T. Retzalff Nunes;A. Batista;Estádio Joaquim Américo Guimarães;10;6;4;3;64%;36%;678;397;90%;85%;10;13;3;3;0;0;0;3;5;1
+28;06/10/2018;16:00;Chapecoense;Atlético-MG;1;0;A. Ferreira;T. Mendes Larghi;Arena Condá;9;17;1;2;36%;64%;279;497;76%;86%;20;15;3;3;0;0;2;1;5;9
+28;06/10/2018;18:00;São Paulo;Palmeiras;0;2;D. Aguirre Camblor;L. Scolari;Morumbi;7;8;1;4;61%;39%;458;312;81%;67%;21;17;2;3;0;0;2;3;4;2
+28;06/10/2018;21:00;Grêmio;Bahia;2;2;Renato Gaúcho;E. Alves Moreira;Arena do Grêmio;20;10;6;5;76%;24%;603;203;86%;66%;13;25;2;3;0;1;5;0;9;5
+28;08/10/2018;19:59;Fluminense;Paraná;4;0;M. de Oliveira Santos;C. dos Santos Oliveira;Maracanã;17;8;8;0;70%;30%;618;269;92%;76%;8;18;1;2;0;0;3;0;8;2
+28;09/10/2018;21:00;Botafogo;Vasco da Gama;1;1;J. Mannarino;A. Valentim do Carmo Neto;Estádio Nilton Santos;18;10;5;4;51%;49%;444;428;83%;83%;13;13;3;2;0;0;0;0;7;6
+28;24/10/2018;19:31;Cruzeiro;Ceará SC;0;2;L. Venker de Menezes;L. Cirne Lima de Lorenzi;Mineirão;18;7;6;3;62%;38%;552;346;87%;78%;7;18;1;3;0;0;2;1;10;1
+29;13/10/2018;17:00;Flamengo;Fluminense;3;0;D. Silvestre Júnior;M. de Oliveira Santos;Maracanã;16;13;6;5;52%;48%;404;389;81%;82%;16;15;2;3;0;0;0;0;6;3
+29;13/10/2018;19:00;Santos;Corinthians;1;0;A. Stival;J. Ribeiro Ventura;Estádio Municipal Paulo Machado de Carvalho;12;8;4;2;44%;56%;359;466;77%;82%;19;19;3;3;0;0;3;1;5;2
+29;13/10/2018;21:00;Bahia;Paraná;2;0;E. Alves Moreira;C. dos Santos Oliveira;Estádio de Pituaçu;20;7;7;3;68%;32%;542;276;86%;67%;5;10;3;3;0;0;3;0;12;1
+29;14/10/2018;11:00;Chapecoense;EC Vitória;0;1;A. Ferreira;P. Carpegiani;Arena Condá;15;17;1;3;58%;42%;409;314;78%;72%;14;20;3;2;0;0;1;0;7;3
+29;14/10/2018;16:00;Vasco da Gama;Cruzeiro;2;0;A. Valentim do Carmo Neto;L. Venker de Menezes;Estádio Vasco da Gama;18;14;6;4;56%;44%;511;410;87%;82%;14;17;6;2;0;1;1;1;10;9
+29;14/10/2018;16:00;Internacional;São Paulo;3;1;O. Hellmann;D. Aguirre Camblor;Estádio José Pinheiro Borda;17;9;6;1;58%;42%;386;289;82%;73%;16;23;0;3;0;1;6;1;6;4
+29;14/10/2018;16:00;Palmeiras;Grêmio;2;0;L. Scolari;Renato Gaúcho;Estádio Municipal Paulo Machado de Carvalho;8;3;6;0;33%;67%;326;648;74%;87%;16;16;4;2;0;0;0;0;4;5
+29;14/10/2018;19:00;Atlético-MG;América-MG;0;0;T. Mendes Larghi;A. Batista;Estádio Raimundo Sampaio;10;15;2;8;60%;40%;510;362;86%;83%;16;15;1;0;0;0;1;2;16;3
+29;14/10/2018;18:59;Athletico-PR;Sport Recife;4;0;T. Retzalff Nunes;M. Mendes;Estádio Joaquim Américo Guimarães;27;7;8;2;70%;30%;566;256;91%;77%;13;12;0;3;0;0;0;2;10;3
+29;15/10/2018;20:00;Ceará SC;Botafogo;0;0;L. Cirne Lima de Lorenzi;J. Mannarino;Arena Castelão;21;8;7;0;57%;43%;474;377;84%;77%;13;10;1;3;0;0;1;1;6;3
+30;20/10/2018;15:59;América-MG;Grêmio;1;1;A. Batista;Renato Gaúcho;Estádio Raimundo Sampaio;10;13;3;4;52%;48%;486;462;82%;84%;17;8;0;0;0;0;1;2;5;4
+30;20/10/2018;16:01;Botafogo;Bahia;0;1;J. Mannarino;E. Alves Moreira;Estádio Nilton Santos;9;9;4;2;65%;35%;492;274;82%;70%;10;21;2;1;0;0;0;0;8;2
+30;20/10/2018;18:59;São Paulo;Athletico-PR;0;0;D. Aguirre Camblor;T. Retzalff Nunes;Morumbi;14;10;5;1;32%;68%;252;559;73%;84%;20;15;3;2;0;0;5;2;4;7
+30;20/10/2018;19:00;Sport Recife;Vasco da Gama;2;1;M. Mendes;A. Valentim do Carmo Neto;Adelmar da Costa Carvalho;15;12;6;3;48%;52%;447;468;81%;81%;16;18;0;3;0;0;1;0;1;4
+30;21/10/2018;16:00;EC Vitória;Corinthians;2;2;P. Carpegiani;J. Ribeiro Ventura;Barradão;12;9;6;4;43%;57%;375;502;81%;81%;18;23;1;4;0;0;1;1;5;5
+30;21/10/2018;16:01;Fluminense;Atlético-MG;1;0;M. de Oliveira Santos;L. Culpi;Estádio Nilton Santos;13;12;6;2;55%;45%;500;417;81%;77%;14;19;2;2;1;0;2;0;4;7
+30;21/10/2018;16:01;Palmeiras;Ceará SC;2;1;L. Scolari;L. Cirne Lima de Lorenzi;Estádio Municipal Paulo Machado de Carvalho;16;21;6;6;38%;62%;300;448;76%;85%;14;13;5;2;1;0;1;2;4;12
+30;21/10/2018;18:59;Cruzeiro;Chapecoense;3;0;L. Venker de Menezes;C. dos Santos Oliveira;Estádio Raimundo Sampaio;12;15;5;2;55%;45%;516;424;82%;81%;9;15;2;1;0;0;1;1;4;4
+30;21/10/2018;19:00;Paraná;Flamengo;0;4;L. Cavalcanti;D. Silvestre Júnior;Vila Capanema;7;11;2;6;31%;69%;317;699;75%;88%;17;13;1;0;1;0;1;2;4;1
+30;22/10/2018;20:03;Internacional;Santos;2;2;O. Hellmann;A. Stival;Estádio José Pinheiro Borda;14;8;9;3;48%;52%;387;418;82%;78%;14;15;1;3;0;0;2;2;5;7
+31;26/10/2018;19:31;EC Vitória;São Paulo;0;1;P. Carpegiani;D. Aguirre Camblor;Barradão;15;14;3;6;61%;39%;483;315;87%;77%;8;24;1;2;0;1;0;0;4;6
+31;26/10/2018;21:30;Vasco da Gama;Internacional;1;1;A. Valentim do Carmo Neto;O. Hellmann;Estádio Vasco da Gama;16;10;7;3;49%;51%;372;391;81%;81%;17;20;3;5;0;1;1;2;6;4
+31;27/10/2018;16:29;Santos;Fluminense;3;0;A. Stival;M. de Oliveira Santos;Estádio Urbano Caldeira;24;8;10;1;70%;30%;531;240;86%;65%;15;17;2;3;0;0;2;1;12;2
+31;27/10/2018;16:30;Grêmio;Sport Recife;3;4;Renato Gaúcho;M. Mendes;Arena do Grêmio;17;8;4;4;69%;31%;617;293;86%;71%;10;16;2;2;0;0;0;0;10;0
+31;27/10/2018;19:01;Corinthians;Bahia;2;1;J. Ribeiro Ventura;E. Alves Moreira;Neo Química Arena;14;11;3;2;55%;45%;429;363;80%;77%;11;15;3;3;0;0;2;0;5;5
+31;27/10/2018;19:00;Chapecoense;América-MG;1;0;C. dos Santos Oliveira;A. Batista;Arena Condá;10;8;5;2;40%;60%;317;486;76%;80%;12;24;3;4;0;0;1;1;4;4
+31;27/10/2018;19:00;Flamengo;Palmeiras;1;1;D. Silvestre Júnior;L. Scolari;Maracanã;22;8;4;3;71%;29%;496;210;82%;61%;19;17;2;5;0;0;0;2;15;4
+31;27/10/2018;20:59;Cruzeiro;Paraná;3;1;L. Venker de Menezes;L. Cavalcanti;Mineirão;13;5;5;0;61%;39%;600;400;88%;85%;13;18;0;2;0;0;3;1;9;0
+31;27/10/2018;19:59;Athletico-PR;Botafogo;2;1;T. Retzalff Nunes;J. Mannarino;Estádio Joaquim Américo Guimarães;16;9;7;4;70%;30%;565;242;87%;73%;19;30;2;5;0;0;1;1;5;2
+31;29/10/2018;20:01;Ceará SC;Atlético-MG;2;1;L. Cirne Lima de Lorenzi;L. Culpi;Arena Castelão;11;14;5;3;37%;63%;288;494;75%;87%;13;21;2;4;0;0;2;3;3;6
+32;03/11/2018;17:00;Fluminense;Vasco da Gama;0;1;M. de Oliveira Santos;A. Valentim do Carmo Neto;Maracanã;23;10;5;4;67%;33%;534;273;85%;72%;14;12;2;3;1;0;1;2;9;2
+32;03/11/2018;17:00;Atlético-MG;Grêmio;0;1;L. Culpi;Renato Gaúcho;Estádio Raimundo Sampaio;17;13;2;7;56%;44%;484;398;83%;77%;12;12;4;1;0;0;0;4;8;3
+32;03/11/2018;18:59;Palmeiras;Santos;3;2;L. Scolari;A. Stival;Allianz Parque;11;6;5;5;39%;61%;309;473;77%;86%;26;23;3;4;0;1;0;0;3;5
+32;04/11/2018;17:00;América-MG;Cruzeiro;1;2;A. Batista;L. Venker de Menezes;Estádio Raimundo Sampaio;16;10;5;3;55%;45%;506;439;83%;81%;18;8;3;1;0;0;0;1;8;2
+32;04/11/2018;17:01;Paraná;EC Vitória;1;1;L. Cavalcanti;P. Carpegiani;Vila Capanema;5;14;1;4;45%;55%;316;368;72%;75%;19;19;3;4;0;1;0;2;2;5
+32;04/11/2018;17:00;São Paulo;Flamengo;2;2;D. Aguirre Camblor;D. Silvestre Júnior;Morumbi;7;20;3;8;37%;63%;290;470;71%;80%;17;13;2;1;0;0;1;0;8;7
+32;04/11/2018;16:59;Botafogo;Corinthians;1;0;J. Mannarino;J. Ribeiro Ventura;Estádio Nilton Santos;18;9;6;5;39%;61%;288;439;74%;79%;25;19;1;2;0;0;0;1;5;3
+32;04/11/2018;18:59;Internacional;Athletico-PR;2;1;O. Hellmann;T. Retzalff Nunes;Estádio José Pinheiro Borda;12;9;5;4;63%;37%;512;318;84%;78%;9;20;2;3;0;0;1;1;11;5
+32;04/11/2018;19:00;Bahia;Chapecoense;1;0;E. Alves Moreira;C. dos Santos Oliveira;Itaipava Arena Fonte Nova;15;8;6;2;60%;40%;410;279;79%;71%;15;22;1;1;0;0;1;5;5;3
+32;05/11/2018;20:01;Sport Recife;Ceará SC;1;0;M. Mendes;L. Cirne Lima de Lorenzi;Adelmar da Costa Carvalho;9;13;4;2;52%;48%;427;419;75%;78%;13;16;3;3;0;0;1;1;8;3
+33;10/11/2018;17:00;América-MG;Paraná;0;1;A. Batista;L. Cavalcanti;Estádio Raimundo Sampaio;17;8;1;2;65%;35%;508;277;83%;66%;10;10;2;1;1;1;8;1;13;6
+33;10/11/2018;17:02;Corinthians;São Paulo;1;1;J. Ribeiro Ventura;D. Aguirre Camblor;Neo Química Arena;15;10;5;2;47%;53%;346;397;75%;81%;10;18;0;3;1;0;1;4;7;2
+33;10/11/2018;19:00;Botafogo;Flamengo;2;1;J. Mannarino;D. Silvestre Júnior;Estádio Nilton Santos;13;13;4;4;34%;66%;258;501;68%;81%;30;16;4;6;0;0;4;2;4;3
+33;10/11/2018;19:01;Athletico-PR;Cruzeiro;2;0;T. Retzalff Nunes;L. Venker de Menezes;Estádio Joaquim Américo Guimarães;10;12;3;3;44%;56%;445;550;82%;86%;17;14;4;7;0;0;0;1;4;3
+33;11/11/2018;16:59;EC Vitória;Bahia;2;2;J. Burse;E. Alves Moreira;Barradão;8;16;3;2;51%;49%;332;326;72%;70%;18;25;3;4;0;0;3;3;4;5
+33;11/11/2018;17:01;Ceará SC;Internacional;1;1;L. Cirne Lima de Lorenzi;O. Hellmann;Arena Castelão;21;5;5;4;40%;60%;330;515;82%;84%;11;15;2;5;0;0;2;1;6;5
+33;11/11/2018;17:00;Atlético-MG;Palmeiras;1;1;L. Culpi;L. Scolari;Estádio Raimundo Sampaio;18;7;8;3;56%;44%;430;346;78%;73%;22;14;3;2;0;0;0;4;6;4
+33;11/11/2018;17:00;Grêmio;Vasco da Gama;2;1;Renato Gaúcho;A. Valentim do Carmo Neto;Arena do Grêmio;19;6;4;2;71%;29%;611;256;89%;71%;12;17;2;4;0;0;1;0;7;2
+33;11/11/2018;18:59;Fluminense;Sport Recife;0;0;M. de Oliveira Santos;M. Mendes;Maracanã;16;3;7;0;61%;39%;542;345;84%;72%;18;16;0;2;0;0;3;2;4;5
+33;12/11/2018;20:00;Santos;Chapecoense;0;1;A. Stival;C. dos Santos Oliveira;Estádio Municipal Paulo Machado de Carvalho;19;7;2;3;64%;36%;447;262;78%;61%;15;24;2;1;0;0;3;4;5;4
+34;14/11/2018;19:30;Vasco da Gama;Athletico-PR;1;1;A. Valentim do Carmo Neto;T. Retzalff Nunes;Estádio Vasco da Gama;15;17;8;5;45%;55%;396;461;83%;83%;13;9;1;0;0;0;0;4;5;7
+34;14/11/2018;21:00;Bahia;Ceará SC;2;1;E. Alves Moreira;L. Cirne Lima de Lorenzi;Itaipava Arena Fonte Nova;23;7;11;3;62%;38%;539;341;85%;78%;11;15;2;3;0;0;0;1;10;0
+34;14/11/2018;21:00;Paraná;Atlético-MG;0;1;L. Cavalcanti;L. Culpi;Vila Capanema;5;11;1;4;24%;76%;212;672;66%;90%;19;14;3;3;2;0;0;2;0;5
+34;14/11/2018;21:45;Sport Recife;EC Vitória;0;0;M. Mendes;J. Burse;Adelmar da Costa Carvalho;14;14;2;6;55%;45%;392;312;74%;74%;21;17;4;4;0;0;2;3;7;8
+34;14/11/2018;21:45;Palmeiras;Fluminense;3;0;L. Scolari;M. de Oliveira Santos;Allianz Parque;18;5;7;2;47%;53%;318;354;76%;80%;20;24;6;4;0;1;2;3;6;4
+34;14/11/2018;21:45;Cruzeiro;Corinthians;1;0;L. Venker de Menezes;J. Ribeiro Ventura;Mineirão;13;14;5;5;47%;53%;458;513;84%;87%;13;6;2;1;0;1;1;1;6;10
+34;15/11/2018;17:00;Chapecoense;Botafogo;0;1;C. dos Santos Oliveira;J. Mannarino;Arena Condá;18;10;4;4;51%;49%;349;364;72%;71%;12;14;1;2;0;0;1;1;10;5
+34;15/11/2018;17:00;Flamengo;Santos;1;0;D. Silvestre Júnior;A. Stival;Maracanã;20;11;4;4;56%;44%;440;359;84%;80%;22;18;3;5;0;0;0;0;8;2
+34;15/11/2018;18:59;São Paulo;Grêmio;1;1;A. Soares Jardine;Renato Gaúcho;Morumbi;15;6;5;2;59%;41%;489;359;82%;76%;14;13;1;2;0;0;2;0;2;3
+34;15/11/2018;21:00;Internacional;América-MG;2;0;O. Hellmann;G. de Oliveira;Estádio José Pinheiro Borda;12;10;5;2;46%;54%;409;458;83%;85%;19;20;1;2;0;0;2;2;7;4
+35;17/11/2018;18:59;Corinthians;Vasco da Gama;1;0;J. Ribeiro Ventura;A. Valentim do Carmo Neto;Neo Química Arena;12;16;2;3;43%;57%;339;442;71%;74%;22;14;2;2;0;0;3;1;5;9
+35;17/11/2018;18:59;EC Vitória;Athletico-PR;1;2;J. Burse;T. Retzalff Nunes;Barradão;11;17;2;6;52%;48%;427;410;87%;84%;15;23;2;3;1;0;0;4;3;4
+35;17/11/2018;21:00;Atlético-MG;Bahia;1;0;L. Culpi;E. Alves Moreira;Estádio Raimundo Sampaio;12;8;4;2;49%;51%;376;386;75%;79%;16;24;2;3;1;0;3;2;10;4
+35;18/11/2018;17:00;Paraná;Palmeiras;1;1;L. Cavalcanti;L. Scolari;Estádio do Café;9;22;3;7;34%;66%;266;493;62%;80%;22;8;4;2;0;0;0;5;4;11
+35;18/11/2018;17:01;América-MG;Santos;2;1;G. de Oliveira;A. Stival;Estádio Raimundo Sampaio;16;8;7;3;48%;52%;420;444;80%;83%;20;14;6;1;0;0;1;2;4;6
+35;18/11/2018;17:01;Sport Recife;Flamengo;0;1;M. Mendes;D. Silvestre Júnior;Adelmar da Costa Carvalho;13;13;2;5;59%;41%;438;321;81%;71%;9;13;1;0;0;1;3;0;6;8
+35;18/11/2018;17:01;Botafogo;Internacional;1;0;J. Mannarino;O. Hellmann;Estádio Nilton Santos;12;5;4;1;40%;60%;333;472;74%;83%;13;18;2;3;0;2;1;3;1;9
+35;18/11/2018;19:00;São Paulo;Cruzeiro;1;0;A. Soares Jardine;L. Venker de Menezes;Morumbi;8;7;3;0;51%;49%;441;427;79%;79%;14;17;2;2;0;0;4;3;3;1
+35;18/11/2018;19:00;Grêmio;Chapecoense;2;0;Renato Gaúcho;C. dos Santos Oliveira;Arena do Grêmio;16;10;11;3;65%;35%;544;285;88%;75%;12;21;2;2;0;0;3;0;4;2
+35;19/11/2018;20:00;Fluminense;Ceará SC;0;0;M. de Oliveira Santos;L. Cirne Lima de Lorenzi;Maracanã;14;13;2;4;58%;42%;415;293;80%;68%;16;24;4;3;0;0;5;1;2;4
+36;21/11/2018;19:30;Internacional;Atlético-MG;1;2;O. Hellmann;L. Culpi;Estádio José Pinheiro Borda;15;12;3;2;55%;45%;485;422;76%;75%;10;17;1;2;0;0;2;0;11;4
+36;21/11/2018;21:00;Santos;Botafogo;1;1;A. Stival;J. Mannarino;Estádio Urbano Caldeira;19;16;6;3;52%;48%;437;419;85%;84%;19;16;2;2;0;0;0;1;9;5
+36;21/11/2018;21:45;Athletico-PR;Corinthians;1;0;T. Retzalff Nunes;J. Ribeiro Ventura;Estádio Joaquim Américo Guimarães;18;10;7;1;49%;51%;428;444;82%;82%;18;14;2;4;0;0;1;0;8;5
+36;21/11/2018;21:46;Palmeiras;América-MG;4;0;L. Scolari;G. de Oliveira;Allianz Parque;24;1;9;1;48%;52%;339;370;78%;76%;13;20;0;6;0;0;3;0;9;2
+36;21/11/2018;21:45;Flamengo;Grêmio;2;0;D. Silvestre Júnior;Renato Gaúcho;Maracanã;18;16;7;4;43%;57%;387;527;82%;85%;17;14;2;3;0;0;0;0;9;4
+36;21/11/2018;21:45;Cruzeiro;EC Vitória;3;0;L. Venker de Menezes;J. Burse;Mineirão;13;16;7;1;54%;46%;470;409;86%;88%;18;15;2;1;0;0;2;4;6;8
+36;22/11/2018;20:00;Vasco da Gama;São Paulo;2;0;A. Valentim do Carmo Neto;A. Soares Jardine;Estádio Vasco da Gama;8;10;2;2;35%;65%;246;445;73%;84%;19;22;2;4;0;0;1;2;3;7
+36;22/11/2018;21:01;Ceará SC;Paraná;1;0;L. Cirne Lima de Lorenzi;L. Cavalcanti;Arena Castelão;17;5;6;0;59%;41%;450;302;80%;74%;17;12;2;1;0;0;2;1;7;6
+36;22/11/2018;21:01;Bahia;Fluminense;2;0;E. Alves Moreira;M. de Oliveira Santos;Itaipava Arena Fonte Nova;13;6;7;1;56%;44%;478;390;81%;77%;23;9;2;1;0;0;1;2;3;1
+36;22/11/2018;21:00;Chapecoense;Sport Recife;2;1;C. dos Santos Oliveira;M. Mendes;Arena Condá;18;13;8;6;36%;64%;283;502;69%;78%;22;13;2;1;0;0;1;1;7;6
+37;24/11/2018;20:01;Santos;Atlético-MG;3;2;A. Stival;L. Culpi;Estádio Urbano Caldeira;21;16;9;4;41%;59%;354;508;78%;87%;19;15;4;1;1;0;0;0;9;8
+37;25/11/2018;17:01;Athletico-PR;Ceará SC;2;2;T. Retzalff Nunes;L. Cirne Lima de Lorenzi;Estádio Joaquim Américo Guimarães;17;13;3;5;65%;35%;530;285;88%;72%;19;18;3;4;0;0;5;2;10;4
+37;25/11/2018;17:00;Cruzeiro;Flamengo;0;2;L. Venker de Menezes;D. Silvestre Júnior;Mineirão;24;9;7;5;56%;44%;540;429;87%;79%;10;9;6;3;0;0;0;0;8;6
+37;25/11/2018;17:01;EC Vitória;Grêmio;0;0;J. Burse;Renato Gaúcho;Barradão;13;19;3;7;39%;61%;347;544;81%;85%;15;20;2;4;0;0;0;1;7;9
+37;25/11/2018;17:01;Vasco da Gama;Palmeiras;0;1;A. Valentim do Carmo Neto;L. Scolari;Estádio Vasco da Gama;9;9;3;3;49%;51%;394;387;78%;78%;17;18;4;5;1;0;0;2;5;14
+37;25/11/2018;18:59;Internacional;Fluminense;2;0;O. Hellmann;M. de Oliveira Santos;Estádio José Pinheiro Borda;22;10;3;3;63%;37%;477;291;81%;73%;12;17;3;1;0;1;1;1;8;4
+37;25/11/2018;19:00;América-MG;Bahia;1;0;G. de Oliveira;E. Alves Moreira;Estádio Raimundo Sampaio;10;15;3;3;47%;53%;382;407;74%;79%;19;21;2;1;0;1;3;2;1;4
+37;25/11/2018;19:01;Corinthians;Chapecoense;0;0;J. Ribeiro Ventura;C. dos Santos Oliveira;Neo Química Arena;12;14;1;2;68%;32%;581;276;84%;65%;13;13;2;1;0;0;0;1;9;4
+37;26/11/2018;20:00;Botafogo;Paraná;2;1;J. Mannarino;L. Cavalcanti;Estádio Nilton Santos;14;10;5;4;57%;43%;475;359;84%;77%;13;16;1;3;0;0;4;2;5;4
+37;26/11/2018;20:01;São Paulo;Sport Recife;0;0;A. Soares Jardine;M. Mendes;Morumbi;18;8;7;3;69%;31%;514;237;85%;63%;14;21;2;3;0;1;7;1;7;5
+38;01/12/2018;19:00;Flamengo;Athletico-PR;1;2;D. Silvestre Júnior;T. Retzalff Nunes;Maracanã;16;11;5;3;55%;45%;445;386;83%;81%;17;17;3;1;1;1;1;0;6;1
+38;01/12/2018;19:00;Atlético-MG;Botafogo;1;0;L. Culpi;J. Mannarino;Estádio Raimundo Sampaio;13;10;4;1;48%;52%;379;397;79%;80%;15;17;4;3;0;0;0;2;5;10
+38;02/12/2018;17:04;Ceará SC;Vasco da Gama;0;0;L. Cirne Lima de Lorenzi;A. Valentim do Carmo Neto;Arena Castelão;13;8;1;1;56%;44%;485;390;81%;79%;17;11;2;2;1;0;1;4;6;3
+38;02/12/2018;17:04;Grêmio;Corinthians;1;0;Renato Gaúcho;J. Ribeiro Ventura;Arena do Grêmio;10;3;3;1;53%;47%;560;507;87%;85%;11;15;2;4;0;0;1;0;7;5
+38;02/12/2018;17:00;Bahia;Cruzeiro;0;0;E. Alves Moreira;L. Venker de Menezes;Estádio de Pituaçu;13;17;0;3;46%;54%;341;394;71%;78%;18;15;4;1;0;0;0;3;7;8
+38;02/12/2018;17:04;Sport Recife;Santos;2;1;M. Mendes;A. Stival;Adelmar da Costa Carvalho;8;12;3;3;49%;51%;420;443;83%;82%;21;21;3;1;0;0;5;0;1;1
+38;02/12/2018;17:00;Paraná;Internacional;1;1;L. Cavalcanti;O. Hellmann;Vila Capanema;16;8;4;1;42%;58%;339;458;74%;78%;14;15;1;2;1;0;2;3;5;6
+38;02/12/2018;17:04;Fluminense;América-MG;1;0;F. Ribeiro Moreno;G. de Oliveira;Maracanã;11;22;4;6;42%;58%;300;400;67%;77%;15;19;5;2;0;0;3;0;4;8
+38;02/12/2018;17:04;Chapecoense;São Paulo;1;0;C. dos Santos Oliveira;A. Soares Jardine;Arena Condá;10;7;1;1;46%;54%;354;432;71%;79%;11;23;0;3;0;0;2;3;5;1
+38;02/12/2018;17:00;Palmeiras;EC Vitória;3;2;L. Scolari;J. Burse;Allianz Parque;25;16;8;3;59%;41%;457;334;86%;81%;11;6;2;2;0;0;3;0;10;2

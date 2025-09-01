@@ -1,0 +1,381 @@
+﻿rodada;data;hora;time_casa;time_fora;gols_casa;gols_fora;tecnico_casa;tecnico_fora;estadio;stat_chutes_casa;stat_chutes_fora;stat_chutes_a_gol_casa;stat_chutes_a_gol_fora;stat_posse_de_bola_casa;stat_posse_de_bola_fora;stat_passes_casa;stat_passes_fora;stat_precisão_de_passe_casa;stat_precisão_de_passe_fora;stat_faltas_casa;stat_faltas_fora;stat_cartões_amarelos_casa;stat_cartões_amarelos_fora;stat_cartões_vermelhos_casa;stat_cartões_vermelhos_fora;stat_impedimentos_casa;stat_impedimentos_fora;stat_escanteios_casa;stat_escanteios_fora
+1;09/04/2022;16:30;Fluminense;Santos;0;0;A. da Silva Braga;F. Bustos;Maracanã;26;3;6;1;66%;34%;545;286;88%;71%;14;18;1;0;0;0;0;4;8;1
+1;09/04/2022;19:00;Atlético-GO;Flamengo;1;1;U. Louzer Filho;P. Carvalho de Sousa;Estádio Antônio Accioly;10;12;3;3;44%;56%;403;502;82%;87%;7;11;3;2;0;0;1;2;4;10
+1;09/04/2022;21:00;Palmeiras;Ceará SC;2;3;A. Moreira Ferreira;D. Silvestre Júnior;Allianz Parque;17;19;4;9;56%;44%;377;309;81%;69%;17;14;4;8;0;1;3;0;11;8
+1;10/04/2022;11:01;Coritiba;Goiás;3;0;G. Morínigo;G. Ramos da Silva;Couto Pereira;17;7;9;0;52%;48%;449;421;85%;83%;10;12;2;4;0;0;3;2;7;3
+1;10/04/2022;16:00;Botafogo;Corinthians;1;3;R. Oliveira;V. de Oliveira Lopes Pereira;Estádio Nilton Santos;9;15;4;8;56%;44%;474;382;84%;79%;6;18;1;4;0;0;0;1;2;4
+1;10/04/2022;16:00;Atlético-MG;Internacional;2;0;A. Mohamed Matijevich;A. Medina;Mineirão;15;6;5;1;52%;48%;534;491;87%;85%;12;18;2;4;0;0;2;0;3;3
+1;10/04/2022;18:00;Fortaleza;Cuiabá;0;1;J. Vojvoda;L. de Oliveira Preto;Arena Castelão;22;9;5;4;66%;34%;444;245;84%;69%;22;23;2;3;0;0;1;0;7;1
+1;10/04/2022;19:00;Avaí;América-MG;1;0;E. de Souza Barroca;M. dos Santos Gonçalves;Ressacada;13;7;2;1;59%;41%;541;395;84%;75%;20;18;3;3;0;2;3;2;6;1
+1;10/04/2022;19:00;São Paulo;Athletico-PR;4;0;R. Ceni;A. Valentim do Carmo Neto;Morumbi;18;7;8;0;55%;45%;517;435;88%;86%;17;14;1;3;0;0;2;2;5;5
+1;11/04/2022;20:01;Juventude;Bragantino;2;2;E. Baptista;M. Nogueira Barbieri;Alfredo Jaconi;13;15;7;2;51%;49%;420;418;81%;79%;16;17;4;5;0;0;5;1;5;4
+2;16/04/2022;16:30;Goiás;Palmeiras;1;1;J. Ribeiro Ventura;A. Moreira Ferreira;Estádio da Serrinha;9;22;6;6;24%;76%;198;607;60%;84%;16;7;4;0;0;0;0;2;2;6
+2;16/04/2022;19:01;América-MG;Juventude;4;1;V. Carmo Mancini;E. Baptista;Estádio Raimundo Sampaio;22;13;9;4;45%;55%;378;444;81%;81%;19;11;3;0;0;1;2;2;5;5
+2;16/04/2022;19:00;Corinthians;Avaí;3;0;V. de Oliveira Lopes Pereira;E. de Souza Barroca;Neo Química Arena;14;15;4;5;55%;45%;597;506;86%;85%;22;12;1;1;0;0;1;5;7;2
+2;16/04/2022;20:59;Cuiabá;Fluminense;0;1;L. de Oliveira Preto;A. da Silva Braga;Arena Pantanal;5;12;1;3;38%;62%;333;525;73%;86%;18;14;2;1;0;0;1;0;2;5
+2;17/04/2022;11:00;Santos;Coritiba;2;1;F. Bustos;G. Morínigo;Estádio Urbano Caldeira;15;22;7;6;35%;65%;287;519;77%;87%;22;10;2;4;0;0;2;0;4;7
+2;17/04/2022;16:00;Flamengo;São Paulo;3;1;P. Carvalho de Sousa;R. Ceni;Maracanã;19;6;8;1;53%;47%;420;372;87%;84%;17;25;2;6;0;0;2;1;2;3
+2;17/04/2022;17:59;Athletico-PR;Atlético-MG;0;1;F. Carille;A. Mohamed Matijevich;Estádio Joaquim Américo Guimarães;12;17;3;5;44%;56%;408;521;81%;84%;9;14;2;3;0;0;1;0;2;5
+2;17/04/2022;17:59;Internacional;Fortaleza;2;1;C. de Almeida;J. Vojvoda;Estádio José Pinheiro Borda;18;7;5;3;52%;48%;476;453;82%;77%;15;13;5;5;0;0;0;3;8;5
+2;17/04/2022;18:00;Bragantino;Atlético-GO;4;0;M. Nogueira Barbieri;U. Louzer Filho;Nabizão;18;5;8;3;59%;41%;485;366;88%;79%;12;9;1;4;0;0;1;2;13;2
+2;17/04/2022;19:01;Ceará SC;Botafogo;1;3;D. Silvestre Júnior;L. Castro;Arena Castelão;18;11;4;3;65%;35%;469;257;80%;68%;16;15;1;4;1;0;1;2;4;2
+4;20/04/2022;19:30;Flamengo;Palmeiras;0;0;P. Carvalho de Sousa;A. Moreira Ferreira;Maracanã;17;10;2;2;57%;43%;444;347;86%;76%;15;21;3;4;0;0;1;1;9;6
+4;30/04/2022;16:31;Ceará SC;Bragantino;0;1;D. Silvestre Júnior;M. Nogueira Barbieri;Arena Castelão;14;18;4;6;56%;44%;447;357;76%;77%;11;20;1;5;0;1;4;0;5;4
+4;30/04/2022;16:30;América-MG;Athletico-PR;1;0;V. Carmo Mancini;F. Carille;Estádio Raimundo Sampaio;7;13;3;6;46%;54%;364;417;75%;79%;19;12;1;0;0;0;4;3;6;11
+4;30/04/2022;18:30;Goiás;Atlético-MG;2;2;J. Ribeiro Ventura;A. Mohamed Matijevich;Estádio da Serrinha;7;21;2;5;30%;70%;253;582;70%;88%;20;15;5;4;0;0;0;2;0;10
+4;30/04/2022;19:00;Cuiabá;Atlético-GO;1;1;L. de Oliveira Preto;U. Louzer Filho;Arena Pantanal;17;14;5;7;51%;49%;475;473;89%;85%;12;14;2;0;0;0;1;0;4;6
+4;01/05/2022;11:01;Botafogo;Juventude;1;1;L. Castro;E. Baptista;Estádio Nilton Santos;17;7;4;4;61%;39%;402;256;83%;72%;14;18;2;5;0;0;2;2;6;4
+4;01/05/2022;16:00;Corinthians;Fortaleza;1;0;V. de Oliveira Lopes Pereira;J. Vojvoda;Neo Química Arena;6;15;3;5;56%;44%;422;335;80%;73%;14;14;1;3;0;0;1;4;9;4
+4;01/05/2022;16:00;Coritiba;Fluminense;3;2;G. Morínigo;A. da Silva Braga;Couto Pereira;20;7;8;4;55%;45%;438;386;89%;81%;13;16;0;2;0;1;1;2;8;1
+4;01/05/2022;19:00;Internacional;Avaí;0;0;L. Venker de Menezes;E. de Souza Barroca;Estádio José Pinheiro Borda;23;11;3;4;61%;39%;537;378;85%;78%;15;16;2;4;0;0;0;0;18;2
+4;02/05/2022;20:00;São Paulo;Santos;2;1;C. A. P. F. Hembert;F. Bustos;Morumbi;10;8;3;3;57%;43%;459;353;86%;81%;15;8;2;4;0;0;2;0;2;4
+3;23/04/2022;16:30;Bragantino;São Paulo;1;1;M. Nogueira Barbieri;R. Ceni;Nabizão;15;24;3;7;33%;67%;242;495;67%;83%;13;12;5;2;0;0;1;2;6;9
+3;23/04/2022;16:30;Athletico-PR;Flamengo;1;0;F. Carille;P. Carvalho de Sousa;Estádio Joaquim Américo Guimarães;10;11;2;6;41%;59%;354;500;75%;81%;15;10;4;2;0;0;2;1;6;5
+3;23/04/2022;19:00;Palmeiras;Corinthians;3;0;A. Moreira Ferreira;V. de Oliveira Lopes Pereira;Arena Barueri;20;7;7;1;44%;56%;339;426;78%;84%;13;14;1;2;0;0;3;0;12;3
+3;23/04/2022;19:00;Fluminense;Internacional;0;1;A. da Silva Braga;L. Venker de Menezes;Maracanã;12;12;2;4;58%;42%;503;383;85%;76%;15;12;5;3;0;0;4;2;5;4
+3;23/04/2022;20:59;Atlético-MG;Coritiba;2;2;A. Mohamed Matijevich;G. Morínigo;Estádio Raimundo Sampaio;20;11;5;4;61%;39%;659;415;89%;85%;10;8;2;1;0;0;0;0;3;3
+3;24/04/2022;15:59;Santos;América-MG;3;0;F. Bustos;V. Carmo Mancini;Estádio Urbano Caldeira;18;19;8;2;39%;61%;324;490;75%;85%;16;8;2;0;0;0;2;1;3;8
+3;24/04/2022;17:59;Juventude;Cuiabá;0;1;E. Baptista;L. de Oliveira Preto;Alfredo Jaconi;13;10;2;4;58%;42%;428;314;82%;77%;18;19;1;4;1;0;2;1;6;7
+3;24/04/2022;18:30;Atlético-GO;Botafogo;1;1;U. Louzer Filho;L. Castro;Estádio Antônio Accioly;9;17;2;2;37%;63%;320;526;75%;85%;11;5;2;1;0;0;2;2;2;7
+3;25/04/2022;20:00;Avaí;Goiás;3;2;E. de Souza Barroca;J. Ribeiro Ventura;Ressacada;14;18;4;5;40%;60%;255;376;70%;81%;20;20;5;5;1;0;0;3;3;5
+3;01/06/2022;20:29;Fortaleza;Ceará SC;0;1;J. Vojvoda;D. Silvestre Júnior;Arena Castelão;11;19;3;7;40%;60%;299;451;73%;87%;18;18;5;4;1;0;0;2;4;1
+5;07/05/2022;16:30;Atlético-MG;América-MG;1;2;A. Mohamed Matijevich;V. Carmo Mancini;Estádio Raimundo Sampaio;23;12;8;9;69%;31%;539;261;80%;59%;7;22;4;3;0;1;3;3;11;3
+5;07/05/2022;20:30;Athletico-PR;Ceará SC;1;0;W. O. de Carvalho;D. Silvestre Júnior;Estádio Joaquim Américo Guimarães;15;16;9;3;40%;60%;285;408;74%;78%;19;8;5;4;0;0;1;1;4;9
+5;08/05/2022;11:01;Flamengo;Botafogo;0;1;P. Carvalho de Sousa;L. Castro;Estádio Nacional de Brasília;17;13;8;8;53%;47%;408;387;81%;77%;13;18;1;3;0;0;8;1;10;4
+5;08/05/2022;16:00;Palmeiras;Fluminense;1;1;A. Moreira Ferreira;F. Diniz Silva;Allianz Parque;19;8;5;2;48%;52%;357;403;85%;83%;10;13;1;2;0;0;3;0;6;3
+5;08/05/2022;16:00;Atlético-GO;Goiás;0;1;U. Louzer Filho;J. Ribeiro Ventura;Estádio Antônio Accioly;33;6;7;3;77%;23%;531;173;87%;60%;12;11;4;2;0;1;2;2;12;0
+5;08/05/2022;18:00;Bragantino;Corinthians;0;1;C. Maldonado;V. de Oliveira Lopes Pereira;Nabizão;8;4;2;1;58%;42%;537;416;83%;80%;11;9;1;2;0;0;3;1;1;1
+5;08/05/2022;18:00;Santos;Cuiabá;4;1;F. Bustos;L. de Oliveira Preto;Estádio Urbano Caldeira;12;16;7;3;47%;53%;417;454;83%;88%;14;12;1;2;0;0;1;2;4;8
+5;08/05/2022;19:00;Juventude;Internacional;1;1;E. Baptista;L. Venker de Menezes;Alfredo Jaconi;12;8;5;3;57%;43%;454;359;82%;76%;22;13;5;5;0;0;2;1;6;3
+5;08/05/2022;18:59;Fortaleza;São Paulo;1;1;J. Vojvoda;R. Ceni;Arena Castelão;12;4;3;2;54%;46%;383;339;79%;72%;16;14;2;3;0;0;3;2;9;4
+5;09/05/2022;20:01;Avaí;Coritiba;2;1;E. de Souza Barroca;G. Morínigo;Ressacada;12;8;6;4;58%;42%;546;385;84%;79%;14;13;3;3;0;0;0;1;5;7
+7;11/05/2022;20:30;Bragantino;Atlético-MG;1;1;M. Nogueira Barbieri;A. Mohamed Matijevich;Nabizão;6;18;1;4;37%;63%;384;648;77%;84%;13;5;3;2;1;0;1;2;3;10
+7;21/05/2022;16:30;Atlético-GO;Coritiba;2;0;J. de Amorim Campos;G. Morínigo;Estádio Antônio Accioly;17;14;3;6;58%;42%;498;358;85%;81%;14;13;4;1;0;2;1;1;3;5
+7;21/05/2022;16:31;Flamengo;Goiás;1;0;P. Carvalho de Sousa;J. Ribeiro Ventura;Maracanã;11;3;6;0;64%;36%;580;316;88%;77%;14;19;1;3;0;0;1;3;6;4
+7;21/05/2022;18:29;Santos;Ceará SC;0;0;F. Bustos;D. Silvestre Júnior;Arena Barueri;16;11;3;4;51%;49%;382;394;80%;79%;9;13;1;5;0;1;2;1;6;2
+7;21/05/2022;19:00;Juventude;Palmeiras;0;3;E. Baptista;A. Moreira Ferreira;Alfredo Jaconi;13;20;3;8;45%;55%;380;465;79%;83%;20;6;3;0;0;0;1;2;7;7
+7;21/05/2022;20:59;Cuiabá;Internacional;1;1;L. Iubel;L. Venker de Menezes;Arena Pantanal;11;14;3;4;42%;58%;319;426;78%;83%;9;12;1;7;2;0;2;1;4;11
+7;21/05/2022;21:00;América-MG;Botafogo;1;1;V. Carmo Mancini;L. Castro;Estádio Raimundo Sampaio;12;8;4;5;42%;58%;377;516;74%;82%;19;9;2;1;0;0;3;1;3;5
+7;22/05/2022;16:02;Corinthians;São Paulo;1;1;V. de Oliveira Lopes Pereira;R. Ceni;Neo Química Arena;13;14;5;7;56%;44%;513;414;80%;74%;11;12;2;3;0;0;2;2;8;8
+7;22/05/2022;15:59;Fortaleza;Fluminense;0;1;J. Vojvoda;F. Diniz Silva;Arena Castelão;23;7;8;3;64%;36%;486;290;84%;73%;13;14;1;1;0;0;0;3;12;5
+7;22/05/2022;19:00;Athletico-PR;Avaí;2;1;L. Scolari;E. de Souza Barroca;Estádio Joaquim Américo Guimarães;12;9;3;4;42%;58%;345;464;73%;81%;23;17;2;6;0;0;1;0;5;4
+6;14/05/2022;16:30;Palmeiras;Bragantino;2;0;A. Moreira Ferreira;M. Nogueira Barbieri;Allianz Parque;14;11;7;2;48%;52%;388;410;79%;81%;11;14;2;2;0;0;3;0;7;4
+6;14/05/2022;16:30;Ceará SC;Flamengo;2;2;D. Silvestre Júnior;P. Carvalho de Sousa;Arena Castelão;15;11;5;4;41%;59%;333;486;82%;83%;18;22;5;5;0;0;4;0;8;3
+6;14/05/2022;19:01;Internacional;Corinthians;2;2;L. Venker de Menezes;V. de Oliveira Lopes Pereira;Estádio José Pinheiro Borda;13;15;5;9;47%;53%;385;426;82%;86%;8;7;2;2;0;0;1;3;5;6
+6;14/05/2022;18:59;Atlético-MG;Atlético-GO;2;0;A. Mohamed Matijevich;U. Louzer Filho;Estádio Raimundo Sampaio;14;5;7;0;57%;43%;526;400;82%;80%;16;14;1;2;0;0;2;1;10;2
+6;14/05/2022;21:01;Fluminense;Athletico-PR;2;1;F. Diniz Silva;L. Scolari;Estádio Municipal General Raulino de Oliveira;11;12;6;3;64%;36%;525;290;86%;76%;12;12;3;2;0;0;1;1;4;5
+6;15/05/2022;16:00;São Paulo;Cuiabá;2;1;R. Ceni;L. Iubel;Morumbi;21;6;9;3;74%;26%;593;215;88%;72%;5;15;2;1;0;1;1;0;15;3
+6;15/05/2022;17:30;Coritiba;América-MG;1;0;G. Morínigo;V. Carmo Mancini;Couto Pereira;17;9;7;2;59%;41%;410;294;85%;79%;11;23;1;4;0;1;4;1;7;4
+6;15/05/2022;18:00;Botafogo;Fortaleza;3;1;L. Castro;J. Vojvoda;Estádio Nilton Santos;13;10;6;3;63%;37%;512;302;84%;73%;14;15;3;0;0;1;3;2;5;1
+6;15/05/2022;18:00;Avaí;Juventude;1;2;E. de Souza Barroca;E. Baptista;Ressacada;17;5;5;3;64%;36%;545;302;84%;78%;18;16;2;5;0;2;0;0;6;6
+6;15/05/2022;18:59;Goiás;Santos;1;0;J. Ribeiro Ventura;F. Bustos;Estádio da Serrinha;10;16;5;3;31%;69%;243;507;72%;88%;14;11;0;0;0;0;0;2;5;9
+8;28/05/2022;16:30;Goiás;Bragantino;1;1;J. Ribeiro Ventura;M. Nogueira Barbieri;Estádio da Serrinha;17;14;2;4;52%;48%;358;357;81%;78%;18;22;2;3;0;1;0;1;6;1
+8;28/05/2022;19:01;São Paulo;Ceará SC;2;2;R. Ceni;D. Silvestre Júnior;Morumbi;15;7;5;4;52%;48%;372;356;81%;80%;19;10;2;5;1;0;2;3;8;3
+8;28/05/2022;20:30;Fortaleza;Juventude;1;1;J. Vojvoda;E. Baptista;Arena Castelão;14;16;3;8;63%;37%;553;334;84%;76%;10;16;2;3;0;0;1;0;8;7
+8;29/05/2022;16:01;Coritiba;Botafogo;1;0;G. Morínigo;L. Castro;Couto Pereira;15;18;5;3;27%;73%;188;485;59%;83%;10;12;5;3;0;0;3;4;5;9
+8;29/05/2022;15:59;Santos;Palmeiras;0;1;F. Bustos;J. M. Barreto Martins;Estádio Urbano Caldeira;18;17;4;4;44%;56%;384;477;80%;87%;19;15;5;1;0;0;1;2;3;4
+8;29/05/2022;17:59;Cuiabá;Athletico-PR;0;1;W. Araujo de Souza;L. Scolari;Arena Pantanal;10;19;0;8;59%;41%;460;333;86%;78%;9;17;5;0;0;0;0;4;8;8
+8;29/05/2022;18:01;Corinthians;América-MG;1;1;V. de Oliveira Lopes Pereira;V. Carmo Mancini;Neo Química Arena;7;13;4;5;63%;37%;541;316;81%;69%;13;19;2;1;0;0;0;1;6;5
+8;29/05/2022;18:01;Fluminense;Flamengo;1;2;F. Diniz Silva;P. Carvalho de Sousa;Maracanã;17;7;6;3;63%;37%;505;302;86%;76%;9;16;3;5;1;1;2;4;12;2
+8;29/05/2022;18:59;Atlético-MG;Avaí;2;1;A. Mohamed Matijevich;E. de Souza Barroca;Mineirão;27;5;7;1;62%;38%;496;321;83%;75%;14;10;3;2;0;1;2;0;13;0
+8;30/05/2022;19:59;Internacional;Atlético-GO;1;1;L. Venker de Menezes;J. de Amorim Campos;Estádio José Pinheiro Borda;10;20;5;7;44%;56%;433;524;83%;84%;7;16;1;2;0;0;0;0;3;12
+9;04/06/2022;16:30;América-MG;Cuiabá;2;1;V. Carmo Mancini;L. Iubel;Estádio Raimundo Sampaio;16;5;6;2;52%;48%;448;421;76%;76%;11;11;0;1;0;0;3;4;8;4
+9;04/06/2022;19:00;Athletico-PR;Santos;2;2;L. Scolari;F. Bustos;Estádio Joaquim Américo Guimarães;14;14;4;3;41%;59%;296;421;78%;81%;21;11;5;3;0;0;2;0;7;6
+9;04/06/2022;18:59;Ceará SC;Coritiba;1;1;D. Silvestre Júnior;G. Morínigo;Arena Castelão;22;14;10;6;51%;49%;424;419;84%;80%;14;9;1;4;0;0;4;1;5;6
+9;04/06/2022;19:01;Avaí;São Paulo;1;1;E. de Souza Barroca;R. Ceni;Ressacada;17;16;6;4;54%;46%;445;387;77%;73%;11;23;2;2;0;0;1;2;4;7
+9;04/06/2022;20:31;Atlético-GO;Corinthians;0;1;J. de Amorim Campos;V. de Oliveira Lopes Pereira;Estádio do Governo do Estado de Goiás (Serra Dourada);14;10;3;1;57%;43%;528;435;85%;83%;9;11;3;3;0;0;3;0;9;0
+9;05/06/2022;11:00;Juventude;Fluminense;1;0;E. Baptista;F. Diniz Silva;Alfredo Jaconi;11;6;3;2;48%;52%;251;259;40%;39%;21;10;3;4;0;1;5;1;5;7
+9;05/06/2022;16:00;Flamengo;Fortaleza;1;2;P. Carvalho de Sousa;J. Vojvoda;Maracanã;11;12;3;6;66%;34%;526;280;87%;75%;9;21;3;4;0;0;2;5;9;3
+9;05/06/2022;16:00;Palmeiras;Atlético-MG;0;0;A. Moreira Ferreira;A. Mohamed Matijevich;Allianz Parque;16;11;3;3;49%;51%;367;378;78%;82%;8;19;1;3;0;0;0;4;6;2
+9;05/06/2022;18:59;Bragantino;Internacional;0;2;M. Nogueira Barbieri;L. Venker de Menezes;Nabizão;8;9;2;5;48%;52%;434;479;82%;82%;20;12;3;3;0;0;2;1;7;3
+9;06/06/2022;20:00;Botafogo;Goiás;1;2;L. Castro;J. Ribeiro Ventura;Estádio Nilton Santos;16;11;5;4;63%;37%;464;282;85%;70%;11;22;2;2;0;0;1;1;9;2
+10;07/06/2022;21:30;Cuiabá;Corinthians;1;0;B. Franco;V. de Oliveira Lopes Pereira;Arena Pantanal;11;11;4;4;39%;61%;354;552;79%;87%;10;11;1;2;1;0;0;0;4;3
+10;08/06/2022;19:00;América-MG;Ceará SC;0;2;V. Carmo Mancini;D. Silvestre Júnior;Estádio Raimundo Sampaio;16;7;3;3;57%;43%;452;348;78%;70%;18;20;2;3;0;0;3;0;4;4
+10;08/06/2022;19:04;Juventude;Athletico-PR;1;3;E. Baptista;L. Scolari;Alfredo Jaconi;17;7;4;6;55%;45%;385;340;75%;68%;9;10;2;4;0;0;0;1;11;5
+10;08/06/2022;20:29;Atlético-GO;Avaí;2;1;J. de Amorim Campos;E. de Souza Barroca;Estádio do Governo do Estado de Goiás (Serra Dourada);13;10;5;3;53%;47%;429;394;79%;79%;12;12;1;3;0;1;1;0;8;6
+10;08/06/2022;20:30;Bragantino;Flamengo;1;0;M. Nogueira Barbieri;P. Carvalho de Sousa;Nabizão;12;13;2;3;31%;69%;253;551;77%;88%;11;16;1;4;1;0;2;1;5;7
+10;08/06/2022;21:30;Fluminense;Atlético-MG;5;3;F. Diniz Silva;A. Mohamed Matijevich;Maracanã;13;11;9;6;43%;57%;332;425;78%;84%;13;15;3;3;0;0;1;3;1;9
+10;08/06/2022;21:30;Santos;Internacional;1;1;F. Bustos;L. Venker de Menezes;Estádio Urbano Caldeira;22;11;6;6;52%;48%;414;411;80%;79%;11;16;2;1;0;0;2;1;10;3
+10;09/06/2022;19:00;Palmeiras;Botafogo;4;0;A. Moreira Ferreira;L. Castro;Allianz Parque;14;12;6;3;47%;53%;391;440;83%;85%;16;14;1;1;0;0;3;0;7;4
+10;09/06/2022;20:00;Coritiba;São Paulo;1;1;G. Morínigo;R. Ceni;Couto Pereira;11;16;2;4;40%;60%;318;467;77%;83%;12;13;3;3;0;0;1;1;1;10
+10;09/06/2022;20:00;Fortaleza;Goiás;1;1;J. Vojvoda;J. Ribeiro Ventura;Arena Castelão;20;12;4;2;52%;48%;391;379;80%;82%;12;18;1;2;0;0;5;2;6;2
+11;11/06/2022;16:31;Corinthians;Juventude;2;0;V. de Oliveira Lopes Pereira;E. Baptista;Neo Química Arena;13;8;3;2;58%;42%;573;427;86%;81%;15;12;1;4;0;0;3;4;4;5
+11;11/06/2022;19:00;Atlético-MG;Santos;1;1;A. Mohamed Matijevich;F. Bustos;Mineirão;16;12;4;6;68%;32%;601;277;88%;79%;11;16;4;4;0;1;1;2;5;6
+11;11/06/2022;19:01;Fluminense;Atlético-GO;0;2;F. Diniz Silva;J. de Amorim Campos;Maracanã;15;17;4;9;47%;53%;404;484;84%;84%;10;13;3;2;1;0;2;3;10;6
+11;11/06/2022;19:00;Cuiabá;Bragantino;1;1;A. Cardoso de Oliveira;M. Nogueira Barbieri;Arena Pantanal;19;8;5;4;43%;57%;334;450;77%;81%;14;15;1;3;0;0;0;0;5;4
+11;11/06/2022;21:00;Internacional;Flamengo;3;1;L. Venker de Menezes;D. Silvestre Júnior;Estádio José Pinheiro Borda;11;16;4;3;32%;68%;290;599;76%;88%;15;14;3;3;0;0;3;1;4;4
+11;12/06/2022;16:00;Goiás;Ceará SC;1;1;J. Ribeiro Ventura;P. Sotero Da Cunha Neto;Estádio da Serrinha;12;20;4;6;49%;51%;360;369;81%;75%;20;14;6;2;0;1;1;3;2;10
+11;12/06/2022;16:00;São Paulo;América-MG;1;0;R. Ceni;V. Carmo Mancini;Morumbi;15;11;2;5;47%;53%;406;438;77%;75%;14;16;2;2;0;0;2;0;2;4
+11;12/06/2022;18:01;Coritiba;Palmeiras;0;2;G. Morínigo;A. Moreira Ferreira;Couto Pereira;11;16;4;6;47%;53%;410;466;84%;86%;11;13;1;2;1;0;1;2;5;6
+11;12/06/2022;18:59;Fortaleza;Athletico-PR;0;0;J. Vojvoda;L. Scolari;Arena Castelão;23;7;6;0;64%;36%;500;293;80%;66%;13;12;1;3;0;0;1;2;7;1
+11;13/06/2022;19:00;Botafogo;Avaí;0;1;L. Castro;E. de Souza Barroca;Estádio Nilton Santos;22;9;7;2;51%;49%;415;409;74%;76%;19;22;4;4;0;1;1;5;7;1
+12;14/06/2022;21:30;Juventude;Santos;1;2;E. Baptista;F. Bustos;Alfredo Jaconi;10;18;1;9;34%;66%;326;630;76%;87%;19;14;1;2;1;0;0;2;4;9
+12;15/06/2022;19:00;Ceará SC;Atlético-MG;0;0;M. dos Santos Gonçalves;A. Mohamed Matijevich;Arena Castelão;16;14;3;2;53%;47%;482;456;81%;79%;14;17;2;3;0;0;1;0;5;2
+12;15/06/2022;19:00;Bragantino;Coritiba;4;2;C. Maldonado;G. Morínigo;Nabizão;18;16;7;5;53%;47%;449;413;80%;80%;13;12;2;1;0;0;1;1;4;5
+12;15/06/2022;20:30;Goiás;Internacional;1;2;J. Ribeiro Ventura;L. Venker de Menezes;Estádio da Serrinha;7;16;3;8;53%;47%;425;407;84%;80%;11;14;4;3;0;0;4;0;8;2
+12;15/06/2022;20:30;Flamengo;Cuiabá;2;0;D. Silvestre Júnior;A. Cardoso de Oliveira;Maracanã;15;6;6;1;63%;37%;622;352;90%;84%;17;14;1;2;0;0;3;0;4;3
+12;15/06/2022;21:32;Athletico-PR;Corinthians;1;1;L. Scolari;V. de Oliveira Lopes Pereira;Estádio Joaquim Américo Guimarães;21;11;2;6;43%;57%;384;522;82%;86%;12;9;2;2;1;1;3;0;11;4
+12;15/06/2022;21:30;América-MG;Fluminense;0;0;V. Carmo Mancini;F. Diniz Silva;Estádio Raimundo Sampaio;9;20;4;3;21%;79%;183;685;64%;89%;12;9;3;1;1;0;0;1;3;8
+12;16/06/2022;16:00;Botafogo;São Paulo;1;0;L. Castro;R. Ceni;Estádio Nilton Santos;17;6;3;2;32%;68%;276;573;71%;82%;17;17;6;3;0;0;1;4;3;3
+12;16/06/2022;17:59;Palmeiras;Atlético-GO;4;2;A. Moreira Ferreira;J. de Amorim Campos;Allianz Parque;29;10;12;2;49%;51%;361;392;82%;83%;12;16;2;1;0;1;2;2;12;4
+12;16/06/2022;19:00;Avaí;Fortaleza;3;2;E. de Souza Barroca;J. Vojvoda;Ressacada;12;4;4;3;51%;49%;435;424;80%;81%;16;17;1;3;0;0;2;2;3;4
+13;18/06/2022;18:59;Cuiabá;Ceará SC;0;0;A. Cardoso de Oliveira;M. dos Santos Gonçalves;Arena Pantanal;14;9;1;1;45%;55%;368;454;79%;83%;15;10;0;2;0;0;1;6;7;6
+13;18/06/2022;21:00;Santos;Bragantino;2;2;F. Bustos;M. Nogueira Barbieri;Estádio Urbano Caldeira;12;18;5;7;43%;57%;341;441;81%;85%;13;18;4;3;0;0;0;0;3;9
+13;19/06/2022;15:59;Atlético-MG;Flamengo;2;0;A. Mohamed Matijevich;D. Silvestre Júnior;Mineirão;16;10;3;3;48%;52%;373;406;84%;85%;18;13;4;1;0;0;1;1;9;8
+13;19/06/2022;16:01;Coritiba;Athletico-PR;0;1;G. Morínigo;L. Scolari;Couto Pereira;24;10;3;3;61%;39%;372;251;80%;70%;12;11;4;6;2;0;3;2;12;1
+13;19/06/2022;16:01;Corinthians;Goiás;1;0;V. de Oliveira Lopes Pereira;J. Ribeiro Ventura;Neo Química Arena;17;9;3;2;67%;33%;603;300;85%;73%;7;13;1;4;0;0;3;1;6;4
+13;19/06/2022;18:00;Internacional;Botafogo;2;3;L. Venker de Menezes;L. Castro;Estádio José Pinheiro Borda;18;10;8;6;78%;22%;597;178;87%;60%;13;13;4;6;2;2;5;3;7;2
+13;19/06/2022;18:00;Fortaleza;América-MG;1;0;J. Vojvoda;V. Carmo Mancini;Arena Castelão;18;14;8;4;51%;49%;355;325;70%;69%;8;5;1;0;0;0;1;5;5;8
+13;19/06/2022;18:01;Atlético-GO;Juventude;3;1;J. de Amorim Campos;E. Baptista;Estádio Antônio Accioly;26;5;6;3;66%;34%;513;276;87%;72%;15;11;3;4;0;1;1;1;7;2
+13;19/06/2022;19:01;Fluminense;Avaí;2;0;F. Diniz Silva;E. de Souza Barroca;Maracanã;19;9;3;4;49%;51%;479;486;87%;83%;8;15;0;3;0;0;1;4;6;3
+13;20/06/2022;20:00;São Paulo;Palmeiras;1;2;R. Ceni;J. M. Barreto Martins;Morumbi;12;23;3;7;39%;61%;287;446;73%;82%;17;9;3;1;0;0;1;2;3;7
+14;24/06/2022;21:29;Internacional;Coritiba;3;0;L. Venker de Menezes;G. Morínigo;Estádio José Pinheiro Borda;15;14;8;4;56%;44%;550;427;88%;88%;9;16;2;4;0;0;0;2;1;9
+14;25/06/2022;16:30;Athletico-PR;Bragantino;4;2;L. Scolari;M. Nogueira Barbieri;Estádio Joaquim Américo Guimarães;10;23;6;6;30%;70%;247;560;68%;87%;14;11;4;1;0;0;0;3;5;10
+14;25/06/2022;19:00;Flamengo;América-MG;3;0;D. Silvestre Júnior;V. Carmo Mancini;Maracanã;23;15;7;5;53%;47%;430;387;78%;77%;17;13;1;2;0;0;2;1;7;7
+14;25/06/2022;19:00;Corinthians;Santos;0;0;V. de Oliveira Lopes Pereira;L. Ochandorena;Neo Química Arena;9;7;1;2;62%;38%;527;335;85%;73%;20;10;3;3;0;0;0;4;3;2
+14;25/06/2022;20:59;Atlético-MG;Fortaleza;3;2;A. Mohamed Matijevich;G. Liendo;Mineirão;17;8;6;3;67%;33%;663;328;90%;77%;14;15;0;5;0;0;1;0;1;3
+14;26/06/2022;16:01;Avaí;Palmeiras;2;2;E. de Souza Barroca;A. Moreira Ferreira;Ressacada;7;15;4;4;49%;51%;395;392;78%;74%;18;17;4;1;0;0;0;1;2;5
+14;26/06/2022;16:03;Botafogo;Fluminense;0;1;V. Severino;F. Diniz Silva;Estádio Nilton Santos;9;11;1;3;20%;80%;182;730;66%;89%;18;14;3;2;0;0;1;1;1;6
+14;26/06/2022;18:00;Goiás;Cuiabá;1;0;J. Ribeiro Ventura;B. Lazaroni;Estádio da Serrinha;15;13;5;2;46%;54%;311;356;71%;75%;14;16;3;3;0;1;2;0;4;6
+14;26/06/2022;18:00;Ceará SC;Atlético-GO;1;1;M. dos Santos Gonçalves;J. de Amorim Campos;Arena Castelão;10;7;5;2;49%;51%;352;369;82%;81%;16;18;2;2;0;0;0;6;4;2
+14;26/06/2022;18:01;São Paulo;Juventude;0;0;R. Ceni;U. Louzer Filho;Morumbi;29;4;9;2;59%;41%;527;400;87%;80%;15;7;3;4;0;0;0;1;16;1
+15;02/07/2022;16:29;Juventude;Atlético-MG;1;2;U. Louzer Filho;A. Mohamed Matijevich;Alfredo Jaconi;17;8;3;4;56%;44%;574;475;90%;88%;11;11;2;1;0;0;1;0;6;6
+15;02/07/2022;16:31;Fluminense;Corinthians;4;0;F. Diniz Silva;V. de Oliveira Lopes Pereira;Maracanã;15;3;6;2;58%;42%;519;374;90%;82%;11;12;0;3;0;0;4;0;6;4
+15;02/07/2022;19:00;Santos;Flamengo;1;2;F. Bustos;D. Silvestre Júnior;Estádio Urbano Caldeira;16;12;7;6;46%;54%;418;489;82%;86%;15;13;4;2;0;0;2;0;7;3
+15;02/07/2022;19:00;Ceará SC;Internacional;1;1;M. dos Santos Gonçalves;L. Venker de Menezes;Arena Castelão;9;12;4;5;61%;39%;391;257;84%;77%;24;20;4;3;0;1;3;0;3;2
+15;02/07/2022;21:00;Palmeiras;Athletico-PR;0;2;A. Moreira Ferreira;L. Scolari;Allianz Parque;35;13;7;5;72%;28%;553;231;84%;60%;12;15;1;2;1;0;0;0;9;2
+15;03/07/2022;11:00;Avaí;Cuiabá;1;2;E. de Souza Barroca;A. Cardoso de Oliveira;Ressacada;12;13;3;3;60%;40%;562;374;84%;76%;10;12;0;0;0;0;3;2;4;4
+15;03/07/2022;16:00;Atlético-GO;São Paulo;1;2;J. de Amorim Campos;R. Ceni;Estádio Antônio Accioly;11;8;3;2;53%;47%;376;346;81%;78%;9;20;5;7;0;0;2;1;3;0
+15;03/07/2022;18:00;América-MG;Goiás;1;0;V. Carmo Mancini;J. Ribeiro Ventura;Estádio Raimundo Sampaio;21;21;5;3;53%;47%;412;377;77%;78%;14;8;2;2;0;0;2;2;11;3
+15;03/07/2022;18:46;Coritiba;Fortaleza;2;1;G. Morínigo;J. Vojvoda;Couto Pereira;11;22;4;7;37%;63%;288;479;75%;87%;11;22;2;3;1;0;1;1;2;6
+15;04/07/2022;20:00;Bragantino;Botafogo;0;1;M. Nogueira Barbieri;L. Castro;Nabizão;18;9;6;1;65%;35%;434;248;77%;67%;11;19;1;4;1;0;6;0;9;4
+16;09/07/2022;16:30;Bragantino;Avaí;4;0;M. Nogueira Barbieri;E. de Souza Barroca;Nabizão;37;8;13;2;46%;54%;355;434;76%;81%;5;6;1;3;0;0;1;0;19;7
+16;09/07/2022;19:05;Fluminense;Ceará SC;2;1;F. Diniz Silva;M. dos Santos Gonçalves;Maracanã;18;17;6;6;60%;40%;501;344;87%;79%;16;17;2;3;0;0;0;2;9;10
+16;09/07/2022;20:30;Goiás;Athletico-PR;2;1;J. Ribeiro Ventura;L. Scolari;Estádio da Serrinha;11;20;3;4;34%;66%;256;481;70%;86%;15;10;2;1;0;0;0;3;2;2
+16;10/07/2022;11:01;Coritiba;Juventude;2;2;G. Morínigo;U. Louzer Filho;Couto Pereira;19;15;2;6;47%;53%;350;426;81%;81%;19;11;1;2;0;0;0;0;11;7
+16;10/07/2022;16:01;Corinthians;Flamengo;1;0;V. de Oliveira Lopes Pereira;D. Silvestre Júnior;Neo Química Arena;7;12;2;4;49%;51%;433;457;81%;82%;7;12;2;4;0;0;3;1;6;3
+16;10/07/2022;18:01;Santos;Atlético-GO;1;0;M. Fernandes;J. de Amorim Campos;Estádio Urbano Caldeira;19;16;5;4;48%;52%;349;370;79%;83%;13;18;5;4;0;0;0;0;9;10
+16;10/07/2022;18:00;Fortaleza;Palmeiras;0;0;J. Vojvoda;A. Moreira Ferreira;Arena Castelão;12;12;6;5;39%;61%;295;454;74%;83%;9;15;0;1;0;0;1;2;2;6
+16;10/07/2022;18:00;Atlético-MG;São Paulo;0;0;A. Mohamed Matijevich;R. Ceni;Mineirão;11;6;2;2;60%;40%;496;340;84%;78%;12;16;1;1;0;0;2;0;7;4
+16;10/07/2022;19:02;Cuiabá;Botafogo;2;0;A. Cardoso de Oliveira;L. Castro;Arena Pantanal;14;6;6;2;46%;54%;404;473;81%;82%;7;11;1;1;0;2;2;2;5;2
+16;11/07/2022;19:59;Internacional;América-MG;1;0;L. Venker de Menezes;V. Carmo Mancini;Estádio José Pinheiro Borda;21;9;4;7;68%;32%;647;309;86%;71%;5;8;0;5;0;0;2;2;13;2
+17;16/07/2022;16:30;Athletico-PR;Internacional;0;0;L. Scolari;L. Venker de Menezes;Estádio Joaquim Américo Guimarães;17;17;5;3;60%;40%;501;338;84%;73%;7;13;1;2;0;0;4;2;5;5
+17;16/07/2022;18:59;Flamengo;Coritiba;2;0;D. Silvestre Júnior;G. Morínigo;Estádio Nacional de Brasília;17;17;4;0;55%;45%;543;447;90%;87%;13;11;0;1;0;0;0;1;8;6
+17;16/07/2022;19:00;Avaí;Santos;1;0;E. de Souza Barroca;M. Fernandes;Ressacada;14;6;4;2;41%;59%;338;474;76%;83%;17;12;5;3;0;0;3;1;6;8
+17;16/07/2022;21:00;Ceará SC;Corinthians;3;1;M. dos Santos Gonçalves;F. J. Monteiro Almeida;Arena Castelão;18;11;7;4;44%;56%;434;542;82%;84%;18;5;1;1;0;0;2;1;6;2
+17;17/07/2022;11:02;Juventude;Goiás;0;0;U. Louzer Filho;J. Ribeiro Ventura;Alfredo Jaconi;23;16;1;2;62%;38%;473;307;83%;75%;16;16;2;3;0;0;1;2;7;4
+17;17/07/2022;16:03;São Paulo;Fluminense;2;2;R. Ceni;F. Diniz Silva;Morumbi;6;15;2;3;36%;64%;328;583;76%;86%;17;7;4;2;0;0;5;1;5;3
+17;17/07/2022;18:02;Botafogo;Atlético-MG;0;1;L. Castro;A. Mohamed Matijevich;Estádio Nilton Santos;14;15;2;4;37%;63%;275;487;76%;88%;21;18;4;3;0;0;1;3;6;2
+17;17/07/2022;18:00;Atlético-GO;Fortaleza;0;1;J. de Amorim Campos;J. Vojvoda;Estádio Antônio Accioly;15;9;3;5;63%;37%;555;334;87%;79%;7;9;1;0;0;0;1;0;5;6
+17;17/07/2022;19:00;América-MG;Bragantino;0;3;V. Carmo Mancini;M. Nogueira Barbieri;Estádio Raimundo Sampaio;25;16;4;6;56%;44%;490;408;84%;81%;8;18;3;1;0;0;2;1;10;4
+17;18/07/2022;20:00;Palmeiras;Cuiabá;1;0;A. Moreira Ferreira;A. Cardoso de Oliveira;Allianz Parque;16;6;8;1;62%;38%;494;310;84%;73%;17;12;3;1;0;0;3;1;11;4
+18;19/07/2022;22:17;Ceará SC;Avaí;1;0;M. dos Santos Gonçalves;E. de Souza Barroca;Arena Castelão;14;16;5;2;45%;55%;366;444;77%;83%;17;14;0;2;0;0;1;1;3;3
+18;20/07/2022;19:00;Bragantino;Fortaleza;2;1;M. Nogueira Barbieri;J. Vojvoda;Nabizão;14;10;7;3;56%;44%;406;319;78%;70%;14;18;4;3;0;0;1;1;4;9
+18;20/07/2022;18:59;Goiás;Fluminense;2;3;J. Ribeiro Ventura;F. Diniz Silva;Estádio da Serrinha;15;17;5;10;26%;74%;211;603;73%;90%;19;9;2;0;0;0;2;0;2;3
+18;20/07/2022;19:30;Athletico-PR;Atlético-GO;4;1;L. Scolari;J. de Amorim Campos;Estádio Joaquim Américo Guimarães;15;15;9;5;42%;58%;383;527;80%;85%;15;8;3;0;0;0;2;1;3;2
+18;20/07/2022;20:29;Flamengo;Juventude;4;0;D. Silvestre Júnior;U. Louzer Filho;Estádio Nacional de Brasília;27;8;12;2;63%;37%;550;317;91%;82%;14;13;3;3;0;1;2;1;5;4
+18;20/07/2022;20:29;Internacional;São Paulo;3;3;L. Venker de Menezes;R. Ceni;Estádio José Pinheiro Borda;15;8;7;4;34%;66%;297;586;82%;88%;11;10;4;5;0;0;3;4;4;3
+18;20/07/2022;21:30;Santos;Botafogo;2;0;M. Fernandes;L. Castro;Estádio Urbano Caldeira;16;23;7;10;35%;65%;298;553;75%;87%;15;18;2;2;0;0;2;2;4;4
+18;20/07/2022;21:33;Corinthians;Coritiba;3;1;V. de Oliveira Lopes Pereira;G. Morínigo;Neo Química Arena;19;8;6;4;62%;38%;584;372;89%;82%;16;15;1;3;0;0;1;1;9;2
+18;21/07/2022;18:59;Cuiabá;Atlético-MG;1;1;A. Cardoso de Oliveira;A. Mohamed Matijevich;Arena Pantanal;16;7;8;4;31%;69%;296;672;77%;90%;7;10;1;1;0;0;1;1;4;2
+18;21/07/2022;20:00;América-MG;Palmeiras;0;1;V. Carmo Mancini;A. Moreira Ferreira;Estádio Raimundo Sampaio;15;17;3;5;48%;52%;399;419;77%;81%;16;6;5;3;0;0;1;2;7;7
+19;23/07/2022;18:59;São Paulo;Goiás;3;3;R. Ceni;J. Ribeiro Ventura;Morumbi;20;13;4;9;64%;36%;541;308;86%;80%;7;11;2;5;0;0;0;3;6;3
+19;23/07/2022;21:01;Botafogo;Athletico-PR;2;0;L. Castro;L. Scolari;Estádio Nilton Santos;17;16;6;4;54%;46%;494;410;82%;80%;16;15;0;2;0;0;0;3;2;11
+19;24/07/2022;11:03;Avaí;Flamengo;1;2;E. de Souza Barroca;D. Silvestre Júnior;Ressacada;13;19;4;8;42%;58%;333;453;81%;85%;19;19;1;1;0;0;1;0;6;5
+19;24/07/2022;16:02;Fluminense;Bragantino;2;1;F. Diniz Silva;M. Nogueira Barbieri;Estádio Municipal General Raulino de Oliveira;24;5;7;2;61%;39%;528;331;82%;72%;11;20;5;2;1;0;2;4;9;5
+19;24/07/2022;16:00;Palmeiras;Internacional;2;1;A. Moreira Ferreira;L. Venker de Menezes;Allianz Parque;18;11;9;5;52%;48%;391;374;83%;77%;13;15;0;1;0;0;4;1;12;5
+19;24/07/2022;16:00;Juventude;Ceará SC;1;0;U. Louzer Filho;M. dos Santos Gonçalves;Alfredo Jaconi;13;17;7;4;44%;56%;337;429;81%;85%;20;14;1;3;0;0;1;1;8;3
+19;24/07/2022;18:01;Atlético-MG;Corinthians;1;2;L. Gonçalves;V. de Oliveira Lopes Pereira;Mineirão;14;7;6;3;53%;47%;521;474;83%;79%;11;12;2;1;0;0;2;0;5;0
+19;24/07/2022;17:59;Atlético-GO;América-MG;0;1;J. de Amorim Campos;V. Carmo Mancini;Estádio Antônio Accioly;23;10;6;3;65%;35%;554;318;83%;67%;4;12;0;1;0;0;2;2;6;3
+19;24/07/2022;18:59;Fortaleza;Santos;0;0;J. Vojvoda;L. Cirne Lima de Lorenzi;Arena Castelão;27;11;2;3;53%;47%;381;375;80%;71%;11;11;4;4;0;0;3;1;7;5
+19;25/07/2022;20:01;Coritiba;Cuiabá;1;0;G. Morínigo;A. Cardoso de Oliveira;Couto Pereira;4;8;2;0;42%;58%;365;490;75%;84%;16;12;4;3;1;0;0;1;4;4
+20;30/07/2022;16:31;Goiás;Coritiba;1;0;J. Ribeiro Ventura;G. Morínigo;Estádio da Serrinha;18;20;4;3;49%;51%;356;355;79%;80%;18;11;1;2;0;1;1;3;3;7
+20;30/07/2022;16:32;Ceará SC;Palmeiras;1;2;M. dos Santos Gonçalves;A. Moreira Ferreira;Arena Castelão;12;16;7;7;47%;53%;373;424;79%;86%;14;11;3;3;1;0;0;5;6;5
+20;30/07/2022;19:01;Corinthians;Botafogo;1;0;V. de Oliveira Lopes Pereira;L. Castro;Neo Química Arena;16;10;4;3;49%;51%;484;488;78%;80%;6;6;0;0;0;0;1;0;3;4
+20;30/07/2022;20:29;Flamengo;Atlético-GO;4;1;D. Silvestre Júnior;J. de Amorim Campos;Maracanã;16;5;6;1;52%;48%;469;433;85%;84%;12;16;0;7;0;1;1;0;6;3
+20;31/07/2022;16:01;Athletico-PR;São Paulo;1;0;L. Scolari;R. Ceni;Estádio Joaquim Américo Guimarães;10;12;4;2;39%;61%;312;484;75%;85%;15;13;3;4;0;0;1;1;6;5
+20;31/07/2022;15:59;Internacional;Atlético-MG;3;0;S. Lobo;A. Stival;Estádio José Pinheiro Borda;9;21;3;5;31%;69%;277;600;70%;88%;13;12;1;1;0;0;1;1;1;7
+20;31/07/2022;18:00;Cuiabá;Fortaleza;0;1;A. Cardoso de Oliveira;J. Vojvoda;Arena Pantanal;19;7;5;2;57%;43%;429;344;80%;77%;11;10;2;4;0;0;0;1;10;3
+20;31/07/2022;18:00;América-MG;Avaí;3;1;V. Carmo Mancini;E. de Souza Barroca;Estádio Raimundo Sampaio;18;10;6;3;47%;53%;372;422;76%;79%;16;17;1;0;0;0;0;2;7;7
+20;31/07/2022;19:00;Bragantino;Juventude;1;0;M. Nogueira Barbieri;U. Louzer Filho;Nabizão;23;9;5;3;52%;48%;445;421;85%;79%;11;15;1;1;0;0;2;1;7;5
+20;01/08/2022;20:00;Santos;Fluminense;2;2;L. Cirne Lima de Lorenzi;E. de Barros;Estádio Urbano Caldeira;10;12;3;7;32%;68%;314;660;79%;91%;14;12;2;5;0;0;2;0;5;5
+21;06/08/2022;16:30;Juventude;América-MG;0;1;U. Louzer Filho;V. Carmo Mancini;Alfredo Jaconi;15;10;3;4;66%;34%;506;278;83%;69%;12;18;1;2;0;0;2;1;13;2
+21;06/08/2022;16:31;Botafogo;Ceará SC;1;1;L. Castro;M. dos Santos Gonçalves;Estádio Nilton Santos;11;16;4;5;39%;61%;347;533;77%;84%;23;9;3;4;0;0;0;1;3;8
+21;06/08/2022;19:01;Avaí;Corinthians;1;1;E. de Souza Barroca;V. de Oliveira Lopes Pereira;Ressacada;7;14;2;4;41%;59%;367;522;78%;81%;11;12;2;1;0;0;4;2;2;8
+21;06/08/2022;19:00;Atlético-GO;Bragantino;2;1;J. de Amorim Campos;M. Nogueira Barbieri;Estádio Antônio Accioly;11;21;4;6;42%;58%;338;449;79%;86%;10;10;2;1;0;0;1;1;8;10
+21;06/08/2022;20:32;São Paulo;Flamengo;0;2;R. Ceni;D. Silvestre Júnior;Morumbi;13;20;5;7;55%;45%;495;423;83%;79%;12;7;2;2;0;0;1;1;5;3
+21;07/08/2022;16:00;Fluminense;Cuiabá;1;0;F. Diniz Silva;A. Cardoso de Oliveira;Maracanã;11;9;5;1;65%;35%;558;300;88%;77%;11;14;2;1;0;0;1;2;11;6
+21;07/08/2022;16:00;Palmeiras;Goiás;3;0;A. Moreira Ferreira;J. Ribeiro Ventura;Allianz Parque;19;8;8;2;57%;43%;438;342;84%;80%;12;10;2;3;0;0;3;1;5;4
+21;07/08/2022;18:00;Fortaleza;Internacional;3;0;J. Vojvoda;L. Venker de Menezes;Arena Castelão;16;8;7;2;33%;67%;266;547;74%;87%;12;15;1;5;1;0;1;0;7;5
+21;07/08/2022;18:59;Atlético-MG;Athletico-PR;2;3;A. Stival;L. Scolari;Mineirão;21;10;8;5;64%;36%;504;287;87%;79%;10;14;1;2;0;0;0;1;11;2
+21;08/08/2022;20:04;Coritiba;Santos;1;2;G. Morínigo;L. Cirne Lima de Lorenzi;Couto Pereira;15;17;2;5;48%;52%;427;464;82%;85%;23;10;3;3;0;0;0;2;6;7
+22;13/08/2022;16:30;Goiás;Avaí;1;1;J. Ribeiro Ventura;E. de Souza Barroca;Estádio da Serrinha;17;13;2;3;46%;54%;314;391;78%;81%;13;10;0;2;1;0;1;2;6;2
+22;13/08/2022;19:02;Corinthians;Palmeiras;0;1;V. de Oliveira Lopes Pereira;A. Moreira Ferreira;Neo Química Arena;14;9;4;3;58%;42%;490;369;81%;76%;15;10;2;2;0;0;1;4;5;3
+22;13/08/2022;20:30;Cuiabá;Juventude;1;0;A. Cardoso de Oliveira;U. Louzer Filho;Arena Pantanal;13;5;4;3;44%;56%;341;443;80%;82%;14;14;4;4;0;1;4;2;5;4
+22;13/08/2022;21:00;Botafogo;Atlético-GO;0;0;L. Castro;J. de Amorim Campos;Estádio Nilton Santos;14;11;5;2;55%;45%;459;396;84%;78%;18;10;0;3;1;0;0;3;8;3
+22;14/08/2022;11:01;Coritiba;Atlético-MG;0;1;G. Morínigo;A. Stival;Couto Pereira;7;19;2;7;40%;60%;370;531;75%;82%;7;20;3;0;0;0;0;0;1;9
+22;14/08/2022;16:00;Ceará SC;Fortaleza;0;1;M. dos Santos Gonçalves;J. Vojvoda;Arena Castelão;13;12;3;6;65%;35%;483;266;78%;63%;9;13;3;4;0;0;2;1;4;8
+22;14/08/2022;16:00;Flamengo;Athletico-PR;5;0;D. Silvestre Júnior;L. Scolari;Maracanã;19;5;13;3;70%;30%;571;260;91%;76%;13;14;3;2;0;0;0;1;12;4
+22;14/08/2022;16:02;São Paulo;Bragantino;3;0;R. Ceni;M. Nogueira Barbieri;Morumbi;16;11;4;4;52%;48%;381;362;77%;82%;17;10;1;0;0;0;4;1;13;4
+22;14/08/2022;18:03;América-MG;Santos;1;0;V. Carmo Mancini;L. Cirne Lima de Lorenzi;Estádio Raimundo Sampaio;16;11;5;2;39%;61%;343;541;68%;79%;16;9;1;0;0;0;1;1;6;6
+22;14/08/2022;18:59;Internacional;Fluminense;3;0;L. Venker de Menezes;F. Diniz Silva;Estádio José Pinheiro Borda;15;8;5;0;32%;68%;295;628;80%;90%;21;12;1;1;0;0;1;2;6;5
+23;20/ago;16:30;Atlético-MG;Goiás;0;1;A. Stival;J. Ribeiro Ventura;Mineirão;28;5;7;3;73%;27%;591;233;85%;63%;10;13;0;0;0;0;0;2;7;0
+23;20/ago;19:00;Fluminense;Coritiba;5;2;F. Diniz Silva;A. Ferreira;Maracanã;15;7;6;3;64%;36%;571;334;88%;82%;13;13;1;2;0;0;1;3;11;3
+23;21/ago;11:00;Juventude;Botafogo;2;2;U. Louzer Filho;L. Castro;Alfredo Jaconi;11;18;5;9;34%;66%;289;557;71%;86%;19;11;2;2;0;0;2;3;2;4
+23;21/ago;16:00;Palmeiras;Flamengo;1;1;A. Moreira Ferreira;D. Silvestre Júnior;Allianz Parque;20;11;3;5;57%;43%;487;385;83%;76%;11;16;0;2;0;0;1;0;10;4
+23;21/ago;18:00;Athletico-PR;América-MG;1;1;L. Scolari;V. Carmo Mancini;Estádio Joaquim Américo Guimarães;18;12;9;3;59%;41%;532;369;83%;75%;10;10;0;0;0;0;2;2;2;7
+23;21/ago;18:00;Atlético-GO;Cuiabá;1;1;J. de Amorim Campos;A. Cardoso de Oliveira;Estádio Antônio Accioly;7;23;2;7;36%;64%;300;484;76%;88%;14;8;2;2;1;0;1;4;3;17
+23;21/ago;18:00;Fortaleza;Corinthians;1;0;J. Vojvoda;V. de Oliveira Lopes Pereira;Arena Castelão;13;7;4;1;36%;64%;284;494;73%;81%;14;7;1;2;0;0;0;0;4;7
+23;21/ago;18:00;Bragantino;Ceará SC;1;1;M. Nogueira Barbieri;J. Antonello;Nabizão;28;8;11;2;58%;42%;427;325;83%;73%;23;16;3;4;0;0;1;2;10;2
+23;21/ago;19:00;Santos;São Paulo;1;0;L. Cirne Lima de Lorenzi;R. Ceni;Estádio Urbano Caldeira;13;18;5;6;28%;72%;269;669;77%;87%;12;9;4;2;0;0;1;0;5;9
+23;22/ago;20:03;Avaí;Internacional;0;1;E. de Souza Barroca;L. Venker de Menezes;Ressacada;10;14;2;5;49%;51%;464;476;79%;80%;15;9;5;1;0;0;0;0;8;4
+24;27/ago;16:30;Goiás;Atlético-GO;2;1;J. Ribeiro Ventura;J. de Amorim Campos;Estádio da Serrinha;15;10;6;2;30%;70%;211;486;72%;85%;14;9;2;2;1;1;1;1;3;3
+24;27/ago;16:30;Coritiba;Avaí;1;0;A. Ferreira;E. de Souza Barroca;Couto Pereira;12;12;3;2;43%;57%;358;460;79%;85%;14;14;4;3;0;0;0;2;4;5
+24;27/ago;19:00;Fluminense;Palmeiras;1;1;F. Diniz Silva;A. Moreira Ferreira;Maracanã;17;9;3;2;61%;39%;544;350;90%;82%;16;16;3;3;0;0;0;2;3;3
+24;27/ago;21:00;Ceará SC;Athletico-PR;0;0;J. Antonello;L. Scolari;Arena Castelão;19;8;4;2;60%;40%;402;289;81%;73%;9;15;0;1;0;0;1;1;8;3
+24;28/ago;16:02;São Paulo;Fortaleza;0;1;R. Ceni;J. Vojvoda;Morumbi;15;5;8;1;72%;28%;613;242;85%;64%;10;10;2;2;0;0;1;4;7;2
+24;28/ago;16:00;América-MG;Atlético-MG;1;1;V. Carmo Mancini;A. Stival;Estádio Raimundo Sampaio;9;16;5;4;43%;57%;313;421;72%;78%;23;14;4;4;0;0;0;1;6;1
+24;28/ago;18:00;Botafogo;Flamengo;0;1;L. Castro;D. Silvestre Júnior;Estádio Nilton Santos;14;6;4;1;45%;55%;417;502;80%;79%;19;14;3;2;0;0;0;2;3;4
+24;28/ago;18:00;Cuiabá;Santos;0;0;A. Cardoso de Oliveira;L. Cirne Lima de Lorenzi;Arena Pantanal;21;7;7;1;46%;54%;366;451;77%;82%;13;6;0;0;0;0;0;4;14;2
+24;29/ago;20:00;Internacional;Juventude;4;0;S. Lobo;U. Louzer Filho;Estádio José Pinheiro Borda;24;7;13;1;55%;45%;521;435;87%;82%;4;10;0;3;0;0;0;0;10;1
+24;29/ago;21:30;Corinthians;Bragantino;1;0;V. de Oliveira Lopes Pereira;M. Nogueira Barbieri;Neo Química Arena;14;15;4;5;47%;53%;437;488;74%;81%;12;8;1;1;0;0;1;5;5;5
+25;03/set;16:29;Juventude;Avaí;1;1;U. Louzer Filho;E. de Souza Barroca;Alfredo Jaconi;20;9;7;2;39%;61%;283;468;79%;86%;18;15;6;6;0;0;1;4;7;3
+25;03/set;19:00;Bragantino;Palmeiras;2;2;M. Nogueira Barbieri;A. Moreira Ferreira;Nabizão;11;11;2;3;40%;60%;323;445;72%;77%;14;12;4;4;0;0;2;3;2;11
+25;03/set;19:02;Athletico-PR;Fluminense;1;0;L. Scolari;F. Diniz Silva;Estádio Joaquim Américo Guimarães;7;12;2;3;26%;74%;241;699;72%;90%;15;7;2;0;0;0;1;0;6;3
+25;03/set;20:30;América-MG;Coritiba;2;0;V. Carmo Mancini;A. Ferreira;Estádio Raimundo Sampaio;25;11;10;2;52%;48%;429;404;82%;79%;19;8;2;3;0;0;0;4;4;5
+25;04/set;11:00;Flamengo;Ceará SC;1;1;D. Silvestre Júnior;L. González;Maracanã;15;6;6;1;63%;37%;483;296;86%;73%;12;19;3;6;1;1;0;2;12;7
+25;04/set;16:01;Corinthians;Internacional;2;2;V. de Oliveira Lopes Pereira;L. Venker de Menezes;Neo Química Arena;12;14;4;4;49%;51%;493;485;82%;79%;10;14;2;2;0;0;2;1;2;8
+25;04/set;16:01;Fortaleza;Botafogo;1;3;J. Vojvoda;L. Castro;Arena Castelão;15;17;4;9;57%;43%;386;291;74%;69%;15;14;1;2;0;0;2;1;5;9
+25;04/set;18:00;Atlético-GO;Atlético-MG;0;2;E. Baptista;A. Stival;Estádio Antônio Accioly;12;12;2;7;49%;51%;451;484;83%;82%;12;6;1;2;0;0;1;3;5;3
+25;04/set;18:59;Cuiabá;São Paulo;1;1;A. Cardoso de Oliveira;R. Ceni;Arena Pantanal;12;10;4;2;33%;67%;277;574;74%;87%;18;9;3;1;0;1;5;4;7;5
+25;05/set;19:59;Santos;Goiás;1;2;L. Cirne Lima de Lorenzi;J. Ribeiro Ventura;Estádio Urbano Caldeira;24;9;8;4;67%;33%;516;270;84%;65%;8;16;1;2;0;0;1;0;13;2
+26;07/set;17:00;Atlético-MG;Bragantino;1;1;A. Stival;M. Nogueira Barbieri;Mineirão;21;6;6;2;62%;38%;592;363;84%;80%;8;10;1;2;0;0;1;1;7;5
+26;10/set;16:30;Internacional;Cuiabá;1;0;L. Venker de Menezes;B. Franco;Estádio José Pinheiro Borda;16;1;3;0;68%;32%;716;331;89%;72%;16;14;1;3;0;0;2;0;4;3
+26;10/set;16:29;Ceará SC;Santos;2;1;L. González;L. Cirne Lima de Lorenzi;Arena Castelão;8;10;4;4;43%;57%;343;452;78%;84%;24;17;4;3;0;0;4;2;3;5
+26;10/set;19:00;Fluminense;Fortaleza;2;1;F. Diniz Silva;J. Vojvoda;Maracanã;15;11;7;3;67%;33%;514;245;85%;72%;7;19;1;2;0;0;5;6;5;6
+26;10/set;21:01;Palmeiras;Juventude;2;1;A. Moreira Ferreira;U. Louzer Filho;Allianz Parque;24;6;9;1;67%;33%;498;251;85%;65%;6;15;0;3;0;0;3;1;14;3
+26;11/set;11:01;Avaí;Athletico-PR;1;1;E. de Souza Barroca;L. Scolari;Ressacada;15;9;3;2;70%;30%;550;250;85%;67%;17;20;3;3;0;1;1;1;7;2
+26;11/set;11:02;Botafogo;América-MG;0;0;L. Castro;V. Carmo Mancini;Estádio Nilton Santos;20;12;5;2;47%;53%;366;421;76%;74%;11;20;1;5;0;0;1;3;6;11
+26;11/set;16:03;São Paulo;Corinthians;1;1;R. Ceni;V. de Oliveira Lopes Pereira;Morumbi;13;18;3;7;43%;57%;355;473;74%;80%;11;14;3;1;0;0;1;3;3;7
+26;11/set;16:02;Coritiba;Atlético-GO;2;0;A. Ferreira;E. Baptista;Couto Pereira;13;15;5;4;42%;58%;322;454;74%;85%;16;11;6;3;0;1;1;2;7;8
+26;11/set;19:00;Goiás;Flamengo;1;1;J. Ribeiro Ventura;D. Silvestre Júnior;Estádio da Serrinha;7;15;4;6;28%;72%;219;548;73%;89%;14;14;3;1;0;0;1;0;4;9
+27;17/set;16:32;Avaí;Atlético-MG;1;0;L. Cirne Lima de Lorenzi;A. Stival;Ressacada;9;13;4;3;39%;61%;307;458;72%;79%;16;20;4;3;0;0;2;1;2;10
+27;17/set;19:00;Botafogo;Coritiba;2;0;L. Castro;A. Ferreira;Estádio Nilton Santos;12;18;4;2;54%;46%;420;347;80%;79%;12;17;2;4;0;0;1;3;5;10
+27;18/set;11:01;Bragantino;Goiás;1;1;M. Nogueira Barbieri;J. Ribeiro Ventura;Nabizão;21;5;6;2;60%;40%;431;295;82%;72%;14;16;0;5;0;0;0;0;5;2
+27;18/set;16:00;Flamengo;Fluminense;1;2;D. Silvestre Júnior;F. Diniz Silva;Maracanã;18;12;6;4;49%;51%;415;440;86%;84%;12;10;1;4;2;3;4;0;6;2
+27;18/set;15:59;Ceará SC;São Paulo;0;2;L. González;R. Ceni;Arena Castelão;8;21;1;7;39%;61%;329;512;75%;84%;15;11;5;2;2;0;0;0;4;10
+27;18/set;18:00;América-MG;Corinthians;1;0;V. Carmo Mancini;V. de Oliveira Lopes Pereira;Estádio Raimundo Sampaio;16;11;7;3;45%;55%;379;462;81%;81%;14;12;1;3;0;0;2;1;4;8
+27;18/set;17:59;Juventude;Fortaleza;1;1;U. Louzer Filho;J. Vojvoda;Alfredo Jaconi;18;11;8;1;62%;38%;498;324;82%;75%;14;17;2;3;0;0;1;1;14;2
+27;18/set;18:30;Palmeiras;Santos;1;0;A. Moreira Ferreira;O. Ribeiro;Allianz Parque;19;17;4;3;55%;45%;432;374;82%;80%;12;12;3;4;1;0;1;1;8;5
+27;18/set;19:01;Athletico-PR;Cuiabá;2;2;L. Scolari;A. Cardoso de Oliveira;Estádio Joaquim Américo Guimarães;17;11;3;5;64%;36%;455;258;83%;70%;9;10;3;1;0;1;2;2;8;4
+27;19/set;20:05;Atlético-GO;Internacional;1;2;E. Baptista;L. Venker de Menezes;Estádio Antônio Accioly;19;13;4;4;55%;45%;398;356;82%;80%;19;13;3;2;0;0;0;1;10;2
+28;25/set;20:01;São Paulo;Avaí;4;0;R. Ceni;L. Cirne Lima de Lorenzi;Morumbi;17;7;6;2;61%;39%;568;363;89%;82%;13;8;2;4;0;0;1;1;9;4
+28;27/set;21:00;Santos;Athletico-PR;2;0;O. Ribeiro;L. Scolari;Estádio Urbano Caldeira;11;14;4;3;48%;52%;358;389;75%;80%;19;21;3;3;0;0;1;2;5;4
+28;28/set;19:01;Coritiba;Ceará SC;1;0;A. Ferreira;L. González;Couto Pereira;14;11;4;3;31%;69%;256;557;75%;88%;12;9;2;4;0;0;3;3;7;3
+28;28/set;19:00;Corinthians;Atlético-GO;2;1;V. de Oliveira Lopes Pereira;E. Baptista;Neo Química Arena;19;11;8;5;65%;35%;611;330;87%;80%;5;14;0;3;0;0;1;0;5;4
+28;28/set;19:00;Fluminense;Juventude;4;0;F. Diniz Silva;U. Louzer Filho;Maracanã;21;10;6;3;62%;38%;658;409;91%;83%;5;9;1;1;0;0;2;3;5;5
+28;28/set;18:59;Fortaleza;Flamengo;3;2;J. Vojvoda;D. Silvestre Júnior;Arena Castelão;20;7;8;3;27%;73%;241;668;77%;88%;15;15;2;5;0;0;3;0;7;3
+28;28/set;21:42;Cuiabá;América-MG;2;1;A. Cardoso de Oliveira;V. Carmo Mancini;Arena Pantanal;11;18;3;8;42%;58%;311;426;72%;79%;13;14;1;6;0;0;2;1;2;4
+28;28/set;21:45;Internacional;Bragantino;0;0;L. Venker de Menezes;M. Nogueira Barbieri;Estádio José Pinheiro Borda;12;12;6;5;59%;41%;544;384;83%;78%;14;15;1;2;0;0;2;0;6;3
+28;28/set;21:45;Atlético-MG;Palmeiras;0;1;A. Stival;J. M. Barreto Martins;Mineirão;16;10;3;3;68%;32%;516;245;84%;65%;11;13;3;3;0;0;2;3;7;9
+28;28/set;21:44;Goiás;Botafogo;0;1;J. Ribeiro Ventura;L. Castro;Estádio da Serrinha;6;17;1;6;44%;56%;328;394;74%;79%;16;14;4;4;0;0;2;1;6;11
+29;01/out;15:00;Atlético-MG;Fluminense;2;0;A. Stival;F. Diniz Silva;Mineirão;14;5;5;2;29%;71%;250;627;78%;89%;16;4;2;2;0;1;1;3;10;1
+29;01/out;15:02;Internacional;Santos;1;0;L. Venker de Menezes;O. Ribeiro;Estádio José Pinheiro Borda;9;11;3;2;47%;53%;455;503;83%;86%;7;13;1;4;0;0;3;1;2;5
+29;01/out;15:01;Ceará SC;América-MG;1;2;L. González;V. Carmo Mancini;Arena Castelão;16;10;4;4;62%;38%;407;261;80%;65%;15;23;3;4;0;0;0;1;5;4
+29;01/out;19:00;Avaí;Atlético-GO;1;2;L. Cirne Lima de Lorenzi;E. do Nascimento Souza;Ressacada;20;9;3;3;59%;41%;419;312;81%;76%;7;13;2;4;0;0;2;0;11;3
+29;01/out;19:00;Athletico-PR;Juventude;2;0;L. Scolari;U. Louzer Filho;Estádio Joaquim Américo Guimarães;17;6;6;1;52%;48%;336;333;83%;81%;12;11;3;5;0;0;0;0;11;2
+29;01/out;19:00;Flamengo;Bragantino;4;1;D. Silvestre Júnior;M. Nogueira Barbieri;Maracanã;23;5;9;3;68%;32%;671;328;90%;83%;7;6;1;0;0;1;0;1;10;1
+29;01/out;19:00;Goiás;Fortaleza;0;1;J. Ribeiro Ventura;J. Vojvoda;Estádio da Serrinha;12;15;3;4;55%;45%;421;357;81%;73%;11;15;3;2;0;0;3;2;6;3
+29;01/out;21:01;Corinthians;Cuiabá;2;0;V. de Oliveira Lopes Pereira;A. Cardoso de Oliveira;Neo Química Arena;15;9;6;4;60%;40%;650;422;86%;81%;11;5;1;0;0;0;1;2;7;4
+29;03/out;20:00;Botafogo;Palmeiras;1;3;L. Castro;A. Moreira Ferreira;Estádio Nilton Santos;10;12;2;5;48%;52%;399;421;77%;80%;16;14;4;1;0;1;1;6;2;6
+29;20/out;20:00;São Paulo;Coritiba;3;1;R. Ceni;A. Ferreira;Morumbi;19;13;7;4;61%;39%;554;347;87%;80%;12;12;2;6;0;0;5;2;5;3
+30;04/out;21:31;Juventude;Corinthians;2;2;L. Palavro Zanella;V. de Oliveira Lopes Pereira;Alfredo Jaconi;17;12;2;6;34%;66%;326;650;77%;87%;9;7;1;2;0;0;1;1;2;5
+30;05/out;18:59;Atlético-GO;Fluminense;3;2;E. do Nascimento Souza;F. Diniz Silva;Estádio Antônio Accioly;29;13;10;5;40%;60%;301;482;77%;86%;16;13;4;0;0;0;4;1;12;5
+30;05/out;19:00;Ceará SC;Goiás;1;1;L. González;J. Ribeiro Ventura;Arena Castelão;14;16;6;5;52%;48%;339;316;82%;80%;19;24;3;4;1;0;1;0;7;3
+30;05/out;19:00;Bragantino;Cuiabá;2;1;M. Nogueira Barbieri;A. Cardoso de Oliveira;Nabizão;14;13;5;4;46%;54%;412;461;81%;82%;14;10;2;3;0;0;1;0;2;7
+30;05/out;19:30;Athletico-PR;Fortaleza;1;1;L. Scolari;J. Vojvoda;Estádio Joaquim Américo Guimarães;21;9;4;2;63%;37%;484;300;80%;66%;11;10;2;1;0;0;1;0;13;4
+30;05/out;21:30;Flamengo;Internacional;0;0;D. Silvestre Júnior;L. Venker de Menezes;Maracanã;21;16;6;7;67%;33%;661;338;89%;80%;13;8;3;2;0;0;0;2;11;3
+30;05/out;21:30;Santos;Atlético-MG;1;2;O. Ribeiro;A. Stival;Estádio Urbano Caldeira;10;12;5;3;43%;57%;350;461;78%;80%;18;18;2;4;1;0;4;1;5;4
+30;06/out;19:00;Palmeiras;Coritiba;4;0;J. M. Barreto Martins;A. Ferreira;Allianz Parque;19;11;11;3;57%;43%;501;396;89%;83%;16;13;1;2;0;0;4;0;9;6
+30;06/out;20:01;América-MG;São Paulo;1;2;V. Carmo Mancini;R. Ceni;Estádio Raimundo Sampaio;13;18;4;4;33%;67%;277;563;66%;85%;13;13;2;4;0;0;0;1;3;3
+30;06/out;20:00;Avaí;Botafogo;1;2;L. Cirne Lima de Lorenzi;L. Castro;Ressacada;6;14;2;6;57%;43%;441;346;81%;80%;17;20;2;4;0;0;2;1;3;5
+31;08/out;18:59;Cuiabá;Flamengo;1;2;A. Cardoso de Oliveira;D. Silvestre Júnior;Arena Pantanal;21;17;5;5;45%;55%;326;405;80%;87%;14;11;2;2;0;0;1;2;7;6
+31;08/out;21:02;Corinthians;Athletico-PR;2;1;V. de Oliveira Lopes Pereira;L. Scolari;Neo Química Arena;7;19;3;4;51%;49%;412;389;78%;75%;10;16;1;0;0;0;4;0;5;6
+31;09/out;11:01;Internacional;Goiás;4;2;L. Venker de Menezes;J. Ribeiro Ventura;Estádio José Pinheiro Borda;20;16;11;8;61%;39%;463;290;85%;78%;15;23;1;7;0;0;0;0;6;6
+31;09/out;16:02;São Paulo;Botafogo;0;1;R. Ceni;L. Castro;Morumbi;8;7;2;1;68%;32%;500;248;81%;66%;16;8;3;2;1;0;4;3;10;4
+31;09/out;16:00;Fortaleza;Avaí;2;0;J. Vojvoda;L. Cirne Lima de Lorenzi;Arena Castelão;16;10;5;2;34%;66%;327;624;80%;86%;16;11;1;1;0;0;1;0;3;6
+31;09/out;18:00;Coritiba;Bragantino;2;1;A. Ferreira;M. Nogueira Barbieri;Couto Pereira;6;17;2;4;34%;66%;269;488;66%;85%;7;12;0;3;1;0;2;2;5;8
+31;09/out;18:00;Atlético-MG;Ceará SC;0;0;A. Stival;L. González;Mineirão;16;5;2;2;64%;36%;565;328;85%;76%;12;18;3;5;0;0;3;1;16;0
+31;09/out;18:02;Fluminense;América-MG;0;2;F. Diniz Silva;V. Carmo Mancini;Maracanã;22;18;10;8;63%;37%;511;303;85%;73%;8;18;1;3;0;0;4;4;8;7
+31;10/out;18:29;Atlético-GO;Palmeiras;1;1;E. do Nascimento Souza;A. Moreira Ferreira;Estádio Antônio Accioly;10;17;2;6;43%;57%;350;451;77%;84%;15;8;4;2;0;0;1;1;4;9
+31;10/out;20:00;Santos;Juventude;4;1;O. Ribeiro;L. Palavro Zanella;Estádio Urbano Caldeira;19;16;8;3;51%;49%;437;432;85%;84%;13;10;2;0;0;0;0;1;3;8
+32;15/out;20:30;Flamengo;Atlético-MG;1;0;D. Silvestre Júnior;A. Stival;Maracanã;7;13;4;3;37%;63%;348;563;78%;85%;12;12;4;0;0;0;0;1;0;10
+32;15/out;20:31;América-MG;Fortaleza;1;2;V. Carmo Mancini;J. Vojvoda;Estádio Raimundo Sampaio;19;9;7;4;67%;33%;457;234;82%;64%;10;24;1;2;0;1;1;1;4;8
+32;16/out;16:00;Ceará SC;Cuiabá;1;1;L. González;A. Cardoso de Oliveira;Arena Castelão;22;10;4;1;66%;34%;377;211;78%;52%;11;20;4;4;0;1;3;1;10;7
+32;16/out;15:59;Palmeiras;São Paulo;0;0;A. Moreira Ferreira;R. Ceni;Allianz Parque;19;5;8;1;56%;44%;358;305;85%;75%;9;14;3;3;0;2;2;0;15;3
+32;16/out;18:00;Juventude;Atlético-GO;1;1;L. Palavro Zanella;E. do Nascimento Souza;Alfredo Jaconi;20;8;6;3;51%;49%;470;472;88%;82%;10;19;2;1;0;0;0;1;7;4
+32;16/out;18:00;Botafogo;Internacional;0;1;L. Castro;L. Venker de Menezes;Estádio Nilton Santos;12;11;3;1;51%;49%;488;475;84%;78%;15;13;3;5;0;0;1;3;3;4
+32;16/out;19:00;Avaí;Fluminense;0;3;L. Cirne Lima de Lorenzi;F. Diniz Silva;Ressacada;15;17;3;7;42%;58%;407;565;83%;84%;12;15;2;0;0;0;2;1;9;5
+32;16/out;19:00;Athletico-PR;Coritiba;1;0;L. Scolari;A. Ferreira;Estádio Joaquim Américo Guimarães;15;15;7;3;54%;46%;387;343;79%;78%;21;11;3;2;0;0;3;0;10;4
+32;17/out;20:00;Bragantino;Santos;0;2;M. Nogueira Barbieri;O. Ribeiro;Nabizão;19;9;3;3;57%;43%;400;335;82%;76%;21;11;3;4;1;0;1;1;15;2
+32;29/out;19:31;Goiás;Corinthians;0;0;J. Ribeiro Ventura;V. de Oliveira Lopes Pereira;Estádio da Serrinha;12;21;3;2;28%;72%;236;613;67%;86%;11;11;2;3;0;0;2;1;2;4
+33;22/out;16:29;Bragantino;Athletico-PR;4;2;M. Nogueira Barbieri;L. Scolari;Nabizão;11;9;6;4;47%;53%;376;412;78%;78%;16;13;0;3;0;0;1;0;4;4
+33;22/out;19:00;América-MG;Flamengo;1;2;V. Carmo Mancini;D. Silvestre Júnior;Estádio Raimundo Sampaio;9;15;3;6;46%;54%;348;413;72%;75%;17;10;1;1;0;0;1;3;4;11
+33;22/out;19:00;Santos;Corinthians;0;1;O. Ribeiro;V. de Oliveira Lopes Pereira;Estádio Urbano Caldeira;12;8;3;2;53%;47%;486;454;84%;82%;15;11;1;3;1;1;1;0;7;4
+33;22/out;21:00;Palmeiras;Avaí;3;0;A. Moreira Ferreira;L. Cirne Lima de Lorenzi;Allianz Parque;22;10;9;2;49%;51%;384;401;86%;85%;12;7;2;2;0;0;3;0;9;7
+33;23/out;16:00;Fluminense;Botafogo;2;2;F. Diniz Silva;L. Castro;Maracanã;18;12;7;5;65%;35%;623;341;89%;81%;15;11;3;2;0;0;3;2;9;2
+33;23/out;15:59;Juventude;São Paulo;1;2;L. Palavro Zanella;R. Ceni;Alfredo Jaconi;13;13;3;6;40%;60%;410;599;88%;90%;6;10;2;2;0;0;2;1;5;6
+33;23/out;18:01;Coritiba;Internacional;1;1;A. Ferreira;S. Lobo;Couto Pereira;12;11;2;3;35%;65%;272;527;77%;87%;16;10;3;1;0;0;3;2;7;6
+33;23/out;17:59;Atlético-GO;Ceará SC;1;0;E. do Nascimento Souza;L. González;Estádio Antônio Accioly;12;12;5;2;40%;60%;330;497;78%;84%;20;13;3;2;0;0;1;3;4;5
+33;23/out;18:00;Cuiabá;Goiás;1;2;A. Cardoso de Oliveira;J. Ribeiro Ventura;Arena Pantanal;24;5;4;3;71%;29%;558;227;84%;64%;11;16;3;4;0;0;2;5;6;4
+33;24/out;20:00;Fortaleza;Atlético-MG;0;0;J. Vojvoda;A. Stival;Arena Castelão;4;9;0;3;31%;69%;235;519;60%;84%;22;10;4;1;0;0;3;0;2;11
+34;25/out;21:44;Flamengo;Santos;3;2;D. Silvestre Júnior;O. Ribeiro;Maracanã;19;8;12;4;55%;45%;523;439;85%;82%;14;16;3;4;0;0;1;2;7;2
+34;25/out;21:46;Athletico-PR;Palmeiras;1;3;L. Scolari;A. Moreira Ferreira;Estádio Joaquim Américo Guimarães;11;17;1;6;28%;72%;235;576;70%;88%;7;10;3;5;1;0;0;2;0;9
+34;26/out;19:30;Botafogo;Bragantino;2;1;L. Castro;M. Nogueira Barbieri;Estádio Nilton Santos;18;5;8;1;42%;58%;329;448;80%;80%;12;12;1;4;0;0;1;2;5;4
+34;26/out;21:48;Corinthians;Fluminense;0;2;V. de Oliveira Lopes Pereira;F. Diniz Silva;Neo Química Arena;14;15;5;6;47%;53%;429;480;82%;86%;16;9;2;3;0;0;1;1;6;3
+34;26/out;21:45;Internacional;Ceará SC;2;1;L. Venker de Menezes;L. González;Estádio José Pinheiro Borda;21;13;6;3;63%;37%;526;316;87%;78%;8;15;0;2;0;0;2;0;5;5
+34;26/out;21:45;Goiás;América-MG;2;2;J. Ribeiro Ventura;V. Carmo Mancini;Estádio da Serrinha;12;16;5;5;45%;55%;343;405;71%;80%;14;23;2;3;0;0;1;0;3;8
+34;27/out;19:00;Fortaleza;Coritiba;3;1;J. Vojvoda;A. Ferreira;Arena Castelão;14;16;7;7;52%;48%;441;412;79%;76%;15;12;1;1;0;1;1;1;3;3
+34;27/out;19:00;São Paulo;Atlético-GO;2;1;R. Ceni;E. do Nascimento Souza;Morumbi;13;19;2;8;54%;46%;459;392;84%;85%;10;12;2;4;0;1;2;0;4;7
+34;27/out;19:30;Atlético-MG;Juventude;1;0;A. Stival;L. Palavro Zanella;Mineirão;14;9;3;4;61%;39%;555;354;89%;85%;13;13;2;1;0;0;3;3;3;4
+34;27/out;19:59;Cuiabá;Avaí;1;0;A. Cardoso de Oliveira;F. Bento da Cunha;Arena Pantanal;11;13;3;7;48%;52%;420;459;79%;84%;15;11;1;1;0;0;0;1;10;6
+35;31/out;20:00;Ceará SC;Fluminense;0;1;J. Antonello;F. Diniz Silva;Arena Castelão;14;17;3;5;29%;71%;283;690;80%;92%;11;8;1;2;1;0;2;2;4;7
+35;01/nov;19:02;Botafogo;Cuiabá;0;2;L. Castro;A. Cardoso de Oliveira;Estádio Nilton Santos;23;13;5;5;68%;32%;561;277;87%;71%;4;18;1;1;0;0;0;1;11;3
+35;01/nov;21:31;São Paulo;Atlético-MG;2;2;R. Ceni;A. Stival;Morumbi;12;9;4;3;45%;55%;344;417;77%;79%;10;16;3;5;0;0;2;2;7;6
+35;02/nov;16:00;Athletico-PR;Goiás;3;2;L. Scolari;J. Ribeiro Ventura;Estádio Joaquim Américo Guimarães;17;12;5;3;45%;55%;366;435;77%;78%;10;11;2;1;0;0;0;0;5;6
+35;02/nov;16:00;América-MG;Internacional;1;0;V. Carmo Mancini;L. Venker de Menezes;Estádio Raimundo Sampaio;20;13;7;3;52%;48%;435;414;80%;76%;9;12;0;0;0;0;2;2;7;8
+35;02/nov;19:00;Juventude;Coritiba;0;1;C. Juarez Roth;A. Ferreira;Alfredo Jaconi;10;19;2;7;38%;62%;280;441;65%;81%;11;18;3;4;0;0;0;3;4;4
+35;02/nov;19:00;Avaí;Bragantino;1;2;F. Bento da Cunha;M. Nogueira Barbieri;Ressacada;8;12;1;6;49%;51%;419;436;75%;77%;17;17;2;1;0;0;0;0;2;7
+35;02/nov;18:59;Atlético-GO;Santos;2;3;E. do Nascimento Souza;O. Ribeiro;Estádio Antônio Accioly;22;9;6;6;55%;45%;468;392;85%;81%;15;10;3;2;0;0;4;0;4;7
+35;02/nov;21:31;Palmeiras;Fortaleza;4;0;A. Moreira Ferreira;J. Vojvoda;Allianz Parque;18;8;9;3;56%;44%;522;419;85%;79%;11;16;3;1;0;0;3;2;4;2
+35;02/nov;21:30;Flamengo;Corinthians;1;2;D. Silvestre Júnior;F. J. Monteiro Almeida;Maracanã;15;7;3;6;52%;48%;542;518;86%;84%;9;14;0;1;0;0;1;1;6;0
+36;05/11/2022;16:33;Santos;Avaí;1;1;O. Ribeiro;F. Bento da Cunha;Arena Barueri;9;16;5;6;57%;43%;477;377;86%;81%;14;13;3;0;0;0;1;0;9;4
+36;05/11/2022;16:30;Fluminense;São Paulo;3;1;F. Diniz Silva;R. Ceni;Maracanã;18;8;8;4;66%;34%;633;333;88%;80%;16;16;1;0;0;1;1;2;8;3
+36;05/11/2022;19:00;Bragantino;América-MG;1;4;M. Nogueira Barbieri;V. Carmo Mancini;Nabizão;14;13;4;8;59%;41%;447;320;80%;68%;17;9;6;2;0;0;3;1;5;3
+36;05/11/2022;19:00;Goiás;Juventude;1;0;J. Ribeiro Ventura;C. Juarez Roth;Estádio da Serrinha;8;14;1;2;52%;48%;309;283;83%;78%;15;22;4;6;0;0;1;0;5;8
+36;05/11/2022;20:33;Corinthians;Ceará SC;1;0;V. de Oliveira Lopes Pereira;J. Antonello;Neo Química Arena;15;12;2;4;64%;36%;566;319;85%;78%;10;12;4;4;0;0;4;2;9;11
+36;05/11/2022;20:59;Internacional;Athletico-PR;2;0;L. Venker de Menezes;L. Scolari;Estádio José Pinheiro Borda;11;14;5;1;56%;44%;442;357;79%;77%;5;20;0;1;0;1;1;1;10;5
+36;06/11/2022;16:00;Fortaleza;Atlético-GO;1;1;J. Vojvoda;E. do Nascimento Souza;Arena Castelão;18;13;6;6;57%;43%;415;333;82%;75%;9;12;2;4;0;1;2;1;11;3
+36;06/11/2022;16:01;Coritiba;Flamengo;1;0;A. Ferreira;D. Silvestre Júnior;Couto Pereira;9;13;4;1;32%;68%;245;515;69%;87%;13;11;5;3;0;0;0;3;5;8
+36;06/11/2022;18:30;Cuiabá;Palmeiras;1;1;A. Cardoso de Oliveira;A. Moreira Ferreira;Arena Pantanal;12;28;4;12;33%;67%;254;493;64%;81%;13;8;2;0;0;0;2;3;4;9
+36;07/11/2022;20:01;Atlético-MG;Botafogo;0;2;A. Stival;L. Castro;Mineirão;11;8;1;2;67%;33%;530;270;84%;68%;10;19;2;5;0;0;5;2;6;2
+37;08/11/2022;21:33;São Paulo;Internacional;0;1;R. Ceni;L. Venker de Menezes;Morumbi;10;8;2;3;59%;41%;511;374;89%;82%;11;12;4;5;0;0;2;2;7;2
+37;09/11/2022;19:02;Coritiba;Corinthians;2;2;A. Ferreira;V. de Oliveira Lopes Pereira;Couto Pereira;13;9;5;3;52%;48%;384;375;83%;78%;15;8;4;5;0;1;1;1;5;7
+37;09/11/2022;19:00;Fluminense;Goiás;3;0;F. Diniz Silva;J. Ribeiro Ventura;Maracanã;23;9;9;1;77%;23%;639;192;90%;72%;10;11;3;1;0;2;6;3;11;3
+37;09/11/2022;19:02;Avaí;Ceará SC;2;0;F. Bento da Cunha;J. Antonello;Ressacada;14;15;3;3;41%;59%;300;428;79%;84%;17;21;4;5;0;0;2;1;6;6
+37;09/11/2022;20:29;Fortaleza;Bragantino;6;0;J. Vojvoda;M. Nogueira Barbieri;Arena Castelão;26;4;13;1;56%;44%;432;350;87%;80%;17;12;1;4;0;0;1;0;7;0
+37;09/11/2022;21:29;Juventude;Flamengo;2;2;C. Juarez Roth;D. Silvestre Júnior;Alfredo Jaconi;11;10;4;3;36%;64%;294;512;75%;86%;17;14;7;3;0;0;0;0;2;4
+37;09/11/2022;21:30;Palmeiras;América-MG;2;1;A. Moreira Ferreira;V. Carmo Mancini;Allianz Parque;26;6;9;2;58%;42%;401;286;80%;72%;11;11;4;2;0;0;1;2;10;3
+37;09/11/2022;21:28;Atlético-GO;Athletico-PR;1;1;E. do Nascimento Souza;L. Scolari;Estádio Antônio Accioly;26;12;7;4;64%;36%;497;283;80%;72%;8;12;1;0;0;0;1;0;7;4
+37;10/11/2022;20:02;Botafogo;Santos;3;0;L. Castro;O. Ribeiro;Estádio Nilton Santos;14;4;7;0;45%;55%;391;467;83%;84%;15;17;2;4;0;1;6;1;3;4
+37;10/11/2022;20:00;Atlético-MG;Cuiabá;3;0;A. Stival;A. Cardoso de Oliveira;Mineirão;14;6;7;1;66%;34%;635;326;90%;78%;12;11;1;4;0;0;1;1;3;5
+38;12/11/2022;16:01;Flamengo;Avaí;1;2;D. Silvestre Júnior;F. Bento da Cunha;Maracanã;17;15;4;8;66%;34%;579;313;91%;81%;14;11;0;1;0;0;1;0;10;3
+38;13/11/2022;16:03;Athletico-PR;Botafogo;3;0;L. Scolari;L. Castro;Estádio Joaquim Américo Guimarães;25;9;10;4;40%;60%;271;415;75%;83%;19;13;1;1;0;0;2;0;6;3
+38;13/11/2022;16:03;Ceará SC;Juventude;4;1;J. Antonello;C. Juarez Roth;Arena Castelão;22;9;9;4;62%;38%;467;297;84%;76%;16;16;4;4;0;0;1;0;8;3
+38;13/11/2022;16:03;América-MG;Atlético-GO;1;1;V. Carmo Mancini;E. do Nascimento Souza;Estádio Raimundo Sampaio;36;4;9;3;60%;40%;420;319;82%;73%;14;12;3;2;0;1;0;3;17;5
+38;13/11/2022;16:03;Santos;Fortaleza;0;2;O. Ribeiro;J. Vojvoda;Estádio Urbano Caldeira;14;13;3;6;47%;53%;361;396;78%;79%;17;14;1;3;0;0;0;2;5;7
+38;13/11/2022;16:03;Cuiabá;Coritiba;2;1;A. Cardoso de Oliveira;A. Ferreira;Arena Pantanal;17;4;8;2;57%;43%;505;389;88%;82%;9;8;1;3;0;1;2;2;8;1
+38;13/11/2022;16:03;Bragantino;Fluminense;0;1;M. Nogueira Barbieri;F. Diniz Silva;Nabizão;13;8;4;4;41%;59%;319;463;77%;82%;16;15;3;2;0;0;5;0;4;9
+38;13/11/2022;16:03;Corinthians;Atlético-MG;0;1;F. J. Monteiro Almeida;A. Stival;Neo Química Arena;17;17;4;7;59%;41%;494;351;84%;82%;11;19;3;6;0;0;1;0;5;4
+38;13/11/2022;16:03;Internacional;Palmeiras;3;0;L. Venker de Menezes;A. Moreira Ferreira;Estádio José Pinheiro Borda;15;11;8;2;48%;52%;287;306;77%;82%;13;17;2;3;0;0;1;2;6;5
+38;13/11/2022;16:03;Goiás;São Paulo;0;4;J. Ribeiro Ventura;R. Ceni;Estádio da Serrinha;6;13;2;7;35%;65%;330;591;80%;90%;12;14;2;1;0;0;1;0;3;4
