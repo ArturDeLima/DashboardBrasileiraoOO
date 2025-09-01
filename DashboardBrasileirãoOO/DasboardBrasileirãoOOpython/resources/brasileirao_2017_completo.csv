@@ -1,0 +1,381 @@
+﻿rodada;data;hora;time_casa;time_fora;gols_casa;gols_fora;tecnico_casa;tecnico_fora;estadio;stat_chutes_casa;stat_chutes_fora;stat_chutes_a_gol_casa;stat_chutes_a_gol_fora;stat_posse_de_bola_casa;stat_posse_de_bola_fora;stat_passes_casa;stat_passes_fora;stat_faltas_casa;stat_faltas_fora;stat_cartões_amarelos_casa;stat_cartões_amarelos_fora;stat_cartões_vermelhos_casa;stat_cartões_vermelhos_fora;stat_impedimentos_casa;stat_impedimentos_fora;stat_escanteios_casa;stat_escanteios_fora
+1;13/05/2017;16:01;Flamengo;Atlético-MG;1;1;J. Mannarino;R. Machado Marques;Maracanã;11;15;3;4;41%;59%;345;501;7;10;2;3;0;0;3;1;4;6
+1;13/05/2017;19:02;Corinthians;Chapecoense;1;1;F. Carille;V. Carmo Mancini;Neo Química Arena;5;16;2;2;67%;33%;638;304;10;12;2;2;0;0;1;3;1;7
+1;14/05/2017;11:00;Fluminense;Santos;3;2;A. da Silva Braga;D. Silvestre Júnior;Maracanã;9;20;5;7;38%;62%;306;512;15;18;1;5;0;0;2;2;5;8
+1;14/05/2017;16:01;Cruzeiro;São Paulo;1;0;L. Venker de Menezes;R. Ceni;Mineirão;8;13;5;3;37%;63%;321;533;10;13;0;1;0;0;0;0;5;5
+1;14/05/2017;16:04;Bahia;Athletico-PR;6;2;A. Ferreira;P. Autuori de Mello;Itaipava Arena Fonte Nova;28;11;9;5;39%;61%;290;473;11;11;0;0;0;1;4;1;14;3
+1;14/05/2017;16:01;Ponte Preta;Sport Recife;4;0;G. Kleina;N. da Silveira Júnior;Moisés Lucarelli;11;4;6;0;51%;49%;456;458;13;17;0;2;0;0;2;1;4;2
+1;14/05/2017;16:01;Avaí;EC Vitória;0;0;C. dos Santos Oliveira;D. Petkovic;Ressacada;12;12;2;1;37%;63%;321;573;6;15;0;2;0;0;2;2;7;4
+1;14/05/2017;16:06;Palmeiras;Vasco da Gama;4;0;A. Stival;M. Mendes;Allianz Parque;16;15;10;5;52%;48%;399;378;19;16;0;2;0;0;5;2;3;2
+1;14/05/2017;19:01;Grêmio;Botafogo;2;0;Renato Gaúcho;J. Ribeiro Ventura;Arena do Grêmio;20;9;9;0;53%;47%;450;415;13;19;2;5;0;0;1;1;6;4
+1;15/05/2017;20:02;Coritiba;Atlético-GO;4;1;E. Pacheco;M. Ribeiro Cabo;Couto Pereira;17;17;7;9;61%;39%;494;315;17;13;1;2;0;0;1;1;6;6
+2;20/05/2017;16:01;Santos;Coritiba;1;0;D. Silvestre Júnior;E. Pacheco;Estádio Urbano Caldeira;7;23;3;11;47%;53%;338;378;24;17;6;4;0;0;1;2;3;4
+2;20/05/2017;18:59;Atlético-GO;Flamengo;0;3;M. Ribeiro Cabo;J. Mannarino;Estádio do Governo do Estado de Goiás (Serra Dourada);8;20;0;11;34%;66%;332;641;11;13;2;1;0;0;0;1;4;7
+2;20/05/2017;19:01;Chapecoense;Palmeiras;1;0;V. Carmo Mancini;A. Stival;Arena Condá;11;6;4;1;44%;56%;313;393;16;13;1;1;0;0;1;2;3;4
+2;21/05/2017;11:00;Vasco da Gama;Bahia;2;1;M. Mendes;A. Ferreira;Estádio Vasco da Gama;16;9;10;3;60%;40%;378;253;13;23;4;1;0;1;3;3;10;5
+2;21/05/2017;16:01;Athletico-PR;Grêmio;0;2;P. Autuori de Mello;Renato Gaúcho;Estádio Joaquim Américo Guimarães;18;6;1;4;61%;39%;566;372;11;16;2;3;0;1;0;3;5;3
+2;21/05/2017;16:00;EC Vitória;Corinthians;0;1;D. Petkovic;F. Carille;Itaipava Arena Fonte Nova;14;12;3;4;47%;53%;419;473;13;6;0;1;0;0;0;2;3;4
+2;21/05/2017;16:01;Atlético-MG;Fluminense;1;2;R. Machado Marques;A. da Silva Braga;Estádio Raimundo Sampaio;20;15;3;5;61%;39%;420;293;18;23;0;6;0;0;3;4;12;5
+2;21/05/2017;17:59;Botafogo;Ponte Preta;2;0;J. Ribeiro Ventura;G. Kleina;Estádio Nilton Santos;11;15;6;3;40%;60%;446;648;15;12;1;0;0;0;1;1;1;6
+2;21/05/2017;19:02;Sport Recife;Cruzeiro;1;1;N. da Silveira Júnior;L. Venker de Menezes;Adelmar da Costa Carvalho;10;17;5;5;44%;56%;364;457;20;14;3;3;0;0;1;2;5;7
+2;22/05/2017;20:00;São Paulo;Avaí;2;0;R. Ceni;C. dos Santos Oliveira;Morumbi;11;8;4;0;56%;44%;444;352;16;10;1;2;0;0;1;2;5;6
+3;27/05/2017;16:00;Vasco da Gama;Fluminense;3;2;M. Mendes;A. da Silva Braga;Estádio Vasco da Gama;18;13;7;6;42%;58%;299;421;11;11;2;3;0;0;3;1;3;7
+3;27/05/2017;19:04;São Paulo;Palmeiras;2;0;R. Ceni;A. Stival;Morumbi;8;10;5;1;37%;63%;323;571;13;16;3;1;0;0;1;2;9;3
+3;27/05/2017;21:00;EC Vitória;Coritiba;0;1;D. Petkovic;E. Pacheco;Itaipava Arena Fonte Nova;12;16;3;8;53%;47%;364;347;19;16;3;3;0;0;7;4;9;6
+3;28/05/2017;11:01;Atlético-MG;Ponte Preta;2;2;R. Machado Marques;G. Kleina;Estádio Raimundo Sampaio;10;15;7;5;68%;32%;564;277;16;14;2;2;0;0;2;1;6;6
+3;28/05/2017;16:00;Athletico-PR;Flamengo;1;1;E. Baptista;J. Mannarino;Estádio Joaquim Américo Guimarães;13;14;6;4;43%;57%;430;556;10;12;1;0;0;0;3;0;5;5
+3;28/05/2017;16:02;Santos;Cruzeiro;0;1;D. Silvestre Júnior;L. Venker de Menezes;Estádio Urbano Caldeira;13;14;1;2;55%;45%;509;427;8;14;2;3;0;0;1;0;9;6
+3;28/05/2017;16:00;Atlético-GO;Corinthians;0;1;M. Ribeiro Cabo;F. Carille;Estádio do Governo do Estado de Goiás (Serra Dourada);14;15;5;8;48%;52%;403;430;23;11;2;0;0;0;5;5;5;9
+3;28/05/2017;18:00;Sport Recife;Grêmio;4;3;D. Pollo Barioni;Renato Gaúcho;Adelmar da Costa Carvalho;19;12;10;6;67%;33%;499;250;21;13;3;1;1;0;0;2;12;6
+3;28/05/2017;19:00;Botafogo;Bahia;1;0;J. Ribeiro Ventura;A. Ferreira;Estádio Nilton Santos;11;17;4;10;48%;52%;372;382;20;18;1;1;0;0;1;1;2;11
+3;29/05/2017;20:00;Chapecoense;Avaí;2;0;V. Carmo Mancini;C. dos Santos Oliveira;Arena Condá;23;11;4;3;58%;42%;519;388;16;11;1;0;1;1;3;0;6;0
+4;03/06/2017;16:01;Coritiba;Athletico-PR;1;0;E. Pacheco;E. Baptista;Couto Pereira;11;9;5;2;49%;51%;383;392;15;11;3;2;0;0;1;5;6;6
+4;03/06/2017;18:00;Fluminense;EC Vitória;2;1;A. da Silva Braga;D. Petkovic;Maracanã;17;7;6;2;56%;44%;459;363;18;22;0;5;0;0;5;0;5;2
+4;03/06/2017;19:01;Corinthians;Santos;2;0;F. Carille;D. Silvestre Júnior;Neo Química Arena;19;5;4;0;51%;49%;442;454;11;9;0;1;0;1;2;0;9;1
+4;04/06/2017;11:01;Flamengo;Botafogo;0;0;J. Mannarino;J. Ribeiro Ventura;Estádio Municipal General Raulino de Oliveira;19;5;2;1;65%;35%;423;239;19;19;2;2;0;0;0;4;11;2
+4;04/06/2017;11:00;Avaí;Sport Recife;1;0;C. dos Santos Oliveira;V. Luxemburgo da Silva;Ressacada;7;14;1;3;35%;65%;322;600;26;25;4;4;0;0;0;1;2;5
+4;04/06/2017;16:00;Palmeiras;Atlético-MG;0;0;A. Stival;R. Machado Marques;Allianz Parque;15;9;5;3;53%;47%;398;363;20;12;2;4;0;0;1;2;7;6
+4;04/06/2017;16:04;Ponte Preta;São Paulo;1;0;G. Kleina;R. Ceni;Moisés Lucarelli;10;11;5;3;45%;55%;365;436;13;12;2;5;0;0;2;3;7;7
+4;04/06/2017;15:59;Grêmio;Vasco da Gama;2;0;Renato Gaúcho;M. Mendes;Arena do Grêmio;11;10;2;0;59%;41%;537;374;15;13;2;3;0;0;3;1;6;5
+4;04/06/2017;19:00;Cruzeiro;Chapecoense;0;2;L. Venker de Menezes;V. Carmo Mancini;Mineirão;14;10;5;4;62%;38%;525;332;8;16;1;3;0;0;2;1;4;5
+4;05/06/2017;20:00;Bahia;Atlético-GO;3;0;J. de Amorim Campos;M. Ribeiro Cabo;Itaipava Arena Fonte Nova;18;8;8;3;60%;40%;462;321;21;27;0;2;0;0;6;4;7;4
+5;06/06/2017;19:59;Fluminense;Athletico-PR;1;1;A. da Silva Braga;E. Baptista;Maracanã;15;7;7;1;54%;46%;394;346;19;16;3;3;0;0;1;1;10;4
+5;07/06/2017;19:29;Atlético-MG;Avaí;1;0;R. Machado Marques;C. dos Santos Oliveira;Estádio Raimundo Sampaio;7;13;4;3;54%;46%;469;390;20;10;3;1;0;0;4;4;2;10
+5;07/06/2017;19:31;Coritiba;Palmeiras;1;0;E. Pacheco;A. Stival;Couto Pereira;5;12;3;4;43%;57%;331;421;14;17;4;3;0;0;7;1;2;8
+5;07/06/2017;20:59;Santos;Botafogo;1;0;Elano;J. Ribeiro Ventura;Estádio Municipal Paulo Machado de Carvalho;8;8;3;2;62%;38%;594;367;13;9;4;2;0;0;2;2;7;2
+5;07/06/2017;21:44;Vasco da Gama;Corinthians;2;5;E. Da Conceição Silva;F. Carille;Estádio Vasco da Gama;27;10;9;6;58%;42%;448;357;10;14;0;3;0;0;2;3;14;1
+5;07/06/2017;21:45;Sport Recife;Flamengo;2;0;V. Luxemburgo da Silva;J. Mannarino;Adelmar da Costa Carvalho;14;17;5;7;39%;61%;302;465;17;16;2;2;0;0;1;2;3;8
+5;08/06/2017;19:29;Atlético-GO;Ponte Preta;3;0;J. P. Sanches;G. Kleina;Estádio Olímpico Pedro Ludovico Teixeira;13;10;7;4;36%;64%;297;536;20;9;1;2;0;1;4;0;8;3
+5;08/06/2017;19:31;São Paulo;EC Vitória;2;0;R. Ceni;A. Tadeu Gallo;Morumbi;18;11;9;3;51%;49%;370;371;14;18;1;1;0;0;1;1;10;6
+5;08/06/2017;20:01;Chapecoense;Grêmio;3;6;V. Carmo Mancini;Renato Gaúcho;Arena Condá;18;10;7;7;47%;53%;362;414;22;9;4;3;0;0;0;2;5;1
+5;08/06/2017;21:00;Bahia;Cruzeiro;1;0;J. de Amorim Campos;L. Venker de Menezes;Itaipava Arena Fonte Nova;19;12;5;4;59%;41%;534;362;18;12;4;2;0;1;0;1;5;6
+6;10/06/2017;16:00;Palmeiras;Fluminense;3;1;A. Stival;A. da Silva Braga;Allianz Parque;16;10;6;3;56%;44%;419;322;24;19;4;2;0;0;3;1;6;3
+6;10/06/2017;18:59;Vasco da Gama;Sport Recife;2;1;M. Mendes;V. Luxemburgo da Silva;Estádio Vasco da Gama;14;8;4;3;49%;51%;365;378;15;19;0;1;0;0;2;2;3;3
+6;11/06/2017;11:02;Botafogo;Coritiba;2;2;J. Ribeiro Ventura;E. Pacheco;Estádio Nilton Santos;13;8;6;4;53%;47%;409;358;14;28;4;3;0;0;1;1;5;5
+6;11/06/2017;16:00;Ponte Preta;Chapecoense;3;2;G. Kleina;V. Carmo Mancini;Moisés Lucarelli;5;17;3;7;34%;66%;257;467;8;22;2;4;0;0;3;2;1;6
+6;11/06/2017;16:02;Avaí;Flamengo;1;1;C. dos Santos Oliveira;J. Mannarino;Ressacada;12;9;2;3;38%;62%;327;523;17;18;2;1;1;0;1;2;4;9
+6;11/06/2017;16:01;EC Vitória;Atlético-MG;2;0;A. Tadeu Gallo;R. Machado Marques;Barradão;6;9;3;1;42%;58%;353;480;20;7;3;2;0;0;2;1;4;4
+6;11/06/2017;16:00;Corinthians;São Paulo;3;2;F. Carille;R. Ceni;Neo Química Arena;11;13;6;4;56%;44%;492;386;11;15;1;1;0;0;2;1;3;0
+6;11/06/2017;18:29;Cruzeiro;Atlético-GO;2;0;L. Venker de Menezes;D. Ghidoni Junior;Mineirão;19;5;9;3;70%;30%;622;264;11;21;3;4;0;0;1;1;7;2
+6;11/06/2017;19:00;Athletico-PR;Santos;0;2;E. Baptista;Elano;Estádio Joaquim Américo Guimarães;16;10;2;5;57%;43%;495;391;15;12;1;0;0;1;2;3;7;4
+6;12/06/2017;19:59;Grêmio;Bahia;1;0;Renato Gaúcho;J. de Amorim Campos;Arena do Grêmio;18;7;5;3;64%;36%;643;361;15;16;0;1;0;0;2;0;11;4
+7;14/06/2017;19:30;Atlético-MG;Athletico-PR;0;1;R. Machado Marques;E. Baptista;Estádio Raimundo Sampaio;24;6;3;2;69%;31%;514;243;11;10;2;4;0;1;2;4;12;6
+7;14/06/2017;19:29;Atlético-GO;Avaí;3;1;D. Ghidoni Junior;C. dos Santos Oliveira;Estádio Olímpico Pedro Ludovico Teixeira;17;3;5;1;47%;53%;377;441;21;24;3;6;0;0;2;1;7;2
+7;14/06/2017;19:31;EC Vitória;Botafogo;2;2;A. Tadeu Gallo;J. Ribeiro Ventura;Barradão;15;17;3;8;55%;45%;456;378;12;10;1;1;1;0;0;2;2;7
+7;14/06/2017;19:31;Sport Recife;São Paulo;0;0;V. Luxemburgo da Silva;R. Ceni;Adelmar da Costa Carvalho;7;7;3;1;57%;43%;465;355;21;14;1;1;0;0;1;3;5;1
+7;14/06/2017;21:00;Flamengo;Ponte Preta;2;0;J. Mannarino;G. Kleina;Luso-Brasileiro;23;14;5;3;56%;44%;476;380;12;16;2;2;0;0;2;1;5;4
+7;14/06/2017;21:46;Santos;Palmeiras;1;0;L. Culpi;A. Stival;Estádio Urbano Caldeira;9;16;5;6;45%;55%;406;490;16;14;1;3;0;0;2;3;10;7
+7;14/06/2017;21:45;Chapecoense;Vasco da Gama;2;1;V. Carmo Mancini;M. Mendes;Arena Condá;17;5;10;2;52%;48%;363;362;24;15;3;2;0;0;1;0;3;5
+7;14/06/2017;21:47;Corinthians;Cruzeiro;1;0;F. Carille;L. Venker de Menezes;Neo Química Arena;7;18;3;2;53%;47%;533;470;9;16;0;1;0;0;6;4;6;7
+7;15/06/2017;16:05;Coritiba;Bahia;0;0;E. Pacheco;J. de Amorim Campos;Couto Pereira;7;10;1;3;47%;53%;323;367;16;14;1;4;1;1;5;2;5;6
+7;15/06/2017;21:00;Fluminense;Grêmio;0;2;A. da Silva Braga;Renato Gaúcho;Maracanã;12;12;2;4;51%;49%;494;505;12;17;4;3;0;0;2;1;3;2
+8;17/06/2017;15:59;Atlético-GO;Athletico-PR;0;1;D. Ghidoni Junior;E. Baptista;Estádio Olímpico Pedro Ludovico Teixeira;24;9;6;3;66%;34%;601;332;16;15;1;5;0;0;0;0;11;0
+8;17/06/2017;19:00;Vasco da Gama;Avaí;1;0;M. Mendes;C. dos Santos Oliveira;Estádio Vasco da Gama;16;11;5;4;49%;51%;399;415;20;22;4;1;0;0;0;0;4;6
+8;17/06/2017;21:01;Santos;Ponte Preta;0;0;L. Culpi;G. Kleina;Estádio Municipal Paulo Machado de Carvalho;13;9;4;2;58%;42%;560;423;17;13;3;4;0;0;2;3;5;2
+8;18/06/2017;11:03;Coritiba;Corinthians;0;0;E. Pacheco;F. Carille;Couto Pereira;13;5;5;0;45%;55%;339;434;18;13;2;3;0;0;3;5;10;4
+8;18/06/2017;16:01;Bahia;Palmeiras;2;4;J. de Amorim Campos;A. Stival;Itaipava Arena Fonte Nova;15;17;9;5;62%;38%;442;271;14;23;2;5;0;0;2;1;3;5
+8;18/06/2017;16:01;Fluminense;Flamengo;2;2;A. da Silva Braga;J. Mannarino;Maracanã;12;14;4;5;39%;61%;240;369;16;25;1;6;0;0;0;1;3;4
+8;18/06/2017;16:00;Chapecoense;Botafogo;0;2;V. Carmo Mancini;J. Ribeiro Ventura;Arena Condá;21;7;6;4;59%;41%;421;309;11;13;0;2;0;0;2;4;8;3
+8;18/06/2017;16:00;São Paulo;Atlético-MG;1;2;R. Ceni;R. Machado Marques;Morumbi;12;8;2;3;60%;40%;445;312;12;24;2;2;0;0;4;4;5;3
+8;18/06/2017;19:00;Sport Recife;EC Vitória;1;3;V. Luxemburgo da Silva;A. Tadeu Gallo;Adelmar da Costa Carvalho;11;13;6;6;57%;43%;483;375;10;19;0;0;0;0;3;1;5;5
+8;19/06/2017;20:00;Cruzeiro;Grêmio;3;3;L. Venker de Menezes;Renato Gaúcho;Mineirão;17;15;5;7;55%;45%;541;442;12;14;5;2;0;0;0;0;2;8
+9;21/06/2017;19:30;EC Vitória;Santos;0;2;A. Tadeu Gallo;L. Culpi;Barradão;17;10;3;6;60%;40%;453;319;15;10;2;1;0;0;4;4;8;5
+9;21/06/2017;21:00;Palmeiras;Atlético-GO;1;0;A. Stival;D. Ghidoni Junior;Allianz Parque;13;9;4;4;68%;32%;536;259;10;17;2;2;0;0;5;6;6;3
+9;21/06/2017;20:59;Botafogo;Vasco da Gama;3;1;J. Ribeiro Ventura;M. Mendes;Estádio Nilton Santos;7;19;3;3;43%;57%;360;440;20;11;5;1;0;0;1;1;2;6
+9;21/06/2017;21:46;Avaí;Fluminense;0;3;C. dos Santos Oliveira;A. da Silva Braga;Ressacada;14;15;5;4;49%;51%;423;445;19;20;1;1;0;0;1;0;5;4
+9;21/06/2017;21:45;Athletico-PR;São Paulo;1;0;E. Baptista;R. Ceni;Estádio Joaquim Américo Guimarães;12;28;7;5;34%;66%;299;553;17;15;3;3;0;0;2;1;5;8
+9;21/06/2017;21:45;Atlético-MG;Sport Recife;2;2;R. Machado Marques;V. Luxemburgo da Silva;Estádio Raimundo Sampaio;5;12;2;6;53%;47%;431;390;23;26;2;1;0;0;2;3;3;2
+9;22/06/2017;19:31;Corinthians;Bahia;3;0;F. Carille;J. de Amorim Campos;Neo Química Arena;16;18;5;1;48%;52%;434;444;15;12;2;2;1;1;2;2;5;9
+9;22/06/2017;19:30;Ponte Preta;Cruzeiro;1;0;G. Kleina;L. Venker de Menezes;Moisés Lucarelli;6;8;1;2;52%;48%;405;392;21;23;2;2;0;0;0;3;5;1
+9;22/06/2017;21:00;Grêmio;Coritiba;2;0;Renato Gaúcho;E. Pacheco;Arena do Grêmio;17;12;12;6;53%;47%;439;396;18;11;2;0;0;0;4;0;6;3
+9;22/06/2017;21:00;Flamengo;Chapecoense;5;1;J. Mannarino;V. Carmo Mancini;Luso-Brasileiro;20;13;11;2;52%;48%;359;329;21;13;3;1;0;0;3;1;6;7
+10;24/06/2017;19:01;Santos;Sport Recife;0;1;L. Culpi;V. Luxemburgo da Silva;Estádio Urbano Caldeira;9;9;3;3;57%;43%;531;416;13;17;0;1;0;0;0;1;9;0
+10;25/06/2017;10:59;Vasco da Gama;Atlético-GO;1;0;M. Mendes;D. Ghidoni Junior;Estádio Vasco da Gama;12;5;5;2;53%;47%;434;398;21;19;2;0;0;0;0;1;3;1
+10;25/06/2017;16:00;Grêmio;Corinthians;0;1;Renato Gaúcho;F. Carille;Arena do Grêmio;15;5;6;3;57%;43%;564;448;16;16;4;5;0;0;2;0;7;2
+10;25/06/2017;16:00;São Paulo;Fluminense;1;1;R. Ceni;A. da Silva Braga;Morumbi;15;9;3;6;52%;48%;365;342;12;25;1;1;0;0;0;4;6;3
+10;25/06/2017;16:01;Athletico-PR;EC Vitória;4;1;E. Baptista;A. Tadeu Gallo;Estádio Joaquim Américo Guimarães;15;12;11;3;48%;52%;473;517;10;11;0;3;0;0;3;2;5;1
+10;25/06/2017;15:59;Cruzeiro;Coritiba;2;0;L. Venker de Menezes;E. Pacheco;Mineirão;22;9;9;2;55%;45%;413;333;15;26;0;2;0;0;2;2;8;9
+10;25/06/2017;16:02;Ponte Preta;Palmeiras;1;2;G. Kleina;A. Stival;Moisés Lucarelli;9;6;2;2;56%;44%;440;365;21;28;6;3;2;1;3;0;2;4
+10;25/06/2017;18:33;Bahia;Flamengo;0;1;J. de Amorim Campos;J. Mannarino;Itaipava Arena Fonte Nova;14;13;3;4;42%;58%;375;518;6;23;1;3;1;0;1;0;5;3
+10;25/06/2017;19:00;Chapecoense;Atlético-MG;0;1;V. Carmo Mancini;R. Machado Marques;Arena Condá;15;5;1;3;68%;32%;462;237;24;19;5;5;0;0;2;7;8;0
+10;26/06/2017;20:00;Botafogo;Avaí;0;2;J. Ribeiro Ventura;C. dos Santos Oliveira;Estádio Nilton Santos;31;8;9;2;73%;27%;588;231;11;10;1;2;0;0;1;0;17;2
+11;01/07/2017;16:02;Palmeiras;Grêmio;1;0;A. Stival;Renato Gaúcho;Estádio Municipal Paulo Machado de Carvalho;14;6;1;2;61%;39%;480;328;23;14;3;1;0;0;2;1;4;0
+11;01/07/2017;18:59;Atlético-GO;Santos;1;1;D. Ghidoni Junior;L. Culpi;Estádio Olímpico Pedro Ludovico Teixeira;16;13;4;2;32%;68%;263;553;14;10;2;1;1;0;0;4;3;11
+11;02/07/2017;16:00;Sport Recife;Athletico-PR;1;0;V. Luxemburgo da Silva;E. Baptista;Adelmar da Costa Carvalho;19;2;3;1;58%;42%;466;351;12;18;1;3;0;0;0;2;11;4
+11;02/07/2017;16:01;EC Vitória;Bahia;0;0;A. Tadeu Gallo;L. Quintanilha;Barradão;21;6;7;1;56%;44%;439;359;17;16;5;3;0;0;1;2;11;5
+11;02/07/2017;15:59;Atlético-MG;Cruzeiro;3;1;R. Machado Marques;L. Venker de Menezes;Estádio Raimundo Sampaio;11;10;4;5;47%;53%;357;394;23;18;4;4;0;0;3;1;4;3
+11;02/07/2017;16:01;Flamengo;São Paulo;2;0;J. Mannarino;R. Ceni;Luso-Brasileiro;15;12;7;2;47%;53%;412;464;17;14;1;1;0;0;5;0;10;0
+11;02/07/2017;16:00;Corinthians;Botafogo;1;0;F. Carille;J. Ribeiro Ventura;Neo Química Arena;19;3;9;0;67%;33%;645;342;14;14;3;2;0;0;2;1;10;2
+11;02/07/2017;19:01;Avaí;Ponte Preta;0;0;C. dos Santos Oliveira;Juninho;Ressacada;10;18;3;3;44%;56%;407;525;14;25;2;2;0;0;3;0;6;5
+11;02/07/2017;18:59;Coritiba;Vasco da Gama;2;2;E. Pacheco;M. Mendes;Vila Capanema;16;10;5;4;61%;39%;395;253;17;20;3;5;0;0;2;1;8;5
+11;03/07/2017;20:00;Fluminense;Chapecoense;3;3;A. da Silva Braga;V. Carmo Mancini;Estádio Giulite Coutinho;12;23;8;7;69%;31%;453;202;14;22;3;4;0;1;6;2;6;5
+12;08/07/2017;15:58;Atlético-GO;EC Vitória;1;2;D. Ghidoni Junior;A. Tadeu Gallo;Estádio Olímpico Pedro Ludovico Teixeira;18;9;5;6;51%;49%;353;366;12;23;1;4;0;0;3;4;14;4
+12;08/07/2017;18:01;Vasco da Gama;Flamengo;0;1;M. Mendes;J. Mannarino;Estádio Vasco da Gama;10;9;1;3;41%;59%;282;415;23;15;4;1;0;0;2;2;6;9
+12;08/07/2017;19:01;Corinthians;Ponte Preta;2;0;F. Carille;G. Kleina;Neo Química Arena;13;20;8;6;48%;52%;498;518;17;8;2;2;0;0;1;4;2;5
+12;09/07/2017;11:01;Chapecoense;Athletico-PR;1;1;V. Eutrópio;E. Baptista;Arena Condá;26;4;6;3;43%;57%;359;504;18;13;1;3;0;0;0;4;10;2
+12;09/07/2017;16:01;Bahia;Fluminense;1;1;J. de Amorim Campos;A. da Silva Braga;Itaipava Arena Fonte Nova;20;7;5;2;73%;27%;620;242;16;18;4;2;0;0;2;1;10;2
+12;09/07/2017;16:01;Grêmio;Avaí;0;2;Renato Gaúcho;C. dos Santos Oliveira;Arena do Grêmio;19;8;11;3;73%;27%;685;257;9;17;1;4;0;1;2;1;11;5
+12;09/07/2017;16:01;Cruzeiro;Palmeiras;3;1;L. Venker de Menezes;A. Stival;Mineirão;11;8;6;1;38%;62%;306;484;12;15;1;4;0;0;0;3;1;9
+12;09/07/2017;19:00;Santos;São Paulo;3;2;L. Culpi;L. de Oliveira Preto;Estádio Urbano Caldeira;17;14;8;5;52%;48%;442;414;18;5;4;3;0;0;0;2;6;2
+12;09/07/2017;19:00;Botafogo;Atlético-MG;1;1;J. Ribeiro Ventura;R. Machado Marques;Estádio Nilton Santos;11;9;3;6;57%;43%;503;391;14;27;1;3;0;0;1;1;4;7
+12;10/07/2017;20:01;Coritiba;Sport Recife;0;3;E. Pacheco;V. Luxemburgo da Silva;Couto Pereira;16;12;6;6;59%;41%;399;291;16;18;2;2;1;0;2;2;10;2
+13;12/07/2017;19:30;Ponte Preta;Bahia;0;3;G. Kleina;J. de Amorim Campos;Moisés Lucarelli;27;11;9;7;67%;33%;569;307;12;14;1;3;0;0;0;2;18;0
+13;12/07/2017;19:31;Atlético-MG;Santos;0;1;R. Machado Marques;L. Culpi;Estádio Raimundo Sampaio;24;10;6;3;64%;36%;485;298;9;13;1;2;0;0;1;3;15;4
+13;12/07/2017;20:59;Fluminense;Botafogo;0;1;A. da Silva Braga;J. Ribeiro Ventura;Maracanã;12;16;0;5;59%;41%;509;360;13;20;3;4;0;0;0;2;6;7
+13;12/07/2017;21:46;Palmeiras;Corinthians;0;2;A. Stival;F. Carille;Allianz Parque;18;3;3;2;62%;38%;490;332;16;14;3;4;0;0;3;5;8;1
+13;12/07/2017;21:46;Athletico-PR;Cruzeiro;0;2;F. Soares Pessoa;L. Venker de Menezes;Estádio Joaquim Américo Guimarães;14;15;6;5;62%;38%;621;403;16;9;3;1;0;0;0;1;9;1
+13;12/07/2017;21:46;EC Vitória;Vasco da Gama;1;4;A. Tadeu Gallo;M. Mendes;Barradão;18;10;5;4;68%;32%;514;251;16;14;4;3;0;0;3;5;8;9
+13;13/07/2017;19:28;São Paulo;Atlético-GO;2;2;D. Silvestre Júnior;D. Ghidoni Junior;Morumbi;18;11;3;3;74%;26%;600;211;18;21;0;3;0;0;0;0;9;4
+13;13/07/2017;19:30;Sport Recife;Chapecoense;3;0;V. Luxemburgo da Silva;V. Eutrópio;Arena de Pernambuco;11;11;5;1;53%;47%;385;346;9;26;2;8;0;0;1;1;5;8
+13;13/07/2017;19:31;Flamengo;Grêmio;0;1;J. Mannarino;Renato Gaúcho;Luso-Brasileiro;23;4;7;3;61%;39%;587;388;12;20;2;2;0;0;1;1;8;2
+13;13/07/2017;21:01;Avaí;Coritiba;1;4;C. dos Santos Oliveira;E. Pacheco;Ressacada;10;9;2;8;63%;37%;455;276;14;18;2;2;0;0;5;1;6;3
+14;15/07/2017;19:01;Corinthians;Athletico-PR;2;2;F. Carille;F. Soares Pessoa;Neo Química Arena;19;11;9;4;63%;37%;621;372;5;11;0;0;0;0;1;2;8;3
+14;16/07/2017;11:02;Palmeiras;EC Vitória;4;2;A. Stival;A. Tadeu Gallo;Allianz Parque;15;7;6;2;57%;43%;461;363;21;19;2;3;0;0;1;2;5;6
+14;16/07/2017;15:59;Vasco da Gama;Santos;0;0;M. Mendes;L. Culpi;Estádio Nilton Santos;16;4;4;0;44%;56%;354;471;16;25;4;2;0;1;1;0;9;3
+14;16/07/2017;15:59;Atlético-GO;Atlético-MG;1;2;D. Ghidoni Junior;R. Machado Marques;Estádio Olímpico Pedro Ludovico Teixeira;15;5;4;2;42%;58%;334;449;21;24;2;3;0;0;3;9;5;8
+14;16/07/2017;16:00;Chapecoense;São Paulo;2;0;V. Eutrópio;D. Silvestre Júnior;Arena Condá;15;9;5;3;32%;68%;216;455;22;14;4;2;0;0;0;5;1;1
+14;16/07/2017;16:01;Cruzeiro;Flamengo;1;1;L. Venker de Menezes;J. Mannarino;Mineirão;10;5;3;1;36%;64%;332;588;16;14;3;1;0;0;1;3;6;3
+14;16/07/2017;16:01;Grêmio;Ponte Preta;3;1;Renato Gaúcho;G. Kleina;Arena do Grêmio;12;10;6;3;62%;38%;536;334;20;18;1;2;0;0;1;1;7;3
+14;16/07/2017;19:00;Bahia;Avaí;1;1;J. de Amorim Campos;C. dos Santos Oliveira;Estádio de Pituaçu;22;13;5;4;67%;33%;533;264;18;12;2;0;0;0;0;2;8;3
+14;16/07/2017;19:01;Coritiba;Fluminense;1;2;E. Pacheco;A. da Silva Braga;Couto Pereira;14;6;4;2;53%;47%;329;292;19;18;4;4;0;0;5;2;3;3
+14;17/07/2017;20:00;Botafogo;Sport Recife;2;1;J. Ribeiro Ventura;V. Luxemburgo da Silva;Estádio Nilton Santos;11;10;6;3;43%;57%;407;526;14;16;4;3;0;0;1;3;3;6
+15;19/07/2017;19:31;EC Vitória;Grêmio;1;3;A. Tadeu Gallo;Renato Gaúcho;Barradão;16;7;2;5;51%;49%;464;486;18;7;3;3;0;0;1;1;7;0
+15;19/07/2017;19:30;Santos;Chapecoense;1;0;L. Culpi;V. Eutrópio;Estádio Urbano Caldeira;7;18;5;5;60%;40%;542;368;13;17;5;2;0;0;7;1;13;7
+15;19/07/2017;21:01;Avaí;Corinthians;0;0;C. dos Santos Oliveira;F. Carille;Ressacada;15;22;3;7;27%;73%;257;704;18;10;2;3;0;0;1;1;3;11
+15;19/07/2017;20:59;Ponte Preta;Coritiba;4;0;G. Kleina;E. Pacheco;Moisés Lucarelli;13;13;7;6;45%;55%;364;439;12;12;1;0;0;0;6;3;4;1
+15;19/07/2017;21:45;Atlético-MG;Bahia;0;2;R. Machado Marques;J. de Amorim Campos;Estádio Raimundo Sampaio;24;11;9;5;70%;30%;588;264;19;18;4;6;0;0;1;1;8;3
+15;19/07/2017;21:45;São Paulo;Vasco da Gama;1;0;D. Silvestre Júnior;E. Da Conceição Silva;Morumbi;11;12;3;5;44%;56%;329;409;26;20;3;3;0;0;1;2;1;4
+15;19/07/2017;21:45;Flamengo;Palmeiras;2;2;J. Mannarino;A. Stival;Luso-Brasileiro;18;7;6;5;62%;38%;451;286;16;23;2;9;0;0;4;0;10;2
+15;20/07/2017;19:29;Fluminense;Cruzeiro;1;1;A. da Silva Braga;L. Venker de Menezes;Estádio Giulite Coutinho;17;15;6;6;48%;52%;409;438;21;18;3;3;0;0;0;3;8;4
+15;20/07/2017;20:03;Sport Recife;Atlético-GO;4;0;V. Luxemburgo da Silva;D. Ghidoni Junior;Adelmar da Costa Carvalho;8;14;5;3;51%;49%;317;295;22;34;2;1;0;0;4;2;4;9
+15;20/07/2017;21:00;Athletico-PR;Botafogo;0;0;F. Soares Pessoa;J. Ribeiro Ventura;Estádio Joaquim Américo Guimarães;13;9;3;1;60%;40%;531;353;16;21;3;4;0;1;4;1;3;4
+16;22/07/2017;15:59;EC Vitória;Chapecoense;1;2;F. Pinto Tanajura;V. Eutrópio;Barradão;10;14;4;7;68%;32%;493;239;13;19;2;5;0;0;6;1;6;4
+16;22/07/2017;19:00;Flamengo;Coritiba;2;1;J. Mannarino;R. L. Martins Gomes;Luso-Brasileiro;19;9;6;3;51%;49%;418;423;20;24;1;6;0;0;1;1;6;1
+16;23/07/2017;11:00;Santos;Bahia;3;0;L. Culpi;J. de Amorim Campos;Estádio Municipal Paulo Machado de Carvalho;11;19;5;5;51%;49%;460;440;10;19;1;1;0;0;1;2;4;7
+16;23/07/2017;16:00;Avaí;Cruzeiro;1;0;C. dos Santos Oliveira;L. Venker de Menezes;Ressacada;5;26;2;9;28%;72%;246;638;20;10;2;0;0;0;2;2;4;8
+16;23/07/2017;16:01;Sport Recife;Palmeiras;0;2;V. Luxemburgo da Silva;A. Stival;Arena de Pernambuco;12;7;1;4;63%;37%;464;290;21;31;3;4;0;0;2;1;6;3
+16;23/07/2017;16:00;Fluminense;Corinthians;0;1;A. da Silva Braga;F. Carille;Maracanã;19;12;5;1;55%;45%;510;412;15;13;2;2;0;0;4;3;6;6
+16;23/07/2017;19:00;Athletico-PR;Ponte Preta;0;2;F. Soares Pessoa;G. Kleina;Estádio Joaquim Américo Guimarães;20;4;8;2;71%;29%;614;265;25;19;2;2;0;0;2;1;12;0
+16;23/07/2017;18:58;Atlético-GO;Botafogo;1;1;J. P. Sanches;J. Ribeiro Ventura;Estádio Olímpico Pedro Ludovico Teixeira;27;12;5;4;52%;48%;411;407;12;20;1;4;0;0;1;0;4;4
+16;23/07/2017;19:00;Atlético-MG;Vasco da Gama;1;2;D. Giacomini;M. Mendes;Estádio Raimundo Sampaio;13;11;3;4;58%;42%;461;341;24;16;5;3;0;0;1;1;7;5
+16;24/07/2017;20:00;São Paulo;Grêmio;1;1;D. Silvestre Júnior;Renato Gaúcho;Morumbi;6;10;2;5;55%;45%;507;408;17;14;1;3;0;0;0;1;5;8
+17;29/07/2017;16:01;Botafogo;São Paulo;3;4;J. Ribeiro Ventura;D. Silvestre Júnior;Estádio Nilton Santos;8;24;4;8;35%;65%;314;578;9;11;0;1;0;0;1;0;1;6
+17;29/07/2017;18:59;Palmeiras;Avaí;2;0;A. Stival;C. dos Santos Oliveira;Allianz Parque;15;9;3;1;71%;29%;661;262;19;18;1;2;0;1;1;1;8;5
+17;30/07/2017;11:01;Chapecoense;Atlético-GO;1;2;E. Hartkopp;J. P. Sanches;Arena Condá;16;13;7;2;49%;51%;366;367;21;19;1;1;0;0;0;3;5;6
+17;30/07/2017;16:01;Coritiba;Atlético-MG;0;2;M. de Oliveira Santos;M. Reis Micale;Couto Pereira;12;9;1;6;52%;48%;336;327;18;25;4;4;0;0;3;2;2;5
+17;30/07/2017;16:01;Bahia;Sport Recife;1;3;J. de Amorim Campos;V. Luxemburgo da Silva;Itaipava Arena Fonte Nova;16;15;7;9;57%;43%;492;383;18;24;2;6;0;0;1;1;2;3
+17;30/07/2017;16:04;Corinthians;Flamengo;1;1;F. Carille;J. Mannarino;Neo Química Arena;9;16;3;2;40%;60%;388;549;9;16;0;1;0;0;1;1;2;11
+17;30/07/2017;19:00;Grêmio;Santos;1;1;Renato Gaúcho;L. Culpi;Arena do Grêmio;23;4;9;1;59%;41%;601;434;14;17;3;5;1;0;3;0;3;4
+17;30/07/2017;19:00;Cruzeiro;EC Vitória;0;0;L. Venker de Menezes;V. Carmo Mancini;Mineirão;13;9;6;3;63%;37%;514;306;15;23;4;4;0;0;2;1;3;2
+17;31/07/2017;19:59;Vasco da Gama;Athletico-PR;0;1;M. Mendes;F. Soares Pessoa;Estádio Municipal General Raulino de Oliveira;18;7;5;3;57%;43%;450;365;13;20;3;3;0;0;1;1;6;3
+17;09/08/2017;20:02;Ponte Preta;Fluminense;0;0;G. Kleina;A. da Silva Braga;Moisés Lucarelli;15;9;3;3;46%;54%;329;414;14;12;1;1;0;0;2;4;12;5
+18;02/08/2017;19:35;Sport Recife;Fluminense;2;2;V. Luxemburgo da Silva;A. da Silva Braga;Adelmar da Costa Carvalho;26;10;7;4;70%;30%;503;232;14;18;5;4;0;1;0;2;15;3
+18;02/08/2017;19:30;Chapecoense;Bahia;1;1;V. Eutrópio;C. Casagrande;Arena Condá;7;12;4;3;48%;52%;328;344;26;17;5;3;0;0;0;4;3;5
+18;02/08/2017;20:59;Atlético-MG;Corinthians;0;2;M. Reis Micale;F. Carille;Mineirão;16;12;4;4;58%;42%;543;415;19;12;3;1;0;0;6;6;10;4
+18;02/08/2017;20:59;EC Vitória;Ponte Preta;3;1;V. Carmo Mancini;G. Kleina;Barradão;15;12;4;5;41%;59%;355;504;20;7;3;1;0;0;0;2;7;4
+18;02/08/2017;21:49;Santos;Flamengo;3;2;L. Culpi;J. Mannarino;Estádio Municipal Paulo Machado de Carvalho;14;13;5;6;46%;54%;402;480;18;15;2;2;1;1;1;1;10;8
+18;02/08/2017;21:45;Atlético-GO;Grêmio;0;1;J. P. Sanches;Renato Gaúcho;Estádio Olímpico Pedro Ludovico Teixeira;13;10;1;4;49%;51%;451;472;20;21;4;2;0;0;0;1;3;3
+18;02/08/2017;21:46;Botafogo;Palmeiras;1;2;J. Ribeiro Ventura;A. Stival;Estádio Nilton Santos;12;15;3;3;55%;45%;407;342;22;14;5;2;0;0;1;0;8;6
+18;03/08/2017;19:30;Athletico-PR;Avaí;5;0;F. Soares Pessoa;C. dos Santos Oliveira;Estádio Joaquim Américo Guimarães;18;9;6;1;62%;38%;603;355;9;18;1;2;0;0;1;1;3;6
+18;03/08/2017;19:30;São Paulo;Coritiba;1;2;D. Silvestre Júnior;M. de Oliveira Santos;Morumbi;26;7;10;4;67%;33%;531;271;18;15;4;5;0;0;2;1;10;2
+18;03/08/2017;20:00;Vasco da Gama;Cruzeiro;0;3;M. Mendes;L. Venker de Menezes;Estádio Municipal General Raulino de Oliveira;11;13;1;6;49%;51%;460;487;12;18;4;1;0;0;1;4;6;4
+19;05/08/2017;19:02;Corinthians;Sport Recife;3;1;F. Carille;V. Luxemburgo da Silva;Neo Química Arena;10;12;4;7;44%;56%;454;569;2;10;1;2;0;0;1;4;3;5
+19;05/08/2017;19:02;Fluminense;Atlético-GO;3;1;A. da Silva Braga;J. P. Sanches;Maracanã;10;13;6;3;52%;48%;453;419;13;12;1;3;0;0;1;2;3;7
+19;06/08/2017;11:01;Flamengo;EC Vitória;0;2;J. Mannarino;V. Carmo Mancini;Luso-Brasileiro;14;10;6;6;65%;35%;497;286;15;21;4;2;0;0;4;1;5;0
+19;06/08/2017;15:59;Cruzeiro;Botafogo;0;0;L. Venker de Menezes;J. Ribeiro Ventura;Mineirão;22;7;4;1;62%;38%;521;335;16;15;3;3;0;0;3;1;7;1
+19;06/08/2017;15:59;Grêmio;Atlético-MG;2;0;Renato Gaúcho;M. Reis Micale;Arena do Grêmio;7;10;4;4;63%;37%;668;389;18;13;3;1;0;0;2;1;0;8
+19;06/08/2017;16:02;Coritiba;Chapecoense;2;0;M. de Oliveira Santos;V. Eutrópio;Couto Pereira;8;9;3;2;49%;51%;408;419;13;21;0;0;0;0;0;1;3;6
+19;06/08/2017;16:00;Palmeiras;Athletico-PR;0;1;A. Stival;F. Soares Pessoa;Allianz Parque;19;7;3;5;66%;34%;635;338;10;22;1;3;0;0;1;4;7;3
+19;06/08/2017;15:59;Bahia;São Paulo;2;1;C. Casagrande;D. Silvestre Júnior;Itaipava Arena Fonte Nova;11;11;5;4;32%;68%;271;567;20;12;4;2;0;0;5;0;2;8
+19;06/08/2017;19:00;Avaí;Santos;0;0;C. dos Santos Oliveira;L. Culpi;Ressacada;12;13;3;3;38%;62%;324;544;22;16;3;1;0;0;1;0;4;8
+19;06/08/2017;19:01;Ponte Preta;Vasco da Gama;0;0;G. Kleina;M. Mendes;Moisés Lucarelli;13;6;3;0;49%;51%;377;399;17;16;1;4;0;0;2;0;7;2
+20;12/08/2017;15:59;Atlético-GO;Coritiba;1;0;J. P. Sanches;M. de Oliveira Santos;Estádio Olímpico Pedro Ludovico Teixeira;9;10;2;3;51%;49%;331;339;27;20;2;3;0;0;1;0;6;5
+20;12/08/2017;19:00;EC Vitória;Avaí;0;1;V. Carmo Mancini;C. dos Santos Oliveira;Barradão;20;8;6;1;60%;40%;424;298;14;11;1;3;0;0;0;2;7;4
+20;13/08/2017;11:00;São Paulo;Cruzeiro;3;2;D. Silvestre Júnior;L. Venker de Menezes;Morumbi;9;19;4;4;42%;58%;333;432;19;18;4;3;1;2;0;0;4;7
+20;13/08/2017;16:00;Sport Recife;Ponte Preta;0;0;V. Luxemburgo da Silva;G. Kleina;Adelmar da Costa Carvalho;9;9;2;5;70%;30%;681;296;14;10;1;1;0;0;2;1;8;1
+20;13/08/2017;16:01;Atlético-MG;Flamengo;2;0;M. Reis Micale;J. de Almeida Filho;Estádio Raimundo Sampaio;20;9;6;1;53%;47%;465;417;22;17;4;1;0;1;1;1;7;5
+20;13/08/2017;16:02;Vasco da Gama;Palmeiras;1;1;M. Mendes;A. Stival;Estádio Municipal General Raulino de Oliveira;12;7;2;3;41%;59%;354;530;17;13;1;2;0;0;3;4;9;5
+20;13/08/2017;19:01;Athletico-PR;Bahia;4;1;F. Soares Pessoa;C. Casagrande;Estádio Joaquim Américo Guimarães;19;11;9;3;57%;43%;455;344;13;15;2;4;0;0;4;0;8;5
+20;13/08/2017;18:59;Botafogo;Grêmio;1;0;J. Ribeiro Ventura;Renato Gaúcho;Estádio Nilton Santos;13;14;7;5;37%;63%;326;541;18;15;3;1;0;0;0;0;4;8
+20;14/08/2017;20:01;Santos;Fluminense;0;0;L. Culpi;A. da Silva Braga;Estádio Municipal Paulo Machado de Carvalho;15;7;3;2;53%;47%;522;480;7;10;2;2;0;0;2;2;5;4
+20;23/08/2017;19:32;Chapecoense;Corinthians;0;1;V. Eutrópio;F. Carille;Arena Condá;13;7;4;2;34%;66%;292;567;13;7;1;4;0;0;0;2;1;3
+21;19/08/2017;16:01;Corinthians;EC Vitória;0;1;F. Carille;V. Carmo Mancini;Neo Química Arena;16;5;4;3;73%;27%;737;290;9;21;1;2;0;0;5;2;9;1
+21;19/08/2017;19:00;Flamengo;Atlético-GO;2;0;R. Rueda Rivera;J. P. Sanches;Luso-Brasileiro;17;13;6;3;60%;40%;515;347;12;13;2;3;0;0;7;1;6;3
+21;20/08/2017;11:00;Grêmio;Athletico-PR;0;0;Renato Gaúcho;F. Soares Pessoa;Arena do Grêmio;7;14;1;3;53%;47%;507;458;11;26;2;2;0;0;2;0;2;2
+21;20/08/2017;16:01;Avaí;São Paulo;1;1;C. dos Santos Oliveira;D. Silvestre Júnior;Ressacada;12;15;3;7;37%;63%;309;522;17;16;1;3;0;0;0;1;5;9
+21;20/08/2017;16:02;Bahia;Vasco da Gama;3;0;C. Casagrande;M. Mendes;Itaipava Arena Fonte Nova;11;9;5;0;44%;56%;402;473;18;18;0;4;0;0;2;0;3;6
+21;20/08/2017;15:59;Cruzeiro;Sport Recife;2;0;L. Venker de Menezes;V. Luxemburgo da Silva;Mineirão;11;9;5;0;44%;56%;432;526;11;12;1;0;0;0;6;0;5;3
+21;20/08/2017;15:59;Ponte Preta;Botafogo;2;1;G. Kleina;J. Ribeiro Ventura;Moisés Lucarelli;12;14;6;1;51%;49%;393;397;18;18;4;4;0;0;1;0;7;3
+21;20/08/2017;19:02;Coritiba;Santos;0;0;M. de Oliveira Santos;L. Culpi;Couto Pereira;12;20;4;2;44%;56%;325;428;13;7;3;1;0;0;2;1;8;5
+21;20/08/2017;19:00;Palmeiras;Chapecoense;0;2;A. Stival;V. Eutrópio;Allianz Parque;13;13;3;5;71%;29%;572;247;11;24;1;4;0;0;0;0;14;3
+21;21/08/2017;20:00;Fluminense;Atlético-MG;2;1;A. da Silva Braga;M. Reis Micale;Maracanã;;;;;;;;;;;;;;;;;;
+22;26/08/2017;16:01;Fluminense;Vasco da Gama;0;1;A. da Silva Braga;V. de Morais Filho;Maracanã;8;20;1;4;57%;43%;490;386;14;12;2;4;0;0;1;1;2;1
+22;26/08/2017;19:00;Corinthians;Atlético-GO;0;1;F. Carille;J. P. Sanches;Neo Química Arena;31;8;7;3;68%;32%;591;290;15;17;1;5;0;0;0;3;11;4
+22;27/08/2017;16:01;Ponte Preta;Atlético-MG;1;2;G. Kleina;D. Giacomini;Moisés Lucarelli;11;16;6;6;41%;59%;353;506;20;19;4;4;0;0;1;2;3;4
+22;27/08/2017;15:59;Palmeiras;São Paulo;4;2;A. Stival;D. Silvestre Júnior;Allianz Parque;25;10;8;3;58%;42%;484;364;12;8;1;2;0;0;2;3;8;2
+22;27/08/2017;16:02;Bahia;Botafogo;1;2;C. Casagrande;J. Ribeiro Ventura;Itaipava Arena Fonte Nova;13;12;4;4;38%;62%;316;520;14;9;2;0;0;0;2;0;7;3
+22;27/08/2017;16:00;Flamengo;Athletico-PR;2;0;R. Rueda Rivera;F. Soares Pessoa;Luso-Brasileiro;17;12;6;3;53%;47%;519;476;6;11;0;2;0;0;2;1;6;1
+22;27/08/2017;19:00;Cruzeiro;Santos;1;1;L. Venker de Menezes;L. Culpi;Mineirão;18;9;5;3;55%;45%;466;402;13;18;0;2;0;0;1;1;7;5
+22;27/08/2017;19:02;Avaí;Chapecoense;1;0;C. dos Santos Oliveira;V. Eutrópio;Ressacada;9;13;2;3;41%;59%;322;446;18;22;4;5;0;0;6;0;1;7
+22;28/08/2017;20:00;Coritiba;EC Vitória;0;1;M. de Oliveira Santos;V. Carmo Mancini;Couto Pereira;9;15;6;5;67%;33%;482;245;18;22;2;2;2;1;2;5;7;3
+22;02/09/2017;16:01;Grêmio;Sport Recife;5;0;Renato Gaúcho;V. Luxemburgo da Silva;Arena do Grêmio;14;5;7;2;52%;48%;541;501;8;21;1;5;0;0;2;2;3;2
+23;09/09/2017;16:00;Atlético-MG;Palmeiras;1;1;M. Reis Micale;A. Stival;Estádio Raimundo Sampaio;21;9;6;5;62%;38%;455;299;14;18;3;3;0;2;4;3;9;4
+23;09/09/2017;17:59;Vasco da Gama;Grêmio;1;0;J. Mannarino;Renato Gaúcho;Estádio Vasco da Gama;8;14;2;3;36%;64%;368;628;18;11;3;0;0;0;0;3;0;8
+23;09/09/2017;18:59;São Paulo;Ponte Preta;2;2;D. Silvestre Júnior;Juninho;Morumbi;9;13;3;6;46%;54%;411;453;12;9;2;1;1;0;1;1;3;7
+23;10/09/2017;11:02;Athletico-PR;Coritiba;1;1;F. Soares Pessoa;M. de Oliveira Santos;Estádio Joaquim Américo Guimarães;17;4;6;1;64%;36%;504;284;16;15;1;3;0;1;1;2;6;2
+23;10/09/2017;16:02;Santos;Corinthians;2;0;L. Culpi;F. Carille;Estádio Urbano Caldeira;14;14;8;4;44%;56%;364;463;9;17;3;5;0;0;3;3;5;5
+23;10/09/2017;10:50;Sport Recife;Avaí;0;1;V. Luxemburgo da Silva;C. dos Santos Oliveira;Adelmar da Costa Carvalho;27;11;3;5;74%;26%;630;243;13;17;4;5;0;0;2;3;9;3
+23;10/09/2017;16:00;EC Vitória;Fluminense;2;2;V. Carmo Mancini;A. da Silva Braga;Barradão;19;8;4;4;55%;45%;417;365;9;11;1;3;0;1;2;2;6;3
+23;10/09/2017;19:02;Chapecoense;Cruzeiro;1;2;E. Hartkopp;L. Venker de Menezes;Arena Condá;15;13;6;7;56%;44%;421;363;15;17;2;1;0;0;3;3;9;3
+23;10/09/2017;18:59;Botafogo;Flamengo;2;0;J. Ribeiro Ventura;R. Rueda Rivera;Estádio Nilton Santos;16;17;5;2;42%;58%;332;434;10;16;0;0;0;0;1;2;5;15
+23;11/09/2017;20:00;Atlético-GO;Bahia;1;1;J. P. Sanches;C. Casagrande;Estádio Olímpico Pedro Ludovico Teixeira;10;11;3;4;43%;57%;355;462;16;11;1;2;0;0;4;3;5;8
+24;16/09/2017;18:59;Botafogo;Santos;2;0;J. Ribeiro Ventura;L. Culpi;Estádio Nilton Santos;15;15;8;0;51%;49%;459;446;14;12;2;2;0;0;0;1;4;10
+24;16/09/2017;21:00;Ponte Preta;Atlético-GO;1;3;G. Kleina;J. P. Sanches;Moisés Lucarelli;14;17;4;8;55%;45%;477;405;22;20;2;2;0;0;1;2;6;3
+24;17/09/2017;11:01;Avaí;Atlético-MG;1;1;C. dos Santos Oliveira;M. Reis Micale;Ressacada;9;17;1;4;32%;68%;284;611;17;16;2;2;0;1;1;0;4;5
+24;17/09/2017;16:00;Grêmio;Chapecoense;0;1;Renato Gaúcho;E. Hartkopp;Arena do Grêmio;17;8;4;5;77%;23%;686;195;6;19;1;5;0;0;8;0;9;6
+24;17/09/2017;16:02;Corinthians;Vasco da Gama;1;0;F. Carille;J. Mannarino;Neo Química Arena;16;13;3;4;58%;42%;558;425;15;9;1;2;0;0;3;0;7;6
+24;17/09/2017;16:02;Athletico-PR;Fluminense;3;1;F. Soares Pessoa;A. da Silva Braga;Estádio Joaquim Américo Guimarães;16;10;8;2;54%;46%;475;423;15;13;3;3;0;0;7;4;5;3
+24;17/09/2017;16:00;EC Vitória;São Paulo;1;2;V. Carmo Mancini;D. Silvestre Júnior;Barradão;14;17;5;7;44%;56%;345;457;21;16;3;2;0;0;3;1;3;8
+24;17/09/2017;16:00;Flamengo;Sport Recife;2;0;R. Rueda Rivera;V. Luxemburgo da Silva;Luso-Brasileiro;14;6;4;2;57%;43%;531;396;13;18;0;3;0;1;2;2;2;5
+24;17/09/2017;19:00;Cruzeiro;Bahia;1;0;L. Venker de Menezes;C. Casagrande;Mineirão;11;13;5;5;51%;49%;376;371;12;19;5;1;1;0;0;0;12;10
+24;18/09/2017;20:01;Palmeiras;Coritiba;1;0;A. Stival;M. de Oliveira Santos;Estádio Municipal Paulo Machado de Carvalho;17;5;8;2;48%;52%;350;375;18;17;3;3;0;0;1;3;10;6
+25;23/09/2017;18:59;Flamengo;Avaí;1;1;R. Rueda Rivera;C. dos Santos Oliveira;Luso-Brasileiro;30;12;8;5;69%;31%;515;232;14;16;2;0;0;0;0;0;11;8
+25;23/09/2017;21:01;Santos;Athletico-PR;1;0;L. Culpi;F. Soares Pessoa;Estádio Urbano Caldeira;21;17;6;5;44%;56%;484;595;7;14;1;1;0;0;1;1;4;6
+25;24/09/2017;11:00;São Paulo;Corinthians;1;1;D. Silvestre Júnior;F. Carille;Morumbi;13;11;6;2;48%;52%;474;511;13;12;2;4;0;0;3;2;7;4
+25;24/09/2017;16:01;Chapecoense;Ponte Preta;1;0;E. Hartkopp;E. Baptista;Arena Condá;12;10;4;2;42%;58%;340;459;16;19;4;3;0;0;0;0;6;3
+25;24/09/2017;16:00;Coritiba;Botafogo;2;3;M. de Oliveira Santos;J. Ribeiro Ventura;Couto Pereira;16;9;4;5;48%;52%;328;360;20;19;2;3;0;0;2;2;7;3
+25;24/09/2017;15:59;Atlético-GO;Cruzeiro;1;2;J. P. Sanches;L. Venker de Menezes;Estádio Olímpico Pedro Ludovico Teixeira;20;13;4;2;55%;45%;455;392;16;18;4;2;0;0;2;0;4;6
+25;24/09/2017;16:00;Fluminense;Palmeiras;0;1;A. da Silva Braga;A. Stival;Maracanã;8;15;2;4;51%;49%;409;403;26;9;2;2;0;0;2;1;9;5
+25;24/09/2017;19:00;Atlético-MG;EC Vitória;1;3;M. Reis Micale;V. Carmo Mancini;Estádio Raimundo Sampaio;9;7;4;3;67%;33%;575;296;10;21;1;2;0;0;1;4;5;4
+25;24/09/2017;19:02;Bahia;Grêmio;1;0;M. de Almeida Copertino;Renato Gaúcho;Itaipava Arena Fonte Nova;15;14;6;4;41%;59%;349;493;18;17;4;5;0;0;1;1;3;4
+25;25/09/2017;20:01;Sport Recife;Vasco da Gama;1;1;V. Luxemburgo da Silva;J. Mannarino;Adelmar da Costa Carvalho;13;13;3;2;49%;51%;378;399;13;16;1;4;1;0;3;1;10;3
+26;30/09/2017;15:59;Vasco da Gama;Chapecoense;1;1;J. Mannarino;E. Hartkopp;Estádio Vasco da Gama;22;13;8;5;65%;35%;566;300;15;22;3;0;0;0;1;2;3;4
+26;30/09/2017;16:00;Bahia;Coritiba;1;1;C. Casagrande;M. de Oliveira Santos;Itaipava Arena Fonte Nova;11;12;3;2;53%;47%;438;389;13;18;4;5;0;0;1;3;5;3
+26;30/09/2017;19:02;Palmeiras;Santos;0;1;A. Stival;L. Culpi;Allianz Parque;17;9;1;4;62%;38%;361;236;18;22;3;5;0;0;2;3;10;1
+26;01/10/2017;16:00;Cruzeiro;Corinthians;1;1;L. Venker de Menezes;F. Carille;Mineirão;11;10;3;5;42%;58%;425;574;15;14;3;4;0;0;2;3;5;5
+26;01/10/2017;16:00;Botafogo;EC Vitória;2;3;J. Ribeiro Ventura;V. Carmo Mancini;Estádio Nilton Santos;11;14;5;5;53%;47%;429;384;11;21;2;2;1;0;3;1;1;4
+26;01/10/2017;16:01;São Paulo;Sport Recife;1;0;D. Silvestre Júnior;V. Luxemburgo da Silva;Morumbi;7;15;7;5;46%;54%;451;496;12;15;0;2;0;0;0;0;5;8
+26;01/10/2017;16:00;Grêmio;Fluminense;1;0;Renato Gaúcho;A. da Silva Braga;Arena do Grêmio;21;9;10;2;63%;37%;588;356;12;18;1;2;0;0;5;1;6;2
+26;01/10/2017;16:03;Avaí;Atlético-GO;0;2;C. dos Santos Oliveira;J. P. Sanches;Ressacada;8;10;1;4;52%;48%;417;419;14;24;2;2;0;0;2;0;7;3
+26;01/10/2017;19:01;Athletico-PR;Atlético-MG;0;2;F. Soares Pessoa;O. de Oliveira Filho;Estádio Joaquim Américo Guimarães;18;6;5;3;63%;37%;569;337;17;16;1;4;0;0;1;1;13;6
+26;02/10/2017;19:59;Ponte Preta;Flamengo;1;0;E. Baptista;R. Rueda Rivera;Moisés Lucarelli;7;12;3;1;31%;69%;241;518;23;17;5;3;1;0;0;2;2;4
+28;07/10/2017;16:00;Cruzeiro;Ponte Preta;2;1;L. Venker de Menezes;E. Baptista;Mineirão;17;6;6;4;68%;32%;615;305;8;12;5;0;0;1;3;1;9;3
+28;14/10/2017;19:00;Vasco da Gama;Botafogo;1;0;J. Mannarino;J. Ribeiro Ventura;Maracanã;11;17;1;2;39%;61%;325;513;16;13;5;3;0;0;0;1;7;1
+28;14/10/2017;21:01;São Paulo;Athletico-PR;2;1;D. Silvestre Júnior;F. Soares Pessoa;Estádio Municipal Paulo Machado de Carvalho;23;7;8;2;56%;44%;583;461;6;12;1;2;0;1;0;1;6;0
+28;15/10/2017;17:01;Chapecoense;Flamengo;0;1;E. Hartkopp;R. Rueda Rivera;Arena Condá;15;16;4;5;42%;58%;296;423;23;17;2;2;0;0;1;5;7;2
+28;15/10/2017;17:00;Atlético-GO;Palmeiras;1;3;J. P. Sanches;A. Valentim do Carmo Neto;Estádio Olímpico Pedro Ludovico Teixeira;14;15;4;9;42%;58%;436;615;18;13;1;1;1;0;2;1;2;3
+28;15/10/2017;17:00;Fluminense;Avaí;1;0;A. da Silva Braga;C. dos Santos Oliveira;Maracanã;19;6;4;2;51%;49%;486;463;18;12;2;2;0;0;1;2;6;6
+28;15/10/2017;17:02;Sport Recife;Atlético-MG;1;1;V. Luxemburgo da Silva;O. de Oliveira Filho;Adelmar da Costa Carvalho;20;12;6;2;48%;52%;381;431;19;14;2;2;0;0;0;2;6;3
+28;15/10/2017;19:00;Coritiba;Grêmio;0;1;M. de Oliveira Santos;Renato Gaúcho;Couto Pereira;13;6;4;1;55%;45%;437;352;14;16;4;3;0;0;1;4;2;11
+28;15/10/2017;19:00;Bahia;Corinthians;2;0;P. Carpegiani;F. Carille;Itaipava Arena Fonte Nova;7;8;3;3;47%;53%;451;515;11;16;0;2;0;0;2;2;7;4
+28;16/10/2017;20:01;Santos;EC Vitória;2;2;L. Culpi;V. Carmo Mancini;Estádio Municipal Paulo Machado de Carvalho;14;21;6;6;55%;45%;463;381;12;15;2;4;0;0;0;0;5;12
+27;11/10/2017;19:30;Athletico-PR;Atlético-GO;2;2;F. Soares Pessoa;J. P. Sanches;Estádio Joaquim Américo Guimarães;16;9;6;3;62%;38%;605;365;15;17;3;2;0;0;2;1;5;4
+27;11/10/2017;19:30;Botafogo;Chapecoense;2;1;J. Ribeiro Ventura;E. Hartkopp;Estádio Nilton Santos;12;6;2;3;65%;35%;577;328;12;20;1;3;0;0;6;1;4;3
+27;11/10/2017;21:00;Corinthians;Coritiba;3;1;F. Carille;M. de Oliveira Santos;Neo Química Arena;16;11;5;4;58%;42%;539;389;8;16;1;3;0;0;1;4;10;6
+27;11/10/2017;21:45;Grêmio;Cruzeiro;0;1;Renato Gaúcho;S. Lobo;Arena do Grêmio;12;13;3;4;56%;44%;589;479;15;13;0;0;0;0;2;1;7;2
+27;11/10/2017;21:45;Avaí;Vasco da Gama;1;2;C. dos Santos Oliveira;J. Mannarino;Ressacada;19;11;5;6;61%;39%;491;329;23;28;5;2;1;1;4;0;9;2
+27;11/10/2017;21:47;Atlético-MG;São Paulo;1;0;O. de Oliveira Filho;D. Silvestre Júnior;Estádio Raimundo Sampaio;25;9;7;2;46%;54%;391;448;16;12;1;3;0;0;1;0;9;10
+27;12/10/2017;17:01;EC Vitória;Sport Recife;1;2;V. Carmo Mancini;V. Luxemburgo da Silva;Barradão;11;10;3;4;56%;44%;428;350;18;13;1;3;1;0;1;4;7;4
+27;12/10/2017;17:01;Flamengo;Fluminense;1;1;R. Rueda Rivera;A. da Silva Braga;Maracanã;13;13;4;4;61%;39%;413;274;17;16;2;4;0;0;2;1;10;4
+27;12/10/2017;17:00;Ponte Preta;Santos;1;1;E. Baptista;L. Culpi;Moisés Lucarelli;8;14;1;5;40%;60%;301;449;20;11;2;2;1;0;1;2;4;10
+27;12/10/2017;21:02;Palmeiras;Bahia;2;2;A. Stival;P. Carpegiani;Estádio Municipal Paulo Machado de Carvalho;13;17;4;10;46%;54%;334;390;23;24;1;2;0;0;0;0;2;7
+29;18/10/2017;19:32;Atlético-GO;Vasco da Gama;0;1;J. P. Sanches;J. Mannarino;Estádio do Governo do Estado de Goiás (Serra Dourada);10;10;4;4;47%;53%;429;483;23;10;2;2;1;0;0;1;7;5
+29;18/10/2017;19:30;Coritiba;Cruzeiro;1;0;M. de Oliveira Santos;L. Venker de Menezes;Couto Pereira;16;13;3;2;35%;65%;337;623;7;9;1;1;0;0;2;0;7;7
+29;18/10/2017;21:01;Atlético-MG;Chapecoense;2;3;O. de Oliveira Filho;E. Hartkopp;Estádio Raimundo Sampaio;4;17;2;7;51%;49%;427;420;16;15;1;3;1;0;4;2;6;4
+29;18/10/2017;21:47;Avaí;Botafogo;1;1;C. dos Santos Oliveira;;Ressacada;17;10;6;2;41%;59%;338;503;20;22;2;4;0;0;1;0;8;4
+29;18/10/2017;21:45;Fluminense;São Paulo;3;1;A. da Silva Braga;D. Silvestre Júnior;Maracanã;12;10;6;2;36%;64%;339;596;23;12;2;0;0;0;2;3;4;1
+29;18/10/2017;21:46;Corinthians;Grêmio;0;0;F. Carille;Renato Gaúcho;Neo Química Arena;7;10;0;3;55%;45%;557;453;13;14;1;1;0;0;1;1;2;4
+29;19/10/2017;20:01;EC Vitória;Athletico-PR;2;3;V. Carmo Mancini;F. Soares Pessoa;Barradão;20;9;7;7;63%;37%;515;328;11;12;0;3;0;0;1;2;9;4
+29;19/10/2017;20:01;Palmeiras;Ponte Preta;2;0;A. Valentim do Carmo Neto;E. Baptista;Estádio Municipal Paulo Machado de Carvalho;14;8;7;0;64%;36%;513;283;14;18;0;4;0;0;1;5;10;4
+29;19/10/2017;21:00;Flamengo;Bahia;4;1;R. Rueda Rivera;P. Carpegiani;Luso-Brasileiro;16;12;8;3;63%;37%;497;291;23;11;5;4;0;0;2;0;7;2
+29;19/10/2017;21:01;Sport Recife;Santos;1;1;V. Luxemburgo da Silva;L. Culpi;Adelmar da Costa Carvalho;29;8;8;3;54%;46%;408;389;17;23;1;5;0;0;3;2;11;1
+30;21/10/2017;17:00;Vasco da Gama;Coritiba;1;1;J. Mannarino;M. de Oliveira Santos;Maracanã;11;7;4;2;47%;53%;362;416;10;15;1;2;1;0;1;0;8;2
+30;22/10/2017;17:00;Santos;Atlético-GO;1;0;L. Culpi;J. P. Sanches;Estádio Urbano Caldeira;18;14;8;3;57%;43%;542;423;15;14;1;1;0;0;4;3;10;2
+30;22/10/2017;17:03;Bahia;EC Vitória;2;1;P. Carpegiani;V. Carmo Mancini;Itaipava Arena Fonte Nova;8;9;6;2;54%;46%;411;370;12;17;2;3;0;0;1;0;5;2
+30;22/10/2017;16:59;Grêmio;Palmeiras;1;3;Renato Gaúcho;A. Valentim do Carmo Neto;Arena do Grêmio;6;12;2;5;49%;51%;472;482;17;19;2;1;0;0;4;0;2;4
+30;22/10/2017;17:02;São Paulo;Flamengo;2;0;D. Silvestre Júnior;R. Rueda Rivera;Estádio Municipal Paulo Machado de Carvalho;5;10;3;3;40%;60%;366;514;14;12;1;1;0;0;0;1;3;8
+30;22/10/2017;17:02;Athletico-PR;Sport Recife;2;1;F. Soares Pessoa;V. Luxemburgo da Silva;Estádio Joaquim Américo Guimarães;17;9;8;1;57%;43%;488;376;15;13;0;2;0;0;1;1;5;4
+30;22/10/2017;17:00;Cruzeiro;Atlético-MG;1;3;L. Venker de Menezes;O. de Oliveira Filho;Mineirão;15;14;5;5;59%;41%;467;337;23;14;2;4;0;0;2;1;6;3
+30;22/10/2017;19:01;Chapecoense;Fluminense;2;0;E. Hartkopp;A. da Silva Braga;Arena Condá;9;13;3;3;33%;67%;291;608;22;12;1;1;0;0;2;1;4;3
+30;22/10/2017;19:00;Ponte Preta;Avaí;1;2;E. Baptista;C. dos Santos Oliveira;Moisés Lucarelli;29;11;2;3;69%;31%;513;251;19;19;5;2;0;0;0;2;12;5
+30;23/10/2017;20:00;Botafogo;Corinthians;2;1;J. Ribeiro Ventura;F. Carille;Estádio Nilton Santos;17;8;6;3;38%;62%;375;629;19;14;3;2;0;0;2;0;6;2
+31;28/10/2017;17:03;São Paulo;Santos;2;1;D. Silvestre Júnior;L. Culpi;Estádio Municipal Paulo Machado de Carvalho;15;7;5;2;45%;55%;385;460;12;31;1;6;0;0;0;2;7;4
+31;28/10/2017;19:00;Flamengo;Vasco da Gama;0;0;R. Rueda Rivera;J. Mannarino;Maracanã;14;8;4;0;57%;43%;457;348;16;12;1;1;0;0;3;1;5;2
+31;28/10/2017;20:00;Athletico-PR;Chapecoense;0;0;F. Soares Pessoa;G. Kleina;Estádio Joaquim Américo Guimarães;15;6;4;2;63%;37%;630;388;6;20;1;4;0;0;5;0;6;4
+31;29/10/2017;17:01;Ponte Preta;Corinthians;1;0;E. Baptista;F. Carille;Moisés Lucarelli;8;19;2;7;32%;68%;263;567;19;12;4;1;0;0;3;1;3;8
+31;29/10/2017;17:00;Fluminense;Bahia;1;1;A. da Silva Braga;P. Carpegiani;Maracanã;11;6;5;1;68%;32%;579;274;19;17;1;3;0;1;1;1;2;4
+31;29/10/2017;17:00;Atlético-MG;Botafogo;0;0;O. de Oliveira Filho;J. Ribeiro Ventura;Estádio Raimundo Sampaio;16;9;2;1;60%;40%;469;317;21;16;1;2;0;0;2;0;8;3
+31;29/10/2017;18:01;EC Vitória;Atlético-GO;1;1;V. Carmo Mancini;J. P. Sanches;Barradão;15;6;8;2;60%;40%;487;348;19;18;1;3;0;0;0;1;16;2
+31;29/10/2017;18:01;Sport Recife;Coritiba;3;4;D. Pollo Barioni;M. de Oliveira Santos;Adelmar da Costa Carvalho;21;16;10;11;59%;41%;371;281;21;21;3;6;0;0;1;2;11;7
+31;29/10/2017;19:03;Avaí;Grêmio;2;2;C. dos Santos Oliveira;Renato Gaúcho;Ressacada;21;8;7;4;53%;47%;472;444;13;19;1;2;0;0;0;1;10;4
+31;30/10/2017;20:01;Palmeiras;Cruzeiro;2;2;A. Valentim do Carmo Neto;L. Venker de Menezes;Allianz Parque;24;4;10;4;64%;36%;615;375;9;9;0;2;0;0;0;4;15;2
+32;04/11/2017;17:01;Santos;Atlético-MG;3;1;Elano;O. de Oliveira Filho;Estádio Urbano Caldeira;16;14;5;4;49%;51%;437;448;12;18;1;3;0;0;3;4;10;7
+32;04/11/2017;19:00;Botafogo;Fluminense;1;2;J. Ribeiro Ventura;A. da Silva Braga;Estádio Nilton Santos;6;17;3;2;41%;59%;351;493;16;16;3;4;0;0;0;1;1;5
+32;04/11/2017;18:59;Atlético-GO;São Paulo;0;1;J. P. Sanches;D. Silvestre Júnior;Estádio do Governo do Estado de Goiás (Serra Dourada);6;12;1;2;40%;60%;409;637;17;9;2;0;0;0;2;0;2;4
+32;04/11/2017;21:01;Coritiba;Avaí;4;0;M. de Oliveira Santos;C. dos Santos Oliveira;Couto Pereira;15;7;7;2;47%;53%;405;430;15;6;1;2;0;0;2;2;3;6
+32;05/11/2017;17:02;Corinthians;Palmeiras;3;2;F. Carille;A. Valentim do Carmo Neto;Neo Química Arena;13;16;8;2;39%;61%;250;386;21;11;6;5;0;1;2;1;6;7
+32;05/11/2017;16:59;Cruzeiro;Athletico-PR;1;0;L. Venker de Menezes;F. Soares Pessoa;Mineirão;16;9;4;2;47%;53%;488;536;9;13;1;2;0;0;2;1;4;5
+32;05/11/2017;17:01;Grêmio;Flamengo;3;1;Renato Gaúcho;R. Rueda Rivera;Arena do Grêmio;11;9;6;2;59%;41%;660;466;12;14;0;0;0;0;0;0;2;3
+32;05/11/2017;18:01;Bahia;Ponte Preta;2;0;P. Carpegiani;E. Baptista;Itaipava Arena Fonte Nova;17;7;6;0;51%;49%;394;368;16;18;1;2;0;0;0;1;7;7
+32;05/11/2017;18:59;Vasco da Gama;EC Vitória;1;1;J. Mannarino;V. Carmo Mancini;Maracanã;3;17;2;6;40%;60%;343;495;17;23;3;4;0;0;1;2;1;3
+32;05/11/2017;19:01;Chapecoense;Sport Recife;1;1;G. Kleina;D. Pollo Barioni;Arena Condá;9;7;5;3;42%;58%;308;425;21;16;3;3;0;1;1;3;0;2
+33;08/11/2017;19:30;Ponte Preta;Grêmio;0;1;E. Baptista;Renato Gaúcho;Moisés Lucarelli;20;8;8;2;41%;59%;357;526;19;14;4;3;1;0;0;0;9;3
+33;08/11/2017;19:32;Avaí;Bahia;1;2;C. dos Santos Oliveira;P. Carpegiani;Ressacada;22;10;5;6;45%;55%;353;438;18;25;2;2;0;0;4;0;10;3
+33;08/11/2017;21:00;Sport Recife;Botafogo;1;2;D. Pollo Barioni;J. Ribeiro Ventura;Adelmar da Costa Carvalho;15;6;4;3;64%;36%;575;346;13;20;2;4;0;0;0;1;9;0
+33;08/11/2017;21:01;Athletico-PR;Corinthians;0;1;F. Soares Pessoa;F. Carille;Estádio Joaquim Américo Guimarães;16;7;1;3;62%;38%;549;347;11;11;2;1;0;0;0;0;9;2
+33;08/11/2017;21:45;Santos;Vasco da Gama;1;2;Elano;J. Mannarino;Estádio Urbano Caldeira;8;20;3;6;58%;42%;466;345;14;14;2;5;0;0;2;3;6;6
+33;08/11/2017;21:45;Flamengo;Cruzeiro;2;0;R. Rueda Rivera;L. Venker de Menezes;Luso-Brasileiro;16;8;5;2;52%;48%;475;468;17;10;2;3;0;0;2;1;6;2
+33;08/11/2017;21:44;EC Vitória;Palmeiras;3;1;V. Carmo Mancini;A. Valentim do Carmo Neto;Barradão;8;12;4;3;26%;74%;227;642;20;10;3;1;1;0;1;3;3;4
+33;09/11/2017;20:01;São Paulo;Chapecoense;2;2;D. Silvestre Júnior;G. Kleina;Estádio Municipal Paulo Machado de Carvalho;17;6;5;2;69%;31%;604;287;8;14;1;2;0;0;0;1;13;3
+33;09/11/2017;20:00;Atlético-MG;Atlético-GO;3;2;O. de Oliveira Filho;J. P. Sanches;Estádio Raimundo Sampaio;13;11;5;3;54%;46%;517;446;19;13;6;5;0;0;0;3;8;2
+33;09/11/2017;21:00;Fluminense;Coritiba;2;2;A. da Silva Braga;M. de Oliveira Santos;Maracanã;13;17;2;7;62%;38%;435;273;11;20;3;4;0;0;2;0;7;10
+34;11/11/2017;17:00;Botafogo;Athletico-PR;0;1;J. Ribeiro Ventura;F. Soares Pessoa;Estádio Nilton Santos;14;6;4;3;57%;43%;627;488;13;14;0;1;0;0;1;4;5;2
+34;11/11/2017;19:00;Corinthians;Avaí;1;0;F. Carille;C. dos Santos Oliveira;Neo Química Arena;17;7;5;2;66%;34%;651;333;15;12;3;3;0;0;0;2;7;6
+34;12/11/2017;17:02;Vasco da Gama;São Paulo;1;1;J. Mannarino;D. Silvestre Júnior;Estádio Vasco da Gama;25;7;3;1;51%;49%;380;386;15;15;2;2;0;1;2;2;5;3
+34;12/11/2017;16:59;Palmeiras;Flamengo;2;0;A. Valentim do Carmo Neto;R. Rueda Rivera;Allianz Parque;10;11;5;1;45%;55%;387;456;12;18;0;1;0;0;0;6;4;5
+34;12/11/2017;16:59;Atlético-GO;Sport Recife;2;0;J. P. Sanches;D. Pollo Barioni;Estádio Olímpico Pedro Ludovico Teixeira;6;12;3;3;41%;59%;379;525;20;15;0;3;0;0;1;1;2;9
+34;12/11/2017;16:59;Grêmio;EC Vitória;1;1;Renato Gaúcho;V. Carmo Mancini;Alfredo Jaconi;16;8;5;2;72%;28%;624;255;14;16;0;1;0;1;2;1;8;2
+34;12/11/2017;18:02;Bahia;Atlético-MG;2;2;P. Carpegiani;O. de Oliveira Filho;Itaipava Arena Fonte Nova;21;11;6;6;57%;43%;446;359;12;13;1;4;0;0;0;1;8;2
+34;12/11/2017;19:00;Cruzeiro;Fluminense;3;1;L. Venker de Menezes;A. da Silva Braga;Mineirão;17;12;8;5;56%;44%;556;445;13;8;4;2;0;1;1;1;8;5
+34;12/11/2017;19:01;Coritiba;Ponte Preta;1;1;M. de Oliveira Santos;E. Baptista;Couto Pereira;9;14;3;3;60%;40%;420;282;17;15;2;2;0;0;3;1;5;10
+34;13/11/2017;20:01;Chapecoense;Santos;2;0;G. Kleina;Elano;Arena Condá;12;9;5;3;43%;57%;374;481;10;16;0;3;0;0;1;3;4;6
+35;15/11/2017;17:01;Ponte Preta;Athletico-PR;2;1;E. Baptista;F. Soares Pessoa;Moisés Lucarelli;8;5;5;2;40%;60%;337;507;12;10;1;3;0;0;1;1;5;6
+35;15/11/2017;19:29;Cruzeiro;Avaí;2;2;L. Venker de Menezes;C. dos Santos Oliveira;Mineirão;23;9;8;3;63%;37%;626;394;10;9;4;2;0;0;1;1;8;1
+35;15/11/2017;19:31;Grêmio;São Paulo;1;0;Renato Gaúcho;D. Silvestre Júnior;Arena do Grêmio;13;9;5;4;38%;62%;431;679;16;12;1;3;0;0;3;1;7;3
+35;15/11/2017;21:45;Vasco da Gama;Atlético-MG;1;1;J. Mannarino;O. de Oliveira Filho;Estádio Vasco da Gama;21;12;7;5;56%;44%;472;396;12;17;1;0;0;0;3;6;14;4
+35;15/11/2017;21:45;Corinthians;Fluminense;3;1;F. Carille;A. da Silva Braga;Neo Química Arena;14;11;4;2;63%;37%;503;299;12;26;1;6;0;0;0;1;3;8
+35;16/11/2017;20:00;Botafogo;Atlético-GO;1;2;J. Ribeiro Ventura;J. P. Sanches;Estádio Nilton Santos;19;13;3;5;65%;35%;537;308;12;17;1;3;0;0;1;3;8;5
+35;16/11/2017;20:02;Chapecoense;EC Vitória;2;1;G. Kleina;V. Carmo Mancini;Arena Condá;9;8;4;3;51%;49%;349;340;17;18;1;4;0;0;2;1;4;1
+35;16/11/2017;20:00;Palmeiras;Sport Recife;5;1;A. Valentim do Carmo Neto;D. Pollo Barioni;Allianz Parque;16;15;5;7;57%;43%;487;360;7;15;0;2;0;0;0;8;5;8
+35;16/11/2017;21:00;Coritiba;Flamengo;1;0;M. de Oliveira Santos;R. Rueda Rivera;Couto Pereira;5;13;1;4;31%;69%;235;499;20;12;3;5;0;0;0;1;4;3
+35;16/11/2017;21:02;Bahia;Santos;3;1;P. Carpegiani;Elano;Itaipava Arena Fonte Nova;10;12;4;7;40%;60%;338;491;17;16;3;2;0;0;1;1;3;11
+36;19/11/2017;17:02;Sport Recife;Bahia;1;0;D. Pollo Barioni;P. Carpegiani;Adelmar da Costa Carvalho;15;8;6;2;46%;54%;360;434;21;16;4;3;0;0;0;1;8;3
+36;19/11/2017;17:00;Flamengo;Corinthians;3;0;R. Rueda Rivera;F. Carille;Luso-Brasileiro;16;14;6;6;49%;51%;428;438;20;16;4;4;0;0;3;0;6;8
+36;19/11/2017;17:00;EC Vitória;Cruzeiro;1;1;V. Carmo Mancini;L. Venker de Menezes;Barradão;12;19;4;3;34%;66%;303;575;20;7;3;2;0;0;2;0;3;7
+36;19/11/2017;16:59;Atlético-GO;Chapecoense;1;1;J. P. Sanches;G. Kleina;Estádio Olímpico Pedro Ludovico Teixeira;14;15;5;5;60%;40%;509;343;12;23;4;4;0;0;1;2;4;5
+36;19/11/2017;17:01;São Paulo;Botafogo;0;0;D. Silvestre Júnior;J. Ribeiro Ventura;Estádio Municipal Paulo Machado de Carvalho;9;11;2;4;64%;36%;588;327;13;17;2;3;0;0;0;1;4;5
+36;19/11/2017;19:01;Athletico-PR;Vasco da Gama;3;1;F. Soares Pessoa;J. Mannarino;Estádio Joaquim Américo Guimarães;19;13;6;4;42%;58%;366;523;8;8;1;2;0;0;1;0;7;5
+36;19/11/2017;19:00;Atlético-MG;Coritiba;3;0;O. de Oliveira Filho;M. de Oliveira Santos;Estádio Raimundo Sampaio;10;10;6;3;48%;52%;398;413;10;15;2;5;0;0;1;0;5;11
+36;19/11/2017;19:00;Santos;Grêmio;1;0;Elano;C. Bueno;Estádio Urbano Caldeira;11;12;7;2;42%;58%;414;566;22;14;2;2;0;0;3;2;5;5
+36;20/11/2017;17:00;Fluminense;Ponte Preta;2;0;A. da Silva Braga;E. Baptista;Maracanã;20;8;10;3;69%;31%;529;245;16;15;2;1;0;1;5;0;9;0
+36;20/11/2017;20:02;Avaí;Palmeiras;2;1;C. dos Santos Oliveira;A. Valentim do Carmo Neto;Ressacada;9;21;4;8;29%;71%;284;694;9;10;2;2;0;0;6;1;2;3
+37;25/11/2017;17:00;Fluminense;Sport Recife;1;2;A. da Silva Braga;D. Pollo Barioni;Maracanã;12;21;5;8;54%;46%;470;407;9;19;4;2;0;0;2;0;4;6
+37;26/11/2017;17:01;Avaí;Athletico-PR;1;0;C. dos Santos Oliveira;F. Soares Pessoa;Ressacada;13;14;5;2;37%;63%;274;459;19;15;3;1;0;0;2;0;5;9
+37;26/11/2017;17:02;Corinthians;Atlético-MG;2;2;F. Carille;O. de Oliveira Filho;Neo Química Arena;19;9;5;3;58%;42%;508;376;15;10;4;1;0;0;0;4;7;7
+37;26/11/2017;17:01;Ponte Preta;EC Vitória;2;3;E. Baptista;V. Carmo Mancini;Moisés Lucarelli;9;24;7;10;32%;68%;204;444;11;19;3;6;1;0;0;3;3;10
+37;26/11/2017;17:01;Coritiba;São Paulo;1;2;M. de Oliveira Santos;D. Silvestre Júnior;Couto Pereira;12;9;7;3;38%;62%;281;485;16;12;4;1;0;0;0;1;4;8
+37;26/11/2017;17:00;Cruzeiro;Vasco da Gama;0;1;L. Venker de Menezes;J. Mannarino;Mineirão;21;9;6;4;67%;33%;572;295;16;20;3;2;0;0;2;1;11;3
+37;26/11/2017;17:00;Grêmio;Atlético-GO;1;1;Renato Gaúcho;J. P. Sanches;Arena do Grêmio;10;15;4;2;51%;49%;524;506;14;16;2;3;0;0;1;0;4;7
+37;26/11/2017;19:00;Flamengo;Santos;1;2;R. Rueda Rivera;Elano;Luso-Brasileiro;28;3;9;2;58%;42%;512;398;14;17;3;4;0;0;0;0;7;1
+37;26/11/2017;19:05;Bahia;Chapecoense;0;1;P. Carpegiani;G. Kleina;Itaipava Arena Fonte Nova;14;9;3;4;62%;38%;431;283;16;21;4;3;1;0;1;1;9;5
+37;27/11/2017;20:03;Palmeiras;Botafogo;2;0;A. Valentim do Carmo Neto;J. Ribeiro Ventura;Allianz Parque;11;14;6;4;63%;37%;533;315;19;17;3;4;0;0;0;1;8;4
+38;03/12/2017;17:05;Atlético-MG;Grêmio;4;3;O. de Oliveira Filho;C. Bueno;Estádio Raimundo Sampaio;22;9;8;5;63%;37%;492;298;17;20;7;1;1;0;4;1;7;2
+38;03/12/2017;17:05;Botafogo;Cruzeiro;2;2;J. Ribeiro Ventura;L. Venker de Menezes;Estádio Nilton Santos;13;8;6;2;44%;56%;348;439;13;28;1;5;0;1;3;1;4;5
+38;03/12/2017;17:05;Santos;Avaí;1;1;Elano;C. dos Santos Oliveira;Estádio Urbano Caldeira;20;14;5;4;57%;43%;576;426;17;11;2;1;0;0;3;0;3;7
+38;03/12/2017;17:04;Sport Recife;Corinthians;1;0;D. Pollo Barioni;F. Carille;Adelmar da Costa Carvalho;9;9;4;4;47%;53%;429;504;19;18;3;2;0;0;6;1;10;0
+38;03/12/2017;17:05;EC Vitória;Flamengo;1;2;V. Carmo Mancini;R. Rueda Rivera;Barradão;18;12;4;3;44%;56%;366;472;17;13;2;3;2;0;0;2;4;2
+38;03/12/2017;17:05;Atlético-GO;Fluminense;1;1;J. P. Sanches;A. da Silva Braga;Estádio Olímpico Pedro Ludovico Teixeira;11;17;4;9;37%;63%;284;462;16;18;1;4;0;0;2;1;4;13
+38;03/12/2017;17:05;São Paulo;Bahia;1;1;D. Silvestre Júnior;P. Carpegiani;Morumbi;13;10;3;3;61%;39%;450;299;20;29;4;4;1;1;1;2;8;0
+38;03/12/2017;17:05;Chapecoense;Coritiba;2;1;G. Kleina;M. de Oliveira Santos;Arena Condá;15;13;8;4;47%;53%;313;350;18;11;3;2;0;0;0;4;12;6
+38;03/12/2017;17:05;Vasco da Gama;Ponte Preta;2;1;J. Mannarino;E. Baptista;Estádio Vasco da Gama;14;10;8;1;49%;51%;333;326;18;16;5;5;0;0;2;0;5;4
+38;03/12/2017;17:05;Athletico-PR;Palmeiras;3;0;F. Soares Pessoa;A. Valentim do Carmo Neto;Estádio Joaquim Américo Guimarães;10;17;6;1;35%;65%;332;613;16;14;3;5;0;0;2;1;6;5

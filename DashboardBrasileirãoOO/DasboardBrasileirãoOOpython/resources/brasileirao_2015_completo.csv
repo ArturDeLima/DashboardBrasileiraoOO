@@ -1,0 +1,381 @@
+﻿rodada;data;hora;time_casa;time_fora;gols_casa;gols_fora;tecnico_casa;tecnico_fora;estadio;stat_chutes_casa;stat_chutes_fora;stat_chutes_a_gol_casa;stat_chutes_a_gol_fora;stat_posse_de_bola_casa;stat_posse_de_bola_fora;stat_passes_casa;stat_passes_fora;stat_faltas_casa;stat_faltas_fora;stat_cartões_amarelos_casa;stat_cartões_amarelos_fora;stat_cartões_vermelhos_casa;stat_cartões_vermelhos_fora;stat_impedimentos_casa;stat_impedimentos_fora;stat_escanteios_casa;stat_escanteios_fora
+1;09/05/2015;18:32;Chapecoense;Coritiba;2;1;V. Eutrópio;M. dos Santos Gonçalves;Arena Condá;13;16;0;0;45%;55%;326;388;20;21;2;2;0;0;3;0;3;5
+1;09/05/2015;18:33;Palmeiras;Atlético-MG;2;2;O. de Oliveira Filho;L. Culpi;Allianz Parque;17;10;0;0;50%;50%;406;426;20;14;2;4;0;0;2;4;11;2
+1;09/05/2015;21:00;Fluminense;Joinville;1;0;S. Drubscky de Campos;H. Maria;Maracanã;26;3;11;0;74%;26%;702;250;9;14;2;0;0;1;1;1;5;3
+1;10/05/2015;11:00;Grêmio;Ponte Preta;3;3;L. Scolari;A. Ferreira;Arena do Grêmio;11;17;0;0;45%;55%;401;473;17;21;3;4;0;1;2;0;5;10
+1;10/05/2015;16:00;Athletico-PR;Internacional;3;0;M. Mendes;D. Aguirre Camblor;Estádio Joaquim Américo Guimarães;10;17;0;0;39%;61%;335;502;17;17;1;2;0;0;1;1;2;11
+1;10/05/2015;16:02;São Paulo;Flamengo;2;1;M. Cruz;V. Luxemburgo da Silva;Morumbi;19;12;0;0;54%;46%;502;430;17;12;2;1;0;0;1;6;4;6
+1;10/05/2015;15:59;Cruzeiro;Corinthians;0;1;M. de Oliveira Santos;A. Bacchi;Arena Pantanal;13;11;0;0;56%;44%;487;391;17;15;3;1;0;0;4;2;2;4
+1;10/05/2015;15:59;Sport Recife;Figueirense;4;1;E. Baptista;A. Fucks;Adelmar da Costa Carvalho;17;7;0;0;54%;46%;449;391;17;14;1;2;0;1;0;3;7;1
+1;10/05/2015;18:34;Avaí;Santos;1;1;G. Kleina;M. Fernandes;Ressacada;16;8;0;0;51%;49%;462;452;10;11;2;1;0;1;2;2;4;3
+1;10/05/2015;18:29;Vasco da Gama;Goiás;0;0;D. Ghidoni Junior;H. Pinto dos Anjos;Estádio Vasco da Gama;11;5;0;0;62%;38%;439;279;16;27;3;5;0;0;0;2;4;2
+2;16/05/2015;18:29;Goiás;Athletico-PR;2;0;H. Pinto dos Anjos;M. Mendes;Estádio do Governo do Estado de Goiás (Serra Dourada);13;8;0;0;41%;59%;334;477;14;18;2;1;0;1;0;1;6;5
+2;16/05/2015;18:33;Coritiba;Grêmio;2;0;M. dos Santos Gonçalves;L. Scolari;Couto Pereira;9;10;0;0;43%;57%;353;456;22;13;2;3;0;0;3;4;2;4
+2;16/05/2015;21:02;Corinthians;Chapecoense;1;0;A. Bacchi;V. Eutrópio;Estádio Doutor Adhemar de Barros;13;11;0;0;46%;54%;437;487;16;13;2;4;0;0;1;5;7;2
+2;17/05/2015;11:03;Figueirense;Vasco da Gama;0;0;A. Fucks;D. Ghidoni Junior;Orlando Scarpelli;12;14;0;0;47%;53%;381;436;18;13;2;6;0;0;3;0;6;7
+2;17/05/2015;16:01;Atlético-MG;Fluminense;4;1;L. Culpi;S. Drubscky de Campos;Estádio Nacional de Brasília;16;8;8;2;54%;46%;466;411;17;9;2;1;0;0;1;2;7;0
+2;17/05/2015;16:02;Flamengo;Sport Recife;2;2;V. Luxemburgo da Silva;E. Baptista;Maracanã;18;14;0;0;59%;41%;492;373;10;7;2;3;0;0;6;1;13;3
+2;17/05/2015;16:02;Santos;Cruzeiro;1;0;M. Fernandes;M. de Oliveira Santos;Estádio Urbano Caldeira;20;7;0;0;44%;56%;351;445;18;13;1;4;0;0;2;5;15;3
+2;17/05/2015;18:31;Joinville;Palmeiras;0;0;H. Maria;O. de Oliveira Filho;Arena Joinville;8;11;0;0;39%;61%;377;589;17;12;3;1;0;0;5;3;1;5
+2;17/05/2015;18:33;Ponte Preta;São Paulo;1;0;A. Ferreira;M. Cruz;Moisés Lucarelli;19;10;0;0;40%;60%;373;549;15;14;1;3;0;0;5;1;6;4
+2;17/05/2015;18:30;Internacional;Avaí;1;0;D. Aguirre Camblor;G. Kleina;Estádio José Pinheiro Borda;8;6;0;0;57%;43%;451;345;17;26;3;7;0;0;2;4;4;9
+3;23/05/2015;18:33;São Paulo;Joinville;3;0;M. Cruz;H. Maria;Morumbi;16;7;0;0;63%;37%;642;380;12;11;2;0;0;0;3;1;5;0
+3;23/05/2015;18:31;Vasco da Gama;Internacional;1;1;D. Ghidoni Junior;D. Aguirre Camblor;Estádio Vasco da Gama;13;7;0;0;61%;39%;466;312;15;16;6;2;0;1;1;0;8;1
+3;23/05/2015;21:00;Grêmio;Figueirense;1;0;J. Freitas;A. Fucks;Arena do Grêmio;19;5;0;0;63%;37%;536;326;16;24;6;5;0;0;1;1;11;4
+3;24/05/2015;11:02;Palmeiras;Goiás;0;1;O. de Oliveira Filho;H. Pinto dos Anjos;Allianz Parque;21;7;0;0;74%;26%;445;171;13;24;6;4;1;1;5;1;13;6
+3;24/05/2015;16:00;Chapecoense;Santos;1;0;V. Eutrópio;M. Fernandes;Arena Condá;13;15;0;0;40%;60%;307;462;13;20;5;6;0;0;3;3;4;5
+3;24/05/2015;16:00;Athletico-PR;Atlético-MG;1;0;M. Mendes;L. Culpi;Estádio Joaquim Américo Guimarães;11;16;0;0;36%;64%;324;537;7;8;4;0;1;0;4;3;2;9
+3;24/05/2015;16:00;Fluminense;Corinthians;0;0;E. Alves Moreira;A. Bacchi;Maracanã;15;7;4;2;42%;58%;355;500;19;6;2;2;0;0;2;3;9;6
+3;24/05/2015;16:02;Avaí;Flamengo;2;1;G. Kleina;V. Luxemburgo da Silva;Ressacada;13;8;0;0;43%;57%;338;443;15;17;5;6;0;0;0;7;4;2
+3;24/05/2015;18:30;Cruzeiro;Ponte Preta;1;1;M. de Oliveira Santos;A. Ferreira;Mineirão;22;15;0;0;54%;46%;390;357;17;11;2;2;0;0;3;4;16;3
+3;24/05/2015;18:31;Sport Recife;Coritiba;1;0;E. Baptista;M. dos Santos Gonçalves;Adelmar da Costa Carvalho;12;9;0;0;49%;51%;388;385;13;17;1;4;0;0;1;0;2;5
+4;30/05/2015;18:30;Ponte Preta;Chapecoense;3;1;A. Ferreira;V. Eutrópio;Moisés Lucarelli;13;14;0;0;47%;53%;438;483;20;15;4;1;0;1;1;0;0;4
+4;30/05/2015;18:32;Coritiba;Avaí;1;2;M. dos Santos Gonçalves;G. Kleina;Couto Pereira;11;11;0;0;58%;42%;413;310;17;21;4;4;0;0;3;0;5;3
+4;30/05/2015;21:00;Joinville;Athletico-PR;1;2;H. Maria;M. Mendes;Arena Joinville;10;19;0;0;54%;46%;464;399;12;13;0;4;0;0;1;4;4;7
+4;31/05/2015;10:59;Santos;Sport Recife;2;2;M. Fernandes;E. Baptista;Estádio Urbano Caldeira;18;15;0;0;54%;46%;472;415;9;11;1;2;0;0;6;0;8;7
+4;31/05/2015;16:00;Goiás;Grêmio;1;1;H. Pinto dos Anjos;R. Machado Marques;Estádio do Governo do Estado de Goiás (Serra Dourada);10;9;0;0;41%;59%;345;495;14;14;1;1;0;0;0;1;2;3
+4;31/05/2015;15:59;Atlético-MG;Vasco da Gama;3;0;L. Culpi;D. Ghidoni Junior;Estádio Raimundo Sampaio;21;9;0;0;53%;47%;457;413;16;12;0;3;0;0;2;3;5;7
+4;31/05/2015;16:03;Corinthians;Palmeiras;0;2;A. Bacchi;O. de Oliveira Filho;Neo Química Arena;9;12;0;0;54%;46%;477;409;21;21;5;5;0;0;4;3;2;6
+4;31/05/2015;16:01;Internacional;São Paulo;0;0;D. Aguirre Camblor;J. Osorio;Estádio José Pinheiro Borda;8;14;0;0;54%;46%;516;434;19;17;3;0;0;1;3;3;5;10
+4;31/05/2015;18:29;Flamengo;Fluminense;2;3;C. Borges dos Santos;E. Alves Moreira;Maracanã;15;7;5;2;67%;33%;475;253;24;23;5;3;1;1;1;0;8;1
+4;31/05/2015;18:31;Figueirense;Cruzeiro;2;1;A. Fucks;M. de Oliveira Santos;Orlando Scarpelli;9;22;0;0;32%;68%;266;545;17;11;3;5;0;1;2;1;5;4
+5;03/06/2015;19:31;Athletico-PR;Figueirense;1;0;M. Mendes;A. Fucks;Estádio Joaquim Américo Guimarães;12;9;0;0;47%;53%;385;442;12;8;1;4;0;0;1;5;6;4
+5;03/06/2015;19:32;Vasco da Gama;Ponte Preta;0;3;D. Ghidoni Junior;A. Ferreira;Estádio Vasco da Gama;14;16;0;0;52%;48%;441;417;15;18;1;3;2;0;0;3;6;2
+5;03/06/2015;19:32;Chapecoense;Joinville;2;0;V. Eutrópio;H. Maria;Arena Condá;10;12;0;0;53%;47%;349;314;16;12;3;5;0;0;1;1;7;10
+5;03/06/2015;21:02;São Paulo;Santos;3;2;J. Osorio;M. Fernandes;Morumbi;13;8;0;0;63%;37%;531;329;14;15;5;3;0;1;1;0;8;1
+5;03/06/2015;22:01;Cruzeiro;Flamengo;1;0;V. Luxemburgo da Silva;C. Borges dos Santos;Mineirão;11;8;0;0;52%;48%;410;378;16;17;2;3;0;0;2;1;5;10
+5;03/06/2015;22:00;Avaí;Atlético-MG;1;4;G. Kleina;L. Culpi;Ressacada;7;16;0;0;46%;54%;395;479;12;15;3;3;0;0;3;4;10;7
+5;03/06/2015;21:59;Grêmio;Corinthians;3;1;R. Machado Marques;A. Bacchi;Arena do Grêmio;13;20;0;0;38%;62%;397;627;22;10;2;3;0;0;6;0;3;5
+5;04/06/2015;16:00;Fluminense;Coritiba;2;0;E. Alves Moreira;M. dos Santos Gonçalves;Maracanã;12;8;6;4;53%;47%;451;414;13;24;1;4;0;0;1;3;3;4
+5;04/06/2015;21:01;Sport Recife;Goiás;1;0;E. Baptista;H. Pinto dos Anjos;Adelmar da Costa Carvalho;16;9;0;0;67%;33%;597;296;11;13;2;4;0;0;4;1;7;3
+5;04/06/2015;21:02;Palmeiras;Internacional;1;1;O. de Oliveira Filho;D. Aguirre Camblor;Allianz Parque;15;5;0;0;57%;43%;456;354;15;13;1;4;0;0;3;1;9;2
+6;06/06/2015;18:30;Atlético-MG;Cruzeiro;1;3;L. Culpi;V. Luxemburgo da Silva;Estádio Raimundo Sampaio;14;11;0;0;64%;36%;462;268;12;13;0;0;0;0;3;2;7;6
+6;06/06/2015;18:29;Flamengo;Chapecoense;1;0;C. Borges dos Santos;V. Eutrópio;Maracanã;18;6;0;0;64%;36%;437;262;13;12;1;0;0;1;2;1;5;1
+6;06/06/2015;18:30;Santos;Ponte Preta;2;2;M. Fernandes;A. Ferreira;Estádio Urbano Caldeira;18;19;0;0;52%;48%;451;416;17;15;2;2;0;0;2;3;6;2
+6;06/06/2015;22:01;Athletico-PR;Vasco da Gama;2;0;M. Mendes;D. Ghidoni Junior;Estádio Joaquim Américo Guimarães;13;14;0;0;45%;55%;380;480;15;7;4;3;0;0;2;2;7;3
+6;06/06/2015;21:58;Joinville;Corinthians;0;1;A. Batista;A. Bacchi;Arena Joinville;14;13;0;0;51%;49%;432;430;8;9;1;1;0;0;1;0;9;5
+6;06/06/2015;22:01;São Paulo;Grêmio;2;0;J. Osorio;R. Machado Marques;Morumbi;13;9;0;0;60%;40%;631;436;19;14;3;2;0;0;2;1;4;3
+6;07/06/2015;11:02;Internacional;Coritiba;2;0;D. Aguirre Camblor;M. dos Santos Gonçalves;Estádio José Pinheiro Borda;12;18;0;0;51%;49%;424;401;5;16;3;5;1;0;2;4;3;11
+6;07/06/2015;19:32;Figueirense;Palmeiras;2;1;A. Fucks;O. de Oliveira Filho;Orlando Scarpelli;7;13;0;0;33%;67%;253;506;22;14;3;3;0;0;7;3;2;4
+6;07/06/2015;19:28;Goiás;Avaí;0;1;H. Pinto dos Anjos;G. Kleina;Estádio do Governo do Estado de Goiás (Serra Dourada);8;11;0;0;56%;44%;496;401;15;17;2;4;0;0;4;2;6;2
+6;07/06/2015;19:30;Fluminense;Sport Recife;0;0;E. Alves Moreira;E. Baptista;Maracanã;15;7;4;1;47%;53%;408;479;12;10;3;2;0;0;3;0;7;5
+7;10/06/2015;19:30;Atlético-MG;Santos;2;2;L. Culpi;M. Fernandes;Estádio Raimundo Sampaio;18;10;0;0;63%;37%;520;320;8;15;1;4;0;0;4;4;12;5
+7;13/06/2015;16:33;Coritiba;Flamengo;0;1;N. da Silveira Júnior;C. Borges dos Santos;Couto Pereira;12;8;0;0;57%;43%;478;380;17;14;2;3;0;1;0;2;8;2
+7;13/06/2015;16:32;Chapecoense;São Paulo;0;1;V. Eutrópio;J. Osorio;Arena Condá;15;5;0;0;60%;40%;460;322;5;29;2;4;0;0;3;1;7;3
+7;13/06/2015;16:30;Corinthians;Internacional;2;1;A. Bacchi;D. Aguirre Camblor;Neo Química Arena;13;12;0;0;48%;52%;392;427;10;9;0;2;0;0;4;1;4;7
+7;13/06/2015;20:58;Sport Recife;Joinville;2;1;E. Baptista;A. Batista;Adelmar da Costa Carvalho;10;21;0;0;47%;53%;379;417;10;13;0;4;0;0;7;2;3;6
+7;13/06/2015;21:01;Vasco da Gama;Cruzeiro;1;3;D. Ghidoni Junior;V. Luxemburgo da Silva;Estádio Vasco da Gama;14;8;0;0;60%;40%;536;362;13;25;2;4;0;0;3;1;6;0
+7;14/06/2015;10:59;Ponte Preta;Goiás;0;0;A. Ferreira;H. Pinto dos Anjos;Moisés Lucarelli;16;17;0;0;62%;38%;430;279;24;19;3;3;0;0;3;1;5;6
+7;14/06/2015;15:59;Avaí;Figueirense;1;1;G. Kleina;A. Fucks;Ressacada;8;9;0;0;58%;42%;304;229;14;26;4;3;0;0;0;4;5;2
+7;14/06/2015;15:58;Palmeiras;Fluminense;2;1;A. Valentim do Carmo Neto;E. Alves Moreira;Allianz Parque;25;6;11;3;68%;32%;564;283;6;13;0;6;0;2;1;0;7;2
+7;14/06/2015;16:00;Grêmio;Athletico-PR;2;1;R. Machado Marques;M. Mendes;Arena do Grêmio;20;12;0;0;56%;44%;428;344;8;22;1;4;0;0;6;0;13;7
+8;18/06/2015;21:03;Figueirense;Internacional;0;0;A. Fucks;D. Aguirre Camblor;Orlando Scarpelli;14;14;0;0;39%;61%;267;425;16;18;4;2;0;0;2;0;4;4
+8;20/06/2015;16:30;Sport Recife;Vasco da Gama;2;1;E. Baptista;D. Ghidoni Junior;Arena de Pernambuco;12;9;0;0;46%;54%;425;482;10;12;2;3;0;0;1;0;4;4
+8;20/06/2015;16:30;Flamengo;Atlético-MG;0;2;C. Borges dos Santos;L. Culpi;Maracanã;12;8;0;0;54%;46%;504;457;8;14;0;0;0;1;1;1;4;3
+8;20/06/2015;16:33;Santos;Corinthians;1;0;M. Fernandes;A. Bacchi;Estádio Urbano Caldeira;10;10;0;0;41%;59%;351;502;19;17;4;3;1;1;4;1;6;7
+8;20/06/2015;21:01;Grêmio;Palmeiras;1;0;R. Machado Marques;M. de Oliveira Santos;Arena do Grêmio;12;14;0;0;49%;51%;485;476;11;9;4;3;0;0;7;0;1;7
+8;21/06/2015;11:01;Cruzeiro;Chapecoense;0;1;V. Luxemburgo da Silva;V. Eutrópio;Mineirão;14;6;0;0;62%;38%;526;323;9;16;4;3;0;0;2;1;5;4
+8;21/06/2015;15:59;Joinville;Goiás;2;1;A. Batista;H. Pinto dos Anjos;Arena Joinville;12;15;0;0;48%;52%;377;394;13;12;4;4;1;1;0;2;3;11
+8;21/06/2015;16:01;Athletico-PR;Coritiba;2;2;M. Mendes;N. da Silveira Júnior;Estádio Joaquim Américo Guimarães;17;15;0;0;51%;49%;381;384;10;20;2;3;0;2;4;2;2;3
+8;21/06/2015;16:00;São Paulo;Avaí;1;1;J. Osorio;G. Kleina;Morumbi;16;13;0;0;58%;42%;414;314;14;13;1;5;0;0;9;1;9;9
+8;24/06/2015;19:30;Fluminense;Ponte Preta;2;0;E. Alves Moreira;A. Ferreira;Maracanã;21;11;6;3;48%;52%;452;473;16;18;2;3;0;0;1;0;3;6
+9;27/06/2015;16:01;Avaí;Grêmio;1;2;G. Kleina;R. Machado Marques;Ressacada;12;7;0;0;50%;50%;375;406;14;16;3;3;0;0;1;3;12;4
+9;27/06/2015;16:01;Chapecoense;Sport Recife;1;1;V. Eutrópio;E. Baptista;Arena Condá;14;14;0;0;64%;36%;433;265;7;16;1;6;0;0;2;1;16;3
+9;27/06/2015;21:00;Corinthians;Figueirense;2;1;A. Bacchi;A. Fucks;Neo Química Arena;13;6;0;0;52%;48%;473;452;10;11;0;2;0;0;1;3;7;3
+9;28/06/2015;10:59;Atlético-MG;Joinville;1;0;L. Culpi;A. Batista;Mineirão;13;7;0;0;58%;42%;505;376;11;13;2;1;0;0;4;7;10;3
+9;28/06/2015;15:59;Palmeiras;São Paulo;4;0;M. de Oliveira Santos;J. Osorio;Allianz Parque;13;9;0;0;40%;60%;344;503;18;14;1;3;0;0;2;3;8;2
+9;28/06/2015;15:59;Goiás;Fluminense;1;2;A. César;E. Alves Moreira;Estádio do Governo do Estado de Goiás (Serra Dourada);19;10;6;5;46%;54%;371;443;15;12;2;2;0;1;6;1;13;3
+9;28/06/2015;16:02;Ponte Preta;Athletico-PR;2;1;A. Ferreira;M. Mendes;Moisés Lucarelli;14;18;0;0;52%;48%;408;371;16;27;1;2;0;0;2;1;6;5
+9;28/06/2015;16:03;Coritiba;Cruzeiro;1;0;N. da Silveira Júnior;V. Luxemburgo da Silva;Couto Pereira;12;11;0;0;49%;51%;362;373;22;15;5;5;0;0;4;3;3;2
+9;28/06/2015;18:31;Vasco da Gama;Flamengo;1;0;C. Juarez Roth;C. Borges dos Santos;Arena Pantanal;6;6;0;0;32%;68%;255;535;18;10;4;0;0;0;1;7;2;10
+9;28/06/2015;18:31;Internacional;Santos;1;0;D. Aguirre Camblor;M. Fernandes;Estádio José Pinheiro Borda;12;16;0;0;61%;39%;506;324;4;12;3;2;0;1;2;3;8;7
+10;01/07/2015;19:31;Sport Recife;Internacional;3;0;E. Baptista;D. Aguirre Camblor;Adelmar da Costa Carvalho;13;12;0;0;40%;60%;322;469;13;8;2;2;0;1;2;3;6;7
+10;01/07/2015;19:31;Vasco da Gama;Avaí;1;0;C. Juarez Roth;G. Kleina;Estádio Vasco da Gama;13;13;0;0;48%;52%;375;404;16;11;3;2;1;1;6;1;6;6
+10;01/07/2015;21:00;Palmeiras;Chapecoense;2;0;M. de Oliveira Santos;V. Eutrópio;Allianz Parque;16;8;0;0;48%;52%;428;472;15;17;0;3;0;0;4;2;2;3
+10;01/07/2015;21:00;Atlético-MG;Coritiba;2;0;L. Culpi;N. da Silveira Júnior;Estádio Raimundo Sampaio;16;10;0;0;60%;40%;564;394;8;11;3;5;0;0;6;5;3;4
+10;01/07/2015;22:01;Joinville;Flamengo;0;1;A. Batista;C. Borges dos Santos;Arena Joinville;8;11;0;0;63%;37%;580;337;14;11;3;2;0;0;1;4;3;3
+10;01/07/2015;22:00;Grêmio;Cruzeiro;1;0;R. Machado Marques;V. Luxemburgo da Silva;Arena do Grêmio;22;14;0;0;58%;42%;478;353;21;21;5;6;0;0;1;0;13;2
+10;01/07/2015;22:01;Athletico-PR;São Paulo;2;1;M. Mendes;J. Osorio;Estádio Joaquim Américo Guimarães;11;10;0;0;46%;54%;432;501;17;8;2;0;0;0;1;3;4;2
+10;02/07/2015;19:33;Corinthians;Ponte Preta;2;0;A. Bacchi;A. Ferreira;Neo Química Arena;17;11;0;0;46%;54%;468;522;5;12;1;2;0;0;0;2;5;5
+10;02/07/2015;19:29;Figueirense;Goiás;3;1;A. Fucks;A. César;Orlando Scarpelli;10;16;0;0;46%;54%;395;443;17;20;1;2;1;0;1;1;1;4
+10;02/07/2015;20:59;Fluminense;Santos;2;1;E. Alves Moreira;M. Fernandes;Maracanã;8;9;0;0;52%;48%;442;424;7;21;2;3;0;0;1;1;1;3
+11;04/07/2015;15:01;Coritiba;Joinville;0;0;N. da Silveira Júnior;A. Batista;Couto Pereira;12;6;0;0;59%;41%;454;333;22;17;1;2;0;0;4;2;5;4
+11;04/07/2015;21:03;Chapecoense;Vasco da Gama;1;0;V. Eutrópio;C. Juarez Roth;Arena Condá;19;7;0;0;68%;32%;508;261;12;12;1;1;0;2;2;0;14;4
+11;04/07/2015;21:01;Cruzeiro;Athletico-PR;2;0;V. Luxemburgo da Silva;M. Mendes;Mineirão;18;5;0;0;54%;46%;424;370;10;18;0;2;0;1;1;1;6;4
+11;05/07/2015;11:02;Avaí;Sport Recife;2;2;G. Kleina;E. Baptista;Ressacada;13;11;0;0;37%;63%;293;500;16;14;5;2;1;0;4;2;5;9
+11;05/07/2015;15:59;Goiás;Corinthians;0;0;A. César;A. Bacchi;Estádio do Governo do Estado de Goiás (Serra Dourada);6;14;0;0;38%;62%;382;605;12;12;2;2;0;0;3;1;5;7
+11;05/07/2015;16:03;São Paulo;Fluminense;0;0;J. Osorio;E. Alves Moreira;Morumbi;14;7;0;0;60%;40%;492;333;18;16;1;2;0;0;3;2;7;4
+11;05/07/2015;16:02;Santos;Grêmio;1;3;M. Fernandes;R. Machado Marques;Estádio Urbano Caldeira;7;17;0;0;41%;59%;462;654;13;12;3;1;1;0;0;2;1;2
+11;05/07/2015;18:28;Ponte Preta;Palmeiras;0;2;A. Ferreira;M. de Oliveira Santos;Arena Pantanal;19;9;0;0;53%;47%;506;464;12;22;3;3;0;0;1;1;1;5
+11;05/07/2015;18:29;Flamengo;Figueirense;1;2;C. Borges dos Santos;A. Fucks;Maracanã;12;9;0;0;62%;38%;549;346;9;20;3;2;0;0;4;3;8;5
+11;05/07/2015;18:31;Internacional;Atlético-MG;1;3;D. Aguirre Camblor;L. Culpi;Estádio José Pinheiro Borda;11;19;0;0;46%;54%;452;537;5;11;1;3;1;0;5;0;6;4
+12;08/07/2015;19:32;Chapecoense;Grêmio;1;0;V. Eutrópio;R. Machado Marques;Arena Condá;12;10;0;0;41%;59%;365;529;8;7;1;2;0;0;0;3;5;8
+12;08/07/2015;19:29;Goiás;Santos;4;1;J. Camargo;M. Fernandes;Estádio do Governo do Estado de Goiás (Serra Dourada);14;8;0;0;41%;59%;374;546;7;8;0;3;0;0;1;1;7;5
+12;08/07/2015;19:32;Coritiba;Ponte Preta;0;0;N. da Silveira Júnior;A. Ferreira;Couto Pereira;19;8;0;0;52%;48%;422;396;18;17;4;6;0;0;1;6;7;2
+12;08/07/2015;21:02;Figueirense;Joinville;0;2;A. Fucks;A. Batista;Orlando Scarpelli;13;11;0;0;52%;48%;337;325;11;21;1;2;0;0;2;0;7;10
+12;08/07/2015;20:58;Palmeiras;Avaí;3;0;M. de Oliveira Santos;G. Kleina;Allianz Parque;18;12;0;0;57%;43%;430;329;12;11;2;6;0;0;2;1;11;2
+12;08/07/2015;21:58;Atlético-MG;Sport Recife;2;1;L. Culpi;E. Baptista;Mineirão;12;10;0;0;54%;46%;462;404;17;12;2;2;0;0;7;0;9;5
+12;08/07/2015;21:59;Internacional;Flamengo;1;2;D. Aguirre Camblor;C. Borges dos Santos;Estádio José Pinheiro Borda;9;8;0;0;60%;40%;563;385;17;19;3;2;0;0;2;5;3;2
+12;08/07/2015;22:00;Vasco da Gama;São Paulo;0;4;C. Juarez Roth;J. Osorio;Estádio Nacional de Brasília;14;10;0;0;48%;52%;475;507;12;10;3;0;0;0;0;4;8;2
+12;09/07/2015;19:29;Corinthians;Athletico-PR;2;0;A. Bacchi;M. Mendes;Neo Química Arena;8;11;0;0;47%;53%;453;478;6;13;1;2;0;0;1;3;3;8
+12;09/07/2015;21:00;Fluminense;Cruzeiro;1;0;E. Alves Moreira;V. Luxemburgo da Silva;Maracanã;15;8;0;0;39%;61%;297;454;10;15;2;2;0;0;5;1;6;5
+13;11/07/2015;18:29;Santos;Figueirense;3;0;D. Silvestre Júnior;A. Fucks;Estádio Urbano Caldeira;14;5;0;0;48%;52%;391;419;12;12;1;5;0;0;2;1;6;2
+13;11/07/2015;18:31;Grêmio;Vasco da Gama;2;0;R. Machado Marques;C. Juarez Roth;Arena do Grêmio;21;7;0;0;62%;38%;590;372;16;12;1;3;0;0;0;0;6;3
+13;11/07/2015;21:00;Ponte Preta;Atlético-MG;0;2;A. Ferreira;L. Culpi;Moisés Lucarelli;11;13;0;0;44%;56%;406;503;13;19;1;3;0;0;2;0;4;4
+13;12/07/2015;11:01;São Paulo;Coritiba;3;1;J. Osorio;N. da Silveira Júnior;Morumbi;16;10;0;0;53%;47%;447;397;18;14;1;3;0;0;5;3;2;10
+13;12/07/2015;16:01;Joinville;Internacional;0;2;A. Batista;D. Aguirre Camblor;Arena Joinville;8;7;0;0;63%;37%;456;283;17;19;4;3;0;0;4;3;6;2
+13;12/07/2015;16:00;Flamengo;Corinthians;0;3;C. Borges dos Santos;A. Bacchi;Maracanã;16;8;0;0;60%;40%;535;394;7;15;0;2;0;0;7;1;13;1
+13;12/07/2015;16:01;Athletico-PR;Fluminense;1;2;M. Mendes;E. Alves Moreira;Estádio Joaquim Américo Guimarães;23;9;0;0;59%;41%;456;322;12;11;1;2;0;0;1;2;10;2
+13;12/07/2015;16:01;Cruzeiro;Goiás;1;0;V. Luxemburgo da Silva;J. Camargo;Mineirão;22;3;0;0;64%;36%;537;315;17;13;2;1;0;0;0;1;11;2
+13;12/07/2015;18:31;Sport Recife;Palmeiras;2;2;E. Baptista;M. de Oliveira Santos;Arena de Pernambuco;11;12;0;0;59%;41%;506;351;10;17;2;1;0;0;5;3;6;4
+13;12/07/2015;18:31;Avaí;Chapecoense;2;1;G. Kleina;V. Eutrópio;Ressacada;14;13;0;0;39%;61%;280;433;15;14;4;2;0;0;4;1;6;7
+14;18/07/2015;18:28;Internacional;Goiás;2;1;D. Aguirre Camblor;J. Camargo;Estádio José Pinheiro Borda;8;10;0;0;63%;37%;540;315;18;12;1;1;0;0;1;4;6;5
+14;18/07/2015;18:29;Flamengo;Grêmio;1;0;C. Borges dos Santos;R. Machado Marques;Maracanã;21;6;0;0;39%;61%;323;506;12;11;1;5;0;0;1;1;7;4
+14;18/07/2015;21:05;Corinthians;Atlético-MG;1;0;A. Bacchi;L. Culpi;Neo Química Arena;8;16;0;0;44%;56%;392;467;12;15;1;1;0;0;4;2;2;6
+14;19/07/2015;11:02;Athletico-PR;Chapecoense;1;0;M. Mendes;V. Eutrópio;Estádio Joaquim Américo Guimarães;20;10;0;0;56%;44%;439;350;14;13;2;3;0;0;2;4;7;1
+14;19/07/2015;16:01;Figueirense;Coritiba;0;0;A. Fucks;N. da Silveira Júnior;Orlando Scarpelli;9;12;0;0;41%;59%;356;523;20;18;1;2;0;0;2;0;2;2
+14;19/07/2015;16:02;Sport Recife;São Paulo;2;0;E. Baptista;J. Osorio;Arena de Pernambuco;15;7;0;0;46%;54%;408;468;9;12;1;0;0;2;4;8;2;3
+14;19/07/2015;16:01;Fluminense;Vasco da Gama;1;2;E. Alves Moreira;C. Juarez Roth;Maracanã;16;8;0;0;58%;42%;375;287;15;17;2;6;0;0;0;2;9;2
+14;19/07/2015;16:01;Palmeiras;Santos;1;0;M. de Oliveira Santos;D. Silvestre Júnior;Allianz Parque;9;14;0;0;44%;56%;301;374;24;10;3;3;0;0;3;3;2;5
+14;19/07/2015;18:31;Cruzeiro;Avaí;1;1;V. Luxemburgo da Silva;G. Kleina;Mineirão;20;9;0;0;67%;33%;554;263;7;16;1;3;0;0;1;0;6;3
+14;19/07/2015;18:31;Joinville;Ponte Preta;1;1;A. Batista;A. Ferreira;Arena Joinville;21;8;0;0;54%;46%;451;397;11;14;2;5;0;0;1;1;8;2
+15;25/07/2015;19:21;Avaí;Athletico-PR;1;2;G. Kleina;M. Mendes;Ressacada;20;18;0;0;47%;53%;362;442;5;17;3;3;0;0;2;1;7;2
+15;25/07/2015;19:30;Grêmio;Sport Recife;1;1;R. Machado Marques;E. Baptista;Arena do Grêmio;17;8;0;0;57%;43%;582;462;6;8;0;0;0;0;7;0;13;4
+15;25/07/2015;20:59;Atlético-MG;Figueirense;1;0;L. Culpi;A. Fucks;Estádio Raimundo Sampaio;15;8;0;0;62%;38%;508;311;16;19;2;4;0;0;1;3;8;9
+15;26/07/2015;11:02;Chapecoense;Fluminense;2;1;V. Eutrópio;E. Alves Moreira;Arena Condá;9;12;0;0;48%;52%;372;373;15;16;2;3;0;1;3;1;1;10
+15;26/07/2015;11:00;Santos;Joinville;2;0;D. Silvestre Júnior;A. Batista;Estádio Urbano Caldeira;13;10;0;0;50%;50%;481;482;4;12;2;2;0;0;7;2;7;6
+15;26/07/2015;15:59;Ponte Preta;Internacional;0;0;A. Ferreira;D. Aguirre Camblor;Moisés Lucarelli;21;13;0;0;58%;42%;416;315;10;19;2;2;0;0;1;3;13;8
+15;26/07/2015;16:01;Coritiba;Corinthians;1;1;N. da Silveira Júnior;A. Bacchi;Couto Pereira;11;8;0;0;54%;46%;461;405;7;18;3;3;0;0;10;0;5;5
+15;26/07/2015;16:02;São Paulo;Cruzeiro;1;0;J. Osorio;V. Luxemburgo da Silva;Morumbi;10;11;0;0;49%;51%;428;457;16;14;0;1;0;0;4;0;5;2
+15;26/07/2015;15:59;Goiás;Flamengo;0;1;J. Camargo;C. Borges dos Santos;Estádio do Governo do Estado de Goiás (Serra Dourada);14;8;0;0;43%;57%;330;448;11;6;2;1;0;0;0;1;11;4
+15;26/07/2015;18:33;Vasco da Gama;Palmeiras;1;4;C. Juarez Roth;M. de Oliveira Santos;Estádio Vasco da Gama;8;18;0;0;56%;44%;446;363;14;21;3;1;0;0;8;5;8;4
+16;29/07/2015;21:59;Corinthians;Vasco da Gama;3;0;A. Bacchi;C. Juarez Roth;Neo Química Arena;20;11;0;0;60%;40%;552;357;7;15;0;3;0;0;0;9;3;4
+16;29/07/2015;22:01;Atlético-MG;São Paulo;3;1;L. Culpi;J. Osorio;Mineirão;14;15;0;0;49%;51%;521;550;6;6;0;1;0;0;2;7;3;4
+16;01/08/2015;18:29;Fluminense;Grêmio;1;0;E. Alves Moreira;R. Machado Marques;Maracanã;12;9;0;0;45%;55%;399;484;16;13;3;1;0;1;3;1;4;4
+16;02/08/2015;11:02;Coritiba;Goiás;1;1;N. da Silveira Júnior;J. Camargo;Couto Pereira;17;14;0;0;61%;39%;459;297;11;19;4;4;0;0;3;1;9;7
+16;02/08/2015;11:01;Palmeiras;Athletico-PR;0;1;M. de Oliveira Santos;M. Mendes;Allianz Parque;16;9;0;0;51%;49%;433;442;13;18;1;2;0;0;2;2;5;4
+16;02/08/2015;16:00;Joinville;Avaí;2;0;P. Lopes de Gusmão;G. Kleina;Arena Joinville;3;8;0;0;51%;49%;393;392;22;9;2;1;0;0;2;0;10;4
+16;02/08/2015;16:00;Internacional;Chapecoense;0;0;D. Aguirre Camblor;V. Eutrópio;Estádio José Pinheiro Borda;11;11;0;0;64%;36%;509;301;4;13;3;2;0;0;2;3;11;7
+16;02/08/2015;16:01;Figueirense;Ponte Preta;3;1;A. Fucks;A. Ferreira;Orlando Scarpelli;12;19;0;0;44%;56%;303;388;19;18;2;3;0;0;1;1;4;5
+16;02/08/2015;16:01;Flamengo;Santos;2;2;C. Borges dos Santos;D. Silvestre Júnior;Maracanã;26;10;0;0;55%;45%;443;395;17;14;4;2;0;0;2;0;9;3
+16;02/08/2015;18:29;Sport Recife;Cruzeiro;0;0;E. Baptista;V. Luxemburgo da Silva;Arena de Pernambuco;7;11;0;0;49%;51%;457;473;15;17;1;2;0;0;3;5;6;6
+17;08/08/2015;18:33;Avaí;Fluminense;1;0;G. Kleina;E. Alves Moreira;Ressacada;13;13;0;0;30%;70%;221;526;14;12;2;2;0;0;2;3;6;9
+17;08/08/2015;21:01;Santos;Coritiba;3;0;D. Silvestre Júnior;N. da Silveira Júnior;Estádio Urbano Caldeira;12;8;0;0;51%;49%;453;447;12;15;1;4;0;0;1;3;5;5
+17;09/08/2015;11:01;Athletico-PR;Sport Recife;1;1;M. Mendes;E. Baptista;Estádio Joaquim Américo Guimarães;16;8;0;0;53%;47%;516;491;6;11;0;0;0;0;4;0;7;2
+17;09/08/2015;11:02;Vasco da Gama;Joinville;0;0;C. Juarez Roth;P. Lopes de Gusmão;Maracanã;20;15;0;0;60%;40%;440;301;17;21;2;4;0;0;2;3;9;9
+17;09/08/2015;16:03;São Paulo;Corinthians;1;1;J. Osorio;A. Bacchi;Morumbi;19;10;0;0;59%;41%;503;354;13;16;4;1;0;1;7;4;8;5
+17;09/08/2015;16:01;Cruzeiro;Palmeiras;2;1;V. Luxemburgo da Silva;M. de Oliveira Santos;Mineirão;17;13;0;0;48%;52%;415;446;21;18;4;3;0;0;4;4;5;7
+17;09/08/2015;15:59;Ponte Preta;Flamengo;1;0;D. Ghidoni Junior;C. Borges dos Santos;Moisés Lucarelli;10;16;0;0;41%;59%;337;457;17;16;2;4;0;0;0;0;3;4
+17;09/08/2015;16:02;Goiás;Atlético-MG;0;0;J. Camargo;L. Culpi;Estádio do Governo do Estado de Goiás (Serra Dourada);13;8;0;0;37%;63%;347;568;8;11;2;2;0;0;3;0;2;6
+17;09/08/2015;18:30;Grêmio;Internacional;5;0;R. Machado Marques;O. Hellmann;Arena do Grêmio;16;12;0;0;57%;43%;553;417;16;12;2;4;0;0;1;1;4;5
+17;09/08/2015;18:31;Chapecoense;Figueirense;2;2;V. Eutrópio;A. Fucks;Arena Condá;8;10;0;0;49%;51%;331;321;20;13;1;1;0;0;0;2;5;7
+18;12/08/2015;19:34;Coritiba;Palmeiras;2;1;N. da Silveira Júnior;M. de Oliveira Santos;Couto Pereira;9;9;0;0;45%;55%;402;475;14;11;3;1;0;0;0;1;3;8
+18;12/08/2015;19:30;Flamengo;Athletico-PR;3;2;C. Borges dos Santos;M. Mendes;Maracanã;9;9;0;0;47%;53%;390;458;10;16;2;3;0;1;1;1;7;4
+18;12/08/2015;20:59;Santos;Vasco da Gama;1;0;D. Silvestre Júnior;C. Juarez Roth;Estádio Urbano Caldeira;21;8;0;0;52%;48%;370;343;12;22;3;4;0;1;8;0;6;6
+18;12/08/2015;21:00;Goiás;Chapecoense;0;0;J. Camargo;V. Eutrópio;Estádio do Governo do Estado de Goiás (Serra Dourada);17;2;0;0;55%;45%;507;450;6;16;1;3;0;0;0;0;12;1
+18;12/08/2015;22:00;Figueirense;São Paulo;0;2;A. Fucks;J. Osorio;Orlando Scarpelli;15;7;0;0;52%;48%;376;356;18;18;3;4;0;1;1;0;6;6
+18;12/08/2015;22:00;Internacional;Fluminense;1;0;O. Hellmann;E. Alves Moreira;Estádio José Pinheiro Borda;17;8;0;0;60%;40%;465;315;20;14;6;3;0;2;0;0;8;8
+18;12/08/2015;22:00;Corinthians;Sport Recife;4;3;A. Bacchi;E. Baptista;Neo Química Arena;15;10;0;0;57%;43%;491;391;11;8;2;1;0;0;2;4;9;4
+18;13/08/2015;19:31;Ponte Preta;Avaí;2;0;D. Ghidoni Junior;G. Kleina;Moisés Lucarelli;14;4;0;0;63%;37%;539;318;13;6;1;1;0;0;3;1;4;1
+18;13/08/2015;20:59;Joinville;Cruzeiro;3;0;P. Lopes de Gusmão;V. Luxemburgo da Silva;Arena Joinville;14;8;0;0;33%;67%;298;627;10;10;1;2;0;0;0;3;8;9
+18;13/08/2015;20:58;Atlético-MG;Grêmio;0;2;L. Culpi;R. Machado Marques;Mineirão;24;9;0;0;60%;40%;563;413;10;12;2;3;0;0;1;2;12;3
+19;15/08/2015;18:30;Vasco da Gama;Coritiba;0;1;C. Juarez Roth;N. da Silveira Júnior;Maracanã;20;13;0;0;56%;44%;389;323;12;19;3;1;0;0;1;0;7;3
+19;15/08/2015;18:31;Athletico-PR;Santos;0;0;M. Mendes;D. Silvestre Júnior;Estádio Joaquim Américo Guimarães;13;8;0;0;63%;37%;502;307;10;13;1;1;1;0;2;3;11;4
+19;15/08/2015;21:02;São Paulo;Goiás;0;3;J. Osorio;J. Camargo;Morumbi;5;14;0;0;66%;34%;636;339;4;4;1;0;0;0;0;1;7;8
+19;16/08/2015;11:00;Palmeiras;Flamengo;4;2;M. de Oliveira Santos;C. Borges dos Santos;Allianz Parque;12;21;0;0;38%;62%;300;466;18;15;2;2;0;0;0;4;3;6
+19;16/08/2015;16:03;Avaí;Corinthians;1;2;G. Kleina;A. Bacchi;Ressacada;13;10;0;0;36%;64%;282;546;15;8;0;1;0;0;5;1;8;0
+19;16/08/2015;15:59;Fluminense;Figueirense;2;1;E. Alves Moreira;H. Coutinho;Maracanã;19;5;0;0;58%;42%;442;330;14;18;1;1;0;1;1;1;3;2
+19;16/08/2015;16:00;Cruzeiro;Internacional;0;0;V. Luxemburgo da Silva;A. Fucks;Mineirão;11;9;0;0;55%;45%;476;391;14;22;2;2;0;0;3;0;5;6
+19;16/08/2015;16:00;Sport Recife;Ponte Preta;1;1;E. Baptista;D. Ghidoni Junior;Adelmar da Costa Carvalho;11;12;0;0;47%;53%;481;542;7;16;0;0;0;0;1;2;3;1
+19;16/08/2015;18:29;Grêmio;Joinville;2;1;R. Machado Marques;P. Lopes de Gusmão;Arena do Grêmio;17;11;0;0;69%;31%;619;282;10;18;1;0;0;0;2;1;10;4
+19;16/08/2015;18:31;Chapecoense;Atlético-MG;2;1;V. Eutrópio;L. Culpi;Arena Condá;13;12;0;0;36%;64%;313;538;12;8;4;3;0;1;1;2;3;7
+20;22/08/2015;18:30;Goiás;Vasco da Gama;3;0;J. Camargo;J. de Amorim Campos;Estádio do Governo do Estado de Goiás (Serra Dourada);13;5;0;0;51%;49%;406;407;16;13;3;2;0;2;2;4;4;2
+20;22/08/2015;18:30;Santos;Avaí;5;2;D. Silvestre Júnior;G. Kleina;Estádio Urbano Caldeira;17;16;0;0;59%;41%;538;364;14;12;1;3;0;0;1;1;7;2
+20;22/08/2015;21:00;Figueirense;Sport Recife;2;1;R. Rodrigues Simões;E. Baptista;Orlando Scarpelli;9;10;0;0;41%;59%;284;429;19;13;1;3;0;0;8;1;8;6
+20;23/08/2015;11:01;Coritiba;Chapecoense;1;0;N. da Silveira Júnior;V. Eutrópio;Couto Pereira;9;11;0;0;46%;54%;374;447;19;17;3;3;0;0;0;2;5;0
+20;23/08/2015;11:01;Ponte Preta;Grêmio;0;0;D. Ghidoni Junior;R. Machado Marques;Moisés Lucarelli;25;3;0;0;58%;42%;587;437;12;13;1;1;0;0;3;1;6;1
+20;23/08/2015;15:59;Joinville;Fluminense;2;1;P. Lopes de Gusmão;E. Alves Moreira;Arena Joinville;11;20;4;8;46%;54%;320;379;26;15;3;2;0;0;3;5;3;4
+20;23/08/2015;16:00;Internacional;Athletico-PR;2;0;A. Fucks;M. Mendes;Estádio José Pinheiro Borda;15;8;0;0;47%;53%;430;491;10;12;1;3;0;0;0;2;8;0
+20;23/08/2015;16:01;Corinthians;Cruzeiro;3;0;A. Bacchi;V. Luxemburgo da Silva;Neo Química Arena;16;12;0;0;39%;61%;387;590;12;7;2;1;0;0;0;6;3;6
+20;23/08/2015;16:01;Flamengo;São Paulo;2;1;O. de Oliveira Filho;J. Osorio;Maracanã;22;9;0;0;44%;56%;277;364;25;15;4;2;0;0;2;2;10;5
+20;23/08/2015;18:30;Atlético-MG;Palmeiras;2;1;L. Culpi;M. de Oliveira Santos;Estádio Raimundo Sampaio;18;11;0;0;56%;44%;472;386;13;12;1;3;0;0;5;2;7;2
+21;29/08/2015;18:30;Vasco da Gama;Figueirense;0;1;J. de Amorim Campos;R. Rodrigues Simões;Maracanã;17;12;0;0;62%;38%;490;313;11;19;2;4;0;0;3;0;7;1
+21;29/08/2015;20:59;São Paulo;Ponte Preta;3;0;J. Osorio;D. Ghidoni Junior;Morumbi;16;20;0;0;47%;53%;496;551;16;11;4;0;0;0;2;1;3;7
+21;30/08/2015;11:02;Grêmio;Coritiba;0;0;R. Machado Marques;N. da Silveira Júnior;Arena do Grêmio;12;11;0;0;49%;51%;385;399;13;15;5;5;0;0;2;1;7;6
+21;30/08/2015;11:02;Avaí;Internacional;3;0;G. Kleina;A. Fucks;Ressacada;14;14;0;0;36%;64%;290;516;14;12;2;2;0;0;2;1;5;8
+21;30/08/2015;16:00;Palmeiras;Joinville;3;2;M. de Oliveira Santos;P. Lopes de Gusmão;Allianz Parque;15;8;0;0;57%;43%;465;360;9;18;0;3;0;0;3;1;3;1
+21;30/08/2015;16:00;Fluminense;Atlético-MG;1;2;E. Alves Moreira;L. Culpi;Maracanã;12;13;2;5;43%;57%;372;484;23;16;3;4;0;0;0;0;0;6
+21;30/08/2015;16:00;Sport Recife;Flamengo;0;1;E. Baptista;O. de Oliveira Filho;Arena de Pernambuco;12;12;0;0;38%;62%;351;575;6;19;1;5;1;0;3;2;4;6
+21;30/08/2015;16:01;Chapecoense;Corinthians;1;3;V. Eutrópio;A. Bacchi;Arena Condá;12;15;0;0;48%;52%;388;429;14;11;2;3;0;0;4;1;7;5
+21;30/08/2015;18:31;Cruzeiro;Santos;0;1;V. Luxemburgo da Silva;D. Silvestre Júnior;Mineirão;14;6;0;0;53%;47%;505;469;17;12;2;2;1;0;1;1;4;2
+21;30/08/2015;18:31;Athletico-PR;Goiás;3;0;M. Mendes;J. Camargo;Estádio Joaquim Américo Guimarães;19;10;0;0;64%;36%;509;284;12;13;1;3;0;0;0;2;6;3
+22;02/09/2015;19:33;Joinville;São Paulo;0;0;P. Lopes de Gusmão;J. Osorio;Arena Joinville;21;8;0;0;47%;53%;359;407;23;14;4;5;0;0;0;5;8;8
+22;02/09/2015;19:29;Ponte Preta;Cruzeiro;1;2;D. Ghidoni Junior;D. de Souza;Moisés Lucarelli;8;17;0;0;46%;54%;383;440;19;22;2;5;1;0;1;1;5;6
+22;02/09/2015;19:30;Internacional;Vasco da Gama;6;0;A. Fucks;J. de Amorim Campos;Estádio José Pinheiro Borda;10;5;0;0;39%;61%;345;549;22;10;3;1;0;0;2;4;2;6
+22;02/09/2015;21:01;Flamengo;Avaí;3;0;O. de Oliveira Filho;G. Kleina;Arena das Dunas;8;14;0;0;63%;37%;588;345;14;18;1;4;0;0;3;1;2;5
+22;02/09/2015;20:59;Atlético-MG;Athletico-PR;0;1;L. Culpi;M. Mendes;Estádio Raimundo Sampaio;20;14;0;0;51%;49%;344;368;18;16;4;4;1;0;10;1;10;2
+22;02/09/2015;22:01;Coritiba;Sport Recife;0;0;N. da Silveira Júnior;E. Baptista;Couto Pereira;7;12;0;0;48%;52%;414;452;16;14;2;2;0;0;2;3;3;4
+22;02/09/2015;22:00;Corinthians;Fluminense;2;0;A. Bacchi;E. Alves Moreira;Neo Química Arena;14;11;8;2;60%;40%;520;345;12;11;0;3;0;0;0;6;8;3
+22;02/09/2015;21:59;Goiás;Palmeiras;1;0;J. Camargo;M. de Oliveira Santos;Estádio do Governo do Estado de Goiás (Serra Dourada);9;14;0;0;40%;60%;350;510;11;14;3;3;0;0;1;2;3;7
+22;03/09/2015;19:32;Santos;Chapecoense;3;1;D. Silvestre Júnior;V. Eutrópio;Estádio Urbano Caldeira;13;13;0;0;51%;49%;430;420;16;12;0;1;0;0;1;2;4;9
+22;03/09/2015;21:01;Figueirense;Grêmio;0;2;R. Rodrigues Simões;R. Machado Marques;Orlando Scarpelli;14;6;0;0;65%;35%;572;330;14;9;4;4;0;0;3;1;9;4
+23;05/09/2015;19:29;São Paulo;Internacional;2;0;J. Osorio;A. Fucks;Morumbi;15;5;0;0;53%;47%;464;420;10;10;0;0;0;0;0;1;7;3
+23;05/09/2015;19:31;Vasco da Gama;Atlético-MG;1;2;J. de Amorim Campos;L. Culpi;Maracanã;15;4;0;0;47%;53%;416;463;19;16;2;2;1;0;1;5;5;5
+23;05/09/2015;21:01;Athletico-PR;Joinville;0;0;M. Mendes;P. Lopes de Gusmão;Estádio Joaquim Américo Guimarães;18;7;0;0;77%;23%;539;169;15;17;4;1;1;3;5;2;4;2
+23;06/09/2015;11:00;Cruzeiro;Figueirense;5;1;L. Venker de Menezes;R. Rodrigues Simões;Mineirão;16;5;0;0;54%;46%;476;420;15;15;0;4;0;0;5;1;4;3
+23;06/09/2015;11:00;Chapecoense;Ponte Preta;0;0;V. Eutrópio;D. Ghidoni Junior;Arena Condá;15;8;0;0;64%;36%;507;294;9;17;1;2;0;0;1;1;9;11
+23;06/09/2015;15:59;Grêmio;Goiás;2;1;R. Machado Marques;J. Camargo;Arena do Grêmio;18;9;0;0;74%;26%;690;248;15;12;3;3;0;1;3;0;5;3
+23;06/09/2015;15:59;Palmeiras;Corinthians;3;3;M. de Oliveira Santos;A. Bacchi;Allianz Parque;16;7;0;0;49%;51%;312;351;20;14;6;3;0;0;2;2;11;1
+23;06/09/2015;16:02;Avaí;Coritiba;0;2;G. Kleina;N. da Silveira Júnior;Ressacada;12;10;0;0;52%;48%;363;365;19;22;2;4;0;0;1;3;4;1
+23;06/09/2015;15:59;Fluminense;Flamengo;1;3;E. Alves Moreira;O. de Oliveira Filho;Maracanã;7;20;0;0;53%;47%;437;402;13;24;6;5;0;1;2;0;5;9
+23;06/09/2015;18:31;Sport Recife;Santos;1;1;E. Baptista;D. Silvestre Júnior;Adelmar da Costa Carvalho;12;12;0;0;56%;44%;517;448;9;9;1;0;0;0;0;3;7;1
+24;09/09/2015;19:29;Ponte Preta;Vasco da Gama;0;1;D. Ghidoni Junior;J. de Amorim Campos;Moisés Lucarelli;10;12;0;0;47%;53%;406;438;20;23;2;1;1;0;0;0;2;4
+24;09/09/2015;19:30;Atlético-MG;Avaí;2;0;L. Culpi;G. Kleina;Estádio Raimundo Sampaio;11;11;0;0;62%;38%;587;369;17;16;3;3;0;0;3;2;5;2
+24;09/09/2015;19:30;Internacional;Palmeiras;1;0;A. Fucks;M. de Oliveira Santos;Estádio José Pinheiro Borda;8;7;0;0;46%;54%;367;426;21;23;5;2;1;1;2;0;3;3
+24;09/09/2015;21:03;Figueirense;Athletico-PR;1;1;R. Rodrigues Simões;M. Mendes;Orlando Scarpelli;14;12;0;0;51%;49%;403;407;7;9;2;2;0;0;2;1;10;6
+24;09/09/2015;22:02;Coritiba;Fluminense;1;1;N. da Silveira Júnior;E. Alves Moreira;Couto Pereira;9;16;3;5;53%;47%;426;376;11;24;1;4;0;0;1;2;3;7
+24;09/09/2015;22:00;Santos;São Paulo;3;0;D. Silvestre Júnior;J. Osorio;Estádio Urbano Caldeira;15;11;0;0;48%;52%;431;462;11;9;1;1;0;0;2;3;2;2
+24;09/09/2015;22:00;Corinthians;Grêmio;1;1;A. Bacchi;R. Machado Marques;Neo Química Arena;14;15;0;0;56%;44%;604;473;7;6;0;3;0;0;0;2;4;6
+24;10/09/2015;19:30;Goiás;Sport Recife;1;0;J. Camargo;E. Baptista;Estádio do Governo do Estado de Goiás (Serra Dourada);19;10;0;0;40%;60%;382;591;8;6;3;1;0;0;0;1;6;5
+24;10/09/2015;20:59;Joinville;Chapecoense;0;0;P. Lopes de Gusmão;V. Eutrópio;Arena Joinville;9;7;0;0;55%;45%;361;305;13;10;4;2;0;0;2;3;2;6
+24;10/09/2015;21:00;Flamengo;Cruzeiro;2;0;O. de Oliveira Filho;L. Venker de Menezes;Maracanã;10;10;0;0;46%;54%;360;412;18;10;3;3;0;0;1;2;3;7
+25;12/09/2015;18:30;Coritiba;Internacional;0;1;N. da Silveira Júnior;A. Fucks;Couto Pereira;25;7;0;0;62%;38%;514;322;13;26;4;7;0;0;0;0;4;3
+25;12/09/2015;20:59;Palmeiras;Figueirense;2;0;M. de Oliveira Santos;R. Rodrigues Simões;Allianz Parque;15;4;0;0;53%;47%;424;382;19;18;4;3;0;1;3;5;4;4
+25;13/09/2015;11:02;Ponte Preta;Santos;3;1;D. Ghidoni Junior;D. Silvestre Júnior;Moisés Lucarelli;16;20;0;0;38%;62%;333;531;22;15;5;2;0;0;1;0;2;10
+25;13/09/2015;11:00;Corinthians;Joinville;3;0;A. Bacchi;P. Lopes de Gusmão;Neo Química Arena;13;7;0;0;69%;31%;595;267;10;17;0;1;0;0;2;3;8;6
+25;13/09/2015;16:00;Cruzeiro;Atlético-MG;1;1;L. Venker de Menezes;L. Culpi;Mineirão;12;16;0;0;35%;65%;278;499;17;16;2;5;1;0;4;3;3;9
+25;13/09/2015;16:00;Grêmio;São Paulo;1;2;R. Machado Marques;J. Osorio;Arena do Grêmio;12;14;0;0;52%;48%;473;460;11;13;3;3;0;0;1;0;6;4
+25;13/09/2015;16:00;Chapecoense;Flamengo;1;3;V. Eutrópio;O. de Oliveira Filho;Arena Condá;13;9;0;0;49%;51%;429;440;13;12;2;1;0;0;1;3;3;7
+25;13/09/2015;16:00;Vasco da Gama;Athletico-PR;2;0;J. de Amorim Campos;M. Mendes;Maracanã;14;17;0;0;44%;56%;351;423;18;20;2;2;0;0;4;2;6;13
+25;13/09/2015;18:31;Avaí;Goiás;2;1;G. Kleina;J. Camargo;Ressacada;13;12;0;0;65%;35%;581;326;18;19;2;2;0;0;2;2;2;3
+25;13/09/2015;18:30;Sport Recife;Fluminense;1;0;E. Baptista;E. Alves Moreira;Arena de Pernambuco;6;13;2;3;57%;43%;440;336;19;17;2;3;0;0;1;0;3;2
+26;16/09/2015;19:30;Joinville;Sport Recife;1;1;P. Lopes de Gusmão;E. Baptista;Arena Joinville;15;7;0;0;33%;67%;262;555;19;11;4;3;0;0;3;6;5;3
+26;16/09/2015;19:30;Fluminense;Palmeiras;1;4;E. Alves Moreira;M. de Oliveira Santos;Maracanã;9;12;2;9;51%;49%;392;372;14;19;1;3;0;0;3;0;5;6
+26;16/09/2015;19:29;Goiás;Ponte Preta;1;2;J. Camargo;D. Ghidoni Junior;Estádio do Governo do Estado de Goiás (Serra Dourada);9;8;0;0;49%;51%;449;489;12;11;2;5;0;0;0;2;11;1
+26;16/09/2015;21:02;Figueirense;Avaí;0;1;R. Rodrigues Simões;G. Kleina;Orlando Scarpelli;7;10;0;0;63%;37%;362;217;16;23;2;4;0;0;0;0;6;1
+26;16/09/2015;21:01;Athletico-PR;Grêmio;1;2;M. Mendes;R. Machado Marques;Couto Pereira;16;5;0;0;48%;52%;423;488;13;5;1;2;0;0;1;1;7;2
+26;16/09/2015;21:59;Santos;Atlético-MG;4;0;D. Silvestre Júnior;L. Culpi;Estádio Urbano Caldeira;13;16;0;0;44%;56%;477;592;7;11;1;1;0;0;2;1;1;3
+26;16/09/2015;21:59;Internacional;Corinthians;2;1;A. Fucks;A. Bacchi;Estádio José Pinheiro Borda;13;14;0;0;44%;56%;348;425;15;12;2;1;0;0;4;1;5;6
+26;16/09/2015;22:01;Cruzeiro;Vasco da Gama;2;2;L. Venker de Menezes;J. de Amorim Campos;Mineirão;12;10;0;0;53%;47%;437;398;15;4;4;2;0;1;0;2;11;11
+26;17/09/2015;19:31;São Paulo;Chapecoense;0;0;J. Osorio;A. Ferreira;Morumbi;7;8;0;0;59%;41%;474;354;12;14;2;2;0;0;2;2;6;3
+26;17/09/2015;21:00;Flamengo;Coritiba;0;2;O. de Oliveira Filho;N. da Silveira Júnior;Estádio Nacional de Brasília;17;8;0;0;73%;27%;627;245;12;21;2;3;0;0;2;3;10;0
+27;19/09/2015;18:32;Palmeiras;Grêmio;3;2;M. de Oliveira Santos;R. Machado Marques;Estádio Municipal Paulo Machado de Carvalho;14;9;0;0;41%;59%;284;432;22;17;2;4;0;0;2;1;9;2
+27;19/09/2015;18:29;Internacional;Figueirense;1;1;A. Fucks;H. Coutinho;Estádio José Pinheiro Borda;9;8;0;0;53%;47%;415;368;22;22;1;5;0;0;2;0;5;5
+27;19/09/2015;21:00;Ponte Preta;Fluminense;3;1;D. Ghidoni Junior;E. Baptista;Moisés Lucarelli;9;10;0;0;40%;60%;348;498;14;14;3;4;0;0;2;1;5;7
+27;20/09/2015;11:02;Goiás;Joinville;3;0;;P. Lopes de Gusmão;Estádio do Governo do Estado de Goiás (Serra Dourada);12;7;0;0;45%;55%;379;437;6;12;0;1;0;0;2;0;3;8
+27;20/09/2015;11:04;Corinthians;Santos;2;0;A. Bacchi;D. Silvestre Júnior;Neo Química Arena;14;6;0;0;57%;43%;464;357;8;10;2;5;0;2;2;3;9;6
+27;20/09/2015;16:01;Vasco da Gama;Sport Recife;2;1;J. de Amorim Campos;D. Pollo Barioni;Maracanã;14;13;0;0;44%;56%;372;477;13;10;2;2;0;0;4;2;2;5
+27;20/09/2015;16:00;Atlético-MG;Flamengo;4;1;L. Culpi;O. de Oliveira Filho;Estádio Raimundo Sampaio;14;11;0;0;45%;55%;379;438;16;16;2;2;0;0;0;4;6;6
+27;20/09/2015;16:02;Avaí;São Paulo;2;1;G. Kleina;J. Osorio;Ressacada;12;11;0;0;38%;62%;294;490;17;19;3;4;0;0;3;2;9;5
+27;20/09/2015;18:32;Chapecoense;Cruzeiro;0;2;A. Ferreira;L. Venker de Menezes;Arena Condá;18;5;0;0;55%;45%;416;364;15;12;2;0;0;1;2;2;3;6
+27;20/09/2015;18:30;Coritiba;Athletico-PR;2;0;N. da Silveira Júnior;M. Mendes;Couto Pereira;9;9;0;0;38%;62%;260;407;19;23;7;3;1;0;1;2;5;5
+28;26/09/2015;18:30;Fluminense;Goiás;2;0;E. Baptista;A. Alves da Silva Neto;Maracanã;7;14;0;0;52%;48%;437;405;27;15;4;3;0;0;0;2;0;4
+28;26/09/2015;21:00;Grêmio;Avaí;3;1;R. Machado Marques;G. Kleina;Arena do Grêmio;14;13;0;0;54%;46%;538;426;13;12;1;3;0;0;2;0;3;8
+28;27/09/2015;11:00;Athletico-PR;Ponte Preta;1;2;M. Mendes;D. Ghidoni Junior;Estádio Joaquim Américo Guimarães;19;8;0;0;66%;34%;488;278;16;18;2;4;0;0;0;4;13;2
+28;27/09/2015;11:01;Santos;Internacional;3;1;D. Silvestre Júnior;A. Fucks;Estádio Urbano Caldeira;18;11;0;0;61%;39%;490;324;8;17;1;4;0;0;3;1;5;6
+28;27/09/2015;16:00;Flamengo;Vasco da Gama;1;2;O. de Oliveira Filho;J. de Amorim Campos;Maracanã;14;7;0;0;48%;52%;307;334;26;21;5;6;0;0;2;0;4;5
+28;27/09/2015;16:00;Joinville;Atlético-MG;2;2;P. Lopes de Gusmão;L. Culpi;Arena Joinville;15;12;0;0;43%;57%;369;498;19;8;2;2;0;0;2;5;5;5
+28;27/09/2015;16:00;Figueirense;Corinthians;1;3;H. Coutinho;A. Bacchi;Orlando Scarpelli;12;14;0;0;53%;47%;385;367;21;14;3;3;0;0;3;0;9;4
+28;27/09/2015;16:03;São Paulo;Palmeiras;1;1;J. Osorio;M. de Oliveira Santos;Morumbi;14;9;0;0;56%;44%;402;315;13;17;1;2;0;0;2;0;7;3
+28;27/09/2015;18:30;Sport Recife;Chapecoense;3;0;Falcao;A. Ferreira;Adelmar da Costa Carvalho;9;15;0;0;46%;54%;374;414;17;8;3;0;0;0;2;1;4;6
+28;27/09/2015;18:30;Cruzeiro;Coritiba;2;0;L. Venker de Menezes;N. da Silveira Júnior;Mineirão;7;16;0;0;49%;51%;458;446;13;13;0;1;1;1;0;3;3;6
+29;03/10/2015;18:30;Internacional;Sport Recife;2;1;A. Fucks;Falcao;Estádio José Pinheiro Borda;21;9;0;0;51%;49%;376;382;16;11;2;2;0;1;3;1;8;4
+29;03/10/2015;18:31;Coritiba;Atlético-MG;0;3;N. da Silveira Júnior;L. Culpi;Couto Pereira;14;10;0;0;49%;51%;412;443;6;11;1;2;0;0;4;0;9;1
+29;03/10/2015;21:00;São Paulo;Athletico-PR;1;0;J. Osorio;S. de Oliveira Vieira;Morumbi;11;8;0;0;58%;42%;464;342;12;16;1;3;0;0;4;1;4;0
+29;04/10/2015;11:04;Avaí;Vasco da Gama;1;1;G. Kleina;J. de Amorim Campos;Ressacada;14;8;0;0;41%;59%;289;444;18;18;4;6;1;2;2;5;6;3
+29;04/10/2015;11:01;Flamengo;Joinville;2;0;O. de Oliveira Filho;P. Lopes de Gusmão;Maracanã;21;4;0;0;70%;30%;478;217;17;27;2;3;0;0;8;0;9;2
+29;04/10/2015;16:03;Santos;Fluminense;3;1;D. Silvestre Júnior;E. Baptista;Estádio Urbano Caldeira;19;11;0;0;54%;46%;442;386;24;12;3;2;0;0;9;0;6;4
+29;04/10/2015;16:01;Cruzeiro;Grêmio;0;0;L. Venker de Menezes;R. Machado Marques;Mineirão;18;3;0;0;46%;54%;436;526;9;15;3;3;0;0;4;0;3;5
+29;04/10/2015;16:00;Goiás;Figueirense;2;3;A. Alves da Silva Neto;H. Coutinho;Estádio do Governo do Estado de Goiás (Serra Dourada);19;13;0;0;62%;38%;423;267;15;11;1;5;0;1;0;3;4;5
+29;04/10/2015;16:02;Ponte Preta;Corinthians;2;2;D. Ghidoni Junior;A. Bacchi;Moisés Lucarelli;10;13;0;0;42%;58%;320;445;17;15;1;4;1;0;6;1;8;7
+29;04/10/2015;18:32;Chapecoense;Palmeiras;5;1;A. Ferreira;M. de Oliveira Santos;Arena Condá;13;10;0;0;48%;52%;314;336;17;17;0;5;0;0;0;2;2;7
+30;14/10/2015;19:30;Atlético-MG;Internacional;2;1;L. Culpi;A. Fucks;Estádio Raimundo Sampaio;20;6;0;0;59%;41%;488;352;14;11;2;3;0;0;3;2;5;3
+30;14/10/2015;19:30;Sport Recife;Avaí;3;0;Falcao;G. Kleina;Adelmar da Costa Carvalho;13;7;0;0;59%;41%;517;375;8;16;2;5;0;0;2;1;9;0
+30;14/10/2015;21:00;Joinville;Coritiba;3;1;P. Lopes de Gusmão;N. da Silveira Júnior;Arena Joinville;13;13;0;0;42%;58%;293;407;23;16;6;1;0;0;0;4;4;4
+30;14/10/2015;21:00;Figueirense;Flamengo;3;0;H. Coutinho;O. de Oliveira Filho;Orlando Scarpelli;15;11;0;0;33%;67%;228;479;14;10;1;1;0;0;1;2;4;3
+30;14/10/2015;21:00;Palmeiras;Ponte Preta;0;1;M. de Oliveira Santos;F. Moreira;Allianz Parque;16;9;0;0;59%;41%;404;306;18;17;2;3;0;0;1;0;8;6
+30;14/10/2015;22:00;Fluminense;São Paulo;2;0;E. Baptista;D. Ghidoni Junior;Maracanã;7;10;3;1;42%;58%;340;462;16;21;0;4;0;0;1;2;3;5
+30;14/10/2015;22:01;Athletico-PR;Cruzeiro;2;2;C. Borges dos Santos;L. Venker de Menezes;Estádio Joaquim Américo Guimarães;5;19;0;0;51%;49%;384;365;20;7;5;2;0;0;3;5;0;11
+30;15/10/2015;19:31;Vasco da Gama;Chapecoense;1;1;J. de Amorim Campos;A. Ferreira;Maracanã;12;10;0;0;57%;43%;388;306;16;19;4;5;0;0;2;1;8;0
+30;15/10/2015;19:30;Corinthians;Goiás;3;0;A. Bacchi;A. Alves da Silva Neto;Neo Química Arena;17;13;0;0;63%;37%;620;367;9;10;1;5;0;0;3;6;6;4
+30;15/10/2015;21:01;Grêmio;Santos;1;0;R. Machado Marques;D. Silvestre Júnior;Arena do Grêmio;14;12;0;0;49%;51%;462;474;14;4;3;3;0;1;0;1;9;11
+31;17/10/2015;18:34;Avaí;Palmeiras;1;3;G. Kleina;M. de Oliveira Santos;Ressacada;11;17;0;0;54%;46%;379;330;14;29;3;4;0;0;2;1;1;5
+31;17/10/2015;21:01;Joinville;Figueirense;1;0;P. Lopes de Gusmão;H. Coutinho;Arena Joinville;14;14;0;0;45%;55%;280;348;24;16;1;3;1;0;4;2;5;3
+31;18/10/2015;11:04;Ponte Preta;Coritiba;3;0;F. Moreira;N. da Silveira Júnior;Moisés Lucarelli;17;9;10;3;46%;54%;369;428;30;27;3;3;0;0;2;2;6;2
+31;18/10/2015;11:00;Cruzeiro;Fluminense;2;0;L. Venker de Menezes;E. Baptista;Mineirão;21;6;8;0;49%;51%;426;430;13;14;2;1;0;0;1;0;7;3
+31;18/10/2015;16:00;Athletico-PR;Corinthians;1;4;C. Borges dos Santos;A. Bacchi;Estádio Joaquim Américo Guimarães;11;12;0;0;56%;44%;470;389;11;12;2;1;0;0;5;1;7;5
+31;18/10/2015;16:01;Flamengo;Internacional;0;1;O. de Oliveira Filho;A. Fucks;Maracanã;17;8;0;0;63%;37%;459;286;19;24;0;2;0;0;0;0;5;1
+31;18/10/2015;16:00;São Paulo;Vasco da Gama;2;2;D. Ghidoni Junior;J. de Amorim Campos;Morumbi;17;16;0;0;48%;52%;401;427;11;16;1;1;1;0;3;2;4;7
+31;18/10/2015;16:59;Grêmio;Chapecoense;2;3;R. Machado Marques;A. Ferreira;Arena do Grêmio;15;21;0;0;57%;43%;489;369;17;13;3;2;0;1;2;1;5;3
+31;18/10/2015;16:59;Santos;Goiás;3;1;D. Silvestre Júnior;A. Alves da Silva Neto;Estádio Urbano Caldeira;16;10;0;0;61%;39%;559;374;9;8;0;1;0;0;4;1;3;1
+31;18/10/2015;18:29;Sport Recife;Atlético-MG;4;1;Falcao;L. Culpi;Arena de Pernambuco;11;7;0;0;44%;56%;429;545;13;8;0;0;0;1;1;1;4;7
+32;24/10/2015;17:00;Fluminense;Athletico-PR;0;1;E. Baptista;C. Borges dos Santos;Maracanã;20;12;9;4;54%;46%;478;427;4;21;1;3;0;0;2;1;7;5
+32;24/10/2015;18:31;Internacional;Joinville;1;0;A. Fucks;P. Lopes de Gusmão;Estádio José Pinheiro Borda;15;9;0;0;62%;38%;461;279;11;18;1;2;0;0;5;1;4;4
+32;24/10/2015;18:31;Figueirense;Santos;0;0;H. Coutinho;D. Silvestre Júnior;Orlando Scarpelli;16;8;0;0;38%;62%;281;485;24;20;5;2;0;0;3;1;4;4
+32;24/10/2015;21:01;Palmeiras;Sport Recife;0;2;M. de Oliveira Santos;Falcao;Estádio Municipal Paulo Machado de Carvalho;14;9;0;0;53%;47%;452;433;15;9;2;1;0;0;1;1;11;1
+32;25/10/2015;17:01;Corinthians;Flamengo;1;0;A. Bacchi;O. de Oliveira Filho;Neo Química Arena;8;8;0;0;56%;44%;509;397;19;20;3;1;0;1;1;6;1;6
+32;25/10/2015;17:07;Coritiba;São Paulo;1;2;N. da Silveira Júnior;D. Ghidoni Junior;Couto Pereira;12;15;0;0;40%;60%;344;525;17;21;4;3;1;0;2;1;3;3
+32;25/10/2015;16:59;Chapecoense;Avaí;0;0;A. Ferreira;G. Kleina;Arena Condá;10;12;0;0;53%;47%;397;367;17;16;1;2;0;0;1;1;2;4
+32;25/10/2015;17:01;Vasco da Gama;Grêmio;0;0;J. de Amorim Campos;R. Machado Marques;Maracanã;20;11;0;0;53%;47%;454;416;12;16;1;2;0;0;4;4;3;9
+32;25/10/2015;17:59;Goiás;Cruzeiro;0;1;D. Sérgio;L. Venker de Menezes;Estádio do Governo do Estado de Goiás (Serra Dourada);17;15;0;0;44%;56%;363;485;14;11;4;4;0;0;0;0;8;5
+32;25/10/2015;19:30;Atlético-MG;Ponte Preta;2;1;L. Culpi;F. Moreira;Estádio Raimundo Sampaio;17;7;0;0;59%;41%;552;409;15;12;2;1;0;0;0;2;6;5
+33;31/10/2015;17:00;São Paulo;Sport Recife;3;0;D. Ghidoni Junior;Falcao;Morumbi;16;9;0;0;57%;43%;541;415;10;15;1;2;0;0;3;2;4;2
+33;31/10/2015;19:31;Avaí;Cruzeiro;1;1;G. Kleina;L. Venker de Menezes;Ressacada;10;15;0;0;51%;49%;315;325;16;16;3;3;0;0;1;0;4;3
+33;31/10/2015;19:31;Ponte Preta;Joinville;1;0;F. Moreira;P. Lopes de Gusmão;Moisés Lucarelli;2;11;0;0;51%;49%;354;330;20;17;3;5;0;0;2;0;7;4
+33;31/10/2015;21:02;Coritiba;Figueirense;1;1;N. da Silveira Júnior;H. Coutinho;Couto Pereira;11;6;0;0;64%;36%;424;247;13;29;2;5;0;0;3;2;7;6
+33;01/11/2015;17:01;Chapecoense;Athletico-PR;0;0;A. Ferreira;C. Borges dos Santos;Arena Condá;17;5;0;0;56%;44%;402;341;13;12;3;4;0;1;2;1;7;4
+33;01/11/2015;17:01;Santos;Palmeiras;2;1;D. Silvestre Júnior;M. de Oliveira Santos;Estádio Urbano Caldeira;13;8;0;0;46%;54%;281;325;15;18;3;3;0;1;6;3;6;4
+33;01/11/2015;17:00;Grêmio;Flamengo;2;0;R. Machado Marques;O. de Oliveira Filho;Arena do Grêmio;11;6;0;0;52%;48%;506;474;12;12;0;0;0;1;0;1;6;1
+33;01/11/2015;17:00;Atlético-MG;Corinthians;0;3;L. Culpi;A. Bacchi;Estádio Raimundo Sampaio;16;9;0;0;59%;41%;497;363;11;15;1;0;0;0;5;1;11;2
+33;01/11/2015;18:03;Vasco da Gama;Fluminense;0;1;J. de Amorim Campos;E. Baptista;Estádio Nilton Santos;13;14;3;5;48%;52%;444;472;18;22;2;4;0;1;0;2;13;5
+33;01/11/2015;19:30;Goiás;Internacional;2;1;D. Sérgio;A. Fucks;Estádio do Governo do Estado de Goiás (Serra Dourada);14;14;0;0;34%;66%;267;520;16;12;3;3;0;0;3;2;4;5
+34;07/11/2015;16:59;Internacional;Ponte Preta;1;0;A. Fucks;F. Moreira;Estádio José Pinheiro Borda;11;13;0;0;55%;45%;439;360;20;20;2;4;0;0;0;4;4;6
+34;07/11/2015;19:29;Corinthians;Coritiba;2;1;A. Bacchi;E. Pacheco;Neo Química Arena;10;10;0;0;67%;33%;698;331;5;17;0;3;0;0;1;2;6;7
+34;07/11/2015;19:34;Athletico-PR;Avaí;2;1;C. Borges dos Santos;G. Kleina;Estádio Joaquim Américo Guimarães;18;21;0;0;59%;41%;467;322;21;10;1;2;0;0;1;1;7;4
+34;07/11/2015;21:00;Fluminense;Chapecoense;2;3;E. Baptista;A. Ferreira;Maracanã;13;18;5;3;60%;40%;522;351;12;14;3;3;0;0;3;2;6;5
+34;08/11/2015;17:02;Palmeiras;Vasco da Gama;0;2;M. de Oliveira Santos;J. de Amorim Campos;Allianz Parque;15;9;0;0;57%;43%;422;333;29;13;1;4;0;0;1;3;8;2
+34;08/11/2015;16:59;Flamengo;Goiás;4;1;O. de Oliveira Filho;D. Sérgio;Maracanã;13;11;0;0;65%;35%;581;323;16;14;1;0;0;0;4;1;5;2
+34;08/11/2015;17:00;Cruzeiro;São Paulo;2;1;L. Venker de Menezes;D. Ghidoni Junior;Mineirão;18;13;0;0;44%;56%;446;577;5;12;1;2;0;0;4;0;6;2
+34;08/11/2015;17:00;Figueirense;Atlético-MG;0;1;H. Coutinho;L. Culpi;Orlando Scarpelli;13;13;0;0;31%;69%;243;562;14;13;2;4;0;0;4;2;10;6
+34;08/11/2015;18:01;Joinville;Santos;0;0;P. Lopes de Gusmão;D. Silvestre Júnior;Arena Joinville;9;11;0;0;55%;45%;237;203;22;19;3;2;1;0;3;8;11;7
+34;08/11/2015;19:31;Sport Recife;Grêmio;1;0;Falcao;R. Machado Marques;Adelmar da Costa Carvalho;13;8;0;0;48%;52%;426;460;8;16;2;3;0;1;1;2;8;4
+35;15/11/2015;17:02;Cruzeiro;Sport Recife;3;0;L. Venker de Menezes;Falcao;Mineirão;21;15;0;0;47%;53%;369;410;13;15;2;4;0;0;3;3;13;13
+35;18/11/2015;19:30;Goiás;Coritiba;1;3;D. Sérgio;E. Pacheco;Estádio do Governo do Estado de Goiás (Serra Dourada);12;11;0;0;62%;38%;484;316;20;18;1;1;0;0;4;0;5;3
+35;18/11/2015;21:01;Ponte Preta;Figueirense;0;1;F. Moreira;H. Coutinho;Moisés Lucarelli;13;7;0;0;68%;32%;534;262;18;24;4;4;0;0;3;2;5;1
+35;18/11/2015;21:04;Avaí;Joinville;2;1;R. Maia Cabral;P. Lopes de Gusmão;Ressacada;11;14;0;0;40%;60%;265;392;12;13;4;1;0;0;1;0;6;8
+35;18/11/2015;21:03;Athletico-PR;Palmeiras;3;3;C. Borges dos Santos;M. de Oliveira Santos;Estádio Joaquim Américo Guimarães;14;12;0;0;47%;53%;363;395;13;15;2;4;0;2;5;4;1;4
+35;19/11/2015;19:31;Grêmio;Fluminense;1;0;R. Machado Marques;E. Baptista;Arena do Grêmio;21;8;0;0;63%;37%;499;293;20;21;3;4;0;1;3;2;9;4
+35;19/11/2015;20:21;Chapecoense;Internacional;1;0;A. Ferreira;A. Fucks;Arena Condá;18;11;0;0;43%;57%;318;433;16;14;4;2;0;1;4;7;9;3
+35;19/11/2015;21:59;São Paulo;Atlético-MG;4;2;M. Cruz;L. Culpi;Morumbi;18;10;0;0;45%;55%;418;516;7;9;0;0;0;0;3;4;5;5
+35;19/11/2015;22:00;Santos;Flamengo;0;0;D. Silvestre Júnior;O. de Oliveira Filho;Estádio Urbano Caldeira;13;11;0;0;59%;41%;471;327;20;11;2;1;0;1;2;1;6;3
+35;19/11/2015;22:01;Vasco da Gama;Corinthians;1;1;J. de Amorim Campos;A. Bacchi;Estádio Vasco da Gama;14;14;0;0;40%;60%;305;442;12;15;1;3;1;0;6;0;8;6
+36;21/11/2015;19:31;Palmeiras;Cruzeiro;1;1;M. de Oliveira Santos;L. Venker de Menezes;Allianz Parque;10;15;0;0;51%;49%;438;433;20;13;2;1;0;0;1;2;1;2
+36;22/11/2015;17:03;Joinville;Vasco da Gama;1;2;P. Lopes de Gusmão;J. de Amorim Campos;Arena Joinville;21;8;0;0;54%;46%;338;306;21;10;4;4;1;0;3;1;7;9
+36;22/11/2015;16:59;Atlético-MG;Goiás;2;2;L. Culpi;D. Sérgio;Estádio Raimundo Sampaio;18;12;0;0;73%;27%;629;242;16;12;3;3;0;0;3;1;6;2
+36;22/11/2015;17:00;Internacional;Grêmio;1;0;A. Fucks;R. Machado Marques;Estádio José Pinheiro Borda;13;11;0;0;43%;57%;322;419;21;13;4;2;0;0;2;0;6;4
+36;22/11/2015;17:01;Figueirense;Chapecoense;0;0;H. Coutinho;A. Ferreira;Orlando Scarpelli;14;6;0;0;51%;49%;400;397;13;15;1;3;0;0;3;1;4;5
+36;22/11/2015;17:00;Corinthians;São Paulo;6;1;A. Bacchi;M. Cruz;Neo Química Arena;13;19;0;0;51%;49%;459;441;10;10;2;2;0;0;0;3;3;9
+36;22/11/2015;18:01;Flamengo;Ponte Preta;1;1;O. de Oliveira Filho;F. Moreira;Estádio Nacional de Brasília;15;12;0;0;59%;41%;501;360;19;23;3;3;0;0;0;2;8;3
+36;22/11/2015;19:29;Fluminense;Avaí;3;1;E. Baptista;R. Maia Cabral;Kléber Andrade;9;13;0;0;56%;44%;515;400;11;6;2;3;0;0;2;2;5;5
+36;22/11/2015;19:32;Coritiba;Santos;1;0;E. Pacheco;D. Silvestre Júnior;Couto Pereira;10;8;0;0;37%;63%;282;480;13;21;3;3;0;1;2;1;3;5
+36;22/11/2015;19:34;Sport Recife;Athletico-PR;0;0;Falcao;C. Borges dos Santos;Adelmar da Costa Carvalho;20;7;0;0;54%;46%;461;411;10;20;3;2;0;0;3;2;10;5
+37;28/11/2015;17:02;São Paulo;Figueirense;3;2;M. Cruz;H. Coutinho;Morumbi;19;12;0;0;65%;35%;526;289;16;26;1;4;0;0;0;6;4;2
+37;28/11/2015;19:29;Fluminense;Internacional;1;1;E. Baptista;A. Fucks;Maracanã;8;14;0;0;43%;57%;369;486;13;20;3;4;1;0;0;1;3;3
+37;28/11/2015;21:02;Avaí;Ponte Preta;1;0;R. Maia Cabral;F. Moreira;Ressacada;10;4;0;0;48%;52%;333;371;19;27;1;1;0;1;0;1;8;2
+37;29/11/2015;17:01;Sport Recife;Corinthians;2;0;Falcao;A. Bacchi;Arena de Pernambuco;13;8;0;0;45%;55%;399;484;14;17;6;3;0;0;4;2;8;4
+37;29/11/2015;17:00;Cruzeiro;Joinville;3;0;S. Lobo;P. Lopes de Gusmão;Mineirão;21;4;0;0;57%;43%;504;387;12;13;2;3;0;0;2;1;3;2
+37;29/11/2015;17:00;Grêmio;Atlético-MG;2;1;R. Machado Marques;D. Giacomini;Arena do Grêmio;4;15;0;0;43%;57%;397;522;10;11;3;5;0;0;3;0;3;3
+37;29/11/2015;17:59;Chapecoense;Goiás;1;3;A. Ferreira;D. Sérgio;Arena Condá;11;14;0;0;66%;34%;438;234;17;17;5;3;0;0;0;2;4;3
+37;29/11/2015;18:14;Vasco da Gama;Santos;1;0;J. de Amorim Campos;D. Silvestre Júnior;Estádio Vasco da Gama;16;9;0;0;47%;53%;307;349;14;12;3;2;0;0;1;3;10;2
+37;29/11/2015;17:57;Palmeiras;Coritiba;0;2;M. de Oliveira Santos;E. Pacheco;Allianz Parque;6;7;0;0;70%;30%;495;225;22;27;3;3;0;0;4;4;6;2
+37;29/11/2015;19:32;Athletico-PR;Flamengo;3;0;C. Borges dos Santos;J. de Almeida Filho;Estádio Joaquim Américo Guimarães;17;10;0;0;40%;60%;372;546;16;14;1;3;0;0;2;1;2;4
+38;06/12/2015;17:02;Internacional;Cruzeiro;2;0;A. Fucks;L. Venker de Menezes;Estádio José Pinheiro Borda;13;6;0;0;51%;49%;381;399;11;13;2;1;0;0;4;2;9;3
+38;06/12/2015;17:00;Flamengo;Palmeiras;1;2;J. de Almeida Filho;M. de Oliveira Santos;Maracanã;15;14;0;0;65%;35%;559;304;16;20;0;1;0;0;1;4;1;5
+38;06/12/2015;17:02;Figueirense;Fluminense;1;0;H. Coutinho;E. Baptista;Orlando Scarpelli;17;8;0;0;39%;61%;262;421;16;18;4;4;0;0;0;1;7;5
+38;06/12/2015;17:00;Santos;Athletico-PR;5;1;D. Silvestre Júnior;C. Borges dos Santos;Estádio Urbano Caldeira;12;15;0;0;49%;51%;440;442;10;10;0;1;0;0;4;3;7;5
+38;06/12/2015;17:01;Ponte Preta;Sport Recife;0;1;F. Moreira;Falcao;Moisés Lucarelli;14;4;0;0;48%;52%;358;402;21;12;4;2;0;0;4;2;9;5
+38;06/12/2015;17:02;Goiás;São Paulo;0;1;D. Sérgio;M. Cruz;Estádio do Governo do Estado de Goiás (Serra Dourada);6;6;0;0;36%;64%;309;540;12;21;4;1;0;0;1;0;2;3
+38;06/12/2015;17:02;Corinthians;Avaí;1;1;A. Bacchi;R. Maia Cabral;Neo Química Arena;14;11;0;0;78%;22%;761;216;11;14;2;2;0;0;2;1;4;2
+38;06/12/2015;17:00;Atlético-MG;Chapecoense;3;0;D. Giacomini;A. Ferreira;Mineirão;14;10;0;0;60%;40%;553;364;7;11;0;0;0;0;2;0;5;4
+38;06/12/2015;16:59;Joinville;Grêmio;0;2;P. Lopes de Gusmão;R. Machado Marques;Arena Joinville;13;7;0;0;54%;46%;341;314;12;13;3;1;0;0;3;3;7;4
+38;06/12/2015;17:03;Coritiba;Vasco da Gama;0;0;E. Pacheco;J. de Amorim Campos;Couto Pereira;6;7;0;0;47%;53%;295;327;20;15;1;0;0;1;1;3;4;3

@@ -1,0 +1,381 @@
+﻿rodada;data;hora;time_casa;time_fora;gols_casa;gols_fora;tecnico_casa;tecnico_fora;estadio;stat_chutes_casa;stat_chutes_fora;stat_chutes_a_gol_casa;stat_chutes_a_gol_fora;stat_posse_de_bola_casa;stat_posse_de_bola_fora;stat_passes_casa;stat_passes_fora;stat_precisão_de_passe_casa;stat_precisão_de_passe_fora;stat_faltas_casa;stat_faltas_fora;stat_cartões_amarelos_casa;stat_cartões_amarelos_fora;stat_cartões_vermelhos_casa;stat_cartões_vermelhos_fora;stat_impedimentos_casa;stat_impedimentos_fora;stat_escanteios_casa;stat_escanteios_fora
+1;08/08/2020;19:00;Fortaleza;Athletico-PR;0;2;R. Ceni;D. Silvestre Júnior;Arena Castelão;11;13;3;5;43%;57%;414;549;86%;89%;14;10;3;2;1;0;1;1;4;4
+1;08/08/2020;10:57;Coritiba;Internacional;0;1;E. de Souza Barroca;E. Coudet;Couto Pereira;2;11;0;4;42%;58%;382;504;74%;81%;11;21;3;4;0;0;3;2;2;6
+1;08/08/2020;10:40;Sport Recife;Ceará SC;3;2;D. Pollo Barioni;A. Ferreira;Adelmar da Costa Carvalho;9;11;3;5;40%;60%;324;487;77%;82%;15;18;3;3;0;0;3;0;2;4
+1;09/08/2020;16:02;Santos;Bragantino;1;1;A. Stival;F. de Oliveira Conceição;Estádio Urbano Caldeira;10;18;4;6;54%;46%;444;377;81%;80%;10;19;0;1;0;0;4;2;4;2
+1;09/08/2020;16:00;Flamengo;Atlético-MG;0;1;D. Torrent Font;J. Sampaoli Moya;Maracanã;17;10;2;4;63%;37%;525;321;80%;71%;12;24;3;2;0;0;2;3;9;2
+1;09/08/2020;19:00;Grêmio;Fluminense;1;0;Renato Gaúcho;O. Hellmann;Arena do Grêmio;15;10;4;4;53%;47%;496;447;80%;80%;24;16;2;3;0;0;2;1;6;3
+1;30/09/2020;21:30;Corinthians;Atlético-GO;0;0;Coelho;V. Carmo Mancini;Neo Química Arena;12;18;4;6;54%;46%;461;397;83%;81%;18;12;2;0;0;0;4;2;4;7
+1;30/09/2020;21:30;Botafogo;Bahia;1;2;P. Autuori de Mello;L. Venker de Menezes;Estádio Nilton Santos;15;12;2;4;62%;38%;502;322;86%;74%;18;14;2;3;1;0;0;1;8;5
+1;03/12/2020;19:00;Goiás;São Paulo;0;3;G. Ramos da Silva;F. Diniz Silva;Estádio da Serrinha;9;15;3;6;41%;59%;324;466;75%;84%;16;19;3;0;0;0;0;1;2;9
+1;26/01/2021;20:00;Palmeiras;Vasco da Gama;1;1;A. Moreira Ferreira;V. Luxemburgo da Silva;Allianz Parque;14;12;3;3;55%;45%;477;390;84%;78%;19;11;1;1;0;0;0;2;6;3
+2;12/08/2020;09:43;Athletico-PR;Goiás;2;1;D. Silvestre Júnior;N. da Silveira Júnior;Estádio Joaquim Américo Guimarães;19;13;4;3;79%;21%;728;196;92%;72%;16;18;3;3;0;0;1;1;3;3
+2;12/08/2020;19:16;Atlético-MG;Corinthians;3;2;J. Sampaoli Moya;T. Retzalff Nunes;Mineirão;25;8;13;5;56%;44%;515;426;81%;74%;19;11;0;1;0;0;3;1;8;4
+2;12/08/2020;19:15;Bragantino;Botafogo;1;1;F. de Oliveira Conceição;P. Autuori de Mello;Nabizão;23;9;8;3;55%;45%;558;472;88%;82%;13;8;3;1;0;0;1;1;12;3
+2;12/08/2020;20:30;Bahia;Coritiba;1;0;R. Machado Marques;E. de Souza Barroca;Estádio de Pituaçu;12;15;5;3;45%;55%;420;486;80%;85%;16;18;0;5;0;0;1;5;3;8
+2;12/08/2020;20:31;Atlético-GO;Flamengo;3;0;V. Carmo Mancini;D. Torrent Font;Estádio Olímpico Pedro Ludovico Teixeira;13;9;7;3;34%;66%;284;555;72%;88%;15;19;1;1;0;1;2;1;11;5
+2;12/08/2020;21:30;Ceará SC;Grêmio;1;1;A. Ferreira;Renato Gaúcho;Arena Castelão;11;14;5;8;42%;58%;421;571;80%;87%;17;7;3;1;0;0;1;0;1;7
+2;12/08/2020;21:30;Fluminense;Palmeiras;1;1;O. Hellmann;V. Luxemburgo da Silva;Maracanã;10;9;1;1;52%;48%;430;400;82%;82%;20;31;3;3;0;0;3;0;3;3
+2;13/08/2020;19:16;São Paulo;Fortaleza;1;0;F. Diniz Silva;R. Ceni;Morumbi;13;12;3;3;52%;48%;474;443;87%;85%;16;18;1;2;0;0;4;3;5;7
+2;13/08/2020;19:32;Internacional;Santos;2;0;E. Coudet;A. Stival;Estádio José Pinheiro Borda;25;6;7;1;59%;41%;515;379;83%;79%;28;14;2;3;0;0;2;2;9;4
+2;13/08/2020;20:00;Vasco da Gama;Sport Recife;2;0;R. Menezes Hubner;D. Pollo Barioni;Estádio Vasco da Gama;9;13;6;1;46%;54%;371;416;81%;84%;29;17;2;3;0;1;1;4;5;8
+3;15/08/2020;19:00;Grêmio;Corinthians;0;0;Renato Gaúcho;T. Retzalff Nunes;Arena do Grêmio;24;5;8;2;47%;53%;491;571;86%;88%;16;14;2;3;0;0;0;0;7;5
+3;15/08/2020;12:57;Coritiba;Flamengo;0;1;E. de Souza Barroca;D. Torrent Font;Couto Pereira;9;18;2;7;35%;65%;286;541;74%;88%;25;16;4;3;1;0;3;1;5;5
+3;15/08/2020;21:30;Palmeiras;Goiás;1;1;V. Luxemburgo da Silva;N. da Silveira Júnior;Allianz Parque;12;11;3;5;65%;35%;668;369;86%;75%;11;16;1;3;0;0;0;0;6;2
+3;16/08/2020;11:01;Atlético-MG;Ceará SC;2;0;J. Sampaoli Moya;A. Ferreira;Mineirão;11;13;6;1;61%;39%;475;309;82%;77%;14;16;2;4;0;0;2;0;4;0
+3;16/08/2020;16:00;Bahia;Bragantino;2;1;R. Machado Marques;F. de Oliveira Conceição;Estádio de Pituaçu;10;16;4;3;42%;58%;381;505;76%;82%;16;16;1;1;0;0;2;1;3;7
+3;16/08/2020;16:00;Vasco da Gama;São Paulo;2;1;R. Menezes Hubner;F. Diniz Silva;Estádio Vasco da Gama;8;11;3;5;40%;60%;379;559;82%;86%;16;15;2;5;0;0;1;1;3;4
+3;16/08/2020;18:00;Fluminense;Internacional;2;1;O. Hellmann;E. Coudet;Maracanã;10;9;5;3;43%;57%;339;433;76%;78%;13;24;2;2;0;0;1;1;1;4
+3;16/08/2020;19:00;Atlético-GO;Sport Recife;1;1;V. Carmo Mancini;D. Pollo Barioni;Estádio Olímpico Pedro Ludovico Teixeira;11;15;4;4;31%;69%;237;509;68%;82%;13;15;0;2;1;0;0;2;4;9
+3;16/08/2020;19:30;Fortaleza;Botafogo;0;0;R. Ceni;P. Autuori de Mello;Arena Castelão;12;15;1;6;59%;41%;561;392;90%;87%;9;8;2;1;0;0;2;1;4;7
+3;16/08/2020;19:46;Santos;Athletico-PR;3;1;A. Stival;L. Silvestre;Estádio Urbano Caldeira;11;12;6;2;32%;68%;290;587;77%;88%;9;22;1;1;0;0;0;0;2;6
+4;19/08/2020;19:15;Flamengo;Grêmio;1;1;D. Torrent Font;Renato Gaúcho;Maracanã;8;10;2;2;61%;39%;596;390;87%;80%;17;20;3;3;0;0;1;3;1;2
+4;19/08/2020;19:15;Bragantino;Fluminense;2;1;F. de Oliveira Conceição;O. Hellmann;Nabizão;13;9;3;4;52%;48%;438;406;82%;81%;19;14;5;5;0;0;2;0;6;4
+4;19/08/2020;19:31;Athletico-PR;Palmeiras;0;1;D. Silvestre Júnior;V. Luxemburgo da Silva;Estádio Joaquim Américo Guimarães;6;10;0;3;56%;44%;459;362;80%;78%;23;20;5;0;0;0;0;3;5;8
+4;19/08/2020;20:31;Goiás;Fortaleza;1;3;N. da Silveira Júnior;R. Ceni;Estádio da Serrinha;13;13;4;3;48%;52%;379;410;82%;79%;16;15;4;2;0;0;3;2;2;6
+4;19/08/2020;20:29;Internacional;Atlético-GO;3;0;E. Coudet;V. Carmo Mancini;Estádio José Pinheiro Borda;11;7;5;1;58%;42%;452;337;84%;72%;19;17;3;3;1;0;1;2;4;3
+4;19/08/2020;21:30;Corinthians;Coritiba;3;1;T. Retzalff Nunes;E. de Souza Barroca;Neo Química Arena;23;9;13;4;64%;36%;591;352;91%;82%;15;7;2;1;0;1;0;3;10;0
+4;19/08/2020;21:30;Botafogo;Atlético-MG;2;1;P. Autuori de Mello;J. Sampaoli Moya;Estádio Nilton Santos;10;31;5;9;26%;74%;210;609;63%;87%;9;10;2;0;0;0;1;2;7;16
+4;20/08/2020;19:15;Sport Recife;Santos;0;1;D. Pollo Barioni;A. Stival;Adelmar da Costa Carvalho;11;16;5;5;41%;59%;354;513;76%;85%;23;17;5;2;0;0;1;1;4;5
+4;20/08/2020;20:00;Ceará SC;Vasco da Gama;0;3;A. Ferreira;R. Menezes Hubner;Arena Castelão;22;5;2;4;58%;42%;484;375;86%;81%;18;14;3;3;0;0;1;2;13;2
+4;20/08/2020;20:00;São Paulo;Bahia;1;1;F. Diniz Silva;R. Machado Marques;Morumbi;25;8;5;5;68%;32%;634;304;90%;68%;14;16;2;2;0;0;4;1;5;6
+5;22/08/2020;16:00;Athletico-PR;Fluminense;0;1;L. Porto Siqueira;O. Hellmann;Estádio Joaquim Américo Guimarães;14;9;5;2;66%;34%;610;326;87%;73%;21;12;4;3;0;0;1;2;7;2
+5;22/08/2020;18:59;Internacional;Atlético-MG;1;0;E. Coudet;J. Sampaoli Moya;Estádio José Pinheiro Borda;6;11;3;1;33%;67%;306;620;62%;81%;20;21;1;2;0;0;3;1;2;5
+5;22/08/2020;21:00;Goiás;Atlético-GO;2;0;G. Ramos da Silva;V. Carmo Mancini;Estádio da Serrinha;6;16;2;4;33%;67%;275;541;67%;82%;26;19;5;2;0;0;5;2;3;11
+5;23/08/2020;11:03;Flamengo;Botafogo;1;1;D. Torrent Font;P. Autuori de Mello;Maracanã;15;7;5;1;67%;33%;637;314;88%;78%;15;17;3;3;0;0;0;2;5;4
+5;23/08/2020;16:00;Vasco da Gama;Grêmio;0;0;R. Menezes Hubner;Renato Gaúcho;Estádio Vasco da Gama;10;14;3;4;46%;54%;414;474;80%;82%;23;17;5;2;0;0;1;0;6;4
+5;23/08/2020;16:02;Palmeiras;Santos;2;1;V. Luxemburgo da Silva;A. Stival;Morumbi;17;8;5;1;48%;52%;369;383;79%;76%;21;15;5;2;0;1;4;0;5;6
+5;23/08/2020;16:01;Bragantino;Coritiba;1;2;F. de Oliveira Conceição;M. Santos Batista Júnior;Nabizão;15;7;2;4;46%;54%;319;397;82%;75%;17;18;2;0;1;0;1;2;10;3
+5;23/08/2020;18:59;Sport Recife;São Paulo;0;1;D. Pollo Barioni;F. Diniz Silva;Adelmar da Costa Carvalho;10;11;2;4;55%;45%;516;425;86%;84%;21;25;2;3;0;0;1;0;0;3
+5;23/08/2020;20:00;Ceará SC;Bahia;2;0;A. Ferreira;R. Machado Marques;Arena Castelão;11;16;4;7;38%;62%;339;538;77%;84%;21;7;1;2;0;0;1;1;6;11
+5;26/08/2020;21:30;Corinthians;Fortaleza;1;1;T. Retzalff Nunes;R. Ceni;Neo Química Arena;21;10;7;3;60%;40%;584;405;85%;81%;14;12;0;2;0;0;0;5;5;1
+11;26/08/2020;19:00;São Paulo;Athletico-PR;1;0;F. Diniz Silva;D. Silvestre Júnior;Morumbi;15;5;5;3;57%;43%;605;464;87%;80%;13;16;2;1;0;0;3;1;4;1
+11;16/09/2020;21:32;Corinthians;Bahia;3;2;Coelho;L. Venker de Menezes;Neo Química Arena;11;25;5;7;33%;67%;277;533;72%;88%;15;13;3;2;0;0;1;5;4;11
+11;19/09/2020;19:01;Fortaleza;Internacional;1;0;R. Ceni;E. Coudet;Arena Castelão;12;11;3;1;42%;58%;318;420;76%;84%;9;20;1;3;0;0;2;2;3;7
+11;19/09/2020;19:01;Bragantino;Ceará SC;4;2;M. Nogueira Barbieri;A. Ferreira;Nabizão;18;13;9;6;42%;58%;308;417;76%;82%;24;11;4;3;0;0;2;1;5;9
+11;19/09/2020;21:00;Atlético-GO;Atlético-MG;3;4;V. Carmo Mancini;J. Sampaoli Moya;Estádio Olímpico Pedro Ludovico Teixeira;15;14;9;8;44%;56%;359;468;76%;84%;16;14;2;0;0;0;1;4;6;4
+11;20/09/2020;16:00;Grêmio;Palmeiras;1;1;Renato Gaúcho;V. Luxemburgo da Silva;Arena do Grêmio;13;9;3;2;64%;36%;590;336;85%;76%;21;21;2;3;0;0;0;2;6;3
+11;20/09/2020;16:00;Coritiba;Vasco da Gama;1;0;J. de Amorim Campos;T. Kosloski;Couto Pereira;11;11;2;3;55%;45%;497;415;86%;86%;14;15;1;2;0;0;3;0;6;6
+11;20/09/2020;18:15;Botafogo;Santos;0;0;P. Autuori de Mello;A. Stival;Estádio Nilton Santos;7;21;1;6;44%;56%;321;416;76%;83%;15;13;4;2;0;0;0;1;8;10
+11;20/09/2020;20:29;Sport Recife;Fluminense;1;0;J. Ribeiro Ventura;O. Hellmann;Adelmar da Costa Carvalho;8;18;3;4;26%;74%;251;700;69%;87%;10;9;0;1;0;0;3;3;5;8
+11;13/10/2020;17:59;Flamengo;Goiás;2;1;D. Torrent Font;E. Alves Moreira;Maracanã;31;7;12;4;66%;34%;562;299;85%;67%;12;12;1;4;0;0;1;4;9;4
+6;29/08/2020;17:00;Botafogo;Internacional;0;2;P. Autuori de Mello;E. Coudet;Estádio Nilton Santos;7;7;2;4;47%;53%;471;542;85%;87%;14;24;3;1;0;0;2;2;5;3
+6;29/08/2020;19:00;Fluminense;Vasco da Gama;2;1;O. Hellmann;R. Menezes Hubner;Maracanã;12;9;3;4;46%;54%;452;527;85%;84%;19;16;4;1;0;1;1;1;2;4
+6;29/08/2020;19:00;Bahia;Palmeiras;1;1;R. Machado Marques;V. Luxemburgo da Silva;Estádio de Pituaçu;9;11;1;5;49%;51%;429;456;82%;82%;15;16;2;2;0;0;1;4;8;2
+6;29/08/2020;21:00;Fortaleza;Bragantino;3;0;R. Ceni;F. de Oliveira Conceição;Arena Castelão;13;5;6;2;59%;41%;571;395;87%;83%;22;10;2;2;0;1;0;1;3;4
+6;30/08/2020;11:00;São Paulo;Corinthians;2;1;F. Diniz Silva;T. Retzalff Nunes;Morumbi;14;7;5;5;54%;46%;442;388;85%;80%;16;22;3;0;0;0;2;1;7;4
+6;30/08/2020;16:01;Coritiba;Sport Recife;1;0;J. de Amorim Campos;J. Ribeiro Ventura;Couto Pereira;13;6;3;2;59%;41%;562;387;85%;79%;14;19;1;4;0;0;0;1;5;2
+6;30/08/2020;16:00;Santos;Flamengo;0;1;A. Stival;D. Torrent Font;Estádio Urbano Caldeira;22;10;6;6;53%;47%;429;399;85%;80%;14;26;6;7;0;0;5;1;9;2
+6;30/08/2020;18:01;Atlético-GO;Ceará SC;0;2;V. Carmo Mancini;A. Ferreira;Estádio Olímpico Pedro Ludovico Teixeira;14;13;4;5;55%;45%;361;308;79%;73%;16;11;1;2;1;0;1;2;4;4
+6;18/11/2020;19:00;Atlético-MG;Athletico-PR;0;2;L. Calixto Zago;P. Autuori de Mello;Mineirão;21;10;6;6;65%;35%;550;317;87%;76%;8;24;1;2;0;0;1;1;9;1
+6;30/11/2020;18:00;Grêmio;Goiás;2;1;Renato Gaúcho;A. César;Arena do Grêmio;26;5;10;2;66%;34%;680;353;90%;81%;15;17;2;2;0;0;2;1;8;1
+7;02/09/2020;19:02;Ceará SC;Fortaleza;1;0;A. Ferreira;R. Ceni;Arena Castelão;9;5;4;0;27%;73%;231;620;70%;85%;22;18;2;2;0;0;4;2;2;6
+7;02/09/2020;19:15;Fluminense;Atlético-GO;1;1;O. Hellmann;V. Carmo Mancini;Maracanã;11;15;4;3;43%;57%;368;468;78%;84%;14;16;2;1;1;0;0;1;2;9
+7;02/09/2020;19:16;Goiás;Corinthians;1;2;T. Mendes Larghi;T. Retzalff Nunes;Estádio da Serrinha;11;11;3;4;46%;54%;446;511;84%;87%;16;12;1;3;0;0;1;0;3;6
+7;02/09/2020;20:30;Botafogo;Coritiba;0;0;P. Autuori de Mello;J. de Amorim Campos;Estádio Nilton Santos;17;7;6;3;55%;45%;519;433;84%;80%;23;21;1;1;0;0;1;0;6;6
+7;02/09/2020;20:31;Athletico-PR;Bragantino;1;1;E. de Barros;M. Freitas Rocha da Silva;Estádio Joaquim Américo Guimarães;11;18;5;3;58%;42%;503;354;83%;77%;15;12;2;2;0;0;1;0;2;8
+7;02/09/2020;20:30;Bahia;Flamengo;3;5;R. Machado Marques;D. Torrent Font;Estádio de Pituaçu;14;20;6;9;41%;59%;459;647;83%;86%;8;17;1;2;0;0;2;2;5;6
+7;02/09/2020;21:29;Palmeiras;Internacional;1;1;V. Luxemburgo da Silva;E. Coudet;Allianz Parque;11;8;1;2;48%;52%;372;403;73%;75%;21;23;3;5;0;0;1;0;5;4
+7;02/09/2020;21:29;Santos;Vasco da Gama;2;2;A. Stival;R. Menezes Hubner;Estádio Urbano Caldeira;13;9;5;3;63%;37%;423;267;85%;76%;17;21;2;3;0;0;2;1;9;2
+7;03/09/2020;19:01;Grêmio;Sport Recife;1;2;Renato Gaúcho;J. Ribeiro Ventura;Arena do Grêmio;29;5;7;3;73%;27%;680;277;86%;60%;10;11;1;5;0;0;1;1;11;1
+7;03/09/2020;20:00;Atlético-MG;São Paulo;3;0;J. Sampaoli Moya;F. Diniz Silva;Mineirão;14;13;8;4;52%;48%;496;468;82%;78%;18;11;0;0;0;0;3;1;5;3
+8;05/09/2020;16:59;Flamengo;Fortaleza;2;1;D. Torrent Font;R. Ceni;Maracanã;18;4;8;2;62%;38%;517;329;88%;80%;12;21;1;1;0;0;3;4;11;3
+8;05/09/2020;19:00;Corinthians;Botafogo;2;2;T. Retzalff Nunes;P. Autuori de Mello;Neo Química Arena;15;13;6;3;61%;39%;545;339;87%;81%;18;10;3;1;0;0;1;2;12;6
+8;05/09/2020;13:00;Ceará SC;Santos;0;1;A. Ferreira;A. Stival;Arena Castelão;16;7;8;4;61%;39%;425;269;83%;75%;21;16;2;4;2;2;0;3;7;5
+8;06/09/2020;11:01;Bragantino;Palmeiras;1;2;M. Nogueira Barbieri;V. Luxemburgo da Silva;Nabizão;20;14;4;4;38%;62%;350;581;78%;85%;23;12;1;3;1;0;1;2;5;3
+8;06/09/2020;16:00;Internacional;Bahia;2;2;E. Coudet;C. Prates;Estádio José Pinheiro Borda;9;9;5;4;62%;38%;528;326;84%;69%;11;12;2;3;0;0;1;2;8;5
+8;06/09/2020;16:01;São Paulo;Fluminense;3;1;F. Diniz Silva;O. Hellmann;Morumbi;15;10;3;4;51%;49%;463;451;80%;80%;21;13;3;0;0;0;0;2;3;2
+8;06/09/2020;18:00;Vasco da Gama;Athletico-PR;1;0;R. Menezes Hubner;E. de Barros;Estádio Vasco da Gama;8;14;2;4;32%;68%;293;603;75%;86%;7;16;1;1;0;0;2;1;3;2
+8;06/09/2020;18:59;Atlético-GO;Grêmio;1;1;V. Carmo Mancini;Renato Gaúcho;Estádio Olímpico Pedro Ludovico Teixeira;8;6;2;2;49%;51%;459;471;85%;83%;16;13;1;2;0;1;0;1;3;3
+8;06/09/2020;20:32;Sport Recife;Goiás;2;1;J. Ribeiro Ventura;T. Mendes Larghi;Adelmar da Costa Carvalho;17;10;6;4;53%;47%;486;453;83%;84%;18;17;1;0;0;0;1;0;9;4
+8;06/09/2020;20:32;Coritiba;Atlético-MG;0;1;J. de Amorim Campos;J. Sampaoli Moya;Couto Pereira;13;21;3;2;47%;53%;440;476;80%;85%;14;19;1;3;0;0;0;2;4;4
+9;09/09/2020;17:30;Athletico-PR;Botafogo;1;1;E. de Barros;P. Autuori de Mello;Estádio Joaquim Américo Guimarães;17;11;3;5;62%;38%;509;310;89%;81%;19;10;1;0;0;0;3;2;7;3
+9;09/09/2020;18:00;Fortaleza;Sport Recife;1;0;R. Ceni;J. Ribeiro Ventura;Arena Castelão;12;4;4;1;53%;47%;410;383;87%;82%;27;14;5;1;0;0;0;2;6;1
+9;09/09/2020;18:03;Goiás;Coritiba;3;3;T. Mendes Larghi;J. de Amorim Campos;Estádio da Serrinha;18;13;6;3;55%;45%;459;396;86%;82%;27;13;4;2;1;1;0;2;9;2
+9;09/09/2020;19:15;São Paulo;Bragantino;1;1;F. Diniz Silva;M. Nogueira Barbieri;Morumbi;14;10;5;2;60%;40%;491;341;85%;74%;18;18;4;2;0;0;5;2;5;1
+9;09/09/2020;21:30;Fluminense;Flamengo;1;2;O. Hellmann;D. Torrent Font;Maracanã;17;13;3;6;47%;53%;445;508;83%;87%;15;16;1;1;0;0;1;2;7;6
+9;09/09/2020;21:30;Santos;Atlético-MG;3;1;A. Stival;J. Sampaoli Moya;Estádio Urbano Caldeira;8;16;4;4;41%;59%;300;424;76%;79%;11;15;1;2;0;1;4;1;4;5
+9;10/09/2020;19:15;Internacional;Ceará SC;2;0;E. Coudet;A. Ferreira;Estádio José Pinheiro Borda;17;6;9;1;62%;38%;517;317;81%;68%;15;16;0;2;0;0;1;1;10;3
+9;10/09/2020;19:14;Corinthians;Palmeiras;0;2;T. Retzalff Nunes;V. Luxemburgo da Silva;Neo Química Arena;10;21;4;8;55%;45%;517;437;90%;88%;13;16;2;2;2;0;1;2;5;6
+9;10/09/2020;19:16;Bahia;Grêmio;0;2;C. Prates;Renato Gaúcho;Estádio de Pituaçu;17;18;6;6;51%;49%;474;479;90%;87%;12;9;1;2;1;1;1;2;8;4
+9;10/09/2020;21:00;Vasco da Gama;Atlético-GO;1;2;R. Menezes Hubner;V. Carmo Mancini;Estádio Vasco da Gama;9;13;5;7;55%;45%;471;380;83%;81%;15;23;2;1;1;0;0;1;1;4
+10;12/09/2020;16:29;Athletico-PR;Coritiba;1;0;E. de Barros;J. de Amorim Campos;Estádio Joaquim Américo Guimarães;10;5;2;1;43%;57%;349;463;86%;85%;21;12;4;0;0;1;3;3;9;6
+10;12/09/2020;18:59;Santos;São Paulo;2;2;A. Stival;F. Diniz Silva;Estádio Urbano Caldeira;10;12;5;6;55%;45%;412;338;81%;81%;18;20;3;2;0;0;1;3;5;2
+10;13/09/2020;16:00;Fluminense;Corinthians;2;1;O. Hellmann;Coelho;Maracanã;15;9;3;3;48%;52%;352;378;82%;84%;14;15;2;4;1;0;0;2;5;8
+10;13/09/2020;16:00;Grêmio;Fortaleza;1;1;Renato Gaúcho;R. Ceni;Arena do Grêmio;14;3;3;2;57%;43%;532;424;89%;87%;11;13;1;2;1;1;2;0;6;2
+10;13/09/2020;18:00;Atlético-MG;Bragantino;2;1;J. Desio;M. Nogueira Barbieri;Mineirão;14;12;7;4;64%;36%;556;306;85%;75%;13;18;1;1;0;0;5;0;8;3
+10;13/09/2020;18:00;Bahia;Atlético-GO;0;1;L. Venker de Menezes;V. Carmo Mancini;Estádio de Pituaçu;9;12;2;4;53%;47%;429;380;79%;79%;16;20;2;2;1;0;5;1;5;5
+10;13/09/2020;18:00;Ceará SC;Flamengo;2;0;A. Ferreira;D. Torrent Font;Arena Castelão;8;11;3;2;37%;63%;342;570;73%;84%;8;6;1;0;0;0;2;2;5;8
+10;13/09/2020;18:01;Goiás;Internacional;1;0;T. Mendes Larghi;E. Coudet;Estádio da Serrinha;6;15;1;4;21%;79%;170;572;62%;90%;10;14;4;3;1;0;1;5;0;12
+10;13/09/2020;19:46;Palmeiras;Sport Recife;2;2;V. Luxemburgo da Silva;J. Ribeiro Ventura;Allianz Parque;20;9;7;4;64%;36%;567;327;87%;76%;15;12;1;3;1;1;3;1;6;2
+10;13/09/2020;20:29;Botafogo;Vasco da Gama;2;3;P. Autuori de Mello;R. Menezes Hubner;Estádio Nilton Santos;25;14;9;6;49%;51%;426;443;83%;81%;18;8;2;2;0;0;0;2;5;4
+12;23/09/2020;21:30;Sport Recife;Corinthians;1;0;J. Ribeiro Ventura;Coelho;Adelmar da Costa Carvalho;9;16;2;2;47%;53%;451;486;82%;86%;11;15;3;4;0;0;1;2;3;8
+12;26/09/2020;18:59;Athletico-PR;Bahia;1;0;E. de Barros;L. Venker de Menezes;Estádio Joaquim Américo Guimarães;13;14;3;4;56%;44%;528;410;84%;81%;20;11;4;1;0;0;2;4;1;6
+12;26/09/2020;19:00;Internacional;São Paulo;1;1;E. Coudet;F. Diniz Silva;Estádio José Pinheiro Borda;4;19;1;6;42%;58%;401;536;75%;82%;16;16;2;0;1;0;3;0;1;4
+12;26/09/2020;21:00;Atlético-MG;Grêmio;3;1;J. Sampaoli Moya;Renato Gaúcho;Mineirão;20;9;6;4;54%;46%;478;408;83%;80%;20;11;1;1;0;0;0;0;9;4
+12;27/09/2020;11:01;Vasco da Gama;Bragantino;1;1;R. Menezes Hubner;M. Nogueira Barbieri;Estádio Vasco da Gama;11;12;1;3;58%;42%;511;363;89%;83%;9;16;2;1;0;0;4;1;2;5
+12;27/09/2020;16:22;Palmeiras;Flamengo;1;1;V. Luxemburgo da Silva;J. Guerrero;Allianz Parque;17;10;7;4;60%;40%;493;335;87%;81%;14;16;4;2;0;0;1;0;5;4
+12;27/09/2020;18:18;Ceará SC;Goiás;2;2;A. Ferreira;T. Mendes Larghi;Arena Castelão;19;10;5;7;60%;40%;411;286;79%;71%;13;14;3;4;0;0;9;3;11;7
+12;27/09/2020;18:14;Atlético-GO;Botafogo;1;1;V. Carmo Mancini;P. Autuori de Mello;Estádio Olímpico Pedro Ludovico Teixeira;10;16;2;5;54%;46%;406;359;84%;81%;16;12;2;3;0;0;2;0;7;5
+12;27/09/2020;20:30;Santos;Fortaleza;1;1;A. Stival;R. Ceni;Estádio Urbano Caldeira;15;12;6;3;55%;45%;416;369;86%;85%;12;20;1;1;0;0;1;1;9;5
+12;28/09/2020;20:00;Fluminense;Coritiba;4;0;O. Hellmann;J. de Amorim Campos;Estádio Nilton Santos;15;10;7;1;43%;57%;409;532;84%;86%;16;19;1;1;0;1;0;3;5;4
+13;03/10/2020;17:00;Grêmio;Internacional;1;1;Renato Gaúcho;E. Coudet;Arena do Grêmio;14;8;5;2;46%;54%;388;453;77%;79%;15;16;0;1;1;1;1;1;5;5
+13;03/10/2020;19:00;Palmeiras;Ceará SC;2;1;V. Luxemburgo da Silva;A. Ferreira;Allianz Parque;28;10;11;5;64%;36%;560;319;85%;74%;10;20;1;4;0;0;1;0;9;4
+13;03/10/2020;21:01;Bragantino;Corinthians;0;0;M. Nogueira Barbieri;Coelho;Nabizão;10;12;2;4;40%;60%;377;555;80%;86%;18;13;1;2;0;0;1;1;3;8
+13;04/10/2020;11:00;Botafogo;Fluminense;1;1;B. Lazaroni;O. Hellmann;Estádio Nilton Santos;17;8;7;5;52%;48%;385;365;80%;78%;20;21;0;1;0;0;0;2;7;4
+13;04/10/2020;16:00;Coritiba;São Paulo;1;1;J. de Amorim Campos;F. Diniz Silva;Couto Pereira;3;19;1;5;25%;75%;234;671;64%;88%;13;12;2;3;0;0;0;2;2;11
+13;04/10/2020;16:00;Flamengo;Athletico-PR;3;1;J. Gris Vila;E. de Barros;Maracanã;13;10;7;3;55%;45%;446;376;84%;80%;18;22;3;4;0;0;2;2;4;5
+13;04/10/2020;18:16;Fortaleza;Atlético-GO;0;0;R. Ceni;V. Carmo Mancini;Arena Castelão;16;7;5;2;60%;40%;517;350;85%;78%;8;14;5;5;0;0;1;0;8;1
+13;04/10/2020;18:14;Goiás;Santos;2;3;E. Alves Moreira;A. Stival;Estádio da Serrinha;14;10;4;4;55%;45%;384;317;83%;77%;16;15;3;3;1;1;4;0;2;4
+13;04/10/2020;18:15;Bahia;Sport Recife;1;2;L. Venker de Menezes;J. Ribeiro Ventura;Estádio de Pituaçu;24;5;11;2;60%;40%;488;361;82%;72%;15;13;2;3;0;0;2;0;11;0
+13;04/10/2020;09:02;Atlético-MG;Vasco da Gama;4;1;J. Sampaoli Moya;R. Menezes Hubner;Mineirão;;;;;;;;;;;;;;;;;;;;
+14;07/10/2020;18:59;Corinthians;Santos;1;1;Coelho;A. Stival;Neo Química Arena;13;6;4;2;62%;38%;558;337;85%;76%;19;16;2;2;0;0;0;0;6;3
+14;07/10/2020;19:15;Flamengo;Sport Recife;3;0;D. Torrent Font;J. Ribeiro Ventura;Maracanã;16;14;7;1;63%;37%;572;335;89%;78%;14;16;0;3;0;0;1;1;8;6
+14;07/10/2020;19:14;Bahia;Vasco da Gama;3;0;L. Venker de Menezes;R. Menezes Hubner;Estádio de Pituaçu;13;10;6;1;47%;53%;454;496;85%;88%;18;15;4;2;0;1;0;1;4;6
+14;07/10/2020;19:15;Grêmio;Coritiba;2;1;Renato Gaúcho;J. de Amorim Campos;Arena do Grêmio;11;13;5;3;49%;51%;466;475;83%;84%;18;21;2;2;0;0;1;4;6;6
+14;07/10/2020;20:31;São Paulo;Atlético-GO;3;0;F. Diniz Silva;V. Carmo Mancini;Morumbi;25;15;8;5;52%;48%;431;415;84%;81%;17;12;3;2;0;0;1;2;5;3
+14;07/10/2020;20:31;Goiás;Fluminense;2;4;E. Alves Moreira;O. Hellmann;Estádio da Serrinha;12;10;3;5;43%;57%;347;472;76%;85%;19;15;3;2;0;0;0;4;5;4
+14;07/10/2020;21:30;Botafogo;Palmeiras;2;1;B. Lazaroni;V. Luxemburgo da Silva;Estádio Nilton Santos;11;19;4;4;35%;65%;298;534;75%;86%;16;15;4;4;0;0;0;2;2;5
+14;07/10/2020;21:30;Fortaleza;Atlético-MG;2;1;R. Ceni;J. Sampaoli Moya;Arena Castelão;7;15;3;4;31%;69%;263;577;75%;88%;9;19;2;3;1;0;1;2;1;8
+14;08/10/2020;19:01;Athletico-PR;Ceará SC;0;0;E. de Barros;A. Ferreira;Estádio Joaquim Américo Guimarães;15;13;1;4;63%;37%;579;350;89%;79%;11;12;3;2;0;0;2;2;3;3
+14;08/10/2020;21:00;Bragantino;Internacional;0;2;M. Nogueira Barbieri;E. Coudet;Nabizão;13;8;2;5;47%;53%;404;460;78%;83%;18;22;3;3;1;0;2;1;7;2
+15;10/10/2020;17:00;Vasco da Gama;Flamengo;1;2;A. Grasselli;D. Torrent Font;Estádio Vasco da Gama;13;8;4;3;37%;63%;344;571;77%;86%;14;25;2;5;0;0;3;2;5;5
+15;10/10/2020;18:59;Coritiba;Fortaleza;0;0;J. de Amorim Campos;R. Ceni;Couto Pereira;10;12;2;2;45%;55%;408;498;88%;86%;20;12;1;0;0;0;0;0;2;4
+15;10/10/2020;19:00;Palmeiras;São Paulo;0;2;V. Luxemburgo da Silva;F. Diniz Silva;Allianz Parque;9;13;3;4;47%;53%;424;483;84%;83%;15;17;2;1;0;0;2;0;8;4
+15;10/10/2020;21:00;Atlético-MG;Goiás;3;0;J. Sampaoli Moya;E. Alves Moreira;Mineirão;23;4;11;3;67%;33%;614;315;85%;67%;14;11;0;1;0;0;4;1;8;1
+15;11/10/2020;16:00;Fluminense;Bahia;1;0;O. Hellmann;L. Venker de Menezes;Maracanã;8;12;2;1;48%;52%;401;429;77%;83%;26;18;2;3;0;0;0;0;3;4
+15;11/10/2020;16:00;Santos;Grêmio;2;1;A. Stival;Renato Gaúcho;Estádio Urbano Caldeira;11;11;6;4;56%;44%;402;314;75%;72%;17;14;2;2;0;1;3;2;4;7
+15;11/10/2020;18:16;Sport Recife;Botafogo;1;2;J. Ribeiro Ventura;B. Lazaroni;Adelmar da Costa Carvalho;17;11;3;4;63%;37%;528;314;85%;78%;11;15;3;1;0;1;0;0;6;8
+15;11/10/2020;18:14;Atlético-GO;Bragantino;2;1;V. Carmo Mancini;M. Nogueira Barbieri;Estádio Olímpico Pedro Ludovico Teixeira;24;19;8;5;53%;47%;368;336;76%;77%;17;18;1;1;0;0;0;2;7;11
+15;11/10/2020;20:29;Ceará SC;Corinthians;2;1;A. Ferreira;Coelho;Arena Castelão;15;10;4;3;39%;61%;304;475;77%;80%;9;10;4;1;1;1;2;1;6;6
+15;11/10/2020;20:30;Internacional;Athletico-PR;2;1;E. Coudet;E. de Barros;Estádio José Pinheiro Borda;13;14;6;4;45%;55%;404;483;75%;80%;19;14;2;0;0;0;3;2;6;1
+16;14/10/2020;18:01;Palmeiras;Coritiba;1;3;V. Luxemburgo da Silva;J. de Amorim Campos;Allianz Parque;16;12;5;9;55%;45%;431;382;82%;77%;13;20;3;2;0;0;1;2;6;2
+16;14/10/2020;19:15;Grêmio;Botafogo;3;1;Renato Gaúcho;B. Lazaroni;Arena do Grêmio;10;16;4;3;51%;49%;479;458;83%;81%;11;13;3;2;1;0;1;0;1;4
+16;14/10/2020;20:30;Santos;Atlético-GO;0;1;A. Stival;E. do Nascimento Souza;Estádio Urbano Caldeira;12;8;3;1;59%;41%;400;288;79%;65%;18;21;3;3;0;0;1;2;7;2
+16;14/10/2020;21:30;Athletico-PR;Corinthians;0;1;E. de Barros;V. Carmo Mancini;Estádio Joaquim Américo Guimarães;16;13;9;6;62%;38%;545;332;84%;77%;18;14;3;3;0;1;2;1;8;2
+16;14/10/2020;21:30;Atlético-MG;Fluminense;1;1;J. Sampaoli Moya;O. Hellmann;Mineirão;14;11;8;3;66%;34%;571;295;85%;70%;11;9;3;1;0;0;0;3;9;4
+16;14/10/2020;21:30;Sport Recife;Internacional;3;5;J. Ribeiro Ventura;E. Coudet;Adelmar da Costa Carvalho;13;14;5;8;48%;52%;438;450;81%;84%;6;19;3;2;0;0;1;3;2;7
+16;15/10/2020;20:00;Flamengo;Bragantino;1;1;D. Torrent Font;M. Nogueira Barbieri;Maracanã;19;12;10;3;66%;34%;606;314;84%;70%;16;14;2;1;0;0;1;2;5;1
+16;16/10/2020;20:00;Goiás;Bahia;1;1;E. Alves Moreira;L. Venker de Menezes;Estádio da Serrinha;10;13;4;3;49%;51%;402;403;79%;77%;16;18;5;3;0;2;1;3;5;2
+16;19/11/2020;19:00;Vasco da Gama;Fortaleza;0;0;R. Andrade Silva Sá Pinto;M. Oliveira Chamusca;Estádio Vasco da Gama;12;18;5;5;47%;53%;358;394;82%;82%;11;20;2;0;0;0;1;1;4;11
+16;25/11/2020;19:15;Ceará SC;São Paulo;1;1;A. Ferreira;F. Diniz Silva;Arena Castelão;11;18;6;4;31%;69%;303;659;76%;89%;20;13;5;3;0;0;2;1;5;5
+17;17/10/2020;19:00;Atlético-GO;Athletico-PR;1;1;E. do Nascimento Souza;E. de Barros;Estádio Olímpico Pedro Ludovico Teixeira;11;17;1;6;36%;64%;271;454;75%;87%;10;20;3;5;2;0;1;2;2;11
+17;17/10/2020;19:00;Coritiba;Santos;1;2;J. de Amorim Campos;A. Stival;Couto Pereira;18;6;4;2;57%;43%;442;341;84%;77%;18;25;5;2;0;0;1;0;9;1
+17;17/10/2020;19:00;Fluminense;Ceará SC;2;2;O. Hellmann;A. Ferreira;Maracanã;6;17;3;4;59%;41%;539;389;84%;75%;17;16;3;3;0;0;2;2;4;3
+17;17/10/2020;21:00;São Paulo;Grêmio;0;0;F. Diniz Silva;Renato Gaúcho;Morumbi;8;11;1;2;63%;37%;534;316;88%;79%;24;15;4;2;0;0;1;2;2;7
+17;18/10/2020;16:01;Corinthians;Flamengo;1;5;V. Carmo Mancini;D. Torrent Font;Neo Química Arena;19;9;7;6;38%;62%;314;530;76%;83%;14;13;4;5;0;0;1;2;10;3
+17;18/10/2020;18:15;Internacional;Vasco da Gama;2;0;E. Coudet;A. Grasselli;Estádio José Pinheiro Borda;13;8;7;3;53%;47%;524;482;87%;82%;17;11;1;1;0;0;1;0;6;3
+17;18/10/2020;20:31;Bragantino;Sport Recife;2;0;M. Nogueira Barbieri;J. Ribeiro Ventura;Nabizão;18;3;4;1;50%;50%;449;464;82%;78%;13;13;2;2;0;0;1;0;8;6
+17;18/10/2020;20:29;Fortaleza;Palmeiras;2;0;R. Ceni;A. Lopes dos Santos;Arena Castelão;10;14;4;3;52%;48%;464;422;82%;86%;14;19;2;3;0;1;0;2;1;7
+17;19/10/2020;20:00;Bahia;Atlético-MG;3;1;L. Venker de Menezes;J. Sampaoli Moya;Estádio de Pituaçu;13;20;6;4;33%;67%;294;555;75%;86%;14;14;4;1;0;0;1;1;2;8
+17;19/10/2020;20:00;Botafogo;Goiás;0;0;B. Lazaroni;E. Alves Moreira;Estádio Nilton Santos;23;12;6;4;63%;37%;533;326;84%;72%;18;11;2;1;0;0;3;0;11;5
+18;21/10/2020;21:30;Vasco da Gama;Corinthians;1;2;R. Andrade Silva Sá Pinto;V. Carmo Mancini;Estádio Vasco da Gama;17;12;8;4;64%;36%;547;313;82%;69%;12;18;1;2;0;0;1;2;9;6
+18;24/10/2020;17:01;Bragantino;Goiás;2;0;M. Nogueira Barbieri;E. Alves Moreira;Nabizão;14;7;5;1;54%;46%;408;361;79%;73%;17;15;0;3;0;0;1;3;6;4
+18;24/10/2020;19:00;Ceará SC;Coritiba;2;1;A. Ferreira;J. de Amorim Campos;Arena Castelão;15;15;4;6;36%;64%;270;493;67%;82%;22;12;3;1;0;0;1;1;5;8
+18;24/10/2020;16:00;Atlético-MG;Sport Recife;0;0;J. Sampaoli Moya;J. Ribeiro Ventura;Mineirão;26;3;9;0;77%;23%;699;224;88%;56%;10;11;1;0;0;0;2;1;13;4
+18;25/10/2020;16:00;Atlético-GO;Palmeiras;0;3;E. do Nascimento Souza;A. Lopes dos Santos;Estádio Olímpico Pedro Ludovico Teixeira;21;12;5;4;57%;43%;474;360;86%;79%;15;17;1;4;0;0;0;2;6;3
+18;25/10/2020;16:00;Fluminense;Santos;3;1;O. Hellmann;A. Stival;Maracanã;19;9;8;2;47%;53%;275;301;77%;80%;13;18;5;4;0;0;2;3;10;8
+18;25/10/2020;18:15;Athletico-PR;Grêmio;1;2;P. Autuori de Mello;Renato Gaúcho;Estádio Joaquim Américo Guimarães;5;8;1;2;66%;34%;557;291;90%;78%;15;11;3;1;0;0;1;1;4;2
+18;25/10/2020;18:15;Internacional;Flamengo;2;2;E. Coudet;D. Torrent Font;Estádio José Pinheiro Borda;10;16;5;6;28%;72%;244;616;68%;87%;16;16;6;5;0;0;1;1;1;7
+18;11/11/2020;18:45;Bahia;Fortaleza;2;1;L. Venker de Menezes;M. Montenegro;Itaipava Arena Fonte Nova;13;8;6;1;33%;67%;256;523;78%;89%;14;11;3;3;0;0;1;2;4;7
+18;09/12/2020;21:30;São Paulo;Botafogo;4;0;F. Diniz Silva;F. Mercier De Lucena;Morumbi;31;8;14;1;66%;34%;646;353;90%;80%;12;8;0;2;0;1;1;0;12;0
+19;31/10/2020;16:59;Botafogo;Ceará SC;2;2;F. Tenius;A. Ferreira;Estádio Nilton Santos;12;10;7;4;61%;39%;493;314;85%;73%;17;19;3;4;1;1;1;0;4;2
+19;31/10/2020;19:00;Coritiba;Atlético-GO;1;0;E. Pacheco;E. do Nascimento Souza;Couto Pereira;5;14;1;5;30%;70%;248;557;69%;86%;22;18;2;5;0;0;0;0;0;12
+19;31/10/2020;19:00;Corinthians;Internacional;1;0;V. Carmo Mancini;E. Coudet;Neo Química Arena;8;7;3;0;34%;66%;314;580;64%;78%;16;13;4;3;0;1;2;2;2;4
+19;31/10/2020;20:59;Fortaleza;Fluminense;0;1;R. Ceni;O. Hellmann;Arena Castelão;4;11;1;4;43%;57%;387;481;82%;88%;14;18;2;1;1;0;0;1;3;7
+19;01/11/2020;16:00;Flamengo;São Paulo;1;4;D. Torrent Font;F. Diniz Silva;Maracanã;17;13;7;7;54%;46%;446;396;86%;85%;18;18;4;3;0;0;2;0;6;4
+19;01/11/2020;16:01;Sport Recife;Athletico-PR;1;0;J. Ribeiro Ventura;P. Autuori de Mello;Adelmar da Costa Carvalho;11;12;3;2;41%;59%;340;474;73%;81%;17;15;2;1;1;0;3;3;2;5
+19;01/11/2020;18:14;Santos;Bahia;3;1;A. Stival;L. Venker de Menezes;Estádio Urbano Caldeira;9;21;6;6;57%;43%;463;345;83%;80%;19;13;4;2;0;0;2;3;6;9
+19;01/11/2020;20:31;Goiás;Vasco da Gama;1;1;E. Alves Moreira;R. Andrade Silva Sá Pinto;Estádio da Serrinha;19;7;10;1;46%;54%;354;401;77%;81%;16;20;5;7;0;0;2;5;2;6
+19;02/11/2020;17:00;Palmeiras;Atlético-MG;3;0;A. Lopes dos Santos;J. Sampaoli Moya;Allianz Parque;19;16;8;2;35%;65%;300;546;76%;85%;10;12;2;1;0;0;2;0;3;9
+19;02/11/2020;20:00;Grêmio;Bragantino;2;1;Renato Gaúcho;M. Nogueira Barbieri;Arena do Grêmio;11;13;3;7;56%;44%;579;466;86%;84%;13;12;1;1;0;0;1;0;3;4
+20;07/11/2020;18:00;Athletico-PR;Fortaleza;2;1;P. Autuori de Mello;R. Ceni;Estádio Joaquim Américo Guimarães;21;11;6;5;63%;37%;482;297;85%;77%;20;14;3;2;0;0;3;4;10;3
+20;07/11/2020;19:01;São Paulo;Goiás;2;1;F. Diniz Silva;E. Alves Moreira;Morumbi;20;8;9;3;65%;35%;503;272;85%;69%;9;19;2;0;0;1;1;1;10;2
+20;07/11/2020;21:00;Atlético-GO;Corinthians;1;1;E. do Nascimento Souza;V. Carmo Mancini;Estádio Olímpico Pedro Ludovico Teixeira;16;6;5;2;45%;55%;339;421;73%;75%;22;25;3;4;0;0;2;2;7;3
+20;08/11/2020;16:01;Vasco da Gama;Palmeiras;0;1;R. Andrade Silva Sá Pinto;A. Moreira Ferreira;Estádio Vasco da Gama;9;8;3;3;44%;56%;376;468;78%;81%;17;19;1;3;0;0;0;1;0;4
+20;08/11/2020;16:00;Internacional;Coritiba;2;2;E. Coudet;R. Marques Santana;Estádio José Pinheiro Borda;12;10;4;3;60%;40%;526;369;88%;82%;9;13;2;3;1;0;0;2;9;3
+20;08/11/2020;18:16;Bragantino;Santos;1;1;M. Nogueira Barbieri;A. Stival;Nabizão;12;4;2;0;48%;52%;413;448;74%;75%;15;20;1;4;0;0;1;1;5;3
+20;08/11/2020;18:15;Atlético-MG;Flamengo;4;0;J. Desio;D. Torrent Font;Mineirão;9;13;4;5;30%;70%;283;635;71%;87%;21;13;5;4;0;0;1;1;2;7
+20;08/11/2020;18:15;Bahia;Botafogo;1;0;L. Venker de Menezes;F. Tenius;Itaipava Arena Fonte Nova;20;10;5;3;59%;41%;499;361;85%;80%;19;17;2;3;0;0;1;1;4;4
+20;08/11/2020;20:30;Fluminense;Grêmio;0;1;O. Hellmann;Renato Gaúcho;Maracanã;12;13;4;4;59%;41%;569;396;86%;82%;12;13;0;1;0;0;1;2;4;5
+20;08/11/2020;20:30;Ceará SC;Sport Recife;0;0;A. Ferreira;J. Ribeiro Ventura;Arena Castelão;25;3;6;0;54%;46%;441;392;84%;76%;17;13;0;3;0;0;4;0;9;1
+21;14/11/2020;16:30;Sport Recife;Vasco da Gama;0;2;J. Ribeiro Ventura;R. Andrade Silva Sá Pinto;Adelmar da Costa Carvalho;13;14;3;4;64%;36%;573;328;82%;78%;14;21;0;2;0;0;2;1;4;2
+21;14/11/2020;16:30;Santos;Internacional;2;0;M. Fernandes;A. da Silva Braga;Estádio Urbano Caldeira;10;12;7;6;39%;61%;302;479;71%;81%;24;18;1;2;0;0;1;2;2;7
+21;14/11/2020;16:59;Goiás;Athletico-PR;0;1;E. Alves Moreira;P. Autuori de Mello;Estádio da Serrinha;11;16;1;8;48%;52%;347;376;80%;82%;14;12;5;1;0;0;3;0;8;10
+21;14/11/2020;19:01;Corinthians;Atlético-MG;1;2;V. Carmo Mancini;J. Sampaoli Moya;Neo Química Arena;8;13;1;4;33%;67%;269;544;62%;83%;29;11;3;5;0;0;2;1;6;6
+21;14/11/2020;18:59;Fortaleza;São Paulo;2;3;M. Oliveira Chamusca;F. Diniz Silva;Arena Castelão;12;7;5;4;49%;51%;395;404;83%;83%;15;18;2;4;0;0;1;2;2;3
+21;14/11/2020;19:00;Grêmio;Ceará SC;4;2;Renato Gaúcho;A. Ferreira;Arena do Grêmio;16;11;7;3;61%;39%;749;473;90%;84%;8;14;1;2;0;0;1;0;3;4
+21;14/11/2020;21:30;Palmeiras;Fluminense;2;0;A. Moreira Ferreira;O. Hellmann;Allianz Parque;9;15;5;5;51%;49%;455;440;84%;85%;15;8;2;2;0;0;3;3;3;5
+21;14/11/2020;21:30;Flamengo;Atlético-GO;1;1;R. Ceni;M. Ribeiro Cabo;Maracanã;20;10;7;5;66%;34%;559;293;88%;77%;15;16;2;1;0;0;1;2;11;4
+21;16/11/2020;18:00;Coritiba;Bahia;1;2;E. Pacheco;L. Venker de Menezes;Couto Pereira;16;15;2;5;54%;46%;451;401;88%;86%;12;12;3;4;0;0;1;1;7;5
+21;16/11/2020;20:00;Botafogo;Bragantino;1;2;E. Díaz;M. Nogueira Barbieri;Estádio Nilton Santos;12;11;3;5;61%;39%;439;273;81%;70%;16;18;0;3;0;0;2;0;7;3
+22;20/11/2020;20:01;Bragantino;Bahia;4;0;M. Nogueira Barbieri;L. Venker de Menezes;Nabizão;12;8;7;1;53%;47%;444;383;88%;82%;16;13;2;4;0;0;0;0;5;9
+22;21/11/2020;19:00;Athletico-PR;Santos;1;0;P. Autuori de Mello;M. Fernandes;Estádio Joaquim Américo Guimarães;13;5;4;4;61%;39%;525;344;84%;81%;22;13;0;2;0;0;2;1;9;2
+22;21/11/2020;19:00;Flamengo;Coritiba;3;1;R. Ceni;R. Marques Santana;Maracanã;23;6;9;1;62%;38%;656;402;88%;81%;16;18;1;3;0;0;0;1;4;4
+22;21/11/2020;21:01;Goiás;Palmeiras;1;0;A. César;A. Moreira Ferreira;Estádio da Serrinha;8;14;2;3;60%;40%;487;334;85%;73%;20;15;2;2;0;1;1;1;1;4
+22;22/11/2020;16:03;São Paulo;Vasco da Gama;1;1;F. Diniz Silva;R. Andrade Silva Sá Pinto;Morumbi;17;6;5;3;70%;30%;685;298;87%;71%;7;19;2;4;0;0;2;2;7;4
+22;22/11/2020;16:00;Ceará SC;Atlético-MG;2;2;A. Ferreira;L. Calixto Zago;Arena Castelão;11;18;5;4;46%;54%;400;455;78%;82%;11;12;4;1;0;1;2;1;2;7
+22;22/11/2020;18:15;Internacional;Fluminense;1;2;L. De Souza;O. Hellmann;Estádio José Pinheiro Borda;13;7;4;2;51%;49%;454;455;80%;80%;20;20;2;4;0;0;1;0;4;4
+22;22/11/2020;18:15;Botafogo;Fortaleza;1;2;E. Díaz;M. Oliveira Chamusca;Estádio Nilton Santos;19;11;6;6;59%;41%;481;355;87%;78%;18;15;1;1;0;0;3;2;7;5
+22;22/11/2020;20:30;Corinthians;Grêmio;0;0;V. Carmo Mancini;Renato Gaúcho;Neo Química Arena;7;15;1;3;32%;68%;300;618;74%;91%;12;14;1;1;2;0;3;1;4;12
+22;23/11/2020;20:01;Sport Recife;Atlético-GO;0;1;R. Henriques;M. Ribeiro Cabo;Adelmar da Costa Carvalho;11;12;1;4;63%;37%;431;260;84%;77%;17;16;1;3;0;0;1;2;10;5
+23;25/11/2020;21:30;Atlético-MG;Botafogo;2;1;L. Calixto Zago;E. Díaz;Mineirão;11;4;6;3;55%;45%;463;397;87%;81%;25;19;2;4;0;0;2;4;10;2
+23;25/11/2020;21:31;Coritiba;Corinthians;0;1;R. Marques Santana;V. Carmo Mancini;Couto Pereira;11;11;3;2;53%;47%;462;418;81%;78%;13;25;2;2;0;0;1;2;4;3
+23;26/11/2020;19:59;Fortaleza;Goiás;1;1;M. Oliveira Chamusca;A. César;Arena Castelão;15;6;8;1;70%;30%;619;266;88%;68%;17;19;2;0;0;0;3;0;2;0
+23;28/11/2020;17:00;Palmeiras;Athletico-PR;3;0;A. Moreira Ferreira;P. Autuori de Mello;Allianz Parque;22;4;8;1;59%;41%;470;354;87%;77%;16;15;2;1;0;0;4;2;10;1
+23;28/11/2020;16:59;Santos;Sport Recife;4;2;A. Stival;C. de Lucena;Estádio Urbano Caldeira;11;9;5;3;59%;41%;421;293;86%;77%;17;24;3;3;0;0;3;0;5;4
+23;28/11/2020;18:59;Bahia;São Paulo;1;3;C. Prates;F. Diniz Silva;Itaipava Arena Fonte Nova;17;17;6;8;37%;63%;351;597;81%;90%;12;15;0;2;0;0;1;1;5;9
+23;28/11/2020;21:00;Atlético-GO;Internacional;0;0;M. Ribeiro Cabo;L. De Souza;Estádio Antônio Accioly;9;16;0;6;41%;59%;283;400;74%;83%;19;18;1;2;0;1;5;4;8;9
+23;30/11/2020;18:00;Vasco da Gama;Ceará SC;1;4;R. Andrade Silva Sá Pinto;A. Ferreira;Estádio Vasco da Gama;12;11;4;6;69%;31%;486;230;85%;65%;15;18;3;2;0;0;1;3;9;3
+23;30/11/2020;20:00;Fluminense;Bragantino;0;0;O. Hellmann;M. Nogueira Barbieri;Maracanã;7;11;1;4;45%;55%;361;434;79%;79%;15;21;2;3;0;0;4;0;5;5
+23;28/01/2021;20:00;Grêmio;Flamengo;2;4;Renato Gaúcho;R. Ceni;Arena do Grêmio;8;14;5;6;51%;49%;548;531;87%;88%;15;24;5;3;0;0;1;0;2;5
+24;02/12/2020;21:30;Fortaleza;Corinthians;0;0;M. Oliveira Chamusca;V. Carmo Mancini;Arena Castelão;13;9;5;4;45%;55%;343;412;77%;81%;12;15;2;2;1;1;2;0;3;4
+24;05/12/2020;17:01;Santos;Palmeiras;2;2;A. Stival;A. Moreira Ferreira;Estádio Urbano Caldeira;15;11;5;5;60%;40%;386;263;80%;69%;14;16;3;3;0;1;2;0;8;7
+24;05/12/2020;16:59;Botafogo;Flamengo;0;1;F. Mercier De Lucena;R. Ceni;Estádio Nilton Santos;13;14;3;3;34%;66%;293;569;73%;89%;16;26;1;1;1;1;0;0;5;7
+24;05/12/2020;19:00;Fluminense;Athletico-PR;3;1;O. Hellmann;P. Autuori de Mello;Maracanã;27;5;13;1;70%;30%;578;254;88%;73%;16;18;4;2;0;1;2;0;15;2
+24;05/12/2020;19:00;Bahia;Ceará SC;0;2;L. Venker de Menezes;A. Ferreira;Itaipava Arena Fonte Nova;9;11;2;5;53%;47%;450;412;83%;86%;12;17;2;2;0;0;1;1;6;4
+24;05/12/2020;21:01;Coritiba;Bragantino;0;0;R. Marques Santana;M. Nogueira Barbieri;Couto Pereira;9;23;3;5;43%;57%;334;423;70%;79%;17;26;4;3;0;0;2;0;3;12
+24;06/12/2020;16:01;São Paulo;Sport Recife;1;0;F. Diniz Silva;J. Ribeiro Ventura;Morumbi;13;4;7;0;64%;36%;647;381;89%;79%;17;17;4;4;0;0;0;3;11;1
+24;06/12/2020;16:01;Grêmio;Vasco da Gama;4;0;Renato Gaúcho;R. Andrade Silva Sá Pinto;Arena do Grêmio;22;6;10;3;60%;40%;604;408;89%;85%;9;8;2;1;0;0;1;1;5;3
+24;06/12/2020;18:15;Atlético-MG;Internacional;2;2;J. Sampaoli Moya;L. De Souza;Mineirão;9;10;2;3;64%;36%;584;315;85%;76%;18;14;2;6;0;0;4;5;3;4
+24;07/12/2020;20:00;Atlético-GO;Goiás;0;1;M. Ribeiro Cabo;G. Ramos da Silva;Estádio Antônio Accioly;12;10;3;2;68%;32%;421;207;85%;63%;17;21;3;3;0;0;4;2;15;1
+25;12/12/2020;17:00;Athletico-PR;Atlético-MG;0;1;P. Autuori de Mello;J. Sampaoli Moya;Estádio Joaquim Américo Guimarães;16;10;5;3;42%;58%;353;488;79%;86%;20;13;2;2;0;0;4;4;5;3
+25;12/12/2020;17:01;Bragantino;Fortaleza;2;1;M. Nogueira Barbieri;M. Oliveira Chamusca;Nabizão;14;13;7;5;53%;47%;420;388;82%;74%;17;18;3;2;0;0;0;2;2;5
+25;12/12/2020;19:00;Internacional;Botafogo;2;1;A. da Silva Braga;F. Mercier De Lucena;Estádio José Pinheiro Borda;12;12;3;2;48%;52%;416;445;82%;84%;23;19;4;5;0;0;0;0;4;6
+25;12/12/2020;19:00;Palmeiras;Bahia;3;0;V. Castanheira Penas;L. Venker de Menezes;Allianz Parque;15;18;7;7;60%;40%;511;343;88%;84%;11;20;2;3;0;0;4;1;8;7
+25;12/12/2020;21:00;Goiás;Grêmio;0;0;G. Ramos da Silva;Renato Gaúcho;Estádio da Serrinha;12;17;2;5;39%;61%;298;446;73%;80%;12;10;4;1;0;0;0;2;4;9
+25;12/12/2020;21:01;Ceará SC;Atlético-GO;1;2;A. Ferreira;M. Ribeiro Cabo;Arena Castelão;8;12;3;6;40%;60%;344;500;76%;83%;13;15;0;3;0;0;3;2;2;8
+25;13/12/2020;16:00;Flamengo;Santos;4;1;R. Ceni;A. Stival;Maracanã;12;6;4;3;56%;44%;457;366;86%;82%;12;11;2;1;0;0;3;2;6;4
+25;13/12/2020;18:15;Corinthians;São Paulo;1;0;V. Carmo Mancini;F. Diniz Silva;Neo Química Arena;14;17;5;6;38%;62%;313;501;70%;83%;12;8;0;1;0;0;0;1;4;5
+25;13/12/2020;18:16;Sport Recife;Coritiba;1;0;J. Ribeiro Ventura;R. Marques Santana;Adelmar da Costa Carvalho;20;14;6;3;55%;45%;447;373;85%;81%;20;14;0;1;0;0;0;0;7;6
+25;13/12/2020;20:30;Vasco da Gama;Fluminense;1;1;R. Andrade Silva Sá Pinto;M. de Oliveira;Estádio Vasco da Gama;20;10;4;4;44%;56%;404;516;84%;86%;21;14;6;2;0;0;1;0;4;2
+26;16/12/2020;21:31;São Paulo;Atlético-MG;3;0;F. Diniz Silva;J. Sampaoli Moya;Morumbi;17;14;7;6;47%;53%;485;533;82%;85%;9;10;2;2;0;1;3;3;5;3
+26;16/12/2020;21:31;Atlético-GO;Fluminense;2;1;M. Ribeiro Cabo;M. de Oliveira;Estádio Antônio Accioly;11;5;5;2;39%;61%;278;453;78%;85%;17;18;3;4;0;0;0;0;11;6
+26;19/12/2020;19:00;Sport Recife;Grêmio;1;1;J. Ribeiro Ventura;Renato Gaúcho;Adelmar da Costa Carvalho;9;13;2;1;43%;57%;402;518;85%;87%;21;9;2;1;0;1;2;2;3;7
+26;19/12/2020;21:00;Internacional;Palmeiras;2;0;A. da Silva Braga;A. Moreira Ferreira;Estádio José Pinheiro Borda;12;13;4;0;41%;59%;327;440;75%;80%;13;23;4;2;0;0;1;1;4;8
+26;19/12/2020;21:00;Coritiba;Botafogo;1;2;E. Pacheco;E. de Souza Barroca;Couto Pereira;10;18;4;3;45%;55%;344;409;79%;88%;14;18;3;1;0;0;2;2;4;11
+26;20/12/2020;16:00;Bragantino;Athletico-PR;0;1;M. Nogueira Barbieri;P. Autuori de Mello;Nabizão;21;4;6;1;71%;29%;506;223;84%;65%;8;17;2;5;0;0;6;6;17;4
+26;20/12/2020;15:59;Vasco da Gama;Santos;1;0;R. Andrade Silva Sá Pinto;A. Stival;Estádio Vasco da Gama;4;18;2;5;35%;65%;255;453;73%;85%;26;15;2;0;0;0;0;1;1;2
+26;20/12/2020;18:14;Flamengo;Bahia;4;3;R. Ceni;L. Venker de Menezes;Maracanã;16;17;5;6;48%;52%;379;396;85%;89%;17;22;1;3;1;1;2;1;7;8
+26;20/12/2020;20:30;Fortaleza;Ceará SC;0;2;M. Oliveira Chamusca;A. Ferreira;Arena Castelão;10;6;0;5;61%;39%;402;266;82%;76%;18;17;1;1;1;0;0;0;5;1
+26;21/12/2020;20:02;Corinthians;Goiás;2;1;V. Carmo Mancini;G. Ramos da Silva;Neo Química Arena;19;17;6;7;64%;36%;537;304;84%;75%;11;15;1;0;0;0;5;2;12;4
+27;26/12/2020;17:00;Atlético-MG;Coritiba;2;0;J. Sampaoli Moya;E. Pacheco;Mineirão;25;7;9;3;71%;29%;664;277;93%;82%;15;13;0;0;0;0;0;2;13;3
+27;26/12/2020;19:00;Goiás;Sport Recife;1;0;G. Ramos da Silva;J. Ribeiro Ventura;Estádio da Serrinha;10;16;3;4;38%;62%;315;500;69%;78%;22;18;4;1;0;0;0;4;4;5
+27;26/12/2020;19:00;Fortaleza;Flamengo;0;0;M. Oliveira Chamusca;R. Ceni;Arena Castelão;11;13;4;2;36%;64%;293;519;79%;86%;22;14;3;3;0;0;1;0;4;4
+27;26/12/2020;20:59;Fluminense;São Paulo;1;2;M. de Oliveira;F. Diniz Silva;Maracanã;8;12;1;5;41%;59%;401;579;81%;87%;17;22;3;1;0;0;0;0;0;2
+27;27/12/2020;16:00;Botafogo;Corinthians;0;2;E. de Souza Barroca;V. Carmo Mancini;Estádio Nilton Santos;11;13;1;6;46%;54%;451;508;78%;81%;19;20;1;1;0;0;2;2;2;7
+27;27/12/2020;16:01;Bahia;Internacional;1;2;L. Cavalcanti;A. da Silva Braga;Itaipava Arena Fonte Nova;14;15;3;10;52%;48%;377;357;77%;79%;18;12;3;1;0;0;0;2;6;7
+27;27/12/2020;18:15;Athletico-PR;Vasco da Gama;3;0;P. Autuori de Mello;R. Mota;Estádio Joaquim Américo Guimarães;16;12;8;4;56%;44%;480;373;88%;84%;14;11;0;1;0;0;1;3;6;5
+27;27/12/2020;18:15;Palmeiras;Bragantino;1;0;A. Moreira Ferreira;M. Nogueira Barbieri;Allianz Parque;6;20;1;2;41%;59%;343;486;80%;84%;10;6;3;0;0;0;1;1;5;8
+27;27/12/2020;18:16;Santos;Ceará SC;1;1;A. Stival;A. Ferreira;Estádio Urbano Caldeira;11;11;5;4;65%;35%;473;263;86%;72%;15;24;2;3;0;0;2;1;11;2
+27;27/12/2020;20:30;Grêmio;Atlético-GO;2;1;Renato Gaúcho;M. Ribeiro Cabo;Arena do Grêmio;10;9;4;2;45%;55%;404;480;80%;85%;11;15;2;3;0;0;1;1;5;9
+28;06/01/2021;19:15;Grêmio;Bahia;2;1;Renato Gaúcho;L. Cavalcanti;Arena do Grêmio;11;17;2;5;49%;51%;407;419;83%;82%;11;17;2;4;0;0;0;1;3;10
+28;06/01/2021;19:15;Botafogo;Athletico-PR;0;2;E. de Souza Barroca;P. Autuori de Mello;Estádio Nilton Santos;24;8;8;4;62%;38%;506;329;88%;78%;14;21;3;2;0;0;4;1;3;3
+28;06/01/2021;20:31;Coritiba;Goiás;1;2;J. Bertagnoli;G. Ramos da Silva;Couto Pereira;16;11;2;5;57%;43%;467;359;82%;71%;13;17;4;3;0;0;2;2;6;4
+28;06/01/2021;20:30;Sport Recife;Fortaleza;1;0;J. Ribeiro Ventura;M. Oliveira Chamusca;Adelmar da Costa Carvalho;6;17;1;1;35%;65%;269;491;73%;85%;14;12;3;1;0;0;0;1;4;8
+28;06/01/2021;21:30;Flamengo;Fluminense;1;2;R. Ceni;A. dos Santos Ferraz;Maracanã;19;11;8;5;72%;28%;672;258;86%;69%;12;22;1;4;0;0;0;2;11;4
+28;06/01/2021;21:30;Bragantino;São Paulo;4;2;M. Nogueira Barbieri;F. Diniz Silva;Nabizão;23;8;10;4;47%;53%;458;493;86%;86%;17;4;2;2;0;1;0;3;4;5
+28;07/01/2021;19:00;Ceará SC;Internacional;0;2;A. Ferreira;A. da Silva Braga;Arena Castelão;19;8;6;3;61%;39%;495;328;86%;79%;18;16;6;4;0;0;0;0;7;4
+28;07/01/2021;21:00;Atlético-GO;Vasco da Gama;0;0;M. Ribeiro Cabo;V. Luxemburgo da Silva;Estádio Antônio Accioly;8;15;3;6;44%;56%;339;423;74%;82%;19;17;3;2;0;0;2;2;3;4
+28;18/01/2021;19:00;Palmeiras;Corinthians;4;0;A. Moreira Ferreira;V. Carmo Mancini;Allianz Parque;15;10;9;4;57%;43%;430;327;86%;77%;14;11;2;3;0;1;3;0;7;7
+28;26/01/2021;19:59;Atlético-MG;Santos;2;0;J. Sampaoli Moya;A. Stival;Mineirão;10;5;5;3;66%;34%;665;341;87%;75%;10;14;1;1;0;0;1;0;4;2
+29;09/01/2021;19:01;Sport Recife;Palmeiras;0;1;J. Ribeiro Ventura;A. Moreira Ferreira;Adelmar da Costa Carvalho;11;12;5;4;59%;41%;518;366;85%;76%;15;21;5;3;0;0;2;2;7;6
+29;09/01/2021;19:00;Coritiba;Athletico-PR;0;0;J. Bertagnoli;P. Autuori de Mello;Couto Pereira;13;3;2;1;40%;60%;389;584;82%;86%;11;10;2;1;0;0;0;0;3;2
+29;09/01/2021;21:00;Fortaleza;Grêmio;0;0;E. Alves Moreira;Renato Gaúcho;Arena Castelão;14;11;5;3;55%;45%;447;366;84%;82%;17;12;4;2;0;0;3;1;4;5
+29;10/01/2021;16:00;São Paulo;Santos;0;1;F. Diniz Silva;A. Stival;Morumbi;26;7;5;2;69%;31%;531;249;89%;67%;19;21;2;4;0;0;0;0;8;3
+29;10/01/2021;16:00;Flamengo;Ceará SC;0;2;R. Ceni;A. Ferreira;Maracanã;21;8;5;4;75%;25%;675;233;90%;72%;10;12;3;1;0;0;3;0;6;1
+29;10/01/2021;18:14;Atlético-GO;Bahia;1;1;M. Ribeiro Cabo;L. Cavalcanti;Estádio Antônio Accioly;13;16;6;4;42%;58%;301;424;75%;84%;20;18;2;0;0;0;3;1;6;6
+29;10/01/2021;18:15;Internacional;Goiás;1;0;A. da Silva Braga;A. César;Estádio José Pinheiro Borda;10;14;3;4;41%;59%;332;479;78%;80%;14;14;0;2;0;0;2;1;6;2
+29;10/01/2021;20:30;Vasco da Gama;Botafogo;3;0;V. Luxemburgo da Silva;E. de Souza Barroca;Estádio Vasco da Gama;18;12;7;5;51%;49%;465;458;82%;84%;11;13;1;0;0;0;0;4;6;3
+29;11/01/2021;20:01;Bragantino;Atlético-MG;2;2;M. Nogueira Barbieri;J. Sampaoli Moya;Nabizão;11;19;4;6;44%;56%;390;490;79%;83%;15;11;4;0;0;0;0;1;6;6
+29;13/01/2021;21:30;Corinthians;Fluminense;5;0;V. Carmo Mancini;A. dos Santos Ferraz;Neo Química Arena;19;14;8;2;58%;42%;522;387;85%;82%;17;15;1;2;0;0;1;3;3;3
+30;15/01/2021;21:30;Palmeiras;Grêmio;1;1;A. Moreira Ferreira;Renato Gaúcho;Allianz Parque;16;12;6;7;45%;55%;431;530;89%;87%;22;10;3;1;0;0;2;0;3;7
+30;16/01/2021;19:00;Fluminense;Sport Recife;1;0;M. de Oliveira;J. Ribeiro Ventura;Estádio Nilton Santos;11;10;1;0;66%;34%;540;276;85%;72%;23;18;1;1;0;1;2;1;5;4
+30;16/01/2021;20:59;Vasco da Gama;Coritiba;0;1;V. Luxemburgo da Silva;J. Bertagnoli;Estádio Vasco da Gama;10;13;3;4;53%;47%;507;468;87%;88%;10;13;2;2;1;0;1;0;10;2
+30;17/01/2021;15:59;Athletico-PR;São Paulo;1;1;P. Autuori de Mello;F. Diniz Silva;Estádio Joaquim Américo Guimarães;8;9;3;2;40%;60%;376;551;80%;89%;10;14;2;1;0;0;0;8;1;3
+30;17/01/2021;15:59;Santos;Botafogo;2;1;A. Stival;E. de Souza Barroca;Estádio Urbano Caldeira;23;7;5;3;59%;41%;410;285;85%;78%;8;24;2;1;0;0;2;3;15;6
+30;17/01/2021;18:15;Atlético-MG;Atlético-GO;3;1;J. Sampaoli Moya;M. Ribeiro Cabo;Mineirão;22;13;6;3;61%;39%;547;356;87%;81%;13;14;2;3;0;0;0;2;10;9
+30;17/01/2021;20:30;Ceará SC;Bragantino;1;2;A. Faganello;M. Nogueira Barbieri;Arena Castelão;12;15;3;7;36%;64%;290;494;73%;87%;13;16;1;2;0;0;1;0;6;9
+30;17/01/2021;20:31;Internacional;Fortaleza;4;2;A. da Silva Braga;E. Alves Moreira;Estádio José Pinheiro Borda;11;10;5;2;45%;55%;352;443;80%;83%;24;17;0;3;0;0;0;1;6;1
+30;18/01/2021;20:00;Goiás;Flamengo;0;3;G. Ramos da Silva;R. Ceni;Estádio da Serrinha;9;12;3;6;40%;60%;357;526;75%;84%;24;13;5;1;0;0;1;3;4;5
+30;28/01/2021;18:59;Bahia;Corinthians;2;1;L. Cavalcanti;V. Carmo Mancini;Itaipava Arena Fonte Nova;8;15;7;5;41%;59%;291;382;70%;77%;24;19;3;1;0;0;0;1;3;10
+31;20/01/2021;17:00;Botafogo;Atlético-GO;1;3;E. de Souza Barroca;M. Ribeiro Cabo;Estádio Nilton Santos;17;14;5;5;48%;52%;365;384;78%;83%;17;14;2;3;0;0;2;1;3;6
+31;20/01/2021;17:59;Bahia;Athletico-PR;1;0;L. Cavalcanti;P. Autuori de Mello;Itaipava Arena Fonte Nova;11;12;4;1;40%;60%;347;528;81%;89%;15;14;2;0;0;0;3;2;9;4
+31;20/01/2021;19:15;Grêmio;Atlético-MG;1;1;Renato Gaúcho;J. Sampaoli Moya;Arena do Grêmio;8;10;3;4;58%;42%;637;470;84%;79%;11;7;1;1;0;0;1;2;3;1
+31;20/01/2021;20:30;Coritiba;Fluminense;3;3;J. Bertagnoli;M. de Oliveira;Couto Pereira;9;20;4;5;41%;59%;340;459;78%;84%;21;10;1;4;1;1;1;1;2;12
+31;20/01/2021;21:30;São Paulo;Internacional;1;5;F. Diniz Silva;A. da Silva Braga;Morumbi;11;19;5;7;71%;29%;624;257;86%;75%;15;19;2;1;0;0;0;2;7;2
+31;20/01/2021;21:29;Bragantino;Vasco da Gama;4;1;M. Nogueira Barbieri;V. Luxemburgo da Silva;Nabizão;20;8;9;4;54%;46%;525;455;86%;79%;12;17;0;0;0;0;1;0;3;3
+31;21/01/2021;19:00;Flamengo;Palmeiras;2;0;R. Ceni;A. Moreira Ferreira;Estádio Nacional de Brasília;15;6;6;0;51%;49%;460;444;82%;80%;26;15;2;2;0;0;1;2;4;1
+31;21/01/2021;19:00;Fortaleza;Santos;2;0;E. Alves Moreira;A. Stival;Arena Castelão;10;12;3;3;47%;53%;340;378;78%;82%;20;14;3;0;0;0;4;1;7;5
+31;21/01/2021;19:00;Goiás;Ceará SC;0;4;G. Ramos da Silva;A. Ferreira;Estádio da Serrinha;14;12;2;4;58%;42%;513;385;82%;78%;12;11;1;0;0;0;1;0;6;1
+31;21/01/2021;21:00;Corinthians;Sport Recife;3;0;V. Carmo Mancini;J. Ribeiro Ventura;Neo Química Arena;20;10;12;4;62%;38%;545;348;83%;77%;9;7;1;0;0;0;2;3;6;5
+32;23/01/2021;19:00;São Paulo;Coritiba;1;1;F. Diniz Silva;J. Bertagnoli;Morumbi;18;10;6;3;65%;35%;641;367;89%;76%;19;16;1;2;0;0;1;0;7;2
+32;23/01/2021;21:00;Vasco da Gama;Atlético-MG;3;2;V. Luxemburgo da Silva;J. Sampaoli Moya;Estádio Vasco da Gama;6;17;3;4;25%;75%;234;684;72%;90%;15;11;4;1;0;0;0;0;2;9
+32;24/01/2021;16:00;Internacional;Grêmio;2;1;A. da Silva Braga;Renato Gaúcho;Estádio José Pinheiro Borda;17;9;4;3;45%;55%;382;467;81%;82%;19;15;2;2;0;0;0;1;6;1
+32;24/01/2021;16:01;Athletico-PR;Flamengo;2;1;P. Autuori de Mello;R. Ceni;Estádio Joaquim Américo Guimarães;11;12;8;2;41%;59%;384;556;82%;88%;20;11;2;0;0;0;4;1;3;3
+32;24/01/2021;16:00;Ceará SC;Palmeiras;2;1;A. Ferreira;A. Moreira Ferreira;Arena Castelão;9;12;3;4;40%;60%;338;480;79%;85%;9;16;2;5;1;0;3;6;2;7
+32;24/01/2021;18:16;Atlético-GO;Fortaleza;2;0;M. Ribeiro Cabo;E. Alves Moreira;Estádio Antônio Accioly;7;11;3;3;45%;55%;329;395;79%;82%;12;13;2;1;0;1;0;2;5;5
+32;24/01/2021;18:15;Sport Recife;Bahia;2;0;J. Ribeiro Ventura;L. Cavalcanti;Adelmar da Costa Carvalho;19;9;6;2;58%;42%;456;335;83%;77%;16;8;3;0;0;0;5;1;10;3
+32;24/01/2021;18:15;Santos;Goiás;3;4;A. Stival;A. César;Estádio Urbano Caldeira;20;17;9;6;64%;36%;476;269;87%;71%;11;19;4;4;0;0;4;2;11;3
+32;24/01/2021;20:30;Fluminense;Botafogo;2;0;M. de Oliveira;E. de Souza Barroca;Estádio Vasco da Gama;12;5;5;0;48%;52%;394;435;83%;81%;20;20;2;1;0;0;0;1;2;1
+32;25/01/2021;20:00;Corinthians;Bragantino;0;2;V. Carmo Mancini;M. Nogueira Barbieri;Neo Química Arena;13;13;5;4;60%;40%;546;378;77%;72%;16;14;5;4;0;0;2;3;8;3
+33;31/01/2021;16:00;Vasco da Gama;Bahia;0;0;V. Luxemburgo da Silva;L. Cavalcanti;Estádio Vasco da Gama;8;9;5;2;49%;51%;400;418;87%;85%;15;16;1;3;1;0;0;1;6;6
+33;31/01/2021;16:00;Ceará SC;Athletico-PR;0;2;A. Ferreira;P. Autuori de Mello;Arena Castelão;9;11;2;2;45%;55%;379;454;81%;83%;15;18;0;2;0;0;1;2;4;4
+33;31/01/2021;15:59;Atlético-GO;São Paulo;2;1;M. Ribeiro Cabo;F. Diniz Silva;Estádio Antônio Accioly;11;13;3;3;40%;60%;335;498;73%;85%;13;9;3;1;0;0;1;1;8;5
+33;31/01/2021;16:01;Coritiba;Grêmio;1;1;G. Morínigo;Renato Gaúcho;Couto Pereira;8;20;2;3;47%;53%;407;469;84%;87%;26;12;3;3;0;0;0;2;2;3
+33;31/01/2021;17:00;Atlético-MG;Fortaleza;2;0;J. Sampaoli Moya;L. Porto Siqueira;Mineirão;12;4;5;1;73%;27%;787;301;91%;78%;16;15;0;1;0;0;3;2;5;1
+33;31/01/2021;18:15;Internacional;Bragantino;2;1;A. da Silva Braga;M. Nogueira Barbieri;Estádio José Pinheiro Borda;12;16;3;6;36%;64%;308;538;73%;84%;11;12;3;0;0;0;0;0;3;7
+33;31/01/2021;20:30;Fluminense;Goiás;3;0;M. de Oliveira;G. Ramos da Silva;Estádio Nilton Santos;17;12;6;0;43%;57%;372;490;79%;83%;9;15;1;2;0;0;1;0;7;2
+33;01/02/2021;19:59;Sport Recife;Flamengo;0;3;J. Ribeiro Ventura;R. Ceni;Adelmar da Costa Carvalho;8;21;2;9;38%;62%;349;563;81%;87%;15;20;2;2;0;0;0;1;2;6
+33;02/02/2021;16:00;Palmeiras;Botafogo;1;1;A. Moreira Ferreira;E. de Souza Barroca;Allianz Parque;17;18;2;3;54%;46%;437;388;87%;83%;16;10;2;1;0;0;1;0;12;6
+33;17/02/2021;18:59;Santos;Corinthians;1;0;A. Stival;V. Carmo Mancini;Estádio Urbano Caldeira;11;11;5;4;46%;54%;368;417;78%;81%;24;25;0;0;0;0;2;2;6;5
+34;03/02/2021;15:59;Grêmio;Santos;3;3;Renato Gaúcho;A. Stival;Arena do Grêmio;17;9;6;6;63%;37%;539;313;88%;79%;12;20;5;1;0;1;1;0;5;3
+34;03/02/2021;19:15;Bragantino;Atlético-GO;2;0;M. Nogueira Barbieri;M. Ribeiro Cabo;Nabizão;21;8;10;1;52%;48%;414;388;80%;73%;15;7;3;3;0;0;2;1;8;3
+34;03/02/2021;21:30;Corinthians;Ceará SC;2;1;V. Carmo Mancini;A. Ferreira;Neo Química Arena;18;7;7;1;35%;65%;305;561;73%;83%;18;14;0;0;0;0;2;2;8;3
+34;03/02/2021;21:30;Goiás;Atlético-MG;1;0;G. Ramos da Silva;J. Sampaoli Moya;Estádio da Serrinha;3;19;1;2;23%;77%;249;819;67%;89%;13;13;3;3;0;0;2;4;1;8
+34;03/02/2021;21:30;Bahia;Fluminense;0;1;L. Cavalcanti;M. de Oliveira;Itaipava Arena Fonte Nova;12;13;6;6;55%;45%;521;435;88%;85%;15;11;1;1;0;0;0;2;4;1
+34;04/02/2021;18:30;Fortaleza;Coritiba;3;1;E. Alves Moreira;G. Morínigo;Arena Castelão;15;5;7;2;54%;46%;400;345;83%;82%;18;15;2;3;0;2;0;3;4;4
+34;04/02/2021;20:59;Flamengo;Vasco da Gama;2;0;R. Ceni;V. Luxemburgo da Silva;Maracanã;17;6;6;3;61%;39%;530;346;86%;82%;19;15;1;3;0;0;0;1;7;5
+34;04/02/2021;21:00;Athletico-PR;Internacional;0;0;P. Autuori de Mello;A. da Silva Braga;Estádio Joaquim Américo Guimarães;12;5;4;1;70%;30%;587;256;86%;73%;15;20;3;2;0;0;2;1;3;2
+34;05/02/2021;20:00;Botafogo;Sport Recife;0;1;E. de Souza Barroca;J. Ribeiro Ventura;Estádio Nilton Santos;25;10;6;2;66%;34%;542;284;85%;69%;11;19;1;3;0;0;3;0;10;8
+34;19/02/2021;21:31;São Paulo;Palmeiras;1;1;M. Vizolli;A. Moreira Ferreira;Morumbi;7;8;3;2;42%;58%;314;431;75%;83%;16;14;2;1;0;0;3;3;1;5
+35;06/02/2021;19:00;Bahia;Goiás;3;3;L. Cavalcanti;A. César;Itaipava Arena Fonte Nova;9;17;7;6;47%;53%;379;422;77%;82%;18;13;3;4;1;0;1;1;8;1
+35;06/02/2021;21:00;Atlético-GO;Santos;1;1;M. Ribeiro Cabo;A. Stival;Estádio Antônio Accioly;8;18;3;3;30%;70%;233;493;64%;86%;18;13;2;2;1;0;1;4;0;10
+35;07/02/2021;20:30;Bragantino;Flamengo;1;1;M. Nogueira Barbieri;R. Ceni;Nabizão;12;15;5;7;45%;55%;360;433;77%;77%;20;16;4;2;0;0;1;4;5;4
+35;08/02/2021;20:00;Botafogo;Grêmio;2;5;L. Flávio;Renato Gaúcho;Estádio Nilton Santos;18;13;6;7;46%;54%;409;468;86%;86%;14;18;0;0;0;0;1;1;5;2
+35;10/02/2021;19:00;Internacional;Sport Recife;1;2;A. da Silva Braga;J. Ribeiro Ventura;Estádio José Pinheiro Borda;17;7;2;2;60%;40%;530;377;86%;79%;12;11;2;3;2;0;0;1;7;3
+35;10/02/2021;19:15;Fortaleza;Vasco da Gama;3;0;E. Alves Moreira;V. Luxemburgo da Silva;Arena Castelão;17;12;7;1;43%;57%;390;487;82%;87%;15;14;2;3;0;0;1;1;5;7
+35;10/02/2021;21:01;São Paulo;Ceará SC;1;1;M. Vizolli;A. Ferreira;Morumbi;18;8;9;2;62%;38%;518;338;84%;78%;11;17;4;4;0;0;2;2;8;4
+35;10/02/2021;21:30;Fluminense;Atlético-MG;0;0;M. de Oliveira;J. Sampaoli Moya;Maracanã;10;8;3;1;27%;73%;308;848;76%;89%;8;13;0;1;0;0;3;1;6;6
+35;10/02/2021;21:30;Corinthians;Athletico-PR;3;3;V. Carmo Mancini;P. Autuori de Mello;Neo Química Arena;17;12;8;7;44%;56%;420;530;82%;86%;19;12;3;0;0;0;1;0;3;2
+35;17/02/2021;19:30;Coritiba;Palmeiras;1;0;G. Morínigo;A. Moreira Ferreira;Couto Pereira;13;15;4;4;47%;53%;381;434;82%;83%;16;20;2;3;0;1;1;3;5;4
+36;13/02/2021;17:00;Goiás;Botafogo;2;0;A. César;L. Flávio;Estádio da Serrinha;11;11;7;3;54%;46%;415;351;84%;82%;22;26;4;3;0;1;2;2;2;5
+36;13/02/2021;19:00;Atlético-MG;Bahia;1;1;J. Sampaoli Moya;L. Cavalcanti;Mineirão;21;13;4;5;72%;28%;745;298;90%;77%;10;9;1;1;0;0;1;1;6;2
+36;13/02/2021;19:00;Santos;Coritiba;2;0;A. Stival;G. Morínigo;Estádio Urbano Caldeira;17;8;6;3;57%;43%;472;362;85%;83%;15;16;0;4;0;0;3;1;7;3
+36;14/02/2021;16:00;Flamengo;Corinthians;2;1;R. Ceni;V. Carmo Mancini;Maracanã;14;11;5;3;66%;34%;597;307;85%;73%;21;16;1;5;0;0;4;1;4;3
+36;14/02/2021;16:00;Vasco da Gama;Internacional;0;2;V. Luxemburgo da Silva;A. da Silva Braga;Estádio Vasco da Gama;8;16;0;7;65%;35%;460;257;83%;71%;9;20;1;6;0;0;2;0;3;9
+36;14/02/2021;18:14;Athletico-PR;Atlético-GO;2;1;P. Autuori de Mello;M. Ribeiro Cabo;Estádio Joaquim Américo Guimarães;8;11;3;4;60%;40%;453;306;86%;79%;14;9;3;1;0;0;4;3;7;4
+36;14/02/2021;18:15;Palmeiras;Fortaleza;3;0;A. Moreira Ferreira;E. Alves Moreira;Allianz Parque;13;5;6;1;68%;32%;611;281;90%;72%;16;11;0;3;0;0;4;0;3;4
+36;14/02/2021;20:29;Grêmio;São Paulo;1;2;Renato Gaúcho;M. Vizolli;Arena do Grêmio;5;11;3;4;52%;48%;520;492;86%;87%;19;18;4;4;1;0;0;0;5;2
+36;15/02/2021;17:59;Ceará SC;Fluminense;1;3;D. Sampaio de Azambuja;M. de Oliveira;Arena Castelão;13;9;5;4;52%;48%;435;429;85%;82%;18;8;1;1;0;0;0;0;9;0
+36;15/02/2021;20:00;Sport Recife;Bragantino;0;0;J. Ribeiro Ventura;M. Nogueira Barbieri;Adelmar da Costa Carvalho;4;22;0;6;31%;69%;273;580;65%;84%;8;10;3;0;0;0;0;1;1;15
+37;20/02/2021;18:30;Coritiba;Ceará SC;0;2;G. Morínigo;A. Ferreira;Couto Pereira;16;11;5;4;63%;37%;573;336;88%;76%;14;9;1;0;0;0;2;1;7;5
+37;20/02/2021;21:00;Fortaleza;Bahia;0;4;E. Alves Moreira;L. Cavalcanti;Arena Castelão;11;12;3;7;61%;39%;547;353;90%;84%;15;13;3;3;1;0;0;1;2;0
+37;21/02/2021;16:01;Sport Recife;Atlético-MG;2;3;J. Ribeiro Ventura;J. Sampaoli Moya;Adelmar da Costa Carvalho;9;25;3;10;39%;61%;372;585;79%;87%;16;13;4;4;0;0;0;0;2;4
+37;21/02/2021;16:00;Corinthians;Vasco da Gama;0;0;V. Carmo Mancini;V. Luxemburgo da Silva;Neo Química Arena;14;7;4;0;68%;32%;587;279;85%;71%;23;18;1;2;0;0;1;6;7;4
+37;21/02/2021;16:02;Flamengo;Internacional;2;1;R. Ceni;A. da Silva Braga;Maracanã;10;12;4;3;60%;40%;456;302;86%;75%;21;14;4;0;0;1;3;0;1;4
+37;21/02/2021;18:14;Santos;Fluminense;1;1;A. Stival;M. de Oliveira;Estádio Urbano Caldeira;8;7;2;3;62%;38%;454;281;84%;75%;20;19;3;4;0;1;1;1;4;4
+37;21/02/2021;18:15;Grêmio;Athletico-PR;1;0;Renato Gaúcho;A. Cardoso de Oliveira;Arena do Grêmio;11;8;2;2;50%;50%;463;465;86%;85%;19;17;3;1;0;2;1;4;2;2
+37;21/02/2021;20:30;Goiás;Bragantino;0;0;A. César;M. Nogueira Barbieri;Estádio da Serrinha;14;14;1;5;43%;57%;317;405;69%;77%;18;20;2;0;0;0;1;1;3;11
+37;22/02/2021;18:00;Palmeiras;Atlético-GO;1;1;A. Moreira Ferreira;M. Ribeiro Cabo;Allianz Parque;19;9;4;3;64%;36%;543;307;87%;75%;20;13;2;1;0;0;0;1;9;6
+37;22/02/2021;19:59;Botafogo;São Paulo;1;0;L. Flávio;M. Vizolli;Estádio Nilton Santos;19;7;8;1;47%;53%;428;457;85%;83%;12;15;3;5;0;1;2;0;4;3
+38;25/02/2021;21:30;Bragantino;Grêmio;1;0;M. Nogueira Barbieri;Renato Gaúcho;Nabizão;19;15;6;2;56%;44%;471;370;82%;79%;24;12;4;0;0;0;1;0;3;7
+38;25/02/2021;21:30;Bahia;Santos;2;0;L. Cavalcanti;M. Fernandes;Itaipava Arena Fonte Nova;16;15;5;5;48%;52%;447;475;85%;88%;11;13;0;0;0;0;2;1;4;4
+38;25/02/2021;21:30;Athletico-PR;Sport Recife;2;0;A. Cardoso de Oliveira;J. Ribeiro Ventura;Estádio Joaquim Américo Guimarães;18;15;8;4;56%;44%;480;362;83%;80%;15;10;0;1;0;0;2;2;8;5
+38;25/02/2021;21:30;Atlético-GO;Coritiba;3;1;M. Ribeiro Cabo;J. Bertagnoli;Estádio Antônio Accioly;18;9;7;1;56%;44%;556;435;87%;82%;8;9;0;1;0;0;1;1;7;4
+38;25/02/2021;21:31;Internacional;Corinthians;0;0;A. da Silva Braga;V. Carmo Mancini;Estádio José Pinheiro Borda;16;6;5;1;53%;47%;418;393;80%;73%;13;16;0;2;0;0;6;1;12;5
+38;25/02/2021;21:30;Ceará SC;Botafogo;2;1;A. Ferreira;L. Flávio;Arena Castelão;12;17;6;3;47%;53%;469;505;86%;90%;7;4;2;0;1;0;0;2;5;7
+38;25/02/2021;21:31;São Paulo;Flamengo;2;1;M. Vizolli;R. Ceni;Morumbi;4;20;2;1;36%;64%;305;510;74%;84%;27;24;6;3;0;0;0;2;1;7
+38;25/02/2021;21:30;Atlético-MG;Palmeiras;2;0;J. Desio;A. Moreira Ferreira;Mineirão;19;9;8;4;52%;48%;451;424;89%;80%;22;17;3;0;0;0;5;1;5;4
+38;25/02/2021;21:29;Vasco da Gama;Goiás;3;2;V. Luxemburgo da Silva;A. César;Estádio Vasco da Gama;27;20;12;5;48%;52%;390;405;85%;84%;12;18;1;2;0;0;2;2;9;6
+38;25/02/2021;21:30;Fluminense;Fortaleza;2;0;M. de Oliveira;E. Alves Moreira;Maracanã;9;9;3;2;48%;52%;401;422;86%;85%;10;12;0;0;0;0;0;1;3;5
