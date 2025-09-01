@@ -47,3 +47,8 @@ A implementação em Python foi guiada pelos mesmos princípios de Programação
 A classe DashboardApp demonstra o uso de herança ao derivar de PyQt6.QtWidgets.QMainWindow. Essa especialização permitiu que nossa classe herdasse todo o comportamento e a estrutura de uma janela de aplicativo complexa, como menus, barras de 
 * **Eventos e UI:** A interface em PyQt6 segue um padrão de "sinais e slots", que é a versão orientada a objetos de um modelo de programação reativa, análogo ao sistema de eventos do JavaFX.
 * **Além disso:** Acredito que vale também destacar que cada uma das linguagens pode servir como ótima ferramenta para usos, py sendo menos verborágica mas menos "bem comportada" além de não ter alguns aspectos da OO com o encapsulamento, um dos motivo para eu ter mudado de c++ para py foi que gostaria de trazer uma visão entre linguagens mais diferentes na implementação de OO.
+
+
+### 6. Para usar a aplicação
+
+* **Organização e versionamento:** usei o javafx 21.0.8 e pyqt6, além de ter utilizado um venv e organizei os arquivos de forma semelhante ao padrão.
